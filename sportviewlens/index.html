@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>SportViewLens — Scarica l'App</title>
+  <meta name="description" content="Scarica SportViewLens per iOS e Android. Guida TV Sportiva & Notifiche Live. Tutto lo sport in diretta in un solo tap." />
+  
+  <!-- Open Graph / Meta Social -->
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="SportViewLens — Guida TV Sportiva & Live" />
+  <meta property="og:description" content="Tutta la programmazione sportiva in TV e streaming (Sky, DAZN, Rai, Mediaset, Prime). Disponibile gratis per iPhone e Android." />
+  <meta property="og:image" content="https://maxegon.github.io/sportviewlens/icon.png" />
+  <meta property="og:url" content="https://maxegon.github.io/sportviewlens/" />
+
+  <script>
+    (function() {
+      var iosUrl = "https://apps.apple.com/it/app/sportviewlens/id6775508662";
+      var androidUrl = "https://play.google.com/store/apps/details?id=com.sportviewlens.app";
+      
+      var ua = navigator.userAgent || navigator.vendor || window.opera;
+      var isIOS = /iPad|iPhone|iPod/.test(ua) || (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1);
+      var isAndroid = /android/i.test(ua);
+      
+      // Auto-redirect if mobile
+      if (isIOS) {
+        window.location.replace(iosUrl);
+      } else if (isAndroid) {
+        window.location.replace(androidUrl);
+      }
+    })();
+  </script>
+
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+      background: radial-gradient(circle at 50% 20%, #064e3b 0%, #091e17 60%, #020b08 100%);
+      color: #f8fafc;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      padding: 24px;
+      text-align: center;
+    }
+    .card {
+      background: rgba(6, 78, 59, 0.4);
+      backdrop-filter: blur(16px);
+      -webkit-backdrop-filter: blur(16px);
+      border: 1px solid rgba(52, 211, 153, 0.25);
+      border-radius: 28px;
+      padding: 44px 28px;
+      max-width: 440px;
+      width: 100%;
+      box-shadow: 0 20px 40px rgba(0, 0, 0, 0.6);
+    }
+    .app-icon {
+      width: 100px;
+      height: 100px;
+      border-radius: 22px;
+      margin-bottom: 20px;
+      box-shadow: 0 10px 25px rgba(0, 0, 0, 0.5);
+      border: 1px solid rgba(52, 211, 153, 0.3);
+      object-fit: cover;
+    }
+    h1 {
+      font-size: 28px;
+      font-weight: 800;
+      letter-spacing: -0.5px;
+      margin-bottom: 8px;
+    }
+    .tagline {
+      font-size: 15px;
+      color: #a7f3d0;
+      line-height: 1.5;
+      margin-bottom: 32px;
+    }
+    .btn-container {
+      display: flex;
+      flex-direction: column;
+      gap: 14px;
+      width: 100%;
+    }
+    .btn {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 12px;
+      padding: 16px 20px;
+      border-radius: 16px;
+      font-size: 16px;
+      font-weight: 700;
+      text-decoration: none;
+      transition: all 0.2s ease;
+    }
+    .btn-apple {
+      background: #ffffff;
+      color: #0f172a;
+    }
+    .btn-apple:hover {
+      background: #f1f5f9;
+      transform: translateY(-2px);
+    }
+    .btn-google {
+      background: #059669;
+      color: #ffffff;
+    }
+    .btn-google:hover {
+      background: #047857;
+      transform: translateY(-2px);
+    }
+    .btn svg {
+      width: 22px;
+      height: 22px;
+      fill: currentColor;
+    }
+    .hint {
+      margin-top: 24px;
+      font-size: 12px;
+      color: #6ee7b7;
+      opacity: 0.8;
+    }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <img class="app-icon" src="icon.png" alt="SportViewLens Icon" />
+    <h1>SportViewLens</h1>
+    <p class="tagline">Guida TV Sportiva & Notifiche Live.<br>Non perderti mai più una gara, partita o evento sportivo.</p>
+
+    <div class="btn-container">
+      <a class="btn btn-apple" href="https://apps.apple.com/it/app/sportviewlens/id6775508662">
+        <svg viewBox="0 0 24 24">
+          <path d="M18.71 19.5c-.83 1.24-1.71 2.45-3.05 2.47-1.34.03-1.77-.79-3.29-.79-1.53 0-2 .77-3.27.82-1.31.05-2.3-1.32-3.14-2.53C4.25 17 2.94 12.45 4.7 9.39c.87-1.52 2.43-2.48 4.12-2.51 1.28-.02 2.5.87 3.29.87.78 0 2.26-1.07 3.81-.91.65.03 2.47.26 3.64 1.98-.09.06-2.17 1.28-2.15 3.81.03 3.02 2.65 4.03 2.68 4.04-.03.07-.42 1.44-1.38 2.83M15.97 6.41c.67-.82 1.12-1.96.99-3.11-1 .04-2.18.67-2.87 1.49-.6.71-1.14 1.87-1 2.99 1.11.09 2.22-.57 2.88-1.37z"/>
+        </svg>
+        Scarica su App Store
+      </a>
+      <a class="btn btn-google" href="https://play.google.com/store/apps/details?id=com.sportviewlens.app">
+        <svg viewBox="0 0 24 24">
+          <path d="M3 20.5v-17c0-.83.67-1.5 1.5-1.5.35 0 .68.12.95.34l11.08 8.65-3.53 3.53-8.5-8.52V20.5zM17.8 11.23L5.45 1.58A1.47 1.47 0 0 1 6.5 1.2c.4 0 .78.16 1.07.45l11.66 9.1-1.43.48zm-1.8 2.3l3.53-3.53 1.42 1.11a1.5 1.5 0 0 1 0 2.38l-1.42 1.11-3.53-1.07zm-1.73.53l-9.82 9.82c-.29.29-.67.45-1.07.45-.4 0-.78-.16-1.07-.45l11.96-9.82z"/>
+        </svg>
+        Disponibile su Google Play
+      </a>
+    </div>
+
+    <p class="hint">Gratis su tutti i tuoi dispositivi iOS e Android</p>
+  </div>
+</body>
+</html>
