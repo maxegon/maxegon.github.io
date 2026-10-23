@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Scarica SportViewLens</title>
+  <meta name="description" content="Scarica gratis SportViewLens per iPhone e Android: orari e canali dello sport in TV e in streaming, giorno per giorno." />
+  <meta name="robots" content="noindex" />
+  <meta property="og:title" content="Scarica SportViewLens" />
+  <meta property="og:description" content="Orari e canali dello sport in TV, giorno per giorno. Gratis su App Store e Google Play." />
+  <meta property="og:image" content="https://maxegon.github.io/sportviewlens/icon.png" />
+  <meta property="og:url" content="https://maxegon.github.io/sportviewlens/download/" />
+  <script>
+    /*
+     * /sportviewlens/download/ — reindirizzamento allo store con attribuzione campagna.
+     * Legge utm_source, utm_medium, utm_campaign, utm_content dalla query e:
+     *  - iOS  → App Store con ct=<utm_campaign>_<utm_content> (max 40 caratteri) e pt=<APPLE_PROVIDER_TOKEN>
+     *  - Android → Google Play con referrer=utm_source%3D…%26utm_medium%3D…
+     *  - desktop → nessun redirect: badge ufficiali + QR.
+     * Nessun cookie, nessun tracker di terzi. Conteggio visite: vedi COUNTER_URL (facoltativo, spento).
+     */
+    (function () {
+      // DA COMPILARE: provider token di App Store Connect → App Analytics → Campaign Links.
+      var APPLE_PROVIDER_TOKEN = "";
+      // Facoltativo: endpoint di conteggio (vedi proposta nel report). Vuoto = nessuna chiamata.
+      var COUNTER_URL = "";
+
+      var IOS_BASE = "https://apps.apple.com/it/app/sportviewlens/id6775508662";
+      var ANDROID_BASE = "https://play.google.com/store/apps/details?id=com.sportviewlens.app";
+      var KEYS = ["utm_source", "utm_medium", "utm_campaign", "utm_content"];
+
+      var params = new URLSearchParams(window.location.search);
+      var utm = {};
+      KEYS.forEach(function (k) {
+        var v = (params.get(k) || "").replace(/[^A-Za-z0-9_\-]/g, "").slice(0, 60);
+        if (v) utm[k] = v;
+      });
+
+      function iosUrl() {
+        var q = ["mt=8"];
+        var ct = [utm.utm_campaign, utm.utm_content].filter(Boolean).join("_").slice(0, 40);
+        if (ct) q.push("ct=" + encodeURIComponent(ct));
+        if (APPLE_PROVIDER_TOKEN) q.push("pt=" + encodeURIComponent(APPLE_PROVIDER_TOKEN));
+        return IOS_BASE + "?" + q.join("&");
+      }
+      function androidUrl() {
+        var ref = KEYS.filter(function (k) { return utm[k]; }).map(function (k) { return k + "=" + utm[k]; }).join("&");
+        return ref ? ANDROID_BASE + "&referrer=" + encodeURIComponent(ref) : ANDROID_BASE;
+      }
+      function count(target) {
+        if (!COUNTER_URL || !navigator.sendBeacon) return;
+        try {
+          navigator.sendBeacon(COUNTER_URL, new Blob([JSON.stringify({ app: "sportviewlens", target: target, utm: utm })], { type: "text/plain" }));
+        } catch (e) { /* il conteggio non deve mai bloccare il redirect */ }
+      }
+
+      var ua = navigator.userAgent || "";
+      var isIOS = /iPad|iPhone|iPod/.test(ua) || (navigator.platform === "MacIntel" && navigator.maxTouchPoints > 1);
+      var isAndroid = /android/i.test(ua);
+      window.__SVL_LINKS__ = { ios: iosUrl(), android: androidUrl() };
+
+      if (isIOS) { count("ios"); window.location.replace(iosUrl()); }
+      else if (isAndroid) { count("android"); window.location.replace(androidUrl()); }
+      else { count("desktop"); }
+
+      document.addEventListener("DOMContentLoaded", function () {
+        document.getElementById("lnk-ios").href = iosUrl();
+        document.getElementById("lnk-android").href = androidUrl();
+      });
+    })();
+  </script>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: #0f172a; color: #ffffff; min-height: 100vh;
+      display: flex; align-items: center; justify-content: center; padding: 24px; text-align: center;
+    }
+    main { max-width: 520px; width: 100%; }
+    .icon { width: 112px; height: 112px; border-radius: 26px; margin-bottom: 24px; }
+    h1 { font-size: 34px; line-height: 1.15; font-weight: 800; letter-spacing: -0.5px; }
+    h1 span { color: #22c55e; }
+    p.tag { margin: 12px 0 32px; font-size: 18px; color: #cbd5e1; line-height: 1.5; }
+    .badges { display: flex; gap: 16px; justify-content: center; flex-wrap: wrap; }
+    /* badge ufficiali così come sono: stessa altezza, spazio libero ≥ 1/4 dell'altezza */
+    .badges a { display: inline-block; padding: 14px; }
+    .badges img { height: 56px; width: auto; display: block; }
+    .qr { margin-top: 36px; }
+    .qr img { width: 188px; height: 188px; border-radius: 12px; background: #fff; padding: 8px; }
+    .qr p { margin-top: 10px; font-size: 15px; color: #cbd5e1; }
+    .fine { margin-top: 32px; font-size: 13px; color: #94a3b8; line-height: 1.5; }
+    @media (max-width: 480px) { h1 { font-size: 28px; } .qr { display: none; } }
+  </style>
+</head>
+<body>
+  <main>
+    <img class="icon" src="../icon.png" alt="Icona di SportViewLens" />
+    <h1>Scarica gratis<br /><span>SportViewLens</span></h1>
+    <p class="tag">Orari e canali dello sport in TV e in streaming, giorno per giorno.</p>
+    <div class="badges">
+      <a id="lnk-ios" href="https://apps.apple.com/it/app/sportviewlens/id6775508662"><img src="badge_appstore_it.png" alt="Scarica su App Store" /></a>
+      <a id="lnk-android" href="https://play.google.com/store/apps/details?id=com.sportviewlens.app"><img src="badge_googleplay_it.png" alt="Disponibile su Google Play" /></a>
+    </div>
+    <div class="qr">
+      <img src="qr.svg" alt="Codice QR per scaricare SportViewLens" />
+      <p>Inquadra con il telefono per scaricare l'app</p>
+    </div>
+    <p class="fine">SportViewLens indica dove vedere gli eventi: non trasmette nulla.<br />SportViewLens non è affiliata con DAZN, Sky, RAI o altri broadcaster.</p>
+  </main>
+</body>
+</html>
