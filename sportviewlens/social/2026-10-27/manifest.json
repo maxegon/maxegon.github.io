@@ -1,0 +1,19 @@
+{
+ "generato": "2026-10-23T20:16:11+00:00",
+ "data_pubblicazione": "2026-10-27",
+ "base_url": "https://maxegon.github.io/sportviewlens/social/2026-10-27",
+ "righe": [
+  {
+   "Giorno_Slot": "SVL_20261027_1830_CAR",
+   "Formato": "Carosello",
+   "Piattaforma": "Instagram / FB",
+   "Ora": "18:30",
+   "Categoria": "stasera_tv",
+   "Data_Evento": "2026-10-27",
+   "UTM": "https://maxegon.github.io/sportviewlens/download/?utm_source=instagram&utm_medium=carosello&utm_campaign=stasera_tv&utm_content=SVL_20261027_1830_CAR",
+   "note": [],
+   "Stato": "SALTATO_DATI",
+   "motivo": "audit_app_events.js fallito (1): dist/index.cjs:1452:9)\n    at Object.<anonymous> (/home/runner/work/SportViewLens/SportViewLens/src/services/authService.js:50:44)\n    at Module._compile (node:internal/modules/cjs/loader:1521:14)\n    at Module._compile (/home/runner/work/SportViewLens/SportViewLens/"
+  }
+ ]
+}
