@@ -1,0 +1,111 @@
+{
+  "data": "2026-10-26",
+  "generato_il": "2026-10-23T20:10:13+00:00",
+  "piano": "marketing/piano_4_settimane.csv",
+  "righe": [
+    {
+      "id": "SHV_20261026_1900_CAR",
+      "piattaforma": "Instagram / FB",
+      "formato": "Carosello",
+      "categoria": "teatro",
+      "pubblica_alle": "2026-10-26T19:00:00+01:00",
+      "scartati": [
+        [
+          "Gli Occhi della Guerra (Con Reporter di Guerra e Attori sul Palco)",
+          "senza biglietteria online"
+        ],
+        [
+          "Dov'è il Po? (Di e con Marco Paolini)",
+          "senza biglietteria online"
+        ],
+        [
+          "Zelig Lab - il Laboratorio Artistico di Area Zelig",
+          "blocklist titolo: non spettacolo"
+        ],
+        [
+          "Lercio a Teatro",
+          "luogo mancante"
+        ],
+        [
+          "Oscar (Diretto da Antonio Latella, con Sonia Bergamasco)",
+          "senza biglietteria online"
+        ],
+        [
+          "Caccia al Rubino di Zolfo",
+          "ora 10:30 prima di 11:00"
+        ],
+        [
+          "Il Condominio",
+          "luogo mancante"
+        ]
+      ],
+      "doppioni_rimossi": 54,
+      "stato": "PRONTO",
+      "testo_finale": "🎭 Questa settimana a teatro a Milano: 38 spettacoli in ShowViewLens. Eccone alcuni:\n\n1. Andrea Pucci - Dove Eravamo Rimasti...? · Unipol Dome · sab 31/10 · 21:00\n2. Il Romanzo di Milano 1: Sonia Bergamasco Legge Manzoni · TEATRO DEGLI ANGELI · lun 26/10 · 20:30\n3. History Telling: Nelson Mandela e la Lotta All'Apartheid. la “carta… · Teatro Carcano · lun 26/10 · 20:30\n4. Dado in \"Il Ripetente\" · Zelig · lun 26/10 · 20:45\n\nSalva il post. Su ShowViewLens trovi date, orari e il link alla biglietteria ufficiale.\n\n📲 Scarica ShowViewLens gratis: link in bio (App Store e Google Play).\n\n#ShowViewLens #TeatroMilano #TeatroItalia #SpettacoliDalVivo",
+      "titolo_slide": "38 spettacoli a teatro a Milano questa settimana",
+      "eventi": [
+        "Andrea Pucci - Dove Eravamo Rimasti...?",
+        "Il Romanzo di Milano 1: Sonia Bergamasco Legge Manzoni",
+        "History Telling: Nelson Mandela e la Lotta All'Apartheid. la “carta della Libertà” Sudafricana",
+        "Dado in \"Il Ripetente\"",
+        "Turbopaolo",
+        "Rip - Resta in Piedi",
+        "Diva - Meglio All'Inferno sui Tacchi Che in Paradiso con le Ballerine",
+        "Lady Grey (Con le Luci Sempre Più Fioche)"
+      ],
+      "conteggio": 38,
+      "file": [
+        "https://maxegon.github.io/showviewlens/social/2026-10-26/SHV_20261026_1900_CAR/01_gancio.jpg",
+        "https://maxegon.github.io/showviewlens/social/2026-10-26/SHV_20261026_1900_CAR/02_dati.jpg",
+        "https://maxegon.github.io/showviewlens/social/2026-10-26/SHV_20261026_1900_CAR/03_dati.jpg",
+        "https://maxegon.github.io/showviewlens/social/2026-10-26/SHV_20261026_1900_CAR/04_screenshot.jpg",
+        "https://maxegon.github.io/showviewlens/social/2026-10-26/SHV_20261026_1900_CAR/05_cta.jpg"
+      ],
+      "utm": "https://maxegon.github.io/showviewlens/download/?utm_source=instagram&utm_medium=social&utm_campaign=piano_2026_11&utm_content=SHV_20261026_1900_CAR",
+      "ig_media": [
+        {
+          "media_type": "IMAGE",
+          "image_url": "https://maxegon.github.io/showviewlens/social/2026-10-26/SHV_20261026_1900_CAR/01_gancio.jpg"
+        },
+        {
+          "media_type": "IMAGE",
+          "image_url": "https://maxegon.github.io/showviewlens/social/2026-10-26/SHV_20261026_1900_CAR/02_dati.jpg"
+        },
+        {
+          "media_type": "IMAGE",
+          "image_url": "https://maxegon.github.io/showviewlens/social/2026-10-26/SHV_20261026_1900_CAR/03_dati.jpg"
+        },
+        {
+          "media_type": "IMAGE",
+          "image_url": "https://maxegon.github.io/showviewlens/social/2026-10-26/SHV_20261026_1900_CAR/04_screenshot.jpg"
+        },
+        {
+          "media_type": "IMAGE",
+          "image_url": "https://maxegon.github.io/showviewlens/social/2026-10-26/SHV_20261026_1900_CAR/05_cta.jpg"
+        }
+      ],
+      "fb_photos": [
+        {
+          "type": "url",
+          "url": "https://maxegon.github.io/showviewlens/social/2026-10-26/SHV_20261026_1900_CAR/01_gancio.jpg"
+        },
+        {
+          "type": "url",
+          "url": "https://maxegon.github.io/showviewlens/social/2026-10-26/SHV_20261026_1900_CAR/02_dati.jpg"
+        },
+        {
+          "type": "url",
+          "url": "https://maxegon.github.io/showviewlens/social/2026-10-26/SHV_20261026_1900_CAR/03_dati.jpg"
+        },
+        {
+          "type": "url",
+          "url": "https://maxegon.github.io/showviewlens/social/2026-10-26/SHV_20261026_1900_CAR/04_screenshot.jpg"
+        },
+        {
+          "type": "url",
+          "url": "https://maxegon.github.io/showviewlens/social/2026-10-26/SHV_20261026_1900_CAR/05_cta.jpg"
+        }
+      ]
+    }
+  ]
+}
