@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Scarica ShowViewLens</title>
+<meta name="description" content="ShowViewLens: concerti, teatro, danza e opera in Italia, con il link alla biglietteria ufficiale. Gratis su App Store e Google Play.">
+<meta name="robots" content="noindex">
+<meta property="og:title" content="Scarica ShowViewLens">
+<meta property="og:description" content="Concerti, teatro, danza e opera in Italia, con il link alla biglietteria ufficiale. Gratis.">
+<meta property="og:image" content="https://maxegon.github.io/showviewlens/icon.png">
+<meta property="og:url" content="https://maxegon.github.io/showviewlens/download/">
+<script>
+/*
+  Pagina /download di ShowViewLens (preparata il 23/10/2026 sul branch marketing-download, NON pubblicata).
+  - Telefono iOS/Android: reindirizza subito allo store, inoltrando la campagna.
+  - Desktop: badge ufficiali + QR (qr.png generato con CoreImage di macOS e verificato in decodifica;
+    punta a questa pagina con utm_source=qr).
+  - UTM -> link di campagna degli store:
+      App Store:  ?pt=<APPSTORE_PROVIDER_TOKEN>&ct=<utm_campaign>_<utm_content> (max 40 caratteri),
+                  in App Store Connect > Analytics > Acquisizione > Link di campagna.
+      Google Play: &referrer=utm_source%3D..%26utm_medium%3D..%26utm_campaign%3D..%26utm_content%3D..,
+                  in Play Console > Statistiche (acquisizioni per campagna UTM).
+  - Conteggio visite: GitHub Pages non ha statistiche. Proposta senza migrazioni DB: BEACON_URL verso un
+    endpoint da aggiungere al backend Express esistente su Railway (es. GET /r/landing) che scrive una riga
+    di log JSON {utm_*, piattaforma} (log Railway) e tiene un contatore in memoria esposto in /monitor/report.
+    Finche BEACON_URL e vuota non parte nessuna chiamata. In ogni caso restano i dati di campagna degli
+    store (installazioni per ct/referrer), che sono il numero che conta.
+*/
+(function () {
+  var APPSTORE_PROVIDER_TOKEN = ''; // DA COMPILARE: Provider ID (pt) di App Store Connect
+  var BEACON_URL = '';              // DA COMPILARE solo quando esiste l'endpoint del backend
+  var IOS = 'https://apps.apple.com/it/app/showviewlens/id6787447330';
+  var ANDROID = 'https://play.google.com/store/apps/details?id=com.showviewlens.app';
+
+  var q = new URLSearchParams(window.location.search);
+  function clean(v, max) { return (v || '').replace(/[^A-Za-z0-9_.-]/g, '').slice(0, max || 80); }
+  var utm = {
+    source: clean(q.get('utm_source')) || 'diretto',
+    medium: clean(q.get('utm_medium')) || 'nessuno',
+    campaign: clean(q.get('utm_campaign')) || 'nessuna',
+    content: clean(q.get('utm_content'))
+  };
+
+  var ct = clean(utm.campaign + (utm.content ? '_' + utm.content : ''), 40);
+  var iosUrl = IOS + '?mt=8' + (APPSTORE_PROVIDER_TOKEN ? '&pt=' + encodeURIComponent(APPSTORE_PROVIDER_TOKEN) + '&ct=' + encodeURIComponent(ct) : '');
+  var referrer = 'utm_source=' + utm.source + '&utm_medium=' + utm.medium + '&utm_campaign=' + utm.campaign + (utm.content ? '&utm_content=' + utm.content : '');
+  var androidUrl = ANDROID + '&referrer=' + encodeURIComponent(referrer);
+
+  var ua = navigator.userAgent || '';
+  var isIOS = /iPad|iPhone|iPod/.test(ua) || (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1);
+  var isAndroid = /android/i.test(ua);
+  var platform = isIOS ? 'ios' : (isAndroid ? 'android' : 'desktop');
+
+  if (BEACON_URL) {
+    try {
+      var b = BEACON_URL + '?p=' + platform + '&s=' + utm.source + '&m=' + utm.medium + '&c=' + utm.campaign + '&k=' + utm.content;
+      if (navigator.sendBeacon) navigator.sendBeacon(b); else new Image().src = b;
+    } catch (e) {}
+  }
+
+  if (isIOS) { window.location.replace(iosUrl); return; }
+  if (isAndroid) { window.location.replace(androidUrl); return; }
+
+  document.addEventListener('DOMContentLoaded', function () {
+    document.getElementById('ios').href = iosUrl;
+    document.getElementById('android').href = androidUrl;
+  });
+})();
+</script>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+    background: linear-gradient(180deg, #0B0E1B 0%, #151A33 100%);
+    color: #F3F4F8; min-height: 100vh; display: flex; align-items: center; justify-content: center; padding: 24px;
+  }
+  main { max-width: 760px; width: 100%; display: grid; grid-template-columns: 1fr auto; gap: 40px; align-items: center; }
+  .icon { width: 96px; height: 96px; border-radius: 22px; margin-bottom: 24px; }
+  h1 { font-size: 44px; line-height: 1.1; font-weight: 800; letter-spacing: -0.5px; margin-bottom: 14px; }
+  .lead { font-size: 19px; color: #AEB5CC; line-height: 1.5; margin-bottom: 28px; }
+  .badges { display: flex; gap: 16px; flex-wrap: wrap; align-items: center; background: #F3F4F8; border-radius: 18px; padding: 14px; width: fit-content; }
+  .badges img { height: 52px; width: auto; display: block; }
+  .qr { background: #F3F4F8; border-radius: 18px; padding: 18px; text-align: center; color: #0B0E1B; }
+  .qr img { width: 200px; height: 200px; display: block; image-rendering: pixelated; }
+  .qr p { font-size: 15px; font-weight: 600; margin-top: 10px; }
+  .note { font-size: 14px; color: #AEB5CC; margin-top: 22px; }
+  .gold { color: #F5C542; }
+  @media (max-width: 680px) { main { grid-template-columns: 1fr; } .qr { display: none; } h1 { font-size: 34px; } }
+</style>
+</head>
+<body>
+<main>
+  <section>
+    <img class="icon" src="../icon.png" alt="Icona di ShowViewLens">
+    <h1>Scarica <span class="gold">ShowViewLens</span></h1>
+    <p class="lead">Concerti, teatro, danza e opera in Italia, giorno per giorno, con il link alla biglietteria ufficiale. Gratis.</p>
+    <div class="badges">
+      <a id="ios" href="https://apps.apple.com/it/app/showviewlens/id6787447330"><img src="badge_appstore_it.png" alt="Scarica su App Store"></a>
+      <a id="android" href="https://play.google.com/store/apps/details?id=com.showviewlens.app"><img src="badge_googleplay_it.png" alt="Disponibile su Google Play"></a>
+    </div>
+    <p class="note">ShowViewLens non vende biglietti: ti porta alla biglietteria ufficiale. Non è affiliata alle biglietterie.</p>
+  </section>
+  <aside class="qr">
+    <img src="qr.png" alt="QR code per scaricare ShowViewLens dal telefono">
+    <p>Inquadra con il telefono</p>
+  </aside>
+</main>
+</body>
+</html>
