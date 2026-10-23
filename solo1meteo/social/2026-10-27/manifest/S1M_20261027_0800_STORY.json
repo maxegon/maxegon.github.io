@@ -1,0 +1,81 @@
+{
+  "slot": "S1M_20261027_0800_STORY",
+  "piattaforma": "Instagram / FB",
+  "formato": "Storia",
+  "ora_pubblicazione": "2026-10-27 08:00",
+  "data_evento": "2026-10-27",
+  "utm": "https://maxegon.github.io/meteo-stat-privacy/landing/?utm_source=instagram&utm_medium=social&utm_campaign=s1m_2026w44&utm_content=S1M_20261027_0800_STORY",
+  "generato_il": "2026-10-23T22:16:13+02:00",
+  "giorno": "2026-10-27",
+  "stato": "MEDIA_PRONTA",
+  "motivo": null,
+  "testo_finale": "Oggi a Roma: massima media 22°, pioggia 0%. Cerca «Solo1Meteo» su App Store e Google Play",
+  "concept_finale": "S1 gancio: Oggi a Roma: 22° | S2 dato: pioggia 0% | S3 cta: Cerca «Solo1Meteo» su App Store e Google Play",
+  "immagini": [
+    "https://maxegon.github.io/solo1meteo/social/2026-10-27/S1M_20261027_0800_STORY/storia.png"
+  ],
+  "video_url": null,
+  "dati": {
+    "citta": "Roma",
+    "data_label": "martedì 27 ottobre",
+    "fonti_n": 7,
+    "tmax_media": 22,
+    "tmax_min": 19,
+    "tmax_max": 22,
+    "tmin_media": 10,
+    "pioggia_media": 0,
+    "pioggia_min": 0,
+    "pioggia_max": 0,
+    "fonti_pioggia": 3,
+    "condizione": "sereno",
+    "fonti_condizione": 5,
+    "giorno_piu_incerto": "martedì",
+    "scarto_tmax": 3,
+    "pioggia_disaccordo": false,
+    "gancio_pioggia": "pioggia 0%"
+  },
+  "fonti": [
+    {
+      "fonte": "Open-Meteo",
+      "tmax": 22.5,
+      "pioggia": 0,
+      "pioggia_metodo": "orario"
+    },
+    {
+      "fonte": "OpenWeatherMap",
+      "tmax": 19.3,
+      "pioggia": null,
+      "pioggia_metodo": null
+    },
+    {
+      "fonte": "MET Norway",
+      "tmax": 19.2,
+      "pioggia": null,
+      "pioggia_metodo": null
+    },
+    {
+      "fonte": "DWD",
+      "tmax": 21.4,
+      "pioggia": null,
+      "pioggia_metodo": null
+    },
+    {
+      "fonte": "Visual Crossing",
+      "tmax": 20.6,
+      "pioggia": 0,
+      "pioggia_metodo": "giornaliero"
+    },
+    {
+      "fonte": "7Timer!",
+      "tmax": 21,
+      "pioggia": 0,
+      "pioggia_metodo": "orario"
+    },
+    {
+      "fonte": "Tomorrow.io",
+      "tmax": 19.73,
+      "pioggia": null,
+      "pioggia_metodo": null
+    }
+  ]
+}
