@@ -1,7 +1,345 @@
 {
   "data": "2026-10-25",
-  "generato_il": "2026-10-24T09:08:39+00:00",
+  "generato_il": "2026-10-24T10:35:30+00:00",
   "piano": "marketing/piano_4_settimane.csv",
-  "righe": [],
-  "nota": "nessun post in programma per questa data"
+  "righe": [
+    {
+      "id": "SHV_20261025_1800_CAR",
+      "piattaforma": "Instagram / FB",
+      "formato": "Carosello",
+      "categoria": "concerti",
+      "pubblica_alle": "2026-10-25T18:00:00+01:00",
+      "scartati": [
+        [
+          "Gonzalo Rubalcava – Gonzalo Plays Pino",
+          "ora 00:00 prima di 11:00"
+        ],
+        [
+          "Andrea Rigano tra Bach e Sollima – Rassegna MusicaMente",
+          "ora 00:00 prima di 11:00"
+        ],
+        [
+          "Caduti nella Rete - Concerto di Presentazione Album di Fulvio Bozzetta",
+          "senza biglietteria online"
+        ],
+        [
+          "Cilea Young — Giovani Talenti del Conservatorio",
+          "senza biglietteria online"
+        ],
+        [
+          "\"de Reali Mondibus\"",
+          "luogo mancante"
+        ],
+        [
+          "Alpen Vagabunden",
+          "ora 00:00 prima di 11:00"
+        ],
+        [
+          "Làmine Vol. 2",
+          "ora 00:00 prima di 11:00"
+        ],
+        [
+          "The Turras - \"musica Panica\"",
+          "luogo mancante"
+        ],
+        [
+          "Orizzonti Romantici – il Fuoco e L'Estasi: Daniele Paolillo, Pianoforte",
+          "senza biglietteria online"
+        ],
+        [
+          "Sick Tamburo",
+          "luogo mancante"
+        ],
+        [
+          "Note nei Musei: Prospettive Musicali 2026",
+          "fuori perimetro: musei/gallerie/arte: fuori perimetro"
+        ],
+        [
+          "Coffee Bach | Busettini",
+          "ora 10:00 prima di 11:00"
+        ],
+        [
+          "Crossroad - Jazz, Rito e Memoria",
+          "ora 10:30 prima di 11:00"
+        ],
+        [
+          "Concerto Aperitivo - Note in Giallo - Delitti, Intrighi e Misteri tra Cinema e Musica dal Vivo.",
+          "fuori perimetro: cinema/film/streaming/TV: fuori perimetro (o altra app)"
+        ],
+        [
+          "Doom Over Naples | Novembre",
+          "luogo mancante"
+        ]
+      ],
+      "doppioni_rimossi": 90,
+      "verifica_eventi": [
+        {
+          "evento": "Fontaines D.c. - D.c. Eu Tour 2026",
+          "data": "2026-10-26",
+          "ora": "21:00",
+          "citta": "Casalecchio Di Reno",
+          "fonte": "vivaticket",
+          "esito": "ok",
+          "rinforzato": false,
+          "controlli": [
+            {
+              "nome": "orario",
+              "esito": "ok",
+              "dettaglio": "21:00"
+            },
+            {
+              "nome": "titolo",
+              "esito": "ok",
+              "dettaglio": "nessuna etichetta di abbonamento"
+            },
+            {
+              "nome": "biglietteria",
+              "esito": "ok",
+              "dettaglio": "Vivaticket: replica letta dall API pubblica"
+            },
+            {
+              "nome": "pagina",
+              "esito": "ok",
+              "dettaglio": "titolo, citta, data e ora coincidono (2026-10-26 21:00, CASALECCHIO DI RENO)"
+            },
+            {
+              "nome": "serie",
+              "esito": "ok",
+              "dettaglio": "1 date della produzione, nessuna anomalia in testa alla serie"
+            }
+          ],
+          "fonti": [
+            "https://www.vivaticket.com/it/ticket/fontaines-d-c/312930"
+          ]
+        },
+        {
+          "evento": "Pooh",
+          "data": "2026-10-27",
+          "ora": "21:00",
+          "citta": "Eboli",
+          "fonte": "ticketone",
+          "esito": "ok",
+          "rinforzato": false,
+          "controlli": [
+            {
+              "nome": "orario",
+              "esito": "ok",
+              "dettaglio": "21:00"
+            },
+            {
+              "nome": "titolo",
+              "esito": "ok",
+              "dettaglio": "nessuna etichetta di abbonamento"
+            },
+            {
+              "nome": "biglietteria",
+              "esito": "ok",
+              "dettaglio": "TicketOne (blocca i bot): URL ben formato, visto nell ultimo giro (missing_count=0, fonte aggiornata da meno di 36 h)"
+            },
+            {
+              "nome": "serie",
+              "esito": "ok",
+              "dettaglio": "2 date della produzione, nessuna anomalia in testa alla serie"
+            }
+          ],
+          "fonti": [
+            "https://www.ticketone.it/event/pooh60-la-nostra-storia-palasport-palasele-20795711/"
+          ]
+        },
+        {
+          "evento": "Don Toliver",
+          "data": "2026-10-27",
+          "ora": "21:00",
+          "citta": "Milano",
+          "fonte": "ticketone",
+          "esito": "ok",
+          "rinforzato": false,
+          "controlli": [
+            {
+              "nome": "orario",
+              "esito": "ok",
+              "dettaglio": "21:00"
+            },
+            {
+              "nome": "titolo",
+              "esito": "ok",
+              "dettaglio": "nessuna etichetta di abbonamento"
+            },
+            {
+              "nome": "biglietteria",
+              "esito": "ok",
+              "dettaglio": "TicketOne (blocca i bot): URL ben formato, visto nell ultimo giro (missing_count=0, fonte aggiornata da meno di 36 h)"
+            },
+            {
+              "nome": "serie",
+              "esito": "ok",
+              "dettaglio": "1 date della produzione, nessuna anomalia in testa alla serie"
+            }
+          ],
+          "fonti": [
+            "https://www.ticketone.it/event/don-toliver-unipol-forum-21871111/"
+          ]
+        },
+        {
+          "evento": "Synthony a Milano",
+          "data": "2026-10-27",
+          "ora": "21:00",
+          "citta": "Milano",
+          "fonte": "vivaticket",
+          "esito": "ok",
+          "rinforzato": false,
+          "controlli": [
+            {
+              "nome": "orario",
+              "esito": "ok",
+              "dettaglio": "21:00"
+            },
+            {
+              "nome": "titolo",
+              "esito": "ok",
+              "dettaglio": "nessuna etichetta di abbonamento"
+            },
+            {
+              "nome": "biglietteria",
+              "esito": "ok",
+              "dettaglio": "Vivaticket: replica letta dall API pubblica"
+            },
+            {
+              "nome": "pagina",
+              "esito": "ok",
+              "dettaglio": "titolo, citta, data e ora coincidono (2026-10-27 21:00, MILANO)"
+            },
+            {
+              "nome": "serie",
+              "esito": "ok",
+              "dettaglio": "1 date della produzione, nessuna anomalia in testa alla serie"
+            }
+          ],
+          "fonti": [
+            "https://www.vivaticket.com/it/ticket/synthony-a-milano/299461"
+          ]
+        },
+        {
+          "evento": "Niall Horan",
+          "data": "2026-10-28",
+          "ora": "20:30",
+          "citta": "Milano",
+          "fonte": "ticketone",
+          "esito": "ok",
+          "rinforzato": false,
+          "controlli": [
+            {
+              "nome": "orario",
+              "esito": "ok",
+              "dettaglio": "20:30"
+            },
+            {
+              "nome": "titolo",
+              "esito": "ok",
+              "dettaglio": "nessuna etichetta di abbonamento"
+            },
+            {
+              "nome": "biglietteria",
+              "esito": "ok",
+              "dettaglio": "TicketOne (blocca i bot): URL ben formato, visto nell ultimo giro (missing_count=0, fonte aggiornata da meno di 36 h)"
+            },
+            {
+              "nome": "serie",
+              "esito": "ok",
+              "dettaglio": "1 date della produzione, nessuna anomalia in testa alla serie"
+            }
+          ],
+          "fonti": [
+            "https://www.ticketone.it/event/niall-horan-unipol-forum-21482446/"
+          ]
+        }
+      ],
+      "stato": "PRONTO",
+      "testo_finale": "🎤 Questa settimana in Italia: 181 concerti in ShowViewLens. Alcuni da segnare:\n\n1. Fontaines D.c. · Unipol Arena · lun 26/10 · 21:00\n2. Pooh · PalaSele · mar 27/10 · 21:00\n3. Don Toliver · Unipol Forum · mar 27/10 · 21:00\n4. Synthony a Milano · Allianz Cloud Arena · mar 27/10 · 21:00\n5. Niall Horan · Unipol Forum · mer 28/10 · 20:30\n\nSalva e condividi con chi viene con te. Date, orari e biglietteria ufficiale su ShowViewLens.\n\n📲 Scarica ShowViewLens gratis: link in bio (App Store e Google Play).\n\n#ShowViewLens #ConcertiItalia #MusicaLive #SpettacoliDalVivo",
+      "titolo_slide": "181 concerti in Italia questa settimana",
+      "eventi": [
+        "Fontaines D.c. - D.c. Eu Tour 2026",
+        "Pooh",
+        "Don Toliver",
+        "Synthony a Milano",
+        "Niall Horan"
+      ],
+      "conteggio": 181,
+      "file": [
+        "https://maxegon.github.io/showviewlens/social/2026-10-25/SHV_20261025_1800_CAR/01_gancio.jpg",
+        "https://maxegon.github.io/showviewlens/social/2026-10-25/SHV_20261025_1800_CAR/02_dati.jpg",
+        "https://maxegon.github.io/showviewlens/social/2026-10-25/SHV_20261025_1800_CAR/03_dati.jpg",
+        "https://maxegon.github.io/showviewlens/social/2026-10-25/SHV_20261025_1800_CAR/04_screenshot.jpg",
+        "https://maxegon.github.io/showviewlens/social/2026-10-25/SHV_20261025_1800_CAR/05_cta.jpg"
+      ],
+      "utm": "https://maxegon.github.io/showviewlens/download/?utm_source=instagram&utm_medium=social&utm_campaign=piano_2026_11&utm_content=SHV_20261025_1800_CAR",
+      "verifica": {
+        "esito": "ok",
+        "controlli": [
+          {
+            "nome": "eventi nel post",
+            "esito": "ok",
+            "dettaglio": "5 eventi verificati ok, 0 tolti, su 181 candidati"
+          }
+        ],
+        "fonti": [
+          "https://www.vivaticket.com/it/ticket/fontaines-d-c/312930",
+          "https://www.ticketone.it/event/pooh60-la-nostra-storia-palasport-palasele-20795711/",
+          "https://www.ticketone.it/event/don-toliver-unipol-forum-21871111/",
+          "https://www.vivaticket.com/it/ticket/synthony-a-milano/299461",
+          "https://www.ticketone.it/event/niall-horan-unipol-forum-21482446/"
+        ]
+      },
+      "anteprima": {
+        "testo": "🎤 Questa settimana in Italia: 181 concerti in ShowViewLens. Alcuni da segnare:\n\n1. Fontaines D.c. · Unipol Arena · lun 26/10 · 21:00\n2. Pooh · PalaSele · mar 27/10 · 21:00\n3. Don Toliver · Unipol Forum · mar 27/10 · 21:00\n4. Synthony a Milano · Allianz Cloud Arena · mar 27/10 · 21:00\n5. Niall Horan · Unipol Forum · mer 28/10 · 20:30\n\nSalva e condividi con chi viene con te. Date, orari e biglietteria ufficiale su ShowViewLens.\n\n📲 Scarica ShowViewLens gratis: link in bio (App Store e Google Play).\n\n#ShowViewLens #ConcertiItalia #MusicaLive #SpettacoliDalVivo",
+        "immagini": [
+          "https://maxegon.github.io/showviewlens/social/2026-10-25/SHV_20261025_1800_CAR/01_gancio.jpg"
+        ]
+      },
+      "ig_media": [
+        {
+          "media_type": "IMAGE",
+          "image_url": "https://maxegon.github.io/showviewlens/social/2026-10-25/SHV_20261025_1800_CAR/01_gancio.jpg"
+        },
+        {
+          "media_type": "IMAGE",
+          "image_url": "https://maxegon.github.io/showviewlens/social/2026-10-25/SHV_20261025_1800_CAR/02_dati.jpg"
+        },
+        {
+          "media_type": "IMAGE",
+          "image_url": "https://maxegon.github.io/showviewlens/social/2026-10-25/SHV_20261025_1800_CAR/03_dati.jpg"
+        },
+        {
+          "media_type": "IMAGE",
+          "image_url": "https://maxegon.github.io/showviewlens/social/2026-10-25/SHV_20261025_1800_CAR/04_screenshot.jpg"
+        },
+        {
+          "media_type": "IMAGE",
+          "image_url": "https://maxegon.github.io/showviewlens/social/2026-10-25/SHV_20261025_1800_CAR/05_cta.jpg"
+        }
+      ],
+      "fb_photos": [
+        {
+          "type": "url",
+          "url": "https://maxegon.github.io/showviewlens/social/2026-10-25/SHV_20261025_1800_CAR/01_gancio.jpg"
+        },
+        {
+          "type": "url",
+          "url": "https://maxegon.github.io/showviewlens/social/2026-10-25/SHV_20261025_1800_CAR/02_dati.jpg"
+        },
+        {
+          "type": "url",
+          "url": "https://maxegon.github.io/showviewlens/social/2026-10-25/SHV_20261025_1800_CAR/03_dati.jpg"
+        },
+        {
+          "type": "url",
+          "url": "https://maxegon.github.io/showviewlens/social/2026-10-25/SHV_20261025_1800_CAR/04_screenshot.jpg"
+        },
+        {
+          "type": "url",
+          "url": "https://maxegon.github.io/showviewlens/social/2026-10-25/SHV_20261025_1800_CAR/05_cta.jpg"
+        }
+      ]
+    }
+  ]
 }
