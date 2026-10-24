@@ -1,0 +1,213 @@
+{
+  "date": "2026-11-01",
+  "generated_at": "2026-10-24T16:50+02:00",
+  "sources_skipped": [],
+  "rimandate": [],
+  "items": [
+    {
+      "id": "W1_DOM_1800",
+      "piattaforma": "Instagram / FB",
+      "formato": "Carosello",
+      "ora": "18:00",
+      "utm": "https://podcastviewlens.vercel.app/download?utm_source=instagram&utm_medium=social&utm_campaign=pvl_2026w44&utm_content=W1_DOM_1800",
+      "stato": "PRONTO",
+      "motivo": "",
+      "caption": "Le puntate uscite dal 17 al 23 ottobre nei podcast in palinsesto, fascia per fascia: 47 puntate da 8 podcast (Mattina 5, Pranzo 21, Pomeriggio 6, Sera 5, Notte 10). Dati dei feed pubblici, aggiornati al 23 ottobre.\n\nScarica PodcastViewLens gratis: link in bio.\n\n#PodcastViewLens #PodcastItalia #CosaAscoltare",
+      "files": [
+        "https://maxegon.github.io/podcastviewlens/social/2026-11-01/W1_DOM_1800/slide_01.jpg",
+        "https://maxegon.github.io/podcastviewlens/social/2026-11-01/W1_DOM_1800/slide_02.jpg",
+        "https://maxegon.github.io/podcastviewlens/social/2026-11-01/W1_DOM_1800/slide_03.jpg",
+        "https://maxegon.github.io/podcastviewlens/social/2026-11-01/W1_DOM_1800/slide_04.jpg"
+      ],
+      "verifica": {
+        "esito": "ok",
+        "controlli": [
+          {
+            "nome": "fonte_feed_editore",
+            "esito": "dubbio",
+            "dettaglio": "esclusi dal post: Tintoria: editore del feed «OnePodcast - The Comedy Club» diverso dal catalogo «Daniele Tinti & Stefano Rapone / Indipendenti»; Elisa True Crime: editore del feed «Twords» diverso dal catalogo «Elisa De Marco / OnePodcast / OnePodcast / GEDI»; Alessandro Barbero: La storia e le storie: editore del feed «Curato da: Primo Vassallo» diverso dal catalogo «Alessandro Barbero / Indipendente / Indipendenti»",
+            "tolto": true
+          },
+          {
+            "nome": "finestra_pubdate",
+            "esito": "ok",
+            "dettaglio": "pubDate reale tra 2026-10-17 e 2026-10-23 (Europe/Rome), mai oltre 2026-10-24 16:50"
+          },
+          {
+            "nome": "catalogo_app",
+            "esito": "ok",
+            "dettaglio": "solo i 15 podcast curati di src/data/curatedPodcasts.js"
+          },
+          {
+            "nome": "presente_nell_app",
+            "esito": "ok",
+            "dettaglio": "47 su 47 puntate trovate nel Palinsesto dell'app con lo stesso orario (scripts/verify_palinsesto.mjs (codice dell'app: scheduleService.getReleasesForDate))"
+          },
+          {
+            "nome": "duplicati_guid",
+            "esito": "ok",
+            "dettaglio": "nessuna guid ripetuta"
+          },
+          {
+            "nome": "link_episodio",
+            "esito": "ok",
+            "dettaglio": "47 su 47 enclosure/link rispondono"
+          }
+        ],
+        "fonti": [
+          "https://backr24.ilsole24ore.com/podcast/lazanzara.xml",
+          "https://feeds.megaphone.fm/BCS3841029693",
+          "https://feeds.megaphone.fm/BSMT6291075949",
+          "https://feeds.megaphone.fm/CPS2408869581",
+          "https://feeds.megaphone.fm/GLT7160542006",
+          "https://feeds.megaphone.fm/ISOS3411468806",
+          "https://feeds.megaphone.fm/RICCARDOSPADA2271908995",
+          "https://www.omnycontent.com/d/playlist/60311b15-274a-4e3f-8ba9-ac3000834f37/00f0707e-6a46-450e-9c24-ae3d00a6db96/7547296f-de34-47c8-817f-ae3d00a6db9f/podcast.rss"
+        ]
+      },
+      "anteprima": {
+        "testo": "Le puntate uscite dal 17 al 23 ottobre nei podcast in palinsesto, fascia per fascia: 47 puntate da 8 podcast (Mattina 5, Pranzo 21, Pomeriggio 6, Sera 5, Notte 10). Dati dei feed pubblici, aggiornati al 23 ottobre.\n\nScarica PodcastViewLens gratis: link in bio.\n\n#PodcastViewLens #PodcastItalia #CosaAscoltare",
+        "immagini": [
+          "https://maxegon.github.io/podcastviewlens/social/2026-11-01/W1_DOM_1800/slide_01.jpg"
+        ]
+      },
+      "pubblica_alle": "2026-11-01T18:00+01:00",
+      "sempreverde": false,
+      "eventi": [
+        "La Zanzara",
+        "Stories",
+        "Passa dal BSMT",
+        "Deejay Chiama Italia",
+        "Geopop: Le scienze quotidiane",
+        "Start - Il Sole 24 Ore",
+        "Non hanno un amico",
+        "The Bull"
+      ],
+      "titolo_slide": "puntate uscite dal 17 al 23 ottobre",
+      "ig_media": [
+        {
+          "media_type": "IMAGE",
+          "image_url": "https://maxegon.github.io/podcastviewlens/social/2026-11-01/W1_DOM_1800/slide_01.jpg"
+        },
+        {
+          "media_type": "IMAGE",
+          "image_url": "https://maxegon.github.io/podcastviewlens/social/2026-11-01/W1_DOM_1800/slide_02.jpg"
+        },
+        {
+          "media_type": "IMAGE",
+          "image_url": "https://maxegon.github.io/podcastviewlens/social/2026-11-01/W1_DOM_1800/slide_03.jpg"
+        },
+        {
+          "media_type": "IMAGE",
+          "image_url": "https://maxegon.github.io/podcastviewlens/social/2026-11-01/W1_DOM_1800/slide_04.jpg"
+        }
+      ],
+      "fb_photos": [
+        {
+          "type": "url",
+          "url": "https://maxegon.github.io/podcastviewlens/social/2026-11-01/W1_DOM_1800/slide_01.jpg"
+        },
+        {
+          "type": "url",
+          "url": "https://maxegon.github.io/podcastviewlens/social/2026-11-01/W1_DOM_1800/slide_02.jpg"
+        },
+        {
+          "type": "url",
+          "url": "https://maxegon.github.io/podcastviewlens/social/2026-11-01/W1_DOM_1800/slide_03.jpg"
+        },
+        {
+          "type": "url",
+          "url": "https://maxegon.github.io/podcastviewlens/social/2026-11-01/W1_DOM_1800/slide_04.jpg"
+        }
+      ]
+    },
+    {
+      "id": "W1_DOM_2030",
+      "piattaforma": "Instagram Stories",
+      "formato": "Storia",
+      "ora": "20:30",
+      "utm": "-",
+      "stato": "PRONTO",
+      "motivo": "",
+      "caption": "",
+      "files": [
+        "https://maxegon.github.io/podcastviewlens/social/2026-11-01/W1_DOM_2030/storia.png"
+      ],
+      "verifica": {
+        "esito": "ok",
+        "controlli": [
+          {
+            "nome": "fonte_feed_editore",
+            "esito": "dubbio",
+            "dettaglio": "esclusi dal post: Tintoria: editore del feed «OnePodcast - The Comedy Club» diverso dal catalogo «Daniele Tinti & Stefano Rapone / Indipendenti»; Elisa True Crime: editore del feed «Twords» diverso dal catalogo «Elisa De Marco / OnePodcast / OnePodcast / GEDI»; Alessandro Barbero: La storia e le storie: editore del feed «Curato da: Primo Vassallo» diverso dal catalogo «Alessandro Barbero / Indipendente / Indipendenti»",
+            "tolto": true
+          },
+          {
+            "nome": "finestra_pubdate",
+            "esito": "ok",
+            "dettaglio": "pubDate reale tra 2026-10-03 e 2026-10-24 (Europe/Rome), mai oltre 2026-10-24 16:50"
+          },
+          {
+            "nome": "catalogo_app",
+            "esito": "ok",
+            "dettaglio": "solo i 15 podcast curati di src/data/curatedPodcasts.js"
+          },
+          {
+            "nome": "presente_nell_app",
+            "esito": "ok",
+            "dettaglio": "147 su 147 puntate trovate nel Palinsesto dell'app con lo stesso orario (scripts/verify_palinsesto.mjs (codice dell'app: scheduleService.getReleasesForDate))"
+          },
+          {
+            "nome": "duplicati_guid",
+            "esito": "ok",
+            "dettaglio": "nessuna guid ripetuta"
+          },
+          {
+            "nome": "link_episodio",
+            "esito": "ok",
+            "dettaglio": "147 su 147 enclosure/link rispondono"
+          },
+          {
+            "nome": "previsione_non_confermata",
+            "esito": "ok",
+            "dettaglio": "il 2026-11-02 è futuro: il post dice solo «di solito esce», mai «esce»"
+          },
+          {
+            "nome": "previsione_app_e_abitudine",
+            "esito": "dubbio",
+            "dettaglio": "7 previsti dall'app e usciti di lunedì almeno 2 volte nelle ultime 3 settimane; tolti Morning",
+            "tolto": true
+          }
+        ],
+        "fonti": [
+          "https://backr24.ilsole24ore.com/podcast/lazanzara.xml",
+          "https://feeds.megaphone.fm/BCS3841029693",
+          "https://feeds.megaphone.fm/BSMT6291075949",
+          "https://feeds.megaphone.fm/CPS2408869581",
+          "https://feeds.megaphone.fm/GLT7160542006",
+          "https://feeds.megaphone.fm/ISOS3411468806",
+          "https://feeds.megaphone.fm/RICCARDOSPADA2271908995",
+          "https://www.omnycontent.com/d/playlist/60311b15-274a-4e3f-8ba9-ac3000834f37/00f0707e-6a46-450e-9c24-ae3d00a6db96/7547296f-de34-47c8-817f-ae3d00a6db9f/podcast.rss"
+        ]
+      },
+      "anteprima": {
+        "testo": "Storia: S1: 7 podcast che di solito escono di lunedì titolo: cosa è previsto domani | S2: fino a 3 righe podcast e ora, etichetta Previsto | S3: Cerca «PodcastViewLens» su App Store e Google Play",
+        "immagini": [
+          "https://maxegon.github.io/podcastviewlens/social/2026-11-01/W1_DOM_2030/storia.png"
+        ]
+      },
+      "pubblica_alle": "2026-11-01T20:30+01:00",
+      "sempreverde": false,
+      "eventi": [
+        "Non hanno un amico",
+        "Start - Il Sole 24 Ore",
+        "The Bull",
+        "Deejay Chiama Italia",
+        "Passa dal BSMT",
+        "Stories",
+        "La Zanzara"
+      ],
+      "titolo_slide": "7 podcast che di solito escono di lunedì titolo: cosa è previsto domani"
+    }
+  ]
+}
