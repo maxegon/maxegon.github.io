@@ -1,316 +1,318 @@
 {
-  "data": "2026-10-26",
-  "generato_il": "2026-10-24T09:06:36+00:00",
-  "piano": "marketing/piano_4_settimane.csv",
-  "righe": [
+ "data": "2026-10-26",
+ "generato_il": "2026-10-24T09:06:36+00:00",
+ "piano": "marketing/piano_4_settimane.csv",
+ "righe": [
+  {
+   "id": "SHV_20261026_1900_CAR",
+   "piattaforma": "Instagram / FB",
+   "formato": "Carosello",
+   "categoria": "teatro",
+   "pubblica_alle": "2026-10-26T19:00:00+01:00",
+   "scartati": [
+    [
+     "Gli Occhi della Guerra (Con Reporter di Guerra e Attori sul Palco)",
+     "senza biglietteria online"
+    ],
+    [
+     "Dov'è il Po? (Di e con Marco Paolini)",
+     "senza biglietteria online"
+    ],
+    [
+     "Zelig Lab - il Laboratorio Artistico di Area Zelig",
+     "blocklist titolo: non spettacolo"
+    ],
+    [
+     "Lercio a Teatro",
+     "luogo mancante"
+    ],
+    [
+     "Oscar (Diretto da Antonio Latella, con Sonia Bergamasco)",
+     "senza biglietteria online"
+    ],
+    [
+     "Caccia al Rubino di Zolfo",
+     "ora 10:30 prima di 11:00"
+    ],
+    [
+     "Il Condominio",
+     "luogo mancante"
+    ]
+   ],
+   "doppioni_rimossi": 55,
+   "verifica_eventi": [
     {
-      "id": "SHV_20261026_1900_CAR",
-      "piattaforma": "Instagram / FB",
-      "formato": "Carosello",
-      "categoria": "teatro",
-      "pubblica_alle": "2026-10-26T19:00:00+01:00",
-      "scartati": [
-        [
-          "Gli Occhi della Guerra (Con Reporter di Guerra e Attori sul Palco)",
-          "senza biglietteria online"
-        ],
-        [
-          "Dov'è il Po? (Di e con Marco Paolini)",
-          "senza biglietteria online"
-        ],
-        [
-          "Zelig Lab - il Laboratorio Artistico di Area Zelig",
-          "blocklist titolo: non spettacolo"
-        ],
-        [
-          "Lercio a Teatro",
-          "luogo mancante"
-        ],
-        [
-          "Oscar (Diretto da Antonio Latella, con Sonia Bergamasco)",
-          "senza biglietteria online"
-        ],
-        [
-          "Caccia al Rubino di Zolfo",
-          "ora 10:30 prima di 11:00"
-        ],
-        [
-          "Il Condominio",
-          "luogo mancante"
-        ]
-      ],
-      "doppioni_rimossi": 55,
-      "verifica_eventi": [
-        {
-          "evento": "Andrea Pucci - Dove Eravamo Rimasti...?",
-          "data": "2026-10-31",
-          "ora": "21:00",
-          "citta": "Milano",
-          "fonte": "ticketone",
-          "esito": "ok",
-          "rinforzato": false,
-          "controlli": [
-            {
-              "nome": "orario",
-              "esito": "ok",
-              "dettaglio": "21:00"
-            },
-            {
-              "nome": "titolo",
-              "esito": "ok",
-              "dettaglio": "nessuna etichetta di abbonamento"
-            },
-            {
-              "nome": "biglietteria",
-              "esito": "ok",
-              "dettaglio": "TicketOne (blocca i bot): URL ben formato, visto nell ultimo giro (missing_count=0, fonte aggiornata da meno di 36 h)"
-            },
-            {
-              "nome": "serie",
-              "esito": "ok",
-              "dettaglio": "1 date della produzione, nessuna anomalia in testa alla serie"
-            }
-          ],
-          "fonti": [
-            "https://www.ticketone.it/event/andrea-pucci-dove-eravamo-rimasti-unipol-dome-arena-milano-21357649/"
-          ]
-        },
-        {
-          "evento": "Il Romanzo di Milano 1: Sonia Bergamasco Legge Manzoni",
-          "data": "2026-10-26",
-          "ora": "20:30",
-          "citta": "Milano",
-          "fonte": "vivaticket",
-          "esito": "ok",
-          "rinforzato": false,
-          "controlli": [
-            {
-              "nome": "orario",
-              "esito": "ok",
-              "dettaglio": "20:30"
-            },
-            {
-              "nome": "titolo",
-              "esito": "ok",
-              "dettaglio": "nessuna etichetta di abbonamento"
-            },
-            {
-              "nome": "biglietteria",
-              "esito": "ok",
-              "dettaglio": "Vivaticket: replica letta dall API pubblica"
-            },
-            {
-              "nome": "pagina",
-              "esito": "ok",
-              "dettaglio": "titolo, citta, data e ora coincidono (2026-10-26 20:30, MILANO)"
-            },
-            {
-              "nome": "serie",
-              "esito": "ok",
-              "dettaglio": "1 date della produzione, nessuna anomalia in testa alla serie"
-            }
-          ],
-          "fonti": [
-            "https://www.vivaticket.com/it/ticket/il-romanzo-di-milano-1-sonia-bergamasco-legge-manzoni/308073"
-          ]
-        },
-        {
-          "evento": "Dado in \"Il Ripetente\"",
-          "data": "2026-10-26",
-          "ora": "20:45",
-          "citta": "Milano",
-          "fonte": "ticketone",
-          "esito": "ok",
-          "rinforzato": false,
-          "controlli": [
-            {
-              "nome": "orario",
-              "esito": "ok",
-              "dettaglio": "20:45"
-            },
-            {
-              "nome": "titolo",
-              "esito": "ok",
-              "dettaglio": "nessuna etichetta di abbonamento"
-            },
-            {
-              "nome": "biglietteria",
-              "esito": "ok",
-              "dettaglio": "TicketOne (blocca i bot): URL ben formato, visto nell ultimo giro (missing_count=0, fonte aggiornata da meno di 36 h)"
-            },
-            {
-              "nome": "serie",
-              "esito": "ok",
-              "dettaglio": "2 date della produzione, nessuna anomalia in testa alla serie"
-            }
-          ],
-          "fonti": [
-            "https://www.ticketone.it/event/dado-in-il-ripetente-zelig-21912888/"
-          ]
-        },
-        {
-          "evento": "Turbopaolo",
-          "data": "2026-10-26",
-          "ora": "21:00",
-          "citta": "Milano",
-          "fonte": "ticketone",
-          "esito": "ok",
-          "rinforzato": false,
-          "controlli": [
-            {
-              "nome": "orario",
-              "esito": "ok",
-              "dettaglio": "21:00"
-            },
-            {
-              "nome": "titolo",
-              "esito": "ok",
-              "dettaglio": "nessuna etichetta di abbonamento"
-            },
-            {
-              "nome": "biglietteria",
-              "esito": "ok",
-              "dettaglio": "TicketOne (blocca i bot): URL ben formato, visto nell ultimo giro (missing_count=0, fonte aggiornata da meno di 36 h)"
-            },
-            {
-              "nome": "serie",
-              "esito": "ok",
-              "dettaglio": "2 date della produzione, nessuna anomalia in testa alla serie"
-            }
-          ],
-          "fonti": [
-            "https://www.ticketone.it/event/turbopaolo-il-poliziotto-del-formaggio-tam-teatro-arcimboldi-milano-21390014/"
-          ]
-        },
-        {
-          "evento": "History Telling: Nelson Mandela e la Lotta All'Apartheid. la “carta della Libertà” Sudafricana",
-          "data": "2026-10-26",
-          "ora": "20:30",
-          "citta": "Milano",
-          "fonte": "vivaticket",
-          "esito": "ko",
-          "rinforzato": false,
-          "controlli": [
-            {
-              "nome": "orario",
-              "esito": "ok",
-              "dettaglio": "20:30"
-            },
-            {
-              "nome": "titolo",
-              "esito": "ok",
-              "dettaglio": "nessuna etichetta di abbonamento"
-            },
-            {
-              "nome": "biglietteria",
-              "esito": "ok",
-              "dettaglio": "Vivaticket: replica letta dall API pubblica"
-            },
-            {
-              "nome": "pagina",
-              "esito": "ko",
-              "dettaglio": "la replica del 2026-10-26 20:30 non e sulla pagina (https://www.vivaticket.com/it/ticket/x/305472)"
-            },
-            {
-              "nome": "serie",
-              "esito": "ok",
-              "dettaglio": "2 date della produzione, nessuna anomalia in testa alla serie"
-            }
-          ],
-          "fonti": [
-            "https://www.vivaticket.com/it/ticket/history-telling-nelson-mandela-e-la-lotta-all-apartheid-la-carta-della-liberta-sudafricana/305472"
-          ]
-        }
-      ],
-      "stato": "PRONTO",
-      "testo_finale": "🎭 Questa settimana a teatro a Milano: 37 spettacoli in ShowViewLens. Eccone alcuni:\n\n1. Andrea Pucci - Dove Eravamo Rimasti...? · Unipol Dome · sab 31/10 · 21:00\n2. Il Romanzo di Milano 1: Sonia Bergamasco Legge Manzoni · TEATRO DEGLI ANGELI · lun 26/10 · 20:30\n3. Dado in \"Il Ripetente\" · Zelig · lun 26/10 · 20:45\n4. Turbopaolo · TAM - Teatro Arcimboldi Milano · lun 26/10 · 21:00\n\nSalva il post. Su ShowViewLens trovi date, orari e il link alla biglietteria ufficiale.\n\n📲 Scarica ShowViewLens gratis: link in bio (App Store e Google Play).\n\n#ShowViewLens #TeatroMilano #TeatroItalia #SpettacoliDalVivo",
-      "titolo_slide": "37 spettacoli a teatro a Milano questa settimana",
-      "eventi": [
-        "Andrea Pucci - Dove Eravamo Rimasti...?",
-        "Il Romanzo di Milano 1: Sonia Bergamasco Legge Manzoni",
-        "Dado in \"Il Ripetente\"",
-        "Turbopaolo"
-      ],
-      "conteggio": 37,
-      "file": [
-        "https://maxegon.github.io/showviewlens/social/2026-10-26/SHV_20261026_1900_CAR/01_gancio.jpg",
-        "https://maxegon.github.io/showviewlens/social/2026-10-26/SHV_20261026_1900_CAR/02_dati.jpg",
-        "https://maxegon.github.io/showviewlens/social/2026-10-26/SHV_20261026_1900_CAR/03_dati.jpg",
-        "https://maxegon.github.io/showviewlens/social/2026-10-26/SHV_20261026_1900_CAR/04_screenshot.jpg",
-        "https://maxegon.github.io/showviewlens/social/2026-10-26/SHV_20261026_1900_CAR/05_cta.jpg"
-      ],
-      "utm": "https://maxegon.github.io/showviewlens/download/?utm_source=instagram&utm_medium=social&utm_campaign=piano_2026_11&utm_content=SHV_20261026_1900_CAR",
-      "verifica": {
-        "esito": "dubbio",
-        "controlli": [
-          {
-            "nome": "eventi nel post",
-            "esito": "ok",
-            "dettaglio": "4 eventi verificati ok, 1 tolti, su 38 candidati"
-          },
-          {
-            "nome": "tolto «History Telling: Nelson Mandela e la…» lun 26/10",
-            "esito": "ko",
-            "dettaglio": "la replica del 2026-10-26 20:30 non e sulla pagina (https://www.vivaticket.com/it/ticket/x/305472)"
-          }
-        ],
-        "fonti": [
-          "https://www.ticketone.it/event/andrea-pucci-dove-eravamo-rimasti-unipol-dome-arena-milano-21357649/",
-          "https://www.vivaticket.com/it/ticket/il-romanzo-di-milano-1-sonia-bergamasco-legge-manzoni/308073",
-          "https://www.ticketone.it/event/dado-in-il-ripetente-zelig-21912888/",
-          "https://www.ticketone.it/event/turbopaolo-il-poliziotto-del-formaggio-tam-teatro-arcimboldi-milano-21390014/"
-        ]
+     "evento": "Andrea Pucci - Dove Eravamo Rimasti...?",
+     "data": "2026-10-31",
+     "ora": "21:00",
+     "citta": "Milano",
+     "fonte": "ticketone",
+     "esito": "ok",
+     "rinforzato": false,
+     "controlli": [
+      {
+       "nome": "orario",
+       "esito": "ok",
+       "dettaglio": "21:00"
       },
-      "anteprima": {
-        "testo": "🎭 Questa settimana a teatro a Milano: 37 spettacoli in ShowViewLens. Eccone alcuni:\n\n1. Andrea Pucci - Dove Eravamo Rimasti...? · Unipol Dome · sab 31/10 · 21:00\n2. Il Romanzo di Milano 1: Sonia Bergamasco Legge Manzoni · TEATRO DEGLI ANGELI · lun 26/10 · 20:30\n3. Dado in \"Il Ripetente\" · Zelig · lun 26/10 · 20:45\n4. Turbopaolo · TAM - Teatro Arcimboldi Milano · lun 26/10 · 21:00\n\nSalva il post. Su ShowViewLens trovi date, orari e il link alla biglietteria ufficiale.\n\n📲 Scarica ShowViewLens gratis: link in bio (App Store e Google Play).\n\n#ShowViewLens #TeatroMilano #TeatroItalia #SpettacoliDalVivo",
-        "immagini": [
-          "https://maxegon.github.io/showviewlens/social/2026-10-26/SHV_20261026_1900_CAR/01_gancio.jpg"
-        ]
+      {
+       "nome": "titolo",
+       "esito": "ok",
+       "dettaglio": "nessuna etichetta di abbonamento"
       },
-      "ig_media": [
-        {
-          "media_type": "IMAGE",
-          "image_url": "https://maxegon.github.io/showviewlens/social/2026-10-26/SHV_20261026_1900_CAR/01_gancio.jpg"
-        },
-        {
-          "media_type": "IMAGE",
-          "image_url": "https://maxegon.github.io/showviewlens/social/2026-10-26/SHV_20261026_1900_CAR/02_dati.jpg"
-        },
-        {
-          "media_type": "IMAGE",
-          "image_url": "https://maxegon.github.io/showviewlens/social/2026-10-26/SHV_20261026_1900_CAR/03_dati.jpg"
-        },
-        {
-          "media_type": "IMAGE",
-          "image_url": "https://maxegon.github.io/showviewlens/social/2026-10-26/SHV_20261026_1900_CAR/04_screenshot.jpg"
-        },
-        {
-          "media_type": "IMAGE",
-          "image_url": "https://maxegon.github.io/showviewlens/social/2026-10-26/SHV_20261026_1900_CAR/05_cta.jpg"
-        }
-      ],
-      "fb_photos": [
-        {
-          "type": "url",
-          "url": "https://maxegon.github.io/showviewlens/social/2026-10-26/SHV_20261026_1900_CAR/01_gancio.jpg"
-        },
-        {
-          "type": "url",
-          "url": "https://maxegon.github.io/showviewlens/social/2026-10-26/SHV_20261026_1900_CAR/02_dati.jpg"
-        },
-        {
-          "type": "url",
-          "url": "https://maxegon.github.io/showviewlens/social/2026-10-26/SHV_20261026_1900_CAR/03_dati.jpg"
-        },
-        {
-          "type": "url",
-          "url": "https://maxegon.github.io/showviewlens/social/2026-10-26/SHV_20261026_1900_CAR/04_screenshot.jpg"
-        },
-        {
-          "type": "url",
-          "url": "https://maxegon.github.io/showviewlens/social/2026-10-26/SHV_20261026_1900_CAR/05_cta.jpg"
-        }
-      ]
+      {
+       "nome": "biglietteria",
+       "esito": "ok",
+       "dettaglio": "TicketOne (blocca i bot): URL ben formato, visto nell ultimo giro (missing_count=0, fonte aggiornata da meno di 36 h)"
+      },
+      {
+       "nome": "serie",
+       "esito": "ok",
+       "dettaglio": "1 date della produzione, nessuna anomalia in testa alla serie"
+      }
+     ],
+     "fonti": [
+      "https://www.ticketone.it/event/andrea-pucci-dove-eravamo-rimasti-unipol-dome-arena-milano-21357649/"
+     ]
+    },
+    {
+     "evento": "Il Romanzo di Milano 1: Sonia Bergamasco Legge Manzoni",
+     "data": "2026-10-26",
+     "ora": "20:30",
+     "citta": "Milano",
+     "fonte": "vivaticket",
+     "esito": "ok",
+     "rinforzato": false,
+     "controlli": [
+      {
+       "nome": "orario",
+       "esito": "ok",
+       "dettaglio": "20:30"
+      },
+      {
+       "nome": "titolo",
+       "esito": "ok",
+       "dettaglio": "nessuna etichetta di abbonamento"
+      },
+      {
+       "nome": "biglietteria",
+       "esito": "ok",
+       "dettaglio": "Vivaticket: replica letta dall API pubblica"
+      },
+      {
+       "nome": "pagina",
+       "esito": "ok",
+       "dettaglio": "titolo, citta, data e ora coincidono (2026-10-26 20:30, MILANO)"
+      },
+      {
+       "nome": "serie",
+       "esito": "ok",
+       "dettaglio": "1 date della produzione, nessuna anomalia in testa alla serie"
+      }
+     ],
+     "fonti": [
+      "https://www.vivaticket.com/it/ticket/il-romanzo-di-milano-1-sonia-bergamasco-legge-manzoni/308073"
+     ]
+    },
+    {
+     "evento": "Dado in \"Il Ripetente\"",
+     "data": "2026-10-26",
+     "ora": "20:45",
+     "citta": "Milano",
+     "fonte": "ticketone",
+     "esito": "ok",
+     "rinforzato": false,
+     "controlli": [
+      {
+       "nome": "orario",
+       "esito": "ok",
+       "dettaglio": "20:45"
+      },
+      {
+       "nome": "titolo",
+       "esito": "ok",
+       "dettaglio": "nessuna etichetta di abbonamento"
+      },
+      {
+       "nome": "biglietteria",
+       "esito": "ok",
+       "dettaglio": "TicketOne (blocca i bot): URL ben formato, visto nell ultimo giro (missing_count=0, fonte aggiornata da meno di 36 h)"
+      },
+      {
+       "nome": "serie",
+       "esito": "ok",
+       "dettaglio": "2 date della produzione, nessuna anomalia in testa alla serie"
+      }
+     ],
+     "fonti": [
+      "https://www.ticketone.it/event/dado-in-il-ripetente-zelig-21912888/"
+     ]
+    },
+    {
+     "evento": "Turbopaolo",
+     "data": "2026-10-26",
+     "ora": "21:00",
+     "citta": "Milano",
+     "fonte": "ticketone",
+     "esito": "ok",
+     "rinforzato": false,
+     "controlli": [
+      {
+       "nome": "orario",
+       "esito": "ok",
+       "dettaglio": "21:00"
+      },
+      {
+       "nome": "titolo",
+       "esito": "ok",
+       "dettaglio": "nessuna etichetta di abbonamento"
+      },
+      {
+       "nome": "biglietteria",
+       "esito": "ok",
+       "dettaglio": "TicketOne (blocca i bot): URL ben formato, visto nell ultimo giro (missing_count=0, fonte aggiornata da meno di 36 h)"
+      },
+      {
+       "nome": "serie",
+       "esito": "ok",
+       "dettaglio": "2 date della produzione, nessuna anomalia in testa alla serie"
+      }
+     ],
+     "fonti": [
+      "https://www.ticketone.it/event/turbopaolo-il-poliziotto-del-formaggio-tam-teatro-arcimboldi-milano-21390014/"
+     ]
+    },
+    {
+     "evento": "History Telling: Nelson Mandela e la Lotta All'Apartheid. la “carta della Libertà” Sudafricana",
+     "data": "2026-10-26",
+     "ora": "20:30",
+     "citta": "Milano",
+     "fonte": "vivaticket",
+     "esito": "ko",
+     "rinforzato": false,
+     "controlli": [
+      {
+       "nome": "orario",
+       "esito": "ok",
+       "dettaglio": "20:30"
+      },
+      {
+       "nome": "titolo",
+       "esito": "ok",
+       "dettaglio": "nessuna etichetta di abbonamento"
+      },
+      {
+       "nome": "biglietteria",
+       "esito": "ok",
+       "dettaglio": "Vivaticket: replica letta dall API pubblica"
+      },
+      {
+       "nome": "pagina",
+       "esito": "ko",
+       "dettaglio": "la replica del 2026-10-26 20:30 non e sulla pagina (https://www.vivaticket.com/it/ticket/x/305472)"
+      },
+      {
+       "nome": "serie",
+       "esito": "ok",
+       "dettaglio": "2 date della produzione, nessuna anomalia in testa alla serie"
+      }
+     ],
+     "fonti": [
+      "https://www.vivaticket.com/it/ticket/history-telling-nelson-mandela-e-la-lotta-all-apartheid-la-carta-della-liberta-sudafricana/305472"
+     ]
     }
-  ]
+   ],
+   "stato": "SALTATO_UTENTE",
+   "testo_finale": "🎭 Questa settimana a teatro a Milano: 37 spettacoli in ShowViewLens. Eccone alcuni:\n\n1. Andrea Pucci - Dove Eravamo Rimasti...? · Unipol Dome · sab 31/10 · 21:00\n2. Il Romanzo di Milano 1: Sonia Bergamasco Legge Manzoni · TEATRO DEGLI ANGELI · lun 26/10 · 20:30\n3. Dado in \"Il Ripetente\" · Zelig · lun 26/10 · 20:45\n4. Turbopaolo · TAM - Teatro Arcimboldi Milano · lun 26/10 · 21:00\n\nSalva il post. Su ShowViewLens trovi date, orari e il link alla biglietteria ufficiale.\n\n📲 Scarica ShowViewLens gratis: link in bio (App Store e Google Play).\n\n#ShowViewLens #TeatroMilano #TeatroItalia #SpettacoliDalVivo",
+   "titolo_slide": "37 spettacoli a teatro a Milano questa settimana",
+   "eventi": [
+    "Andrea Pucci - Dove Eravamo Rimasti...?",
+    "Il Romanzo di Milano 1: Sonia Bergamasco Legge Manzoni",
+    "Dado in \"Il Ripetente\"",
+    "Turbopaolo"
+   ],
+   "conteggio": 37,
+   "file": [
+    "https://maxegon.github.io/showviewlens/social/2026-10-26/SHV_20261026_1900_CAR/01_gancio.jpg",
+    "https://maxegon.github.io/showviewlens/social/2026-10-26/SHV_20261026_1900_CAR/02_dati.jpg",
+    "https://maxegon.github.io/showviewlens/social/2026-10-26/SHV_20261026_1900_CAR/03_dati.jpg",
+    "https://maxegon.github.io/showviewlens/social/2026-10-26/SHV_20261026_1900_CAR/04_screenshot.jpg",
+    "https://maxegon.github.io/showviewlens/social/2026-10-26/SHV_20261026_1900_CAR/05_cta.jpg"
+   ],
+   "utm": "https://maxegon.github.io/showviewlens/download/?utm_source=instagram&utm_medium=social&utm_campaign=piano_2026_11&utm_content=SHV_20261026_1900_CAR",
+   "verifica": {
+    "esito": "dubbio",
+    "controlli": [
+     {
+      "nome": "eventi nel post",
+      "esito": "ok",
+      "dettaglio": "4 eventi verificati ok, 1 tolti, su 38 candidati"
+     },
+     {
+      "nome": "tolto «History Telling: Nelson Mandela e la…» lun 26/10",
+      "esito": "ko",
+      "dettaglio": "la replica del 2026-10-26 20:30 non e sulla pagina (https://www.vivaticket.com/it/ticket/x/305472)"
+     }
+    ],
+    "fonti": [
+     "https://www.ticketone.it/event/andrea-pucci-dove-eravamo-rimasti-unipol-dome-arena-milano-21357649/",
+     "https://www.vivaticket.com/it/ticket/il-romanzo-di-milano-1-sonia-bergamasco-legge-manzoni/308073",
+     "https://www.ticketone.it/event/dado-in-il-ripetente-zelig-21912888/",
+     "https://www.ticketone.it/event/turbopaolo-il-poliziotto-del-formaggio-tam-teatro-arcimboldi-milano-21390014/"
+    ]
+   },
+   "anteprima": {
+    "testo": "🎭 Questa settimana a teatro a Milano: 37 spettacoli in ShowViewLens. Eccone alcuni:\n\n1. Andrea Pucci - Dove Eravamo Rimasti...? · Unipol Dome · sab 31/10 · 21:00\n2. Il Romanzo di Milano 1: Sonia Bergamasco Legge Manzoni · TEATRO DEGLI ANGELI · lun 26/10 · 20:30\n3. Dado in \"Il Ripetente\" · Zelig · lun 26/10 · 20:45\n4. Turbopaolo · TAM - Teatro Arcimboldi Milano · lun 26/10 · 21:00\n\nSalva il post. Su ShowViewLens trovi date, orari e il link alla biglietteria ufficiale.\n\n📲 Scarica ShowViewLens gratis: link in bio (App Store e Google Play).\n\n#ShowViewLens #TeatroMilano #TeatroItalia #SpettacoliDalVivo",
+    "immagini": [
+     "https://maxegon.github.io/showviewlens/social/2026-10-26/SHV_20261026_1900_CAR/01_gancio.jpg"
+    ]
+   },
+   "ig_media": [
+    {
+     "media_type": "IMAGE",
+     "image_url": "https://maxegon.github.io/showviewlens/social/2026-10-26/SHV_20261026_1900_CAR/01_gancio.jpg"
+    },
+    {
+     "media_type": "IMAGE",
+     "image_url": "https://maxegon.github.io/showviewlens/social/2026-10-26/SHV_20261026_1900_CAR/02_dati.jpg"
+    },
+    {
+     "media_type": "IMAGE",
+     "image_url": "https://maxegon.github.io/showviewlens/social/2026-10-26/SHV_20261026_1900_CAR/03_dati.jpg"
+    },
+    {
+     "media_type": "IMAGE",
+     "image_url": "https://maxegon.github.io/showviewlens/social/2026-10-26/SHV_20261026_1900_CAR/04_screenshot.jpg"
+    },
+    {
+     "media_type": "IMAGE",
+     "image_url": "https://maxegon.github.io/showviewlens/social/2026-10-26/SHV_20261026_1900_CAR/05_cta.jpg"
+    }
+   ],
+   "fb_photos": [
+    {
+     "type": "url",
+     "url": "https://maxegon.github.io/showviewlens/social/2026-10-26/SHV_20261026_1900_CAR/01_gancio.jpg"
+    },
+    {
+     "type": "url",
+     "url": "https://maxegon.github.io/showviewlens/social/2026-10-26/SHV_20261026_1900_CAR/02_dati.jpg"
+    },
+    {
+     "type": "url",
+     "url": "https://maxegon.github.io/showviewlens/social/2026-10-26/SHV_20261026_1900_CAR/03_dati.jpg"
+    },
+    {
+     "type": "url",
+     "url": "https://maxegon.github.io/showviewlens/social/2026-10-26/SHV_20261026_1900_CAR/04_screenshot.jpg"
+    },
+    {
+     "type": "url",
+     "url": "https://maxegon.github.io/showviewlens/social/2026-10-26/SHV_20261026_1900_CAR/05_cta.jpg"
+    }
+   ],
+   "stato_prima_utente": "PRONTO",
+   "motivo": "saltato da te su Telegram alle 12:02"
+  }
+ ]
 }
