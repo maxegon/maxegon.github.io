@@ -5,8 +5,7 @@
   "backend": "healthy",
   "righe": 2,
   "stati": {
-    "MEDIA_PRONTA": 1,
-    "SALTATO_VERIFICA": 1
+    "MEDIA_PRONTA": 2
   },
   "voci": [
     {
@@ -16,12 +15,88 @@
       "ora_pubblicazione": "2026-10-26 12:00",
       "data_evento": "2026-10-27",
       "utm": "https://maxegon.github.io/meteo-stat-privacy/landing/?utm_source=tiktok&utm_medium=social&utm_campaign=s1m_2026w44&utm_content=S1M_20261026_1200_VIDEO",
-      "generato_il": "2026-10-24T17:43:10+02:00",
+      "generato_il": "2026-10-24T17:45:20+02:00",
       "provvisorio": true,
-      "stato": "SALTATO_VERIFICA",
-      "motivo": "verifica dei dati non superata: numeri_testo: numeri che non vengono dai dati dell'app: -17°",
+      "giorno": "2026-10-26",
+      "stato": "MEDIA_PRONTA",
+      "motivo": null,
+      "testo_finale": "Domani a Torino: 7 fonti, massime tra 15° e 17°, media 16°. Ogni numero del video viene dai dati del giorno. Scarica Solo1Meteo: link in bio. #meteo #solo1meteo #previsionimeteo #meteoitalia",
+      "concept_finale": "S1 gancio: Domani a Torino: 15°-17° | S2 confronto: le 7 fonti una per una | S3 screenshot: schermata Previsioni | S4 cta: Scarica gratis Solo1Meteo",
+      "immagini": [
+        "https://maxegon.github.io/solo1meteo/social/2026-10-26/S1M_20261026_1200_VIDEO/v1_gancio.png"
+      ],
+      "video_url": "https://maxegon.github.io/solo1meteo/social/2026-10-26/S1M_20261026_1200_VIDEO/video.mp4",
+      "ig_media": [],
+      "fb_photos": [],
+      "dati": {
+        "citta": "Torino",
+        "data_label": "martedì 27 ottobre",
+        "fonti_n": 7,
+        "fonti_elencate": 7,
+        "fonti_escluse": [],
+        "tmax_media": 16,
+        "tmax_min": 15,
+        "tmax_max": 17,
+        "tmin_media": 7,
+        "pioggia_media": 0,
+        "pioggia_min": 0,
+        "pioggia_max": 0,
+        "fonti_pioggia": 3,
+        "condizione": "sereno",
+        "fonti_condizione": 4,
+        "giorno_piu_incerto": "mercoledì",
+        "scarto_tmax": 3,
+        "tmax_scarto_fonti": 2.0,
+        "tmax_disaccordo": false,
+        "pioggia_disaccordo": false,
+        "gancio_pioggia": "pioggia 0%"
+      },
+      "fonti": [
+        {
+          "fonte": "Open-Meteo",
+          "tmax": 16.6,
+          "pioggia": 0,
+          "pioggia_metodo": "orario"
+        },
+        {
+          "fonte": "OpenWeatherMap",
+          "tmax": 16.3,
+          "pioggia": null,
+          "pioggia_metodo": null
+        },
+        {
+          "fonte": "MET Norway",
+          "tmax": 16.4,
+          "pioggia": null,
+          "pioggia_metodo": null
+        },
+        {
+          "fonte": "DWD",
+          "tmax": 16.6,
+          "pioggia": null,
+          "pioggia_metodo": null
+        },
+        {
+          "fonte": "Visual Crossing",
+          "tmax": 15.6,
+          "pioggia": 0,
+          "pioggia_metodo": "giornaliero"
+        },
+        {
+          "fonte": "7Timer!",
+          "tmax": 15,
+          "pioggia": 0,
+          "pioggia_metodo": "orario"
+        },
+        {
+          "fonte": "Tomorrow.io",
+          "tmax": 16.97,
+          "pioggia": null,
+          "pioggia_metodo": null
+        }
+      ],
       "verifica": {
-        "esito": "ko",
+        "esito": "ok",
         "controlli": [
           {
             "nome": "backend",
@@ -45,8 +120,8 @@
           },
           {
             "nome": "numeri_testo",
-            "esito": "ko",
-            "dettaglio": "numeri che non vengono dai dati dell'app: -17°"
+            "esito": "ok",
+            "dettaglio": "tutti i numeri con ° o % sono quelli calcolati come nell'app"
           },
           {
             "nome": "scarto",
@@ -80,52 +155,14 @@
           "https://www.tomorrow.io"
         ]
       },
-      "tentativi": [
-        {
-          "citta": "Torino",
-          "esito": "verifica",
-          "motivo": "numeri_testo: numeri che non vengono dai dati dell'app: -17°"
-        },
-        {
-          "citta": "Roma",
-          "esito": "verifica",
-          "motivo": "numeri_testo: numeri che non vengono dai dati dell'app: -22°"
-        },
-        {
-          "citta": "Napoli",
-          "esito": "verifica",
-          "motivo": "numeri_testo: numeri che non vengono dai dati dell'app: -22°"
-        },
-        {
-          "citta": "Bologna",
-          "esito": "verifica",
-          "motivo": "numeri_testo: numeri che non vengono dai dati dell'app: -18°"
-        }
-      ],
-      "dati_scartati": {
-        "citta": "Torino",
-        "data_label": "martedì 27 ottobre",
-        "fonti_n": 7,
-        "fonti_elencate": 7,
-        "fonti_escluse": [],
-        "tmax_media": 16,
-        "tmax_min": 15,
-        "tmax_max": 17,
-        "tmin_media": 7,
-        "pioggia_media": 0,
-        "pioggia_min": 0,
-        "pioggia_max": 0,
-        "fonti_pioggia": 3,
-        "condizione": "sereno",
-        "fonti_condizione": 4,
-        "giorno_piu_incerto": "mercoledì",
-        "scarto_tmax": 3,
-        "tmax_scarto_fonti": 2.0,
-        "tmax_disaccordo": false,
-        "pioggia_disaccordo": false,
-        "gancio_pioggia": "pioggia 0%"
-      },
-      "giorno": "2026-10-26"
+      "scaricato_il": "2026-10-24T17:45:21+02:00",
+      "citta_usata": "Torino",
+      "anteprima": {
+        "testo": "Domani a Torino: 7 fonti, massime tra 15° e 17°, media 16°. Ogni numero del video viene dai dati del giorno. Scarica Solo1Meteo: link in bio. #meteo #solo1meteo #previsionimeteo #meteoitalia",
+        "immagini": [
+          "https://maxegon.github.io/solo1meteo/social/2026-10-26/S1M_20261026_1200_VIDEO/v1_gancio.png"
+        ]
+      }
     },
     {
       "slot": "S1M_20261026_1900_FEED",
@@ -134,7 +171,7 @@
       "ora_pubblicazione": "2026-10-26 19:00",
       "data_evento": "2026-10-27",
       "utm": "https://maxegon.github.io/meteo-stat-privacy/landing/?utm_source=instagram&utm_medium=social&utm_campaign=s1m_2026w44&utm_content=S1M_20261026_1900_FEED",
-      "generato_il": "2026-10-24T17:43:14+02:00",
+      "generato_il": "2026-10-24T17:45:38+02:00",
       "provvisorio": true,
       "giorno": "2026-10-26",
       "stato": "MEDIA_PRONTA",
@@ -334,7 +371,7 @@
           "https://www.tomorrow.io"
         ]
       },
-      "scaricato_il": "2026-10-24T17:43:15+02:00",
+      "scaricato_il": "2026-10-24T17:45:39+02:00",
       "citta_usata": "Milano",
       "anteprima": {
         "testo": "Come nasce il numero che vedi. Domani a Milano le fonti indicano in media 16° di massima (da 16° a 17°). Scorri per capire come leggiamo i numeri. Scarica Solo1Meteo gratis: link in bio. #solo1meteo #meteo #previsionimeteo #meteoitalia",
