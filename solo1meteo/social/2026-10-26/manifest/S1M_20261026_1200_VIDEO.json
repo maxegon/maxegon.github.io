@@ -1,0 +1,118 @@
+{
+  "slot": "S1M_20261026_1200_VIDEO",
+  "piattaforma": "TikTok",
+  "formato": "Video",
+  "ora_pubblicazione": "2026-10-26 12:00",
+  "data_evento": "2026-10-27",
+  "utm": "https://maxegon.github.io/meteo-stat-privacy/landing/?utm_source=tiktok&utm_medium=social&utm_campaign=s1m_2026w44&utm_content=S1M_20261026_1200_VIDEO",
+  "generato_il": "2026-10-24T17:43:10+02:00",
+  "provvisorio": true,
+  "stato": "SALTATO_VERIFICA",
+  "motivo": "verifica dei dati non superata: numeri_testo: numeri che non vengono dai dati dell'app: -17°",
+  "verifica": {
+    "esito": "ko",
+    "controlli": [
+      {
+        "nome": "backend",
+        "esito": "ok",
+        "dettaglio": "/health = healthy"
+      },
+      {
+        "nome": "fonti",
+        "esito": "ok",
+        "dettaglio": "7 fonti su 8 per 2026-10-27 (minimo 6)"
+      },
+      {
+        "nome": "freschezza",
+        "esito": "ok",
+        "dettaglio": "dato scaricato 0 minuti prima del rendering (massimo 3 ore, cache backend 10 minuti)"
+      },
+      {
+        "nome": "calcolo_app",
+        "esito": "ok",
+        "dettaglio": "copia del calcolo dell'app sha f8de55e39310 (submodule assente in CI) | codice dell'app (buildAggregateDays)"
+      },
+      {
+        "nome": "numeri_testo",
+        "esito": "ko",
+        "dettaglio": "numeri che non vengono dai dati dell'app: -17°"
+      },
+      {
+        "nome": "scarto",
+        "esito": "ok",
+        "dettaglio": "massime 15-17° (scarto 2°), pioggia 0-0% (scarto 0)"
+      },
+      {
+        "nome": "giorno",
+        "esito": "ok",
+        "dettaglio": "giorno citato = martedì 2026-10-27"
+      },
+      {
+        "nome": "allerte",
+        "esito": "ok",
+        "dettaglio": "nessuna allerta meteo attiva per il giorno (WeatherAPI)"
+      },
+      {
+        "nome": "posizione",
+        "esito": "ok",
+        "dettaglio": "Torino: citta fissa del piano, nessuna posizione dell'utente"
+      }
+    ],
+    "fonti": [
+      "https://backend-eta-seven-21.vercel.app/weather?lat=45.07&lon=7.69",
+      "https://open-meteo.com",
+      "https://openweathermap.org",
+      "https://api.met.no",
+      "https://brightsky.dev",
+      "https://www.visualcrossing.com",
+      "http://www.7timer.info",
+      "https://www.tomorrow.io"
+    ]
+  },
+  "tentativi": [
+    {
+      "citta": "Torino",
+      "esito": "verifica",
+      "motivo": "numeri_testo: numeri che non vengono dai dati dell'app: -17°"
+    },
+    {
+      "citta": "Roma",
+      "esito": "verifica",
+      "motivo": "numeri_testo: numeri che non vengono dai dati dell'app: -22°"
+    },
+    {
+      "citta": "Napoli",
+      "esito": "verifica",
+      "motivo": "numeri_testo: numeri che non vengono dai dati dell'app: -22°"
+    },
+    {
+      "citta": "Bologna",
+      "esito": "verifica",
+      "motivo": "numeri_testo: numeri che non vengono dai dati dell'app: -18°"
+    }
+  ],
+  "dati_scartati": {
+    "citta": "Torino",
+    "data_label": "martedì 27 ottobre",
+    "fonti_n": 7,
+    "fonti_elencate": 7,
+    "fonti_escluse": [],
+    "tmax_media": 16,
+    "tmax_min": 15,
+    "tmax_max": 17,
+    "tmin_media": 7,
+    "pioggia_media": 0,
+    "pioggia_min": 0,
+    "pioggia_max": 0,
+    "fonti_pioggia": 3,
+    "condizione": "sereno",
+    "fonti_condizione": 4,
+    "giorno_piu_incerto": "mercoledì",
+    "scarto_tmax": 3,
+    "tmax_scarto_fonti": 2.0,
+    "tmax_disaccordo": false,
+    "pioggia_disaccordo": false,
+    "gancio_pioggia": "pioggia 0%"
+  },
+  "giorno": "2026-10-26"
+}

@@ -5,7 +5,7 @@
   "ora_pubblicazione": "2026-10-26 19:00",
   "data_evento": "2026-10-27",
   "utm": "https://maxegon.github.io/meteo-stat-privacy/landing/?utm_source=instagram&utm_medium=social&utm_campaign=s1m_2026w44&utm_content=S1M_20261026_1900_FEED",
-  "generato_il": "2026-10-24T16:21:51+02:00",
+  "generato_il": "2026-10-24T17:43:14+02:00",
   "provvisorio": true,
   "giorno": "2026-10-26",
   "stato": "MEDIA_PRONTA",
@@ -91,7 +91,7 @@
     "fonti_condizione": 4,
     "giorno_piu_incerto": "giovedì",
     "scarto_tmax": 3,
-    "tmax_scarto_fonti": 1.2,
+    "tmax_scarto_fonti": 1.4,
     "tmax_disaccordo": false,
     "pioggia_disaccordo": false,
     "gancio_pioggia": "pioggia 0%"
@@ -99,7 +99,7 @@
   "fonti": [
     {
       "fonte": "Open-Meteo",
-      "tmax": 17.1,
+      "tmax": 17.3,
       "pioggia": 0,
       "pioggia_metodo": "orario"
     },
@@ -205,7 +205,7 @@
       "https://www.tomorrow.io"
     ]
   },
-  "scaricato_il": "2026-10-24T16:21:53+02:00",
+  "scaricato_il": "2026-10-24T17:43:15+02:00",
   "citta_usata": "Milano",
   "anteprima": {
     "testo": "Come nasce il numero che vedi. Domani a Milano le fonti indicano in media 16° di massima (da 16° a 17°). Scorri per capire come leggiamo i numeri. Scarica Solo1Meteo gratis: link in bio. #solo1meteo #meteo #previsionimeteo #meteoitalia",
