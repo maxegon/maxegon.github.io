@@ -1,0 +1,59 @@
+{
+ "data_evento": "2026-10-27",
+ "data_lunga": "Martedì 27 ottobre",
+ "categoria": "stasera_tv",
+ "eventi": [
+  {
+   "data": "2026-10-27",
+   "ora": "18:30",
+   "titolo": "Sassuolo – Lazio",
+   "competizione": "Serie A",
+   "sport": "soccer",
+   "canali": [
+    "DAZN"
+   ]
+  },
+  {
+   "data": "2026-10-27",
+   "ora": "20:15",
+   "titolo": "Panathinaikos AKTOR Athens – Armani Olimpia Milan",
+   "competizione": "Eurolega",
+   "sport": "basket",
+   "canali": [
+    "Sky Sport Uno"
+   ]
+  },
+  {
+   "data": "2026-10-27",
+   "ora": "20:30",
+   "titolo": "Valencia Basket – Fenerbahce Tarfin Istanbul",
+   "competizione": "Eurolega",
+   "sport": "basket",
+   "canali": [
+    "Sky Sport 256"
+   ]
+  },
+  {
+   "data": "2026-10-27",
+   "ora": "20:45",
+   "titolo": "AS Roma – Cagliari",
+   "competizione": "Serie A",
+   "sport": "soccer",
+   "canali": [
+    "DAZN"
+   ]
+  },
+  {
+   "data": "2026-10-27",
+   "ora": "20:45",
+   "titolo": "Torino – Como",
+   "competizione": "Serie A",
+   "sport": "soccer",
+   "canali": [
+    "Sky Sport 4K",
+    "Sky Sport Calcio",
+    "Sky Sport 251"
+   ]
+  }
+ ]
+}
