@@ -18,8 +18,19 @@
      "titolo": "prova"
     }
    ],
-   "messaggio_id": 674,
+   "messaggio_id": 690,
    "update_id": 225925309
+  },
+  "SHV_20261026_1230_VID": {
+   "pubblica_alle": "2026-10-26T12:30:00+01:00",
+   "formato": "Video",
+   "piattaforma": "TikTok / Shorts",
+   "sempreverde": false,
+   "chiave": "SHV_20261026_1230_VID",
+   "decisione": null,
+   "alle": "",
+   "correzioni": [],
+   "messaggio_id": 684
   }
  },
  "messaggi": {
@@ -43,10 +54,24 @@
     "SHV_20261026_1900_CAR"
    ],
    "base": "<b>19:00 · Carosello · Instagram / FB</b>\nID <code>SHV_20261026_1900_CAR</code>\n⚠️ Verifica ok · 4 fonti, tolti perché incerti:\n  • tolto «History Telling: Nelson Mandela e la…» lun 26/10: la replica del 2026-10-26 20:30 non e sulla pagina (https://www.vivaticket.com/it/ticket/x/305472)\n<pre>🎭 Questa settimana a teatro a Milano: 37 spettacoli in ShowViewLens. Eccone alcuni:\n\n1. Andrea Pucci - Dove Eravamo Rimasti...? · Unipol Dome · sab 31/10 · 21:00\n2. Il Romanzo di Milano 1: Sonia Bergamasco Legge Manzoni · TEATRO DEGLI ANGELI · lun 26/10 · 20:30\n3. Dado in &quot;Il Ripetente&quot; · Zelig · lun 26/10 · 20:45\n4. Turbopaolo · TAM - Teatro Arcimboldi Milano · lun 26/10 · 21:00\n\nSalva il post. Su ShowViewLens trovi date, orari e il link alla biglietteria ufficiale.\n\n📲 Scarica ShowViewLens gratis: link in bio (App Store e Google Play).\n\n#ShowViewLens #TeatroMilano #TeatroItalia #SpettacoliDalVivo</pre>\n\n<i>✅ OK: esce all'orario · ⏭️ Salta: non esce, contenuto legato a quella data · ✏️ Correggi: mi scrivi cosa cambiare · ↩️ Annulla: torna come prima. Nessun click = esce. Leggo i pulsanti ogni 15 minuti: decidi almeno 30 minuti prima.</i>"
+  },
+  "684": {
+   "chat_id": "1614787945",
+   "righe": [
+    "SHV_20261026_1230_VID"
+   ],
+   "base": "<b>12:30 · Video · TikTok / Shorts</b>\nID <code>SHV_20261026_1230_VID</code>\n⚠️ Verifica ok · 4 fonti, tolti perché incerti:\n  • tolto «Fontaines D.c.» lun 26/10: Ticketmaster: pagina non leggibile (HTTP 403)\n  • tolto «Eleine» lun 26/10: Ticketmaster: pagina non leggibile (HTTP 403)\nTikTok si pubblica a mano su @showviewlens (copia il testo qui sotto).\n<pre>🎶 Stasera in Italia: 29 serate dal vivo in ShowViewLens.\n\n1. Orchestra Olimpia - la Nostra Storia - il Voto alle Donne, 80 Anni di… · Auditorium Conciliazione · lun 26/10 · 20:00\n2. Nikolaj Lugansky · Auditorium Pollini · lun 26/10 · 20:15\n3. Giuseppe Gibboni · Teatro Carlo Felice · lun 26/10 · 20:30\n4. La Magia del Clarinetto · Teatro Umberto Giordano · lun 26/10 · 20:30\n\nOrari e biglietteria ufficiale su ShowViewLens. Scaricala gratis: link in bio.\n\n#ShowViewLens #Concerti #Teatro #CosaFareStasera</pre>\n\n<i>✅ OK: esce all'orario · ⏭️ Salta: non esce, contenuto legato a quella data · ✏️ Correggi: mi scrivi cosa cambiare · ↩️ Annulla: torna come prima. Nessun click = esce. Leggo i pulsanti ogni 15 minuti: decidi almeno 30 minuti prima.</i>"
+  },
+  "690": {
+   "chat_id": "1614787945",
+   "righe": [
+    "SHV_20261026_1900_CAR"
+   ],
+   "base": "<b>19:00 · Carosello · Instagram / FB</b>\nID <code>SHV_20261026_1900_CAR</code>\n✅ Verifica ok · 4 fonti\n<pre>🎭 Questa settimana a teatro a Milano: 37 spettacoli in ShowViewLens. Eccone alcuni:\n\n1. Andrea Pucci - Dove Eravamo Rimasti...? · Unipol Dome · sab 31/10 · 21:00\n2. Il Romanzo di Milano 1: Sonia Bergamasco Legge Manzoni · TEATRO DEGLI ANGELI · lun 26/10 · 20:30\n3. Dado in &quot;Il Ripetente&quot; · Zelig · lun 26/10 · 20:45\n4. Turbopaolo · TAM - Teatro Arcimboldi Milano · lun 26/10 · 21:00\n\nSalva il post. Su ShowViewLens trovi date, orari e il link alla biglietteria ufficiale.\n\n📲 Scarica ShowViewLens gratis: link in bio (App Store e Google Play).\n\n#ShowViewLens #TeatroMilano #TeatroItalia #SpettacoliDalVivo</pre>\n\n<i>✅ OK: esce all'orario · ⏭️ Salta: non esce, contenuto legato a quella data · ✏️ Correggi: mi scrivi cosa cambiare · ↩️ Annulla: torna come prima. Nessun click = esce. Leggo i pulsanti ogni 15 minuti: decidi almeno 30 minuti prima.</i>"
   }
  },
  "ultimo_update_id": 225925309,
- "anteprima_inviata_il": "2026-10-24T12:27:04+02:00",
+ "anteprima_inviata_il": "2026-10-24T17:43:16+02:00",
  "provvisorio": false,
  "aggiornato_il": "2026-10-24T12:30:18+02:00"
 }
