@@ -1,16 +1,11 @@
 {
- "offset": 225925306,
+ "offset": 225925308,
  "prompt": {
   "657": {
    "app": "ShowViewLens",
    "data": "2026-10-26",
    "riga": "SHV_20261026_1900_CAR"
-  },
-  "658": {
-   "app": "ShowViewLens",
-   "data": "2026-10-26",
-   "riga": "SHV_20261026_1900_CAR"
   }
  },
- "aggiornato_il": "2026-10-24T12:09:18+02:00"
+ "aggiornato_il": "2026-10-24T12:23:54+02:00"
 }
