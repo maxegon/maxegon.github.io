@@ -19,10 +19,11 @@
    "piattaforma": "Instagram Stories",
    "sempreverde": false,
    "chiave": "W1_DOM_2030",
-   "decisione": null,
-   "alle": "",
+   "decisione": "ok",
+   "alle": "2026-10-24T17:05:03+02:00",
    "correzioni": [],
-   "messaggio_id": 58
+   "messaggio_id": 58,
+   "update_id": 961682745
   }
  },
  "messaggi": {
@@ -41,7 +42,8 @@
    "base": "<b>20:30 · Storia · Instagram Stories</b>\nID <code>W1_DOM_2030</code>\n✅ Verifica ok · 8 fonti, tolti perché incerti:\n  • fonte_feed_editore: esclusi dal post: Tintoria: editore del feed «OnePodcast - The Comedy Club» diverso dal catalogo «Daniele Tinti &amp; Stefano Rapone / Indipende\n  • previsione_app_e_abitudine: 7 previsti dall&#x27;app e usciti di lunedì almeno 2 volte nelle ultime 3 settimane; tolti Morning\n<pre>Storia: S1: 7 podcast che di solito escono di lunedì titolo: cosa è previsto domani | S2: fino a 3 righe podcast e ora, etichetta Previsto | S3: Cerca «PodcastViewLens» su App Store e Google Play</pre>\n\n<i>✅ OK: esce all'orario · ⏭️ Salta: non esce, contenuto legato a quella data · ✏️ Correggi: mi scrivi cosa cambiare · ↩️ Annulla: torna come prima. Nessun click = esce. Leggo i pulsanti ogni 15 minuti: decidi almeno 30 minuti prima.</i>"
   }
  },
- "ultimo_update_id": null,
+ "ultimo_update_id": 961682745,
  "anteprima_inviata_il": "2026-10-24T16:51:01+02:00",
- "provvisorio": false
+ "provvisorio": false,
+ "aggiornato_il": "2026-10-24T17:05:05+02:00"
 }
