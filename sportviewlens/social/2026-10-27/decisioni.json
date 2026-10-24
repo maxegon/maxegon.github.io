@@ -1,0 +1,29 @@
+{
+ "app": "SportViewLens",
+ "data": "2026-10-27",
+ "righe": {
+  "SVL_20261027_1830_CAR": {
+   "pubblica_alle": "2026-10-27T18:30:00+01:00",
+   "formato": "Carosello",
+   "piattaforma": "Instagram / FB",
+   "sempreverde": false,
+   "chiave": "SVL_20261027_1830_CAR",
+   "decisione": null,
+   "alle": "",
+   "correzioni": [],
+   "messaggio_id": 428
+  }
+ },
+ "messaggi": {
+  "428": {
+   "chat_id": "1614787945",
+   "righe": [
+    "SVL_20261027_1830_CAR"
+   ],
+   "base": "<b>18:30 · Carosello · Instagram / FB</b>\nID <code>SVL_20261027_1830_CAR</code>\n⚠️ Verifica ok · 5 fonti, tolti perché incerti:\n  • tolto «Benevento – Catanzaro» 19:00: stagione dei diritti (2025-2026) non contiene il 2026-10-27; nessun canale con due fonti: DAZN (nessuna fonte); orario 19:00 non confrontabi\n  • tolto «Pinatar – Elche» 19:00: nessun canale con due fonti: DAZN (solo tv_rights); orario 19:00 non confrontabile col palinsesto\n  • tolto «Sestao River – Espanyol» 19:00: nessun canale con due fonti: DAZN (solo tv_rights); orario 19:00 non confrontabile col palinsesto\n  • tolto «Dolomiti Energia Trento - Buducnost Vo» 19:30: nessuna riga di tv_rights per basket / «Eurocup»; nessun canale con due fonti: Sky Sport 255 (solo palinsesto); orario 19:30 non confrontabi\n  • tolto «Ascoli – Sampdoria» 20:00: stagione dei diritti (2025-2026) non contiene il 2026-10-27; nessun canale con due fonti: DAZN (nessuna fonte); orario 20:00 non confrontabi\n  • tolto «Cesena – Empoli» 20:00: stagione dei diritti (2025-2026) non contiene il 2026-10-27; nessun canale con due fonti: DAZN (nessuna fonte); orario 20:00 non confrontabi\n  • … altri 6\n<pre>📺 Stasera in TV: 5 dirette sport\n\n• 18:30 Sassuolo – Lazio · DAZN\n• 20:15 Panathinaikos AKTOR Athens – Armani Olimpia Milan · Sky Sport Uno\n• 20:30 Valencia Basket – Fenerbahce Tarfin Istanbul · Sky Sport 256\n• 20:45 AS Roma – Cagliari · DAZN\n• 20:45 Torino – Como · Sky Sport 4K, Sky Sport Calcio\n\nOrari e canali della serata, sport per sport, su SportViewLens.\n📲 Scarica gratis SportViewLens: link in bio.\n\nSportViewLens non è affiliata con DAZN, Sky, RAI o altri broadcaster.\n🤖 Contenuto generato in automatico con IA dai palinsesti TV ufficiali.\n\n#SportViewLens #SportInTV #StaseraInTV</pre>\n\n<i>✅ OK: esce all'orario · ⏭️ Salta: non esce, contenuto legato a quella data · ✏️ Correggi: mi scrivi cosa cambiare · ↩️ Annulla: torna come prima. Nessun click = esce. Leggo i pulsanti ogni 15 minuti: decidi almeno 30 minuti prima.</i>"
+  }
+ },
+ "ultimo_update_id": null,
+ "anteprima_inviata_il": "2026-10-24T16:57:56+02:00",
+ "provvisorio": false
+}
