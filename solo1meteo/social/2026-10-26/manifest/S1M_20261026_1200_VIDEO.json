@@ -5,13 +5,13 @@
   "ora_pubblicazione": "2026-10-26 12:00",
   "data_evento": "2026-10-27",
   "utm": "https://maxegon.github.io/meteo-stat-privacy/landing/?utm_source=tiktok&utm_medium=social&utm_campaign=s1m_2026w44&utm_content=S1M_20261026_1200_VIDEO",
-  "generato_il": "2026-10-24T17:45:20+02:00",
+  "generato_il": "2026-10-25T22:20:40+01:00",
   "provvisorio": true,
   "giorno": "2026-10-26",
   "stato": "MEDIA_PRONTA",
   "motivo": null,
-  "testo_finale": "Domani a Torino: 7 fonti, massime tra 15° e 17°, media 16°. Ogni numero del video viene dai dati del giorno. Scarica Solo1Meteo: link in bio. #meteo #solo1meteo #previsionimeteo #meteoitalia",
-  "concept_finale": "S1 gancio: Domani a Torino: 15°-17° | S2 confronto: le 7 fonti una per una | S3 screenshot: schermata Previsioni | S4 cta: Scarica gratis Solo1Meteo",
+  "testo_finale": "Domani a Torino: 7 fonti, massime tra 14° e 17°, media 16°. Ogni numero del video viene dai dati del giorno. Scarica Solo1Meteo: link in bio. #meteo #solo1meteo #previsionimeteo #meteoitalia",
+  "concept_finale": "S1 gancio: Domani a Torino: 14°-17° | S2 confronto: le 7 fonti una per una | S3 screenshot: schermata Previsioni | S4 cta: Scarica gratis Solo1Meteo",
   "immagini": [
     "https://maxegon.github.io/solo1meteo/social/2026-10-26/S1M_20261026_1200_VIDEO/v1_gancio.png"
   ],
@@ -25,64 +25,64 @@
     "fonti_elencate": 7,
     "fonti_escluse": [],
     "tmax_media": 16,
-    "tmax_min": 15,
+    "tmax_min": 14,
     "tmax_max": 17,
     "tmin_media": 7,
-    "pioggia_media": 0,
+    "pioggia_media": 7,
     "pioggia_min": 0,
-    "pioggia_max": 0,
-    "fonti_pioggia": 3,
+    "pioggia_max": 23,
+    "fonti_pioggia": 5,
     "condizione": "sereno",
     "fonti_condizione": 4,
-    "giorno_piu_incerto": "mercoledì",
-    "scarto_tmax": 3,
-    "tmax_scarto_fonti": 2.0,
+    "giorno_piu_incerto": "sabato",
+    "scarto_tmax": 4,
+    "tmax_scarto_fonti": 3.2,
     "tmax_disaccordo": false,
     "pioggia_disaccordo": false,
-    "gancio_pioggia": "pioggia 0%"
+    "gancio_pioggia": "pioggia 7%"
   },
   "fonti": [
     {
       "fonte": "Open-Meteo",
-      "tmax": 16.6,
-      "pioggia": 0,
+      "tmax": 16.9,
+      "pioggia": 1,
       "pioggia_metodo": "orario"
     },
     {
       "fonte": "OpenWeatherMap",
-      "tmax": 16.3,
-      "pioggia": null,
-      "pioggia_metodo": null
+      "tmax": 17.24,
+      "pioggia": 0,
+      "pioggia_metodo": "orario"
+    },
+    {
+      "fonte": "WeatherAPI",
+      "tmax": 16.1,
+      "pioggia": 23,
+      "pioggia_metodo": "orario"
     },
     {
       "fonte": "MET Norway",
-      "tmax": 16.4,
+      "tmax": 16,
       "pioggia": null,
       "pioggia_metodo": null
     },
     {
       "fonte": "DWD",
-      "tmax": 16.6,
+      "tmax": 15.9,
       "pioggia": null,
       "pioggia_metodo": null
     },
     {
-      "fonte": "Visual Crossing",
-      "tmax": 15.6,
-      "pioggia": 0,
-      "pioggia_metodo": "giornaliero"
-    },
-    {
       "fonte": "7Timer!",
-      "tmax": 15,
+      "tmax": 14,
       "pioggia": 0,
       "pioggia_metodo": "orario"
     },
     {
       "fonte": "Tomorrow.io",
-      "tmax": 16.97,
-      "pioggia": null,
-      "pioggia_metodo": null
+      "tmax": 15.98,
+      "pioggia": 0,
+      "pioggia_metodo": "orario"
     }
   ],
   "verifica": {
@@ -116,7 +116,7 @@
       {
         "nome": "scarto",
         "esito": "ok",
-        "dettaglio": "massime 15-17° (scarto 2°), pioggia 0-0% (scarto 0)"
+        "dettaglio": "massime 14-17° (scarto 3°), pioggia 0-23% (scarto 23)"
       },
       {
         "nome": "giorno",
@@ -138,17 +138,17 @@
       "https://backend-eta-seven-21.vercel.app/weather?lat=45.07&lon=7.69",
       "https://open-meteo.com",
       "https://openweathermap.org",
+      "https://www.weatherapi.com",
       "https://api.met.no",
       "https://brightsky.dev",
-      "https://www.visualcrossing.com",
       "http://www.7timer.info",
       "https://www.tomorrow.io"
     ]
   },
-  "scaricato_il": "2026-10-24T17:45:21+02:00",
+  "scaricato_il": "2026-10-25T22:20:42+01:00",
   "citta_usata": "Torino",
   "anteprima": {
-    "testo": "Domani a Torino: 7 fonti, massime tra 15° e 17°, media 16°. Ogni numero del video viene dai dati del giorno. Scarica Solo1Meteo: link in bio. #meteo #solo1meteo #previsionimeteo #meteoitalia",
+    "testo": "Domani a Torino: 7 fonti, massime tra 14° e 17°, media 16°. Ogni numero del video viene dai dati del giorno. Scarica Solo1Meteo: link in bio. #meteo #solo1meteo #previsionimeteo #meteoitalia",
     "immagini": [
       "https://maxegon.github.io/solo1meteo/social/2026-10-26/S1M_20261026_1200_VIDEO/v1_gancio.png"
     ]

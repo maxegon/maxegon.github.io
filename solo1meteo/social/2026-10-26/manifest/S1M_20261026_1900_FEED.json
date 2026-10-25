@@ -5,141 +5,12 @@
   "ora_pubblicazione": "2026-10-26 19:00",
   "data_evento": "2026-10-27",
   "utm": "https://maxegon.github.io/meteo-stat-privacy/landing/?utm_source=instagram&utm_medium=social&utm_campaign=s1m_2026w44&utm_content=S1M_20261026_1900_FEED",
-  "generato_il": "2026-10-24T17:45:38+02:00",
+  "generato_il": "2026-10-25T22:21:07+01:00",
   "provvisorio": true,
   "giorno": "2026-10-26",
-  "stato": "MEDIA_PRONTA",
-  "motivo": null,
-  "testo_finale": "Come nasce il numero che vedi. Domani a Milano le fonti indicano in media 16° di massima (da 16° a 17°). Scorri per capire come leggiamo i numeri. Scarica Solo1Meteo gratis: link in bio. #solo1meteo #meteo #previsionimeteo #meteoitalia",
-  "concept_finale": "S1 gancio: Domani a Milano: 16°, pioggia 0% | S2 come funziona: chiediamo la previsione a 8 servizi meteo diversi | S3 media: facciamo la media dei valori disponibili e ti diciamo su quante fonti si basa | S4 screenshot: schermata Confronto | S5 cta: Scarica gratis Solo1Meteo",
-  "immagini": [
-    "https://maxegon.github.io/solo1meteo/social/2026-10-26/S1M_20261026_1900_FEED/1_copertina.png",
-    "https://maxegon.github.io/solo1meteo/social/2026-10-26/S1M_20261026_1900_FEED/2a_temperature.png",
-    "https://maxegon.github.io/solo1meteo/social/2026-10-26/S1M_20261026_1900_FEED/2b_temperature.png",
-    "https://maxegon.github.io/solo1meteo/social/2026-10-26/S1M_20261026_1900_FEED/3_pioggia.png",
-    "https://maxegon.github.io/solo1meteo/social/2026-10-26/S1M_20261026_1900_FEED/4_screenshot.png",
-    "https://maxegon.github.io/solo1meteo/social/2026-10-26/S1M_20261026_1900_FEED/5_cta.png"
-  ],
-  "video_url": null,
-  "ig_media": [
-    {
-      "media_type": "IMAGE",
-      "image_url": "https://maxegon.github.io/solo1meteo/social/2026-10-26/S1M_20261026_1900_FEED/1_copertina.png"
-    },
-    {
-      "media_type": "IMAGE",
-      "image_url": "https://maxegon.github.io/solo1meteo/social/2026-10-26/S1M_20261026_1900_FEED/2a_temperature.png"
-    },
-    {
-      "media_type": "IMAGE",
-      "image_url": "https://maxegon.github.io/solo1meteo/social/2026-10-26/S1M_20261026_1900_FEED/2b_temperature.png"
-    },
-    {
-      "media_type": "IMAGE",
-      "image_url": "https://maxegon.github.io/solo1meteo/social/2026-10-26/S1M_20261026_1900_FEED/3_pioggia.png"
-    },
-    {
-      "media_type": "IMAGE",
-      "image_url": "https://maxegon.github.io/solo1meteo/social/2026-10-26/S1M_20261026_1900_FEED/4_screenshot.png"
-    },
-    {
-      "media_type": "IMAGE",
-      "image_url": "https://maxegon.github.io/solo1meteo/social/2026-10-26/S1M_20261026_1900_FEED/5_cta.png"
-    }
-  ],
-  "fb_photos": [
-    {
-      "type": "url",
-      "url": "https://maxegon.github.io/solo1meteo/social/2026-10-26/S1M_20261026_1900_FEED/1_copertina.png"
-    },
-    {
-      "type": "url",
-      "url": "https://maxegon.github.io/solo1meteo/social/2026-10-26/S1M_20261026_1900_FEED/2a_temperature.png"
-    },
-    {
-      "type": "url",
-      "url": "https://maxegon.github.io/solo1meteo/social/2026-10-26/S1M_20261026_1900_FEED/2b_temperature.png"
-    },
-    {
-      "type": "url",
-      "url": "https://maxegon.github.io/solo1meteo/social/2026-10-26/S1M_20261026_1900_FEED/3_pioggia.png"
-    },
-    {
-      "type": "url",
-      "url": "https://maxegon.github.io/solo1meteo/social/2026-10-26/S1M_20261026_1900_FEED/4_screenshot.png"
-    },
-    {
-      "type": "url",
-      "url": "https://maxegon.github.io/solo1meteo/social/2026-10-26/S1M_20261026_1900_FEED/5_cta.png"
-    }
-  ],
-  "dati": {
-    "citta": "Milano",
-    "data_label": "martedì 27 ottobre",
-    "fonti_n": 7,
-    "fonti_elencate": 7,
-    "fonti_escluse": [],
-    "tmax_media": 16,
-    "tmax_min": 16,
-    "tmax_max": 17,
-    "tmin_media": 8,
-    "pioggia_media": 0,
-    "pioggia_min": 0,
-    "pioggia_max": 0,
-    "fonti_pioggia": 3,
-    "condizione": "sereno",
-    "fonti_condizione": 4,
-    "giorno_piu_incerto": "giovedì",
-    "scarto_tmax": 3,
-    "tmax_scarto_fonti": 1.4,
-    "tmax_disaccordo": false,
-    "pioggia_disaccordo": false,
-    "gancio_pioggia": "pioggia 0%"
-  },
-  "fonti": [
-    {
-      "fonte": "Open-Meteo",
-      "tmax": 17.3,
-      "pioggia": 0,
-      "pioggia_metodo": "orario"
-    },
-    {
-      "fonte": "OpenWeatherMap",
-      "tmax": 15.87,
-      "pioggia": null,
-      "pioggia_metodo": null
-    },
-    {
-      "fonte": "MET Norway",
-      "tmax": 15.9,
-      "pioggia": null,
-      "pioggia_metodo": null
-    },
-    {
-      "fonte": "DWD",
-      "tmax": 16.3,
-      "pioggia": null,
-      "pioggia_metodo": null
-    },
-    {
-      "fonte": "Visual Crossing",
-      "tmax": 16.6,
-      "pioggia": 0,
-      "pioggia_metodo": "giornaliero"
-    },
-    {
-      "fonte": "7Timer!",
-      "tmax": 16,
-      "pioggia": 0,
-      "pioggia_metodo": "orario"
-    },
-    {
-      "fonte": "Tomorrow.io",
-      "tmax": 16.15,
-      "pioggia": null,
-      "pioggia_metodo": null
-    }
-  ],
+  "stato": "SALTATO_RENDER",
+  "motivo": "2a_temperature RIFIUTATA:\n  - 27 parole > 25",
+  "testo_finale": "Come nasce il numero che vedi. Domani a Milano le fonti indicano in media 16° di massima (da 14° a 19°). Scorri per capire come leggiamo i numeri. Scarica Solo1Meteo gratis: link in bio. #solo1meteo #meteo #previsionimeteo #meteoitalia",
   "verifica": {
     "esito": "ok",
     "controlli": [
@@ -156,7 +27,7 @@
       {
         "nome": "fonti_pioggia",
         "esito": "ok",
-        "dettaglio": "3 fonti con il dato di pioggia (minimo 3)"
+        "dettaglio": "5 fonti con il dato di pioggia (minimo 3)"
       },
       {
         "nome": "freschezza",
@@ -176,7 +47,7 @@
       {
         "nome": "scarto",
         "esito": "ok",
-        "dettaglio": "massime 16-17° (scarto 1°), pioggia 0-0% (scarto 0)"
+        "dettaglio": "massime 14-19° (scarto 5°), pioggia 0-13% (scarto 13) | disaccordo sulle massime: il gancio mostra l'intervallo"
       },
       {
         "nome": "giorno",
@@ -198,19 +69,11 @@
       "https://backend-eta-seven-21.vercel.app/weather?lat=45.46&lon=9.19",
       "https://open-meteo.com",
       "https://openweathermap.org",
+      "https://www.weatherapi.com",
       "https://api.met.no",
       "https://brightsky.dev",
-      "https://www.visualcrossing.com",
       "http://www.7timer.info",
       "https://www.tomorrow.io"
-    ]
-  },
-  "scaricato_il": "2026-10-24T17:45:39+02:00",
-  "citta_usata": "Milano",
-  "anteprima": {
-    "testo": "Come nasce il numero che vedi. Domani a Milano le fonti indicano in media 16° di massima (da 16° a 17°). Scorri per capire come leggiamo i numeri. Scarica Solo1Meteo gratis: link in bio. #solo1meteo #meteo #previsionimeteo #meteoitalia",
-    "immagini": [
-      "https://maxegon.github.io/solo1meteo/social/2026-10-26/S1M_20261026_1900_FEED/1_copertina.png"
     ]
   }
 }
