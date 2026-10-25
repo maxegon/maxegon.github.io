@@ -23,7 +23,7 @@
    "decisione": null,
    "alle": "",
    "correzioni": [],
-   "messaggio_id": 552
+   "messaggio_id": 565
   }
  },
  "messaggi": {
@@ -54,10 +54,17 @@
     "S1M_20261026_1900_FEED"
    ],
    "base": "<b>19:00 · Carosello · Instagram / FB</b>\nID <code>S1M_20261026_1900_FEED</code>\n✅ Verifica ok · 8 fonti\n<pre>Come nasce il numero che vedi. Domani a Milano le fonti indicano in media 16° di massima (da 16° a 17°). Scorri per capire come leggiamo i numeri. Scarica Solo1Meteo gratis: link in bio. #solo1meteo #meteo #previsionimeteo #meteoitalia</pre>\n\n<i>✅ OK: esce all'orario · ⏭️ Salta: non esce, contenuto legato a quella data · ✏️ Correggi: mi scrivi cosa cambiare · ↩️ Annulla: torna come prima. Nessun click = esce. Leggo i pulsanti ogni 15 minuti: decidi almeno 30 minuti prima.</i>"
+  },
+  "565": {
+   "chat_id": "1614787945",
+   "righe": [
+    "S1M_20261026_1200_VIDEO"
+   ],
+   "base": "<b>12:00 · Video · TikTok</b>\nID <code>S1M_20261026_1200_VIDEO</code>\n✅ Verifica ok · 8 fonti\nTikTok si pubblica a mano su @solounmeteo (copia il testo qui sotto).\n<pre>Domani a Torino: 7 fonti, massime tra 14° e 17°, media 16°. Ogni numero del video viene dai dati del giorno. Scarica Solo1Meteo: link in bio. #meteo #solo1meteo #previsionimeteo #meteoitalia</pre>\n\n<i>✅ OK: esce all'orario · ⏭️ Salta: non esce, contenuto legato a quella data · ✏️ Correggi: mi scrivi cosa cambiare · ↩️ Annulla: torna come prima. Nessun click = esce. Leggo i pulsanti ogni 15 minuti: decidi almeno 30 minuti prima.</i>"
   }
  },
  "ultimo_update_id": 919676369,
- "anteprima_inviata_il": "2026-10-24T17:46:03+02:00",
+ "anteprima_inviata_il": "2026-10-25T22:21:22+01:00",
  "provvisorio": true,
  "aggiornato_il": "2026-10-24T17:02:07+02:00"
 }
