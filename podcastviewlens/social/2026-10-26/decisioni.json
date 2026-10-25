@@ -11,7 +11,7 @@
    "decisione": null,
    "alle": "",
    "correzioni": [],
-   "messaggio_id": 65
+   "messaggio_id": 72
   }
  },
  "messaggi": {
@@ -21,9 +21,16 @@
     "W1_LUN_1830"
    ],
    "base": "<b>18:30 · Carosello · Instagram / FB</b>\nID <code>W1_LUN_1830</code>\n✅ Verifica ok\n<pre>Ogni giorno le nuove puntate dei podcast in palinsesto, divise in 5 fasce: Mattina, Pranzo, Pomeriggio, Sera e Notte. Scegli la fascia e con 1 tap si apre su Spotify o Apple Podcasts.\n\nScarica PodcastViewLens gratis: link in bio.\n\n#PodcastViewLens #PodcastItalia #CosaAscoltare</pre>\n\n<i>✅ OK: esce all'orario · ⏭️ Salta: non esce, torna in coda tra 7 giorni · ✏️ Correggi: mi scrivi cosa cambiare · ↩️ Annulla: torna come prima. Nessun click = esce. Leggo i pulsanti ogni 15 minuti: decidi almeno 30 minuti prima.</i>"
+  },
+  "72": {
+   "chat_id": "1614787945",
+   "righe": [
+    "W1_LUN_1830"
+   ],
+   "base": "<b>18:30 · Carosello · Instagram / FB</b>\nID <code>W1_LUN_1830</code>\n✅ Verifica ok\n<pre>Ogni giorno le nuove puntate dei podcast in palinsesto, divise in 5 fasce: Mattina, Pranzo, Pomeriggio, Sera e Notte. Scegli la fascia e con 1 tap si apre su Spotify o Apple Podcasts.\n\nScarica PodcastViewLens gratis: link in bio.\n\n#PodcastViewLens #PodcastItalia #CosaAscoltare</pre>\n\n<i>✅ OK: esce all'orario · ⏭️ Salta: non esce, torna in coda tra 7 giorni · ✏️ Correggi: mi scrivi cosa cambiare · ↩️ Annulla: torna come prima. Nessun click = esce. Leggo i pulsanti ogni 15 minuti: decidi almeno 30 minuti prima.</i>"
   }
  },
  "ultimo_update_id": null,
- "anteprima_inviata_il": "2026-10-24T17:45:01+02:00",
+ "anteprima_inviata_il": "2026-10-25T22:23:11+01:00",
  "provvisorio": false
 }
