@@ -1,0 +1,25 @@
+{
+ "generato": "2026-10-26T23:05:19+00:00",
+ "data_pubblicazione": "2026-10-28",
+ "base_url": "https://maxegon.github.io/sportviewlens/social/2026-10-28",
+ "righe": [
+  {
+   "Giorno_Slot": "SVL_20261028_1830_VID",
+   "Formato": "Video",
+   "Piattaforma": "Instagram / FB + TikTok",
+   "Ora": "18:30",
+   "Categoria": "stasera_tv",
+   "Data_Evento": "2026-10-28",
+   "UTM": "https://maxegon.github.io/sportviewlens/download/?utm_source=instagram&utm_medium=reel&utm_campaign=stasera_tv&utm_content=SVL_20261028_1830_VID",
+   "note": [],
+   "Stato": "SALTATO_DATI",
+   "motivo": "audit_app_events.js fallito (1): ❌ Errore fatale in audit_app_events.js: TypeError: sportNameFor is not a function\n    at main (/home/runner/work/SportViewLens/SportViewLens/scripts/audit_app_events.js:390:39)\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n … For ",
+   "id": "SVL_20261028_1830_VID",
+   "stato": "SALTATO_DATI",
+   "formato": "Video",
+   "piattaforma": "Instagram / FB + TikTok",
+   "utm": "https://maxegon.github.io/sportviewlens/download/?utm_source=instagram&utm_medium=reel&utm_campaign=stasera_tv&utm_content=SVL_20261028_1830_VID",
+   "pubblica_alle": "2026-10-28T18:30+01:00"
+  }
+ ]
+}
