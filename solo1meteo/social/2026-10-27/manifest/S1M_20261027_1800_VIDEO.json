@@ -5,71 +5,157 @@
   "ora_pubblicazione": "2026-10-27 18:00",
   "data_evento": "2026-10-28",
   "utm": "https://maxegon.github.io/meteo-stat-privacy/landing/?utm_source=tiktok&utm_medium=social&utm_campaign=s1m_2026w44&utm_content=S1M_20261027_1800_VIDEO",
-  "generato_il": "2026-10-23T22:16:14+02:00",
+  "generato_il": "2026-10-26T23:59:33+01:00",
+  "provvisorio": true,
   "giorno": "2026-10-27",
   "stato": "MEDIA_PRONTA",
   "motivo": null,
-  "testo_finale": "Domani a Napoli: 6 fonti, massime tra 20° e 22°, media 22°. Ogni numero del video viene dai dati del giorno. Scarica Solo1Meteo: link in bio. #meteo #solo1meteo #previsionimeteo #meteoitalia",
-  "concept_finale": "S1 gancio: Domani a Napoli: 20°-22° | S2 confronto: le 6 fonti una per una | S3 screenshot: schermata Previsioni | S4 cta: Scarica gratis Solo1Meteo",
+  "testo_finale": "Domani a Torino: 7 fonti, massime tra 16° e 18°, media 17°. Ogni numero del video viene dai dati del giorno. Scarica Solo1Meteo: link in bio. #meteo #solo1meteo #previsionimeteo #meteoitalia",
+  "concept_finale": "S1 gancio: Domani a Torino: 16°-18° | S2 confronto: le 7 fonti una per una | S3 screenshot: schermata Previsioni | S4 cta: Scarica gratis Solo1Meteo",
   "immagini": [
     "https://maxegon.github.io/solo1meteo/social/2026-10-27/S1M_20261027_1800_VIDEO/v1_gancio.png"
   ],
   "video_url": "https://maxegon.github.io/solo1meteo/social/2026-10-27/S1M_20261027_1800_VIDEO/video.mp4",
+  "ig_media": [],
+  "fb_photos": [],
   "dati": {
-    "citta": "Napoli",
+    "citta": "Torino",
     "data_label": "mercoledì 28 ottobre",
-    "fonti_n": 6,
-    "tmax_media": 22,
-    "tmax_min": 20,
-    "tmax_max": 22,
-    "tmin_media": 12,
-    "pioggia_media": 0,
+    "fonti_n": 7,
+    "fonti_elencate": 7,
+    "fonti_escluse": [],
+    "tmax_media": 17,
+    "tmax_min": 16,
+    "tmax_max": 18,
+    "tmin_media": 8,
+    "pioggia_media": 4,
     "pioggia_min": 0,
-    "pioggia_max": 0,
-    "fonti_pioggia": 3,
-    "condizione": "nuvoloso",
-    "fonti_condizione": 3,
-    "giorno_piu_incerto": "giovedì",
-    "scarto_tmax": 3,
+    "pioggia_max": 22,
+    "fonti_pioggia": 5,
+    "condizione": "sereno",
+    "fonti_condizione": 5,
+    "giorno_piu_incerto": "domenica",
+    "scarto_tmax": 4,
+    "tmax_scarto_fonti": 2.3,
+    "tmax_disaccordo": false,
     "pioggia_disaccordo": false,
-    "gancio_pioggia": "pioggia 0%"
+    "gancio_pioggia": "pioggia 4%"
   },
   "fonti": [
     {
       "fonte": "Open-Meteo",
-      "tmax": 22.1,
+      "tmax": 18.3,
+      "pioggia": 3,
+      "pioggia_metodo": "orario"
+    },
+    {
+      "fonte": "OpenWeatherMap",
+      "tmax": 18.24,
       "pioggia": 0,
       "pioggia_metodo": "orario"
     },
     {
+      "fonte": "WeatherAPI",
+      "tmax": 17.8,
+      "pioggia": 22,
+      "pioggia_metodo": "orario"
+    },
+    {
       "fonte": "MET Norway",
-      "tmax": 21.6,
+      "tmax": 17.1,
       "pioggia": null,
       "pioggia_metodo": null
     },
     {
       "fonte": "DWD",
-      "tmax": 22.1,
+      "tmax": 16.9,
       "pioggia": null,
       "pioggia_metodo": null
     },
     {
-      "fonte": "Visual Crossing",
-      "tmax": 20,
-      "pioggia": 0,
-      "pioggia_metodo": "giornaliero"
-    },
-    {
       "fonte": "7Timer!",
-      "tmax": 22,
+      "tmax": 16,
       "pioggia": 0,
       "pioggia_metodo": "orario"
     },
     {
       "fonte": "Tomorrow.io",
-      "tmax": 21.04,
-      "pioggia": null,
-      "pioggia_metodo": null
+      "tmax": 17.1,
+      "pioggia": 0,
+      "pioggia_metodo": "orario"
     }
-  ]
+  ],
+  "verifica": {
+    "esito": "ok",
+    "controlli": [
+      {
+        "nome": "backend",
+        "esito": "ok",
+        "dettaglio": "/health = healthy"
+      },
+      {
+        "nome": "fonti",
+        "esito": "ok",
+        "dettaglio": "7 fonti su 8 per 2026-10-28 (minimo 6)"
+      },
+      {
+        "nome": "freschezza",
+        "esito": "ok",
+        "dettaglio": "dato scaricato 0 minuti prima del rendering (massimo 3 ore, cache backend 10 minuti)"
+      },
+      {
+        "nome": "calcolo_app",
+        "esito": "ok",
+        "dettaglio": "copia del calcolo dell'app sha f8de55e39310 (submodule assente in CI) | codice dell'app (buildAggregateDays)"
+      },
+      {
+        "nome": "numeri_testo",
+        "esito": "ok",
+        "dettaglio": "tutti i numeri con ° o % sono quelli calcolati come nell'app"
+      },
+      {
+        "nome": "scarto",
+        "esito": "ok",
+        "dettaglio": "massime 16-18° (scarto 2°), pioggia 0-22% (scarto 22)"
+      },
+      {
+        "nome": "giorno",
+        "esito": "ok",
+        "dettaglio": "giorno citato = mercoledì 2026-10-28"
+      },
+      {
+        "nome": "allerte",
+        "esito": "ok",
+        "dettaglio": "nessuna allerta meteo attiva per il giorno (WeatherAPI)"
+      },
+      {
+        "nome": "posizione",
+        "esito": "ok",
+        "dettaglio": "Torino: citta fissa del piano, nessuna posizione dell'utente"
+      },
+      {
+        "nome": "citta",
+        "esito": "ok",
+        "dettaglio": "Napoli sostituita con Torino: allerte: allerta meteo attiva (Giallo Vento Allerta) e nessun ente citato nel post"
+      }
+    ],
+    "fonti": [
+      "https://backend-eta-seven-21.vercel.app/weather?lat=45.07&lon=7.69",
+      "https://open-meteo.com",
+      "https://openweathermap.org",
+      "https://www.weatherapi.com",
+      "https://api.met.no",
+      "https://brightsky.dev",
+      "http://www.7timer.info",
+      "https://www.tomorrow.io"
+    ]
+  },
+  "scaricato_il": "2026-10-26T23:59:35+01:00",
+  "citta_usata": "Torino",
+  "anteprima": {
+    "testo": "Domani a Torino: 7 fonti, massime tra 16° e 18°, media 17°. Ogni numero del video viene dai dati del giorno. Scarica Solo1Meteo: link in bio. #meteo #solo1meteo #previsionimeteo #meteoitalia",
+    "immagini": [
+      "https://maxegon.github.io/solo1meteo/social/2026-10-27/S1M_20261027_1800_VIDEO/v1_gancio.png"
+    ]
+  }
 }
