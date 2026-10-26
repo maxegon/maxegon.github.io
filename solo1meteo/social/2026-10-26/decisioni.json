@@ -8,10 +8,10 @@
    "piattaforma": "Instagram / FB",
    "sempreverde": false,
    "chiave": "S1M_20261026_1900_FEED",
-   "decisione": "ok",
+   "decisione": null,
    "alle": "2026-10-24T17:02:06+02:00",
    "correzioni": [],
-   "messaggio_id": 576,
+   "messaggio_id": 585,
    "update_id": 919676369
   },
   "S1M_20261026_1200_VIDEO": {
@@ -75,10 +75,17 @@
     "S1M_20261026_1900_FEED"
    ],
    "base": "<b>19:00 · Carosello · Instagram / FB</b>\nID <code>S1M_20261026_1900_FEED</code>\n✅ Verifica ok · 8 fonti\n<pre>Come nasce il numero che vedi. Domani a Milano le fonti indicano in media 16° di massima (da 14° a 19°). Scorri per capire come leggiamo i numeri. Scarica Solo1Meteo gratis: link in bio. #solo1meteo #meteo #previsionimeteo #meteoitalia</pre>\n\n<i>✅ OK: esce all'orario · ⏭️ Salta: non esce, contenuto legato a quella data · ✏️ Correggi: mi scrivi cosa cambiare · ↩️ Annulla: torna come prima. Nessun click = esce. Leggo i pulsanti ogni 15 minuti: decidi almeno 30 minuti prima.</i>"
+  },
+  "585": {
+   "chat_id": "1614787945",
+   "righe": [
+    "S1M_20261026_1900_FEED"
+   ],
+   "base": "🔄 Dati cambiati dalla sera (ora definitivi): condizione: nebbia -&gt; nuvoloso. Il post esce con i dati freschi; conferma o salta.\n<b>19:00 · Carosello · Instagram / FB</b>\nID <code>S1M_20261026_1900_FEED</code>\n✅ Verifica ok · 9 fonti\n<pre>Come nasce il numero che vedi. Domani a Milano le fonti indicano in media 16° di massima (da 15° a 19°). Scorri per capire come leggiamo i numeri. Scarica Solo1Meteo gratis: link in bio. #solo1meteo #meteo #previsionimeteo #meteoitalia</pre>\n\n<i>✅ OK: esce all'orario · ⏭️ Salta: non esce, contenuto legato a quella data · ✏️ Correggi: mi scrivi cosa cambiare · ↩️ Annulla: torna come prima. Nessun click = esce. Leggo i pulsanti ogni 15 minuti: decidi almeno 30 minuti prima.</i>"
   }
  },
  "ultimo_update_id": 919676369,
- "anteprima_inviata_il": "2026-10-25T23:05:26+01:00",
- "provvisorio": true,
+ "anteprima_inviata_il": "2026-10-26T12:37:42+01:00",
+ "provvisorio": false,
  "aggiornato_il": "2026-10-24T17:02:07+02:00"
 }
