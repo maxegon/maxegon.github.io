@@ -1,0 +1,106 @@
+{
+  "date": "2026-10-28",
+  "generated_at": "2026-10-27T00:00+01:00",
+  "sources_skipped": [],
+  "rimandate": [
+    "W1_MER_2030"
+  ],
+  "items": [
+    {
+      "id": "W1_MER_1830",
+      "piattaforma": "Instagram / FB",
+      "formato": "Carosello",
+      "ora": "18:30",
+      "utm": "https://podcastviewlens.vercel.app/download?utm_source=instagram&utm_medium=social&utm_campaign=pvl_2026w44&utm_content=W1_MER_1830",
+      "stato": "PRONTO",
+      "motivo": "",
+      "caption": "Tre filtri di durata per scegliere in fretta: Caffè sotto i 20 minuti, Pendolare tra 20 e 45, Relax oltre i 45. Li trovi in Cerca.\n\nScarica PodcastViewLens gratis: link in bio.\n\n#PodcastViewLens #PodcastItalia #CosaAscoltare",
+      "files": [
+        "https://maxegon.github.io/podcastviewlens/social/2026-10-28/W1_MER_1830/slide_01.jpg",
+        "https://maxegon.github.io/podcastviewlens/social/2026-10-28/W1_MER_1830/slide_02.jpg",
+        "https://maxegon.github.io/podcastviewlens/social/2026-10-28/W1_MER_1830/slide_03.jpg",
+        "https://maxegon.github.io/podcastviewlens/social/2026-10-28/W1_MER_1830/slide_04.jpg",
+        "https://maxegon.github.io/podcastviewlens/social/2026-10-28/W1_MER_1830/slide_05.jpg",
+        "https://maxegon.github.io/podcastviewlens/social/2026-10-28/W1_MER_1830/slide_06.jpg"
+      ],
+      "verifica": {
+        "esito": "ok",
+        "controlli": [
+          {
+            "nome": "dati_variabili",
+            "esito": "ok",
+            "dettaglio": "nessun dato variabile: testo sulle funzioni dell'app (app_features.json, guardrails.json)"
+          },
+          {
+            "nome": "funzione_in_app",
+            "esito": "ok",
+            "dettaglio": "«durate_3_fasce» verificata il 2026-10-23 su src/data/genres.js, src/screens/SearchScreen.js"
+          }
+        ],
+        "fonti": []
+      },
+      "anteprima": {
+        "testo": "Tre filtri di durata per scegliere in fretta: Caffè sotto i 20 minuti, Pendolare tra 20 e 45, Relax oltre i 45. Li trovi in Cerca.\n\nScarica PodcastViewLens gratis: link in bio.\n\n#PodcastViewLens #PodcastItalia #CosaAscoltare",
+        "immagini": [
+          "https://maxegon.github.io/podcastviewlens/social/2026-10-28/W1_MER_1830/slide_01.jpg"
+        ]
+      },
+      "pubblica_alle": "2026-10-28T18:30+01:00",
+      "sempreverde": true,
+      "eventi": [],
+      "titolo_slide": "Quanto tempo hai?",
+      "ig_media": [
+        {
+          "media_type": "IMAGE",
+          "image_url": "https://maxegon.github.io/podcastviewlens/social/2026-10-28/W1_MER_1830/slide_01.jpg"
+        },
+        {
+          "media_type": "IMAGE",
+          "image_url": "https://maxegon.github.io/podcastviewlens/social/2026-10-28/W1_MER_1830/slide_02.jpg"
+        },
+        {
+          "media_type": "IMAGE",
+          "image_url": "https://maxegon.github.io/podcastviewlens/social/2026-10-28/W1_MER_1830/slide_03.jpg"
+        },
+        {
+          "media_type": "IMAGE",
+          "image_url": "https://maxegon.github.io/podcastviewlens/social/2026-10-28/W1_MER_1830/slide_04.jpg"
+        },
+        {
+          "media_type": "IMAGE",
+          "image_url": "https://maxegon.github.io/podcastviewlens/social/2026-10-28/W1_MER_1830/slide_05.jpg"
+        },
+        {
+          "media_type": "IMAGE",
+          "image_url": "https://maxegon.github.io/podcastviewlens/social/2026-10-28/W1_MER_1830/slide_06.jpg"
+        }
+      ],
+      "fb_photos": [
+        {
+          "type": "url",
+          "url": "https://maxegon.github.io/podcastviewlens/social/2026-10-28/W1_MER_1830/slide_01.jpg"
+        },
+        {
+          "type": "url",
+          "url": "https://maxegon.github.io/podcastviewlens/social/2026-10-28/W1_MER_1830/slide_02.jpg"
+        },
+        {
+          "type": "url",
+          "url": "https://maxegon.github.io/podcastviewlens/social/2026-10-28/W1_MER_1830/slide_03.jpg"
+        },
+        {
+          "type": "url",
+          "url": "https://maxegon.github.io/podcastviewlens/social/2026-10-28/W1_MER_1830/slide_04.jpg"
+        },
+        {
+          "type": "url",
+          "url": "https://maxegon.github.io/podcastviewlens/social/2026-10-28/W1_MER_1830/slide_05.jpg"
+        },
+        {
+          "type": "url",
+          "url": "https://maxegon.github.io/podcastviewlens/social/2026-10-28/W1_MER_1830/slide_06.jpg"
+        }
+      ]
+    }
+  ]
+}
