@@ -1,6 +1,6 @@
 {
   "data": "2026-10-28",
-  "generato_il": "2026-10-23T20:21:41+00:00",
+  "generato_il": "2026-10-26T23:05:29+00:00",
   "piano": "marketing/piano_4_settimane.csv",
   "righe": [
     {
@@ -31,7 +31,160 @@
           "ora 10:30 prima di 11:00"
         ]
       ],
-      "doppioni_rimossi": 44,
+      "doppioni_rimossi": 46,
+      "verifica_eventi": [
+        {
+          "evento": "Italian Opera Taormina",
+          "data": "2026-10-28",
+          "ora": "21:15",
+          "citta": "Taormina",
+          "fonte": "vivaticket",
+          "esito": "ok",
+          "rinforzato": false,
+          "controlli": [
+            {
+              "nome": "orario",
+              "esito": "ok",
+              "dettaglio": "21:15"
+            },
+            {
+              "nome": "titolo",
+              "esito": "ok",
+              "dettaglio": "nessuna etichetta di abbonamento"
+            },
+            {
+              "nome": "biglietteria",
+              "esito": "ok",
+              "dettaglio": "Vivaticket: replica letta dall API pubblica"
+            },
+            {
+              "nome": "pagina",
+              "esito": "ok",
+              "dettaglio": "titolo, citta, data e ora coincidono (2026-10-28 21:15, TAORMINA)"
+            },
+            {
+              "nome": "serie",
+              "esito": "ok",
+              "dettaglio": "17 date della produzione, nessuna anomalia in testa alla serie"
+            }
+          ],
+          "fonti": [
+            "https://shop.vivaticket.com/it/sell/?cmd=prices&pcode=13298485&tcode=vt0020309"
+          ]
+        },
+        {
+          "evento": "Collectif Xy - le Pas Du Monde",
+          "data": "2026-10-29",
+          "ora": "21:00",
+          "citta": "Roma",
+          "fonte": "vivaticket",
+          "esito": "ok",
+          "rinforzato": false,
+          "controlli": [
+            {
+              "nome": "orario",
+              "esito": "ok",
+              "dettaglio": "21:00"
+            },
+            {
+              "nome": "titolo",
+              "esito": "ok",
+              "dettaglio": "nessuna etichetta di abbonamento"
+            },
+            {
+              "nome": "biglietteria",
+              "esito": "ok",
+              "dettaglio": "Vivaticket: replica letta dall API pubblica"
+            },
+            {
+              "nome": "pagina",
+              "esito": "ok",
+              "dettaglio": "titolo, citta, data e ora coincidono (2026-10-29 21:00, ROMA)"
+            },
+            {
+              "nome": "serie",
+              "esito": "ok",
+              "dettaglio": "4 date della produzione, nessuna anomalia in testa alla serie"
+            }
+          ],
+          "fonti": [
+            "https://shop.vivaticket.com/it/sell/?cmd=prices&pcode=13804642&tcode=vt0001732"
+          ]
+        },
+        {
+          "evento": "Rigoletto",
+          "data": "2026-10-28",
+          "ora": "18:30",
+          "citta": "Palermo",
+          "fonte": "ticketone",
+          "esito": "ok",
+          "rinforzato": false,
+          "controlli": [
+            {
+              "nome": "orario",
+              "esito": "ok",
+              "dettaglio": "18:30"
+            },
+            {
+              "nome": "titolo",
+              "esito": "ok",
+              "dettaglio": "nessuna etichetta di abbonamento"
+            },
+            {
+              "nome": "biglietteria",
+              "esito": "ok",
+              "dettaglio": "TicketOne (blocca i bot): URL ben formato, visto nell ultimo giro (missing_count=0, fonte aggiornata da meno di 36 h)"
+            },
+            {
+              "nome": "serie",
+              "esito": "ok",
+              "dettaglio": "5 date della produzione, nessuna anomalia in testa alla serie"
+            }
+          ],
+          "fonti": [
+            "https://www.ticketone.it/event/rigoletto-teatro-massimo-di-palermo-teatro-massimo-20856426/"
+          ]
+        },
+        {
+          "evento": "Jeu De Cartes / Amelia al Ballo",
+          "data": "2026-10-28",
+          "ora": "19:00",
+          "citta": "Verona",
+          "fonte": "vivaticket",
+          "esito": "ok",
+          "rinforzato": false,
+          "controlli": [
+            {
+              "nome": "orario",
+              "esito": "ok",
+              "dettaglio": "19:00"
+            },
+            {
+              "nome": "titolo",
+              "esito": "ok",
+              "dettaglio": "nessuna etichetta di abbonamento"
+            },
+            {
+              "nome": "biglietteria",
+              "esito": "ok",
+              "dettaglio": "Vivaticket: replica letta dall API pubblica"
+            },
+            {
+              "nome": "pagina",
+              "esito": "ok",
+              "dettaglio": "titolo, citta, data e ora coincidono (2026-10-28 19:00, VERONA)"
+            },
+            {
+              "nome": "serie",
+              "esito": "ok",
+              "dettaglio": "3 date della produzione, nessuna anomalia in testa alla serie"
+            }
+          ],
+          "fonti": [
+            "https://www.vivaticket.com/it/ticket/jeu-de-cartes-amelia-al-ballo/289842"
+          ]
+        }
+      ],
       "video": {
         "file": "marketing/out/2026-10-28/SHV_20261028_1230_VID/video.mp4",
         "durata_s": 12.0,
@@ -45,23 +198,41 @@
         "ok": true
       },
       "stato": "PRONTO",
-      "testo_finale": "🩰 Danza e opera in arrivo in Italia: 60 serate in ShowViewLens.\n\n1. Italian Opera Taormina · TEATRO NAZARENA · mer 28/10 · 21:15\n2. Collectif Xy - le Pas Du Monde · TEATRO OLIMPICO · gio 29/10 · 21:00\n3. Rigoletto Turno C · Teatro Massimo · mer 28/10 · 18:30\n4. Jeu De Cartes / Amelia al Ballo · Teatro Filarmonico · mer 28/10 · 19:00\n\nTrovi date e biglietteria ufficiale su ShowViewLens. Scaricala gratis: link in bio.\n\n#ShowViewLens #Danza #OperaLirica #SpettacoliDalVivo",
+      "testo_finale": "🩰 Danza e opera in arrivo in Italia: 60 serate in ShowViewLens.\n\n1. Italian Opera Taormina · TEATRO NAZARENA · mer 28/10 · 21:15\n2. Collectif Xy - le Pas Du Monde · TEATRO OLIMPICO · gio 29/10 · 21:00\n3. Rigoletto · Teatro Massimo · mer 28/10 · 18:30\n4. Jeu De Cartes / Amelia al Ballo · Teatro Filarmonico · mer 28/10 · 19:00\n\nTrovi date e biglietteria ufficiale su ShowViewLens. Scaricala gratis: link in bio.\n\n#ShowViewLens #Danza #OperaLirica #SpettacoliDalVivo",
       "titolo_slide": "Danza e opera: 60 serate in arrivo",
       "eventi": [
         "Italian Opera Taormina",
         "Collectif Xy - le Pas Du Monde",
-        "Rigoletto Turno C",
-        "Jeu De Cartes / Amelia al Ballo",
-        "Yoy Performing Arts - Ti Ricordi il Futuro?",
-        "Mozartiana",
-        "Romanzo Criminale",
-        "Goecke / Robbins / Bausch B"
+        "Rigoletto",
+        "Jeu De Cartes / Amelia al Ballo"
       ],
       "conteggio": 60,
       "file": [
         "https://maxegon.github.io/showviewlens/social/2026-10-28/SHV_20261028_1230_VID/video.mp4"
       ],
-      "utm": "https://maxegon.github.io/showviewlens/download/?utm_source=tiktok&utm_medium=video&utm_campaign=piano_2026_11&utm_content=SHV_20261028_1230_VID"
+      "utm": "https://maxegon.github.io/showviewlens/download/?utm_source=tiktok&utm_medium=video&utm_campaign=piano_2026_11&utm_content=SHV_20261028_1230_VID",
+      "verifica": {
+        "esito": "ok",
+        "controlli": [
+          {
+            "nome": "eventi nel post",
+            "esito": "ok",
+            "dettaglio": "4 eventi verificati ok, 0 tolti, su 60 candidati"
+          }
+        ],
+        "fonti": [
+          "https://shop.vivaticket.com/it/sell/?cmd=prices&pcode=13298485&tcode=vt0020309",
+          "https://shop.vivaticket.com/it/sell/?cmd=prices&pcode=13804642&tcode=vt0001732",
+          "https://www.ticketone.it/event/rigoletto-teatro-massimo-di-palermo-teatro-massimo-20856426/",
+          "https://www.vivaticket.com/it/ticket/jeu-de-cartes-amelia-al-ballo/289842"
+        ]
+      },
+      "anteprima": {
+        "testo": "🩰 Danza e opera in arrivo in Italia: 60 serate in ShowViewLens.\n\n1. Italian Opera Taormina · TEATRO NAZARENA · mer 28/10 · 21:15\n2. Collectif Xy - le Pas Du Monde · TEATRO OLIMPICO · gio 29/10 · 21:00\n3. Rigoletto · Teatro Massimo · mer 28/10 · 18:30\n4. Jeu De Cartes / Amelia al Ballo · Teatro Filarmonico · mer 28/10 · 19:00\n\nTrovi date e biglietteria ufficiale su ShowViewLens. Scaricala gratis: link in bio.\n\n#ShowViewLens #Danza #OperaLirica #SpettacoliDalVivo",
+        "immagini": [
+          "https://maxegon.github.io/showviewlens/social/2026-10-28/SHV_20261028_1230_VID/cover.jpg"
+        ]
+      }
     },
     {
       "id": "SHV_20261028_1900_POST",
@@ -78,6 +249,23 @@
         "https://maxegon.github.io/showviewlens/social/2026-10-28/SHV_20261028_1900_POST/01_gancio.jpg"
       ],
       "utm": "https://maxegon.github.io/showviewlens/download/?utm_source=instagram&utm_medium=social&utm_campaign=piano_2026_11&utm_content=SHV_20261028_1900_POST",
+      "verifica": {
+        "esito": "ok",
+        "fonti": [],
+        "controlli": [
+          {
+            "nome": "contenuto",
+            "esito": "ok",
+            "dettaglio": "testo statico da app_features.json: nessun dato esterno da controllare"
+          }
+        ]
+      },
+      "anteprima": {
+        "testo": "✨ Aggiungi lo spettacolo al calendario del telefono con un tocco: la serata resta segnata.\n\nShowViewLens: concerti, teatro, danza e opera in Italia, con il link diretto alla biglietteria ufficiale.\n\n📲 Scarica ShowViewLens gratis: link in bio (App Store e Google Play).\n\n#ShowViewLens #SpettacoliDalVivo #TeatroItalia #ConcertiItalia",
+        "immagini": [
+          "https://maxegon.github.io/showviewlens/social/2026-10-28/SHV_20261028_1900_POST/01_gancio.jpg"
+        ]
+      },
       "ig_media": [
         {
           "media_type": "IMAGE",
