@@ -1,0 +1,29 @@
+{
+ "app": "Solo1Meteo",
+ "data": "2026-10-28",
+ "righe": {
+  "S1M_20261028_1900_FEED": {
+   "pubblica_alle": "2026-10-28T19:00:00+01:00",
+   "formato": "Carosello",
+   "piattaforma": "Instagram / FB",
+   "sempreverde": false,
+   "chiave": "S1M_20261028_1900_FEED",
+   "decisione": null,
+   "alle": "",
+   "correzioni": [],
+   "messaggio_id": 602
+  }
+ },
+ "messaggi": {
+  "602": {
+   "chat_id": "1614787945",
+   "righe": [
+    "S1M_20261028_1900_FEED"
+   ],
+   "base": "<b>19:00 · Carosello · Instagram / FB</b>\nID <code>S1M_20261028_1900_FEED</code>\n✅ Verifica ok · 8 fonti\n<pre>Il radar della pioggia nell&#x27;app. Per domani a Torino 4 fonti su 7 indicano sereno. Scarica Solo1Meteo gratis: link in bio. #solo1meteo #meteo #previsionimeteo #meteoitalia</pre>\n\n<i>✅ OK: esce all'orario · ⏭️ Salta: non esce, contenuto legato a quella data · ✏️ Correggi: mi scrivi cosa cambiare · ↩️ Annulla: torna come prima. Nessun click = esce. Leggo i pulsanti ogni 15 minuti: decidi almeno 30 minuti prima.</i>"
+  }
+ },
+ "ultimo_update_id": null,
+ "anteprima_inviata_il": "2026-10-27T23:48:55+01:00",
+ "provvisorio": true
+}
