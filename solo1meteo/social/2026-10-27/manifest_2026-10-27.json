@@ -15,13 +15,13 @@
       "ora_pubblicazione": "2026-10-27 08:00",
       "data_evento": "2026-10-27",
       "utm": "https://maxegon.github.io/meteo-stat-privacy/landing/?utm_source=instagram&utm_medium=social&utm_campaign=s1m_2026w44&utm_content=S1M_20261027_0800_STORY",
-      "generato_il": "2026-10-26T23:59:30+01:00",
-      "provvisorio": true,
+      "generato_il": "2026-10-27T11:46:11+01:00",
+      "provvisorio": false,
       "giorno": "2026-10-27",
       "stato": "MEDIA_PRONTA",
       "motivo": null,
-      "testo_finale": "Oggi a Milano: massima media 16°, pioggia 2%. Cerca «Solo1Meteo» su App Store e Google Play",
-      "concept_finale": "S1 gancio: Oggi a Milano: 16° | S2 dato: pioggia 2% | S3 cta: Cerca «Solo1Meteo» su App Store e Google Play",
+      "testo_finale": "Oggi a Milano: massima media 16°, pioggia 17%. Cerca «Solo1Meteo» su App Store e Google Play",
+      "concept_finale": "S1 gancio: Oggi a Milano: 16° | S2 dato: pioggia 17% | S3 cta: Cerca «Solo1Meteo» su App Store e Google Play",
       "immagini": [
         "https://maxegon.github.io/solo1meteo/social/2026-10-27/S1M_20261027_0800_STORY/storia.png"
       ],
@@ -45,39 +45,39 @@
         "fonti_elencate": 8,
         "fonti_escluse": [],
         "tmax_media": 16,
-        "tmax_min": 15,
-        "tmax_max": 19,
-        "tmin_media": 8,
-        "pioggia_media": 2,
+        "tmax_min": 16,
+        "tmax_max": 17,
+        "tmin_media": 6,
+        "pioggia_media": 17,
         "pioggia_min": 0,
-        "pioggia_max": 12,
-        "fonti_pioggia": 6,
+        "pioggia_max": 14,
+        "fonti_pioggia": 5,
         "condizione": "sereno",
         "fonti_condizione": 4,
-        "giorno_piu_incerto": "mercoledì",
-        "scarto_tmax": 4,
-        "tmax_scarto_fonti": 3.7,
+        "giorno_piu_incerto": "domenica",
+        "scarto_tmax": 8,
+        "tmax_scarto_fonti": 1.3,
         "tmax_disaccordo": false,
         "pioggia_disaccordo": false,
-        "gancio_pioggia": "pioggia 2%"
+        "gancio_pioggia": "pioggia 17%"
       },
       "fonti": [
         {
           "fonte": "Open-Meteo",
-          "tmax": 16.2,
+          "tmax": 16.3,
           "pioggia": 0,
           "pioggia_metodo": "orario"
         },
         {
           "fonte": "OpenWeatherMap",
-          "tmax": 18.81,
+          "tmax": 15.67,
           "pioggia": 0,
           "pioggia_metodo": "orario"
         },
         {
           "fonte": "WeatherAPI",
-          "tmax": 17.1,
-          "pioggia": 12,
+          "tmax": 17,
+          "pioggia": 14,
           "pioggia_metodo": "orario"
         },
         {
@@ -88,21 +88,21 @@
         },
         {
           "fonte": "DWD",
-          "tmax": 15.1,
+          "tmax": 16,
           "pioggia": null,
           "pioggia_metodo": null
         },
         {
           "fonte": "Visual Crossing",
-          "tmax": 16,
+          "tmax": 16.1,
           "pioggia": 0,
           "pioggia_metodo": "orario"
         },
         {
           "fonte": "7Timer!",
           "tmax": 16,
-          "pioggia": 0,
-          "pioggia_metodo": "orario"
+          "pioggia": null,
+          "pioggia_metodo": null
         },
         {
           "fonte": "Tomorrow.io",
@@ -127,7 +127,7 @@
           {
             "nome": "fonti_pioggia",
             "esito": "ok",
-            "dettaglio": "6 fonti con il dato di pioggia (minimo 3)"
+            "dettaglio": "5 fonti con il dato di pioggia (minimo 3)"
           },
           {
             "nome": "freschezza",
@@ -147,7 +147,7 @@
           {
             "nome": "scarto",
             "esito": "ok",
-            "dettaglio": "massime 15-19° (scarto 4°), pioggia 0-12% (scarto 12)"
+            "dettaglio": "massime 16-17° (scarto 1°), pioggia 0-14% (scarto 14)"
           },
           {
             "nome": "giorno",
@@ -182,13 +182,17 @@
           "https://www.tomorrow.io"
         ]
       },
-      "scaricato_il": "2026-10-26T23:59:32+01:00",
+      "scaricato_il": "2026-10-27T11:46:13+01:00",
       "citta_usata": "Milano",
       "anteprima": {
-        "testo": "Oggi a Milano: massima media 16°, pioggia 2%. Cerca «Solo1Meteo» su App Store e Google Play",
+        "testo": "Oggi a Milano: massima media 16°, pioggia 17%. Cerca «Solo1Meteo» su App Store e Google Play",
         "immagini": [
           "https://maxegon.github.io/solo1meteo/social/2026-10-27/S1M_20261027_0800_STORY/storia.png"
         ]
+      },
+      "cambio_serale": {
+        "tipo": "invariata",
+        "motivo": ""
       }
     },
     {
@@ -198,13 +202,13 @@
       "ora_pubblicazione": "2026-10-27 18:00",
       "data_evento": "2026-10-28",
       "utm": "https://maxegon.github.io/meteo-stat-privacy/landing/?utm_source=tiktok&utm_medium=social&utm_campaign=s1m_2026w44&utm_content=S1M_20261027_1800_VIDEO",
-      "generato_il": "2026-10-26T23:59:33+01:00",
-      "provvisorio": true,
+      "generato_il": "2026-10-27T11:46:14+01:00",
+      "provvisorio": false,
       "giorno": "2026-10-27",
       "stato": "MEDIA_PRONTA",
       "motivo": null,
-      "testo_finale": "Domani a Torino: 7 fonti, massime tra 16° e 18°, media 17°. Ogni numero del video viene dai dati del giorno. Scarica Solo1Meteo: link in bio. #meteo #solo1meteo #previsionimeteo #meteoitalia",
-      "concept_finale": "S1 gancio: Domani a Torino: 16°-18° | S2 confronto: le 7 fonti una per una | S3 screenshot: schermata Previsioni | S4 cta: Scarica gratis Solo1Meteo",
+      "testo_finale": "Domani a Torino: 8 fonti, massime tra 16° e 19°, media 17°. Ogni numero del video viene dai dati del giorno. Scarica Solo1Meteo: link in bio. #meteo #solo1meteo #previsionimeteo #meteoitalia",
+      "concept_finale": "S1 gancio: Domani a Torino: 16°-19° | S2 confronto: le 8 fonti una per una | S3 screenshot: schermata Previsioni | S4 cta: Scarica gratis Solo1Meteo",
       "immagini": [
         "https://maxegon.github.io/solo1meteo/social/2026-10-27/S1M_20261027_1800_VIDEO/v1_gancio.png"
       ],
@@ -214,22 +218,22 @@
       "dati": {
         "citta": "Torino",
         "data_label": "mercoledì 28 ottobre",
-        "fonti_n": 7,
-        "fonti_elencate": 7,
+        "fonti_n": 8,
+        "fonti_elencate": 8,
         "fonti_escluse": [],
         "tmax_media": 17,
         "tmax_min": 16,
-        "tmax_max": 18,
+        "tmax_max": 19,
         "tmin_media": 8,
         "pioggia_media": 4,
         "pioggia_min": 0,
-        "pioggia_max": 22,
-        "fonti_pioggia": 5,
+        "pioggia_max": 21,
+        "fonti_pioggia": 6,
         "condizione": "sereno",
-        "fonti_condizione": 5,
+        "fonti_condizione": 4,
         "giorno_piu_incerto": "domenica",
-        "scarto_tmax": 4,
-        "tmax_scarto_fonti": 2.3,
+        "scarto_tmax": 6,
+        "tmax_scarto_fonti": 2.5,
         "tmax_disaccordo": false,
         "pioggia_disaccordo": false,
         "gancio_pioggia": "pioggia 4%"
@@ -237,33 +241,39 @@
       "fonti": [
         {
           "fonte": "Open-Meteo",
-          "tmax": 18.3,
-          "pioggia": 3,
+          "tmax": 18.1,
+          "pioggia": 0,
           "pioggia_metodo": "orario"
         },
         {
           "fonte": "OpenWeatherMap",
-          "tmax": 18.24,
+          "tmax": 18.51,
           "pioggia": 0,
           "pioggia_metodo": "orario"
         },
         {
           "fonte": "WeatherAPI",
-          "tmax": 17.8,
-          "pioggia": 22,
+          "tmax": 17.6,
+          "pioggia": 21,
           "pioggia_metodo": "orario"
         },
         {
           "fonte": "MET Norway",
-          "tmax": 17.1,
+          "tmax": 16.9,
           "pioggia": null,
           "pioggia_metodo": null
         },
         {
           "fonte": "DWD",
-          "tmax": 16.9,
+          "tmax": 17,
           "pioggia": null,
           "pioggia_metodo": null
+        },
+        {
+          "fonte": "Visual Crossing",
+          "tmax": 16.5,
+          "pioggia": 0,
+          "pioggia_metodo": "orario"
         },
         {
           "fonte": "7Timer!",
@@ -273,7 +283,7 @@
         },
         {
           "fonte": "Tomorrow.io",
-          "tmax": 17.1,
+          "tmax": 16.93,
           "pioggia": 0,
           "pioggia_metodo": "orario"
         }
@@ -289,7 +299,7 @@
           {
             "nome": "fonti",
             "esito": "ok",
-            "dettaglio": "7 fonti su 8 per 2026-10-28 (minimo 6)"
+            "dettaglio": "8 fonti su 8 per 2026-10-28 (minimo 6)"
           },
           {
             "nome": "freschezza",
@@ -309,7 +319,7 @@
           {
             "nome": "scarto",
             "esito": "ok",
-            "dettaglio": "massime 16-18° (scarto 2°), pioggia 0-22% (scarto 22)"
+            "dettaglio": "massime 16-19° (scarto 3°), pioggia 0-21% (scarto 21)"
           },
           {
             "nome": "giorno",
@@ -329,7 +339,7 @@
           {
             "nome": "citta",
             "esito": "ok",
-            "dettaglio": "Napoli sostituita con Torino: allerte: allerta meteo attiva (Giallo Vento Allerta) e nessun ente citato nel post"
+            "dettaglio": "Napoli sostituita con Torino: allerte: allerta meteo attiva (Giallo Vento Allerta; Giallo Vento Allerta; Giallo Vento Allerta) e nessun ente citato nel post"
           }
         ],
         "fonti": [
@@ -339,17 +349,22 @@
           "https://www.weatherapi.com",
           "https://api.met.no",
           "https://brightsky.dev",
+          "https://www.visualcrossing.com",
           "http://www.7timer.info",
           "https://www.tomorrow.io"
         ]
       },
-      "scaricato_il": "2026-10-26T23:59:35+01:00",
+      "scaricato_il": "2026-10-27T11:46:16+01:00",
       "citta_usata": "Torino",
       "anteprima": {
-        "testo": "Domani a Torino: 7 fonti, massime tra 16° e 18°, media 17°. Ogni numero del video viene dai dati del giorno. Scarica Solo1Meteo: link in bio. #meteo #solo1meteo #previsionimeteo #meteoitalia",
+        "testo": "Domani a Torino: 8 fonti, massime tra 16° e 19°, media 17°. Ogni numero del video viene dai dati del giorno. Scarica Solo1Meteo: link in bio. #meteo #solo1meteo #previsionimeteo #meteoitalia",
         "immagini": [
           "https://maxegon.github.io/solo1meteo/social/2026-10-27/S1M_20261027_1800_VIDEO/v1_gancio.png"
         ]
+      },
+      "cambio_serale": {
+        "tipo": "invariata",
+        "motivo": ""
       }
     }
   ]
