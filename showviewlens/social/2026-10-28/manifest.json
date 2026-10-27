@@ -1,6 +1,6 @@
 {
   "data": "2026-10-28",
-  "generato_il": "2026-10-26T23:05:29+00:00",
+  "generato_il": "2026-10-27T22:55:13+00:00",
   "piano": "marketing/piano_4_settimane.csv",
   "righe": [
     {
@@ -198,15 +198,15 @@
         "ok": true
       },
       "stato": "PRONTO",
-      "testo_finale": "🩰 Danza e opera in arrivo in Italia: 60 serate in ShowViewLens.\n\n1. Italian Opera Taormina · TEATRO NAZARENA · mer 28/10 · 21:15\n2. Collectif Xy - le Pas Du Monde · TEATRO OLIMPICO · gio 29/10 · 21:00\n3. Rigoletto · Teatro Massimo · mer 28/10 · 18:30\n4. Jeu De Cartes / Amelia al Ballo · Teatro Filarmonico · mer 28/10 · 19:00\n\nTrovi date e biglietteria ufficiale su ShowViewLens. Scaricala gratis: link in bio.\n\n#ShowViewLens #Danza #OperaLirica #SpettacoliDalVivo",
-      "titolo_slide": "Danza e opera: 60 serate in arrivo",
+      "testo_finale": "🩰 Danza e opera in arrivo in Italia: 61 serate in ShowViewLens.\n\n1. Italian Opera Taormina · TEATRO NAZARENA · mer 28/10 · 21:15\n2. Collectif Xy - le Pas Du Monde · TEATRO OLIMPICO · gio 29/10 · 21:00\n3. Rigoletto · Teatro Massimo · mer 28/10 · 18:30\n4. Jeu De Cartes / Amelia al Ballo · Teatro Filarmonico · mer 28/10 · 19:00\n\nTrovi date e biglietteria ufficiale su ShowViewLens. Scaricala gratis: link in bio.\n\n#ShowViewLens #Danza #OperaLirica #SpettacoliDalVivo",
+      "titolo_slide": "Danza e opera: 61 serate in arrivo",
       "eventi": [
         "Italian Opera Taormina",
         "Collectif Xy - le Pas Du Monde",
         "Rigoletto",
         "Jeu De Cartes / Amelia al Ballo"
       ],
-      "conteggio": 60,
+      "conteggio": 61,
       "file": [
         "https://maxegon.github.io/showviewlens/social/2026-10-28/SHV_20261028_1230_VID/video.mp4"
       ],
@@ -217,7 +217,7 @@
           {
             "nome": "eventi nel post",
             "esito": "ok",
-            "dettaglio": "4 eventi verificati ok, 0 tolti, su 60 candidati"
+            "dettaglio": "4 eventi verificati ok, 0 tolti, su 61 candidati"
           }
         ],
         "fonti": [
@@ -228,7 +228,7 @@
         ]
       },
       "anteprima": {
-        "testo": "🩰 Danza e opera in arrivo in Italia: 60 serate in ShowViewLens.\n\n1. Italian Opera Taormina · TEATRO NAZARENA · mer 28/10 · 21:15\n2. Collectif Xy - le Pas Du Monde · TEATRO OLIMPICO · gio 29/10 · 21:00\n3. Rigoletto · Teatro Massimo · mer 28/10 · 18:30\n4. Jeu De Cartes / Amelia al Ballo · Teatro Filarmonico · mer 28/10 · 19:00\n\nTrovi date e biglietteria ufficiale su ShowViewLens. Scaricala gratis: link in bio.\n\n#ShowViewLens #Danza #OperaLirica #SpettacoliDalVivo",
+        "testo": "🩰 Danza e opera in arrivo in Italia: 61 serate in ShowViewLens.\n\n1. Italian Opera Taormina · TEATRO NAZARENA · mer 28/10 · 21:15\n2. Collectif Xy - le Pas Du Monde · TEATRO OLIMPICO · gio 29/10 · 21:00\n3. Rigoletto · Teatro Massimo · mer 28/10 · 18:30\n4. Jeu De Cartes / Amelia al Ballo · Teatro Filarmonico · mer 28/10 · 19:00\n\nTrovi date e biglietteria ufficiale su ShowViewLens. Scaricala gratis: link in bio.\n\n#ShowViewLens #Danza #OperaLirica #SpettacoliDalVivo",
         "immagini": [
           "https://maxegon.github.io/showviewlens/social/2026-10-28/SHV_20261028_1230_VID/cover.jpg"
         ]
