@@ -1,0 +1,228 @@
+{
+  "riferimento": "2026-10-28",
+  "selezione": "pubblicazione",
+  "piano_valido": true,
+  "backend": "healthy",
+  "righe": 1,
+  "stati": {
+    "MEDIA_PRONTA": 1
+  },
+  "voci": [
+    {
+      "slot": "S1M_20261028_1900_FEED",
+      "piattaforma": "Instagram / FB",
+      "formato": "Carosello",
+      "ora_pubblicazione": "2026-10-28 19:00",
+      "data_evento": "2026-10-29",
+      "utm": "https://maxegon.github.io/meteo-stat-privacy/landing/?utm_source=instagram&utm_medium=social&utm_campaign=s1m_2026w44&utm_content=S1M_20261028_1900_FEED",
+      "generato_il": "2026-10-27T23:48:30+01:00",
+      "provvisorio": true,
+      "giorno": "2026-10-28",
+      "stato": "MEDIA_PRONTA",
+      "motivo": null,
+      "testo_finale": "Il radar della pioggia nell'app. Per domani a Torino 4 fonti su 7 indicano sereno. Scarica Solo1Meteo gratis: link in bio. #solo1meteo #meteo #previsionimeteo #meteoitalia",
+      "concept_finale": "S1 gancio: Domani a Torino: sereno per 4 fonti su 7 | S2 mappa: radar della pioggia aggiornata circa ogni 10 minuti | S3 uso: guarda dove si muovono i rovesci prima di uscire | S4 screenshot: schermata Radar | S5 cta: Scarica gratis Solo1Meteo",
+      "immagini": [
+        "https://maxegon.github.io/solo1meteo/social/2026-10-28/S1M_20261028_1900_FEED/1_copertina.png",
+        "https://maxegon.github.io/solo1meteo/social/2026-10-28/S1M_20261028_1900_FEED/2a_temperature.png",
+        "https://maxegon.github.io/solo1meteo/social/2026-10-28/S1M_20261028_1900_FEED/2b_temperature.png",
+        "https://maxegon.github.io/solo1meteo/social/2026-10-28/S1M_20261028_1900_FEED/3_pioggia.png",
+        "https://maxegon.github.io/solo1meteo/social/2026-10-28/S1M_20261028_1900_FEED/4_screenshot.png",
+        "https://maxegon.github.io/solo1meteo/social/2026-10-28/S1M_20261028_1900_FEED/5_cta.png"
+      ],
+      "video_url": null,
+      "ig_media": [
+        {
+          "media_type": "IMAGE",
+          "image_url": "https://maxegon.github.io/solo1meteo/social/2026-10-28/S1M_20261028_1900_FEED/1_copertina.png"
+        },
+        {
+          "media_type": "IMAGE",
+          "image_url": "https://maxegon.github.io/solo1meteo/social/2026-10-28/S1M_20261028_1900_FEED/2a_temperature.png"
+        },
+        {
+          "media_type": "IMAGE",
+          "image_url": "https://maxegon.github.io/solo1meteo/social/2026-10-28/S1M_20261028_1900_FEED/2b_temperature.png"
+        },
+        {
+          "media_type": "IMAGE",
+          "image_url": "https://maxegon.github.io/solo1meteo/social/2026-10-28/S1M_20261028_1900_FEED/3_pioggia.png"
+        },
+        {
+          "media_type": "IMAGE",
+          "image_url": "https://maxegon.github.io/solo1meteo/social/2026-10-28/S1M_20261028_1900_FEED/4_screenshot.png"
+        },
+        {
+          "media_type": "IMAGE",
+          "image_url": "https://maxegon.github.io/solo1meteo/social/2026-10-28/S1M_20261028_1900_FEED/5_cta.png"
+        }
+      ],
+      "fb_photos": [
+        {
+          "type": "url",
+          "url": "https://maxegon.github.io/solo1meteo/social/2026-10-28/S1M_20261028_1900_FEED/1_copertina.png"
+        },
+        {
+          "type": "url",
+          "url": "https://maxegon.github.io/solo1meteo/social/2026-10-28/S1M_20261028_1900_FEED/2a_temperature.png"
+        },
+        {
+          "type": "url",
+          "url": "https://maxegon.github.io/solo1meteo/social/2026-10-28/S1M_20261028_1900_FEED/2b_temperature.png"
+        },
+        {
+          "type": "url",
+          "url": "https://maxegon.github.io/solo1meteo/social/2026-10-28/S1M_20261028_1900_FEED/3_pioggia.png"
+        },
+        {
+          "type": "url",
+          "url": "https://maxegon.github.io/solo1meteo/social/2026-10-28/S1M_20261028_1900_FEED/4_screenshot.png"
+        },
+        {
+          "type": "url",
+          "url": "https://maxegon.github.io/solo1meteo/social/2026-10-28/S1M_20261028_1900_FEED/5_cta.png"
+        }
+      ],
+      "dati": {
+        "citta": "Torino",
+        "data_label": "giovedì 29 ottobre",
+        "fonti_n": 7,
+        "fonti_elencate": 7,
+        "fonti_escluse": [],
+        "tmax_media": 18,
+        "tmax_min": 17,
+        "tmax_max": 19,
+        "tmin_media": 8,
+        "pioggia_media": 3,
+        "pioggia_min": 0,
+        "pioggia_max": 13,
+        "fonti_pioggia": 5,
+        "condizione": "sereno",
+        "fonti_condizione": 4,
+        "giorno_piu_incerto": "domenica",
+        "scarto_tmax": 3,
+        "tmax_scarto_fonti": 1.6,
+        "tmax_disaccordo": false,
+        "pioggia_disaccordo": false,
+        "gancio_pioggia": "pioggia 3%"
+      },
+      "fonti": [
+        {
+          "fonte": "Open-Meteo",
+          "tmax": 18.6,
+          "pioggia": 3,
+          "pioggia_metodo": "orario"
+        },
+        {
+          "fonte": "OpenWeatherMap",
+          "tmax": 18.32,
+          "pioggia": 0,
+          "pioggia_metodo": "orario"
+        },
+        {
+          "fonte": "WeatherAPI",
+          "tmax": 18.2,
+          "pioggia": 13,
+          "pioggia_metodo": "orario"
+        },
+        {
+          "fonte": "MET Norway",
+          "tmax": 18.1,
+          "pioggia": null,
+          "pioggia_metodo": null
+        },
+        {
+          "fonte": "DWD",
+          "tmax": 17.6,
+          "pioggia": null,
+          "pioggia_metodo": null
+        },
+        {
+          "fonte": "7Timer!",
+          "tmax": 17,
+          "pioggia": 0,
+          "pioggia_metodo": "orario"
+        },
+        {
+          "fonte": "Tomorrow.io",
+          "tmax": 18.14,
+          "pioggia": 0,
+          "pioggia_metodo": "orario"
+        }
+      ],
+      "verifica": {
+        "esito": "ok",
+        "controlli": [
+          {
+            "nome": "backend",
+            "esito": "ok",
+            "dettaglio": "/health = healthy"
+          },
+          {
+            "nome": "fonti",
+            "esito": "ok",
+            "dettaglio": "7 fonti su 8 per 2026-10-29 (minimo 6)"
+          },
+          {
+            "nome": "fonti_pioggia",
+            "esito": "ok",
+            "dettaglio": "5 fonti con il dato di pioggia (minimo 3)"
+          },
+          {
+            "nome": "freschezza",
+            "esito": "ok",
+            "dettaglio": "dato scaricato 0 minuti prima del rendering (massimo 3 ore, cache backend 10 minuti)"
+          },
+          {
+            "nome": "calcolo_app",
+            "esito": "ok",
+            "dettaglio": "copia del calcolo dell'app sha f8de55e39310 (submodule assente in CI) | codice dell'app (buildAggregateDays)"
+          },
+          {
+            "nome": "numeri_testo",
+            "esito": "ok",
+            "dettaglio": "tutti i numeri con ° o % sono quelli calcolati come nell'app"
+          },
+          {
+            "nome": "scarto",
+            "esito": "ok",
+            "dettaglio": "massime 17-19° (scarto 2°), pioggia 0-13% (scarto 13)"
+          },
+          {
+            "nome": "giorno",
+            "esito": "ok",
+            "dettaglio": "giorno citato = giovedì 2026-10-29"
+          },
+          {
+            "nome": "allerte",
+            "esito": "ok",
+            "dettaglio": "nessuna allerta meteo attiva per il giorno (WeatherAPI)"
+          },
+          {
+            "nome": "posizione",
+            "esito": "ok",
+            "dettaglio": "Torino: citta fissa del piano, nessuna posizione dell'utente"
+          }
+        ],
+        "fonti": [
+          "https://backend-eta-seven-21.vercel.app/weather?lat=45.07&lon=7.69",
+          "https://open-meteo.com",
+          "https://openweathermap.org",
+          "https://www.weatherapi.com",
+          "https://api.met.no",
+          "https://brightsky.dev",
+          "http://www.7timer.info",
+          "https://www.tomorrow.io"
+        ]
+      },
+      "scaricato_il": "2026-10-27T23:48:31+01:00",
+      "citta_usata": "Torino",
+      "anteprima": {
+        "testo": "Il radar della pioggia nell'app. Per domani a Torino 4 fonti su 7 indicano sereno. Scarica Solo1Meteo gratis: link in bio. #solo1meteo #meteo #previsionimeteo #meteoitalia",
+        "immagini": [
+          "https://maxegon.github.io/solo1meteo/social/2026-10-28/S1M_20261028_1900_FEED/1_copertina.png"
+        ]
+      }
+    }
+  ]
+}
