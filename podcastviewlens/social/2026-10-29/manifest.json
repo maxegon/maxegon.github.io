@@ -1,0 +1,52 @@
+{
+  "date": "2026-10-29",
+  "generated_at": "2026-10-28T23:56+01:00",
+  "sources_skipped": [],
+  "rimandate": [],
+  "items": [
+    {
+      "id": "W1_GIO_1900",
+      "piattaforma": "TikTok / Shorts",
+      "formato": "Video",
+      "ora": "19:00",
+      "utm": "https://podcastviewlens.vercel.app/download?utm_source=tiktok&utm_medium=social&utm_campaign=pvl_2026w44&utm_content=W1_GIO_1900",
+      "stato": "PRONTO",
+      "motivo": "",
+      "caption": "Trovi la puntata nel Palinsesto, tocchi e si apre nella tua app: Spotify, Apple Podcasts, RaiPlay Sound, YouTube o Amazon Music.\n\nScarica PodcastViewLens gratis: link nel profilo.\n\n#PodcastViewLens #PodcastItalia #CosaAscoltare",
+      "files": [
+        "https://maxegon.github.io/podcastviewlens/social/2026-10-29/W1_GIO_1900/video.mp4",
+        "https://maxegon.github.io/podcastviewlens/social/2026-10-29/W1_GIO_1900/slide_01.png",
+        "https://maxegon.github.io/podcastviewlens/social/2026-10-29/W1_GIO_1900/slide_02.png",
+        "https://maxegon.github.io/podcastviewlens/social/2026-10-29/W1_GIO_1900/slide_03.png",
+        "https://maxegon.github.io/podcastviewlens/social/2026-10-29/W1_GIO_1900/slide_04.png",
+        "https://maxegon.github.io/podcastviewlens/social/2026-10-29/W1_GIO_1900/slide_05.png"
+      ],
+      "verifica": {
+        "esito": "ok",
+        "controlli": [
+          {
+            "nome": "dati_variabili",
+            "esito": "ok",
+            "dettaglio": "nessun dato variabile: testo sulle funzioni dell'app (app_features.json, guardrails.json)"
+          },
+          {
+            "nome": "funzione_in_app",
+            "esito": "ok",
+            "dettaglio": "«ascolto_esterno» verificata il 2026-10-23 su src/services/linkingService.js"
+          }
+        ],
+        "fonti": []
+      },
+      "anteprima": {
+        "testo": "Trovi la puntata nel Palinsesto, tocchi e si apre nella tua app: Spotify, Apple Podcasts, RaiPlay Sound, YouTube o Amazon Music.\n\nScarica PodcastViewLens gratis: link nel profilo.\n\n#PodcastViewLens #PodcastItalia #CosaAscoltare",
+        "immagini": [
+          "https://maxegon.github.io/podcastviewlens/social/2026-10-29/W1_GIO_1900/slide_01.png"
+        ]
+      },
+      "pubblica_alle": "2026-10-29T19:00+01:00",
+      "sempreverde": true,
+      "eventi": [],
+      "titolo_slide": "Trovi la puntata"
+    }
+  ]
+}
