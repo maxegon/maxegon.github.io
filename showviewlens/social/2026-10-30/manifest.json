@@ -1,0 +1,456 @@
+{
+  "data": "2026-10-30",
+  "generato_il": "2026-10-28T23:02:22+00:00",
+  "piano": "marketing/piano_4_settimane.csv",
+  "righe": [
+    {
+      "id": "SHV_20261030_1300_CAR",
+      "piattaforma": "Instagram / FB",
+      "formato": "Carosello",
+      "categoria": "teatro+danza+opera",
+      "pubblica_alle": "2026-10-30T13:00:00+01:00",
+      "scartati": [],
+      "doppioni_rimossi": 26,
+      "verifica_eventi": [
+        {
+          "evento": "Notre Dame De Paris",
+          "data": "2026-10-30",
+          "ora": "21:00",
+          "citta": "Napoli",
+          "fonte": "ticketone",
+          "esito": "ok",
+          "rinforzato": false,
+          "controlli": [
+            {
+              "nome": "orario",
+              "esito": "ok",
+              "dettaglio": "21:00"
+            },
+            {
+              "nome": "titolo",
+              "esito": "ok",
+              "dettaglio": "nessuna etichetta di abbonamento"
+            },
+            {
+              "nome": "biglietteria",
+              "esito": "ok",
+              "dettaglio": "TicketOne (blocca i bot): URL ben formato, visto nell ultimo giro (missing_count=0, fonte aggiornata da meno di 36 h)"
+            },
+            {
+              "nome": "serie",
+              "esito": "ok",
+              "dettaglio": "6 date della produzione, nessuna anomalia in testa alla serie"
+            }
+          ],
+          "fonti": [
+            "https://www.ticketone.it/event/notre-dame-de-paris-teatro-palapartenope-20000313/"
+          ]
+        },
+        {
+          "evento": "Ce Steva 3 Vvote",
+          "data": "2026-10-30",
+          "ora": "17:00",
+          "citta": "Napoli",
+          "fonte": "vivaticket",
+          "esito": "ok",
+          "rinforzato": false,
+          "controlli": [
+            {
+              "nome": "orario",
+              "esito": "ok",
+              "dettaglio": "17:00"
+            },
+            {
+              "nome": "titolo",
+              "esito": "ok",
+              "dettaglio": "nessuna etichetta di abbonamento"
+            },
+            {
+              "nome": "biglietteria",
+              "esito": "ok",
+              "dettaglio": "Vivaticket: replica letta dall API pubblica"
+            },
+            {
+              "nome": "pagina",
+              "esito": "ok",
+              "dettaglio": "titolo, citta, data e ora coincidono (2026-10-30 17:00, NAPOLI)"
+            },
+            {
+              "nome": "serie",
+              "esito": "ok",
+              "dettaglio": "5 date della produzione, nessuna anomalia in testa alla serie"
+            }
+          ],
+          "fonti": [
+            "https://shop.vivaticket.com/it/sell/?cmd=prices&pcode=14477748&tcode=vt0020358"
+          ]
+        },
+        {
+          "evento": "L'ultimo Nastro di Krapp - Presse Conference",
+          "data": "2026-10-30",
+          "ora": "20:30",
+          "citta": "Napoli",
+          "fonte": "vivaticket",
+          "esito": "ok",
+          "rinforzato": false,
+          "controlli": [
+            {
+              "nome": "orario",
+              "esito": "ok",
+              "dettaglio": "20:30"
+            },
+            {
+              "nome": "titolo",
+              "esito": "ok",
+              "dettaglio": "nessuna etichetta di abbonamento"
+            },
+            {
+              "nome": "biglietteria",
+              "esito": "ok",
+              "dettaglio": "Vivaticket: replica letta dall API pubblica"
+            },
+            {
+              "nome": "pagina",
+              "esito": "ok",
+              "dettaglio": "titolo, citta, data e ora coincidono (2026-10-30 20:30, NAPOLI)"
+            },
+            {
+              "nome": "serie",
+              "esito": "ok",
+              "dettaglio": "4 date della produzione, nessuna anomalia in testa alla serie"
+            }
+          ],
+          "fonti": [
+            "https://shop.vivaticket.com/it/sell/?cmd=prices&pcode=14472696&tcode=tl015859"
+          ]
+        },
+        {
+          "evento": "Otello",
+          "data": "2026-10-30",
+          "ora": "21:00",
+          "citta": "Napoli",
+          "fonte": "vivaticket",
+          "esito": "ok",
+          "rinforzato": false,
+          "controlli": [
+            {
+              "nome": "orario",
+              "esito": "ok",
+              "dettaglio": "21:00"
+            },
+            {
+              "nome": "titolo",
+              "esito": "ok",
+              "dettaglio": "nessuna etichetta di abbonamento"
+            },
+            {
+              "nome": "biglietteria",
+              "esito": "ok",
+              "dettaglio": "Vivaticket: replica letta dall API pubblica"
+            },
+            {
+              "nome": "pagina",
+              "esito": "ok",
+              "dettaglio": "titolo, citta, data e ora coincidono (2026-10-30 21:00, NAPOLI)"
+            },
+            {
+              "nome": "serie",
+              "esito": "ok",
+              "dettaglio": "15 date della produzione, nessuna anomalia in testa alla serie"
+            }
+          ],
+          "fonti": [
+            "https://shop.vivaticket.com/it/sell/?cmd=prices&pcode=14477252&tcode=vt0006161"
+          ]
+        },
+        {
+          "evento": "All'ombra Dell'Ultimo Sole",
+          "data": "2026-10-30",
+          "ora": "19:30",
+          "citta": "Napoli",
+          "fonte": "vivaticket",
+          "esito": "ko",
+          "rinforzato": false,
+          "controlli": [
+            {
+              "nome": "orario",
+              "esito": "ok",
+              "dettaglio": "19:30"
+            },
+            {
+              "nome": "titolo",
+              "esito": "ok",
+              "dettaglio": "nessuna etichetta di abbonamento"
+            },
+            {
+              "nome": "biglietteria",
+              "esito": "ok",
+              "dettaglio": "Vivaticket: replica letta dall API pubblica"
+            },
+            {
+              "nome": "pagina",
+              "esito": "ko",
+              "dettaglio": "la replica del 2026-10-30 19:30 non e sulla pagina (https://shop.vivaticket.com/it/sell/?cmd=prices&pcode=14047190&tcode=vt0009891)"
+            },
+            {
+              "nome": "serie",
+              "esito": "ok",
+              "dettaglio": "2 date della produzione, nessuna anomalia in testa alla serie"
+            }
+          ],
+          "fonti": [
+            "https://shop.vivaticket.com/it/sell/?cmd=prices&pcode=14047190&tcode=vt0009891"
+          ]
+        }
+      ],
+      "stato": "PRONTO",
+      "testo_finale": "📍 Weekend a Napoli: 15 spettacoli tra teatro, danza e opera.\n\n1. Notre Dame De Paris · Teatro Palapartenope · ven 30/10 · 21:00\n2. Ce Steva 3 Vvote · Foyer San Ferdinando · ven 30/10 · 17:00\n3. L'ultimo Nastro di Krapp - Presse Conference · Teatro Mercadante · ven 30/10 · 20:30\n4. Otello · Teatro Diana · ven 30/10 · 21:00\n\nSu ShowViewLens trovi orari e link alla biglietteria ufficiale.\n\n📲 Scarica ShowViewLens gratis: link in bio (App Store e Google Play).\n\n#ShowViewLens #Napoli #TeatroItalia #SpettacoliDalVivo",
+      "titolo_slide": "Weekend a Napoli: 15 spettacoli",
+      "eventi": [
+        "Notre Dame De Paris",
+        "Ce Steva 3 Vvote",
+        "L'ultimo Nastro di Krapp - Presse Conference",
+        "Otello"
+      ],
+      "conteggio": 15,
+      "file": [
+        "https://maxegon.github.io/showviewlens/social/2026-10-30/SHV_20261030_1300_CAR/01_gancio.jpg",
+        "https://maxegon.github.io/showviewlens/social/2026-10-30/SHV_20261030_1300_CAR/02_dati.jpg",
+        "https://maxegon.github.io/showviewlens/social/2026-10-30/SHV_20261030_1300_CAR/03_screenshot.jpg",
+        "https://maxegon.github.io/showviewlens/social/2026-10-30/SHV_20261030_1300_CAR/04_cta.jpg"
+      ],
+      "utm": "https://maxegon.github.io/showviewlens/download/?utm_source=instagram&utm_medium=social&utm_campaign=piano_2026_11&utm_content=SHV_20261030_1300_CAR",
+      "verifica": {
+        "esito": "dubbio",
+        "controlli": [
+          {
+            "nome": "eventi nel post",
+            "esito": "ok",
+            "dettaglio": "4 eventi verificati ok, 1 tolti, su 16 candidati"
+          },
+          {
+            "nome": "tolto «All'ombra Dell'Ultimo Sole» ven 30/10",
+            "esito": "ko",
+            "dettaglio": "la replica del 2026-10-30 19:30 non e sulla pagina (https://shop.vivaticket.com/it/sell/?cmd=prices&pcode=14047190&tcode=vt0009891)"
+          }
+        ],
+        "fonti": [
+          "https://www.ticketone.it/event/notre-dame-de-paris-teatro-palapartenope-20000313/",
+          "https://shop.vivaticket.com/it/sell/?cmd=prices&pcode=14477748&tcode=vt0020358",
+          "https://shop.vivaticket.com/it/sell/?cmd=prices&pcode=14472696&tcode=tl015859",
+          "https://shop.vivaticket.com/it/sell/?cmd=prices&pcode=14477252&tcode=vt0006161"
+        ]
+      },
+      "anteprima": {
+        "testo": "📍 Weekend a Napoli: 15 spettacoli tra teatro, danza e opera.\n\n1. Notre Dame De Paris · Teatro Palapartenope · ven 30/10 · 21:00\n2. Ce Steva 3 Vvote · Foyer San Ferdinando · ven 30/10 · 17:00\n3. L'ultimo Nastro di Krapp - Presse Conference · Teatro Mercadante · ven 30/10 · 20:30\n4. Otello · Teatro Diana · ven 30/10 · 21:00\n\nSu ShowViewLens trovi orari e link alla biglietteria ufficiale.\n\n📲 Scarica ShowViewLens gratis: link in bio (App Store e Google Play).\n\n#ShowViewLens #Napoli #TeatroItalia #SpettacoliDalVivo",
+        "immagini": [
+          "https://maxegon.github.io/showviewlens/social/2026-10-30/SHV_20261030_1300_CAR/01_gancio.jpg"
+        ]
+      },
+      "ig_media": [
+        {
+          "media_type": "IMAGE",
+          "image_url": "https://maxegon.github.io/showviewlens/social/2026-10-30/SHV_20261030_1300_CAR/01_gancio.jpg"
+        },
+        {
+          "media_type": "IMAGE",
+          "image_url": "https://maxegon.github.io/showviewlens/social/2026-10-30/SHV_20261030_1300_CAR/02_dati.jpg"
+        },
+        {
+          "media_type": "IMAGE",
+          "image_url": "https://maxegon.github.io/showviewlens/social/2026-10-30/SHV_20261030_1300_CAR/03_screenshot.jpg"
+        },
+        {
+          "media_type": "IMAGE",
+          "image_url": "https://maxegon.github.io/showviewlens/social/2026-10-30/SHV_20261030_1300_CAR/04_cta.jpg"
+        }
+      ],
+      "fb_photos": [
+        {
+          "type": "url",
+          "url": "https://maxegon.github.io/showviewlens/social/2026-10-30/SHV_20261030_1300_CAR/01_gancio.jpg"
+        },
+        {
+          "type": "url",
+          "url": "https://maxegon.github.io/showviewlens/social/2026-10-30/SHV_20261030_1300_CAR/02_dati.jpg"
+        },
+        {
+          "type": "url",
+          "url": "https://maxegon.github.io/showviewlens/social/2026-10-30/SHV_20261030_1300_CAR/03_screenshot.jpg"
+        },
+        {
+          "type": "url",
+          "url": "https://maxegon.github.io/showviewlens/social/2026-10-30/SHV_20261030_1300_CAR/04_cta.jpg"
+        }
+      ]
+    },
+    {
+      "id": "SHV_20261030_1830_STORY",
+      "piattaforma": "Instagram / FB Stories",
+      "formato": "Storia",
+      "categoria": "concerti+teatro+danza+opera",
+      "pubblica_alle": "2026-10-30T18:30:00+01:00",
+      "scartati": [
+        [
+          "Caccia al Rubino di Zolfo",
+          "ora 10:30 prima di 11:00"
+        ],
+        [
+          "Il Condominio",
+          "luogo mancante"
+        ]
+      ],
+      "doppioni_rimossi": 34,
+      "verifica_eventi": [
+        {
+          "evento": "Andrea Pucci - Dove Eravamo Rimasti...?",
+          "data": "2026-10-31",
+          "ora": "21:00",
+          "citta": "Milano",
+          "fonte": "ticketone",
+          "esito": "ok",
+          "rinforzato": false,
+          "controlli": [
+            {
+              "nome": "orario",
+              "esito": "ok",
+              "dettaglio": "21:00"
+            },
+            {
+              "nome": "titolo",
+              "esito": "ok",
+              "dettaglio": "nessuna etichetta di abbonamento"
+            },
+            {
+              "nome": "biglietteria",
+              "esito": "ok",
+              "dettaglio": "TicketOne (blocca i bot): URL ben formato, visto nell ultimo giro (missing_count=0, fonte aggiornata da meno di 36 h)"
+            },
+            {
+              "nome": "serie",
+              "esito": "ok",
+              "dettaglio": "1 date della produzione, nessuna anomalia in testa alla serie"
+            }
+          ],
+          "fonti": [
+            "https://www.ticketone.it/event/andrea-pucci-dove-eravamo-rimasti-unipol-dome-arena-milano-21357649/"
+          ]
+        },
+        {
+          "evento": "Fratelli di Crozza",
+          "data": "2026-10-30",
+          "ora": "19:00",
+          "citta": "Milano",
+          "fonte": "ticketone",
+          "esito": "ok",
+          "rinforzato": false,
+          "controlli": [
+            {
+              "nome": "orario",
+              "esito": "ok",
+              "dettaglio": "19:00"
+            },
+            {
+              "nome": "titolo",
+              "esito": "ok",
+              "dettaglio": "nessuna etichetta di abbonamento"
+            },
+            {
+              "nome": "biglietteria",
+              "esito": "ok",
+              "dettaglio": "TicketOne (blocca i bot): URL ben formato, visto nell ultimo giro (missing_count=0, fonte aggiornata da meno di 36 h)"
+            },
+            {
+              "nome": "serie",
+              "esito": "ok",
+              "dettaglio": "7 date della produzione, nessuna anomalia in testa alla serie"
+            }
+          ],
+          "fonti": [
+            "https://www.ticketone.it/event/maurizio-crozza-fratelli-di-crozza-soul-movie-studios-22063164/"
+          ]
+        },
+        {
+          "evento": "Tick Tick... Boom!",
+          "data": "2026-10-30",
+          "ora": "19:30",
+          "citta": "Milano",
+          "fonte": "ticketone",
+          "esito": "ok",
+          "rinforzato": false,
+          "controlli": [
+            {
+              "nome": "orario",
+              "esito": "ok",
+              "dettaglio": "19:30"
+            },
+            {
+              "nome": "titolo",
+              "esito": "ok",
+              "dettaglio": "nessuna etichetta di abbonamento"
+            },
+            {
+              "nome": "biglietteria",
+              "esito": "ok",
+              "dettaglio": "TicketOne (blocca i bot): URL ben formato, visto nell ultimo giro (missing_count=0, fonte aggiornata da meno di 36 h)"
+            },
+            {
+              "nome": "serie",
+              "esito": "ok",
+              "dettaglio": "12 date della produzione, nessuna anomalia in testa alla serie"
+            }
+          ],
+          "fonti": [
+            "https://www.ticketone.it/event/tick-tick-boom-stm-studio-tam-teatro-arcimboldi-milano-21966309/"
+          ]
+        }
+      ],
+      "stato": "PRONTO",
+      "testo_finale": "🗓️ Questo weekend a Milano: 47 spettacoli dal vivo.\n\n1. Andrea Pucci - Dove Eravamo Rimasti...? · Unipol Dome · sab 31/10 · 21:00\n2. Fratelli di Crozza · Soul Movie Studios · ven 30/10 · 19:00\n\nCerca «ShowViewLens» su App Store e Google Play.\n#ShowViewLens",
+      "titolo_slide": "Questo weekend a Milano: 47 spettacoli",
+      "eventi": [
+        "Andrea Pucci - Dove Eravamo Rimasti...?",
+        "Fratelli di Crozza",
+        "Tick Tick... Boom!"
+      ],
+      "conteggio": 47,
+      "file": [
+        "https://maxegon.github.io/showviewlens/social/2026-10-30/SHV_20261030_1830_STORY/01_storia.jpg"
+      ],
+      "utm": "https://maxegon.github.io/showviewlens/download/?utm_source=instagram&utm_medium=story&utm_campaign=piano_2026_11&utm_content=SHV_20261030_1830_STORY",
+      "verifica": {
+        "esito": "ok",
+        "controlli": [
+          {
+            "nome": "eventi nel post",
+            "esito": "ok",
+            "dettaglio": "3 eventi verificati ok, 0 tolti, su 47 candidati"
+          }
+        ],
+        "fonti": [
+          "https://www.ticketone.it/event/andrea-pucci-dove-eravamo-rimasti-unipol-dome-arena-milano-21357649/",
+          "https://www.ticketone.it/event/maurizio-crozza-fratelli-di-crozza-soul-movie-studios-22063164/",
+          "https://www.ticketone.it/event/tick-tick-boom-stm-studio-tam-teatro-arcimboldi-milano-21966309/"
+        ]
+      },
+      "anteprima": {
+        "testo": "🗓️ Questo weekend a Milano: 47 spettacoli dal vivo.\n\n1. Andrea Pucci - Dove Eravamo Rimasti...? · Unipol Dome · sab 31/10 · 21:00\n2. Fratelli di Crozza · Soul Movie Studios · ven 30/10 · 19:00\n\nCerca «ShowViewLens» su App Store e Google Play.\n#ShowViewLens",
+        "immagini": [
+          "https://maxegon.github.io/showviewlens/social/2026-10-30/SHV_20261030_1830_STORY/01_storia.jpg"
+        ]
+      },
+      "ig_media": [
+        {
+          "media_type": "IMAGE",
+          "image_url": "https://maxegon.github.io/showviewlens/social/2026-10-30/SHV_20261030_1830_STORY/01_storia.jpg"
+        }
+      ],
+      "fb_photos": [
+        {
+          "type": "url",
+          "url": "https://maxegon.github.io/showviewlens/social/2026-10-30/SHV_20261030_1830_STORY/01_storia.jpg"
+        }
+      ]
+    }
+  ]
+}
