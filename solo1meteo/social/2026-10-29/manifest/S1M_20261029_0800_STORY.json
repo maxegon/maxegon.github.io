@@ -1,0 +1,75 @@
+{
+  "slot": "S1M_20261029_0800_STORY",
+  "piattaforma": "Instagram / FB",
+  "formato": "Storia",
+  "ora_pubblicazione": "2026-10-29 08:00",
+  "data_evento": "2026-10-29",
+  "utm": "https://maxegon.github.io/meteo-stat-privacy/landing/?utm_source=instagram&utm_medium=social&utm_campaign=s1m_2026w44&utm_content=S1M_20261029_0800_STORY",
+  "generato_il": "2026-10-28T23:56:26+01:00",
+  "provvisorio": true,
+  "giorno": "2026-10-29",
+  "stato": "SALTATO_RENDER",
+  "motivo": "storia RIFIUTATA:\n  - 26 parole > 25",
+  "testo_finale": "Bologna oggi: nuvoloso per 5 fonti su 8, massima media 18°. Cerca «Solo1Meteo» su App Store e Google Play",
+  "verifica": {
+    "esito": "ok",
+    "controlli": [
+      {
+        "nome": "backend",
+        "esito": "ok",
+        "dettaglio": "/health = healthy"
+      },
+      {
+        "nome": "fonti",
+        "esito": "ok",
+        "dettaglio": "8 fonti su 8 per 2026-10-29 (minimo 6)"
+      },
+      {
+        "nome": "freschezza",
+        "esito": "ok",
+        "dettaglio": "dato scaricato 0 minuti prima del rendering (massimo 3 ore, cache backend 10 minuti)"
+      },
+      {
+        "nome": "calcolo_app",
+        "esito": "ok",
+        "dettaglio": "copia del calcolo dell'app sha f8de55e39310 (submodule assente in CI) | codice dell'app (buildAggregateDays)"
+      },
+      {
+        "nome": "numeri_testo",
+        "esito": "ok",
+        "dettaglio": "tutti i numeri con ° o % sono quelli calcolati come nell'app"
+      },
+      {
+        "nome": "scarto",
+        "esito": "ok",
+        "dettaglio": "massime 18-19° (scarto 1°), pioggia 3-26% (scarto 23)"
+      },
+      {
+        "nome": "giorno",
+        "esito": "ok",
+        "dettaglio": "giorno citato = giovedì 2026-10-29"
+      },
+      {
+        "nome": "allerte",
+        "esito": "ok",
+        "dettaglio": "nessuna allerta meteo attiva per il giorno (WeatherAPI)"
+      },
+      {
+        "nome": "posizione",
+        "esito": "ok",
+        "dettaglio": "Bologna: citta fissa del piano, nessuna posizione dell'utente"
+      }
+    ],
+    "fonti": [
+      "https://backend-eta-seven-21.vercel.app/weather?lat=44.49&lon=11.34",
+      "https://open-meteo.com",
+      "https://openweathermap.org",
+      "https://www.weatherapi.com",
+      "https://api.met.no",
+      "https://brightsky.dev",
+      "https://www.visualcrossing.com",
+      "http://www.7timer.info",
+      "https://www.tomorrow.io"
+    ]
+  }
+}
