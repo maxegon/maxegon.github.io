@@ -1,0 +1,69 @@
+{
+ "data_evento": "2026-10-31",
+ "data_lunga": "Sabato 31 ottobre",
+ "categoria": "weekend_sportivo",
+ "eventi": [
+  {
+   "data": "2026-10-31",
+   "ora": "18:30",
+   "titolo": "Bayern München – Borussia Dortmund",
+   "competizione": "Bundesliga",
+   "sport": "soccer",
+   "canali": [
+    "Sky Sport Uno",
+    "Sky Sport"
+   ]
+  },
+  {
+   "data": "2026-10-31",
+   "ora": "18:30",
+   "titolo": "GP Messico: Prove libere 3",
+   "competizione": "Formula 1",
+   "sport": "f1",
+   "canali": [
+    "Sky Sport F1"
+   ]
+  },
+  {
+   "data": "2026-10-31",
+   "ora": "22:00",
+   "titolo": "Mexico City Grand Prix — Qualifiche",
+   "competizione": "Formula 1",
+   "sport": "f1",
+   "canali": [
+    "Sky Sport F1"
+   ]
+  },
+  {
+   "data": "2026-11-01",
+   "ora": "15:30",
+   "titolo": "Union Berlin – 1. FC Köln",
+   "competizione": "Bundesliga",
+   "sport": "soccer",
+   "canali": [
+    "Sky Sport Arena",
+    "Sky Sport"
+   ]
+  },
+  {
+   "data": "2026-11-01",
+   "ora": "18:00",
+   "titolo": "Lecce – Genoa",
+   "competizione": "Serie A",
+   "sport": "soccer",
+   "canali": [
+    "Sky Sport 251"
+   ]
+  },
+  {
+   "data": "2026-11-01",
+   "ora": "21:00",
+   "titolo": "GP Messico: Gara",
+   "competizione": "Formula 1",
+   "sport": "f1",
+   "canali": [
+    "Sky Sport F1"
+   ]
+  }
+ ]
+}
