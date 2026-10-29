@@ -5,6 +5,27 @@
  "eventi": [
   {
    "data": "2026-10-31",
+   "ora": "15:30",
+   "titolo": "Bayer Leverkusen – VfB Stuttgart",
+   "competizione": "Bundesliga",
+   "sport": "soccer",
+   "canali": [
+    "Sky Sport 259",
+    "Sky Sport"
+   ]
+  },
+  {
+   "data": "2026-10-31",
+   "ora": "18:25",
+   "titolo": "GP Messico: Prove libere 3",
+   "competizione": "Formula 1",
+   "sport": "f1",
+   "canali": [
+    "Sky Sport F1"
+   ]
+  },
+  {
+   "data": "2026-10-31",
    "ora": "18:30",
    "titolo": "Bayern München – Borussia Dortmund",
    "competizione": "Bundesliga",
@@ -16,8 +37,8 @@
   },
   {
    "data": "2026-10-31",
-   "ora": "18:30",
-   "titolo": "GP Messico: Prove libere 3",
+   "ora": "22:00",
+   "titolo": "Mexico City Grand Prix — Qualifiche",
    "competizione": "Formula 1",
    "sport": "f1",
    "canali": [
@@ -26,12 +47,22 @@
   },
   {
    "data": "2026-10-31",
-   "ora": "22:00",
-   "titolo": "Mexico City Grand Prix — Qualifiche",
-   "competizione": "Formula 1",
-   "sport": "f1",
+   "ora": "17:00",
+   "titolo": "Kuwait Major Finale Maschile",
+   "competizione": "Premier Padel",
+   "sport": "padel",
    "canali": [
-    "Sky Sport F1"
+    "Sky Sport Mix"
+   ]
+  },
+  {
+   "data": "2026-10-31",
+   "ora": "23:00",
+   "titolo": "UFC Fight Night: Renato Moicano - Tom Nolan",
+   "competizione": "MMA",
+   "sport": "mma",
+   "canali": [
+    "Eurosport 6"
    ]
   },
   {
@@ -53,6 +84,16 @@
    "sport": "soccer",
    "canali": [
     "Sky Sport 251"
+   ]
+  },
+  {
+   "data": "2026-11-01",
+   "ora": "20:45",
+   "titolo": "Juventus – Napoli",
+   "competizione": "Serie A",
+   "sport": "soccer",
+   "canali": [
+    "DAZN"
    ]
   },
   {
