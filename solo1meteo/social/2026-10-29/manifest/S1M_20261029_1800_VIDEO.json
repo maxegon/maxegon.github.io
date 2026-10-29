@@ -5,12 +5,88 @@
   "ora_pubblicazione": "2026-10-29 18:00",
   "data_evento": "2026-10-31",
   "utm": "https://maxegon.github.io/meteo-stat-privacy/landing/?utm_source=tiktok&utm_medium=social&utm_campaign=s1m_2026w44&utm_content=S1M_20261029_1800_VIDEO",
-  "generato_il": "2026-10-28T23:56:28+01:00",
-  "provvisorio": true,
-  "stato": "SALTATO_VERIFICA",
-  "motivo": "verifica dei dati non superata: fonti_pioggia: 2 fonti con il dato di pioggia (minimo 3)",
+  "generato_il": "2026-10-29T12:39:41+01:00",
+  "provvisorio": false,
+  "giorno": "2026-10-29",
+  "stato": "MEDIA_PRONTA",
+  "motivo": null,
+  "testo_finale": "Sabato a Firenze: massima media 16°, pioggia tra 0% e 15% secondo 3 fonti. Per il weekend guarda quanto sono d'accordo. Scarica Solo1Meteo: link in bio. #meteo #solo1meteo #previsionimeteo #meteoitalia",
+  "concept_finale": "S1 gancio: Sabato a Firenze: 16° | S2 pioggia: da 0% a 15% | S3 screenshot: schermata Confronto | S4 cta: Scarica gratis Solo1Meteo",
+  "immagini": [
+    "https://maxegon.github.io/solo1meteo/social/2026-10-29/S1M_20261029_1800_VIDEO/v1_gancio.png"
+  ],
+  "video_url": "https://maxegon.github.io/solo1meteo/social/2026-10-29/S1M_20261029_1800_VIDEO/video.mp4",
+  "ig_media": [],
+  "fb_photos": [],
+  "dati": {
+    "citta": "Firenze",
+    "data_label": "sabato 31 ottobre",
+    "fonti_n": 7,
+    "fonti_elencate": 7,
+    "fonti_escluse": [],
+    "tmax_media": 16,
+    "tmax_min": 15,
+    "tmax_max": 19,
+    "tmin_media": 8,
+    "pioggia_media": 50,
+    "pioggia_min": 0,
+    "pioggia_max": 15,
+    "fonti_pioggia": 3,
+    "condizione": "sereno",
+    "fonti_condizione": 6,
+    "giorno_piu_incerto": "mercoledì",
+    "scarto_tmax": 6,
+    "tmax_scarto_fonti": 3.6,
+    "tmax_disaccordo": false,
+    "pioggia_disaccordo": false,
+    "gancio_pioggia": "pioggia 50%"
+  },
+  "fonti": [
+    {
+      "fonte": "Open-Meteo",
+      "tmax": 17.6,
+      "pioggia": 0,
+      "pioggia_metodo": "orario"
+    },
+    {
+      "fonte": "OpenWeatherMap",
+      "tmax": 16.16,
+      "pioggia": null,
+      "pioggia_metodo": null
+    },
+    {
+      "fonte": "WeatherAPI",
+      "tmax": 17.6,
+      "pioggia": 15,
+      "pioggia_metodo": "orario"
+    },
+    {
+      "fonte": "MET Norway",
+      "tmax": 17,
+      "pioggia": null,
+      "pioggia_metodo": null
+    },
+    {
+      "fonte": "DWD",
+      "tmax": 18.6,
+      "pioggia": null,
+      "pioggia_metodo": null
+    },
+    {
+      "fonte": "7Timer!",
+      "tmax": 15,
+      "pioggia": null,
+      "pioggia_metodo": null
+    },
+    {
+      "fonte": "Tomorrow.io",
+      "tmax": 16.37,
+      "pioggia": 0,
+      "pioggia_metodo": "orario"
+    }
+  ],
   "verifica": {
-    "esito": "dubbio",
+    "esito": "ok",
     "controlli": [
       {
         "nome": "backend",
@@ -24,8 +100,8 @@
       },
       {
         "nome": "fonti_pioggia",
-        "esito": "dubbio",
-        "dettaglio": "2 fonti con il dato di pioggia (minimo 3)"
+        "esito": "ok",
+        "dettaglio": "3 fonti con il dato di pioggia (minimo 3)"
       },
       {
         "nome": "freschezza",
@@ -45,7 +121,7 @@
       {
         "nome": "scarto",
         "esito": "ok",
-        "dettaglio": "massime 14-18° (scarto 4°), pioggia 0-23% (scarto 23)"
+        "dettaglio": "massime 15-19° (scarto 4°), pioggia 0-15% (scarto 15)"
       },
       {
         "nome": "giorno",
@@ -67,57 +143,23 @@
       "https://backend-eta-seven-21.vercel.app/weather?lat=43.77&lon=11.26",
       "https://open-meteo.com",
       "https://openweathermap.org",
+      "https://www.weatherapi.com",
       "https://api.met.no",
       "https://brightsky.dev",
-      "https://www.visualcrossing.com",
       "http://www.7timer.info",
       "https://www.tomorrow.io"
     ]
   },
-  "tentativi": [
-    {
-      "citta": "Firenze",
-      "esito": "verifica",
-      "motivo": "fonti_pioggia: 2 fonti con il dato di pioggia (minimo 3)"
-    },
-    {
-      "citta": "Roma",
-      "esito": "verifica",
-      "motivo": "fonti_pioggia: 2 fonti con il dato di pioggia (minimo 3)"
-    },
-    {
-      "citta": "Milano",
-      "esito": "verifica",
-      "motivo": "fonti_pioggia: 2 fonti con il dato di pioggia (minimo 3)"
-    },
-    {
-      "citta": "Napoli",
-      "esito": "verifica",
-      "motivo": "fonti_pioggia: 2 fonti con il dato di pioggia (minimo 3)"
-    }
-  ],
-  "dati_scartati": {
-    "citta": "Firenze",
-    "data_label": "sabato 31 ottobre",
-    "fonti_n": 7,
-    "fonti_elencate": 7,
-    "fonti_escluse": [],
-    "tmax_media": 17,
-    "tmax_min": 14,
-    "tmax_max": 18,
-    "tmin_media": 9,
-    "pioggia_media": 8,
-    "pioggia_min": 0,
-    "pioggia_max": 23,
-    "fonti_pioggia": 2,
-    "condizione": "nuvoloso",
-    "fonti_condizione": 4,
-    "giorno_piu_incerto": "martedì",
-    "scarto_tmax": 8,
-    "tmax_scarto_fonti": 4.4,
-    "tmax_disaccordo": true,
-    "pioggia_disaccordo": false,
-    "gancio_pioggia": "pioggia 8%"
+  "scaricato_il": "2026-10-29T12:39:43+01:00",
+  "citta_usata": "Firenze",
+  "anteprima": {
+    "testo": "Sabato a Firenze: massima media 16°, pioggia tra 0% e 15% secondo 3 fonti. Per il weekend guarda quanto sono d'accordo. Scarica Solo1Meteo: link in bio. #meteo #solo1meteo #previsionimeteo #meteoitalia",
+    "immagini": [
+      "https://maxegon.github.io/solo1meteo/social/2026-10-29/S1M_20261029_1800_VIDEO/v1_gancio.png"
+    ]
   },
-  "giorno": "2026-10-29"
+  "cambio_serale": {
+    "tipo": "nuova",
+    "motivo": "la sera era SALTATO_VERIFICA"
+  }
 }
