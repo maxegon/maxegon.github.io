@@ -1,0 +1,29 @@
+{
+ "app": "PodcastViewLens",
+ "data": "2026-10-30",
+ "righe": {
+  "W1_VEN_1300": {
+   "pubblica_alle": "2026-10-30T13:00:00+01:00",
+   "formato": "Storia",
+   "piattaforma": "Instagram Stories",
+   "sempreverde": true,
+   "chiave": "W1_VEN_1300",
+   "decisione": null,
+   "alle": "",
+   "correzioni": [],
+   "messaggio_id": 95
+  }
+ },
+ "messaggi": {
+  "95": {
+   "chat_id": "1614787945",
+   "righe": [
+    "W1_VEN_1300"
+   ],
+   "base": "<b>13:00 · Storia · Instagram Stories</b>\nID <code>W1_VEN_1300</code>\n✅ Verifica ok\n<pre>Storia: S1: Nessun account. Nessuna pubblicità. | S2: Apri e scegli cosa ascoltare | S3: Cerca «PodcastViewLens» su App Store e Google Play</pre>\n\n<i>✅ OK: esce all'orario · ⏭️ Salta: non esce, torna in coda tra 7 giorni · ✏️ Correggi: mi scrivi cosa cambiare · ↩️ Annulla: torna come prima. Nessun click = esce. Leggo i pulsanti ogni 15 minuti: decidi almeno 30 minuti prima.</i>"
+  }
+ },
+ "ultimo_update_id": null,
+ "anteprima_inviata_il": "2026-10-30T00:05:29+01:00",
+ "provvisorio": false
+}
