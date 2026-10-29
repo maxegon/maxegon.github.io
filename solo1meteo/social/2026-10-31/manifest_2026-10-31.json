@@ -1,0 +1,185 @@
+{
+  "riferimento": "2026-10-31",
+  "selezione": "pubblicazione",
+  "piano_valido": true,
+  "backend": "healthy",
+  "righe": 1,
+  "stati": {
+    "MEDIA_PRONTA": 1
+  },
+  "voci": [
+    {
+      "slot": "S1M_20261031_0830_STORY",
+      "piattaforma": "Instagram / FB",
+      "formato": "Storia",
+      "ora_pubblicazione": "2026-10-31 08:30",
+      "data_evento": "2026-10-31",
+      "utm": "https://maxegon.github.io/meteo-stat-privacy/landing/?utm_source=instagram&utm_medium=social&utm_campaign=s1m_2026w44&utm_content=S1M_20261031_0830_STORY",
+      "generato_il": "2026-10-30T00:04:29+01:00",
+      "provvisorio": true,
+      "giorno": "2026-10-31",
+      "stato": "MEDIA_PRONTA",
+      "motivo": null,
+      "testo_finale": "Sabato a Milano: massima media 16°, nuvoloso per 5 fonti su 8. Cerca «Solo1Meteo» su App Store e Google Play",
+      "concept_finale": "S1 gancio: Sabato a Milano: 16° | S2 dato: nuvoloso per 5 fonti su 8 | S3 cta: Cerca «Solo1Meteo» su App Store e Google Play",
+      "immagini": [
+        "https://maxegon.github.io/solo1meteo/social/2026-10-31/S1M_20261031_0830_STORY/storia.png"
+      ],
+      "video_url": null,
+      "ig_media": [
+        {
+          "media_type": "IMAGE",
+          "image_url": "https://maxegon.github.io/solo1meteo/social/2026-10-31/S1M_20261031_0830_STORY/storia.png"
+        }
+      ],
+      "fb_photos": [
+        {
+          "type": "url",
+          "url": "https://maxegon.github.io/solo1meteo/social/2026-10-31/S1M_20261031_0830_STORY/storia.png"
+        }
+      ],
+      "dati": {
+        "citta": "Milano",
+        "data_label": "sabato 31 ottobre",
+        "fonti_n": 8,
+        "fonti_elencate": 8,
+        "fonti_escluse": [],
+        "tmax_media": 16,
+        "tmax_min": 15,
+        "tmax_max": 18,
+        "tmin_media": 9,
+        "pioggia_media": 4,
+        "pioggia_min": 0,
+        "pioggia_max": 18,
+        "fonti_pioggia": 5,
+        "condizione": "nuvoloso",
+        "fonti_condizione": 5,
+        "giorno_piu_incerto": "lunedì",
+        "scarto_tmax": 4,
+        "tmax_scarto_fonti": 2.2,
+        "tmax_disaccordo": false,
+        "pioggia_disaccordo": false,
+        "gancio_pioggia": "pioggia 4%"
+      },
+      "fonti": [
+        {
+          "fonte": "Open-Meteo",
+          "tmax": 16.1,
+          "pioggia": 0,
+          "pioggia_metodo": "orario"
+        },
+        {
+          "fonte": "OpenWeatherMap",
+          "tmax": 17.64,
+          "pioggia": 0,
+          "pioggia_metodo": "orario"
+        },
+        {
+          "fonte": "WeatherAPI",
+          "tmax": 17.6,
+          "pioggia": 18,
+          "pioggia_metodo": "orario"
+        },
+        {
+          "fonte": "MET Norway",
+          "tmax": 15.4,
+          "pioggia": null,
+          "pioggia_metodo": null
+        },
+        {
+          "fonte": "DWD",
+          "tmax": 15.8,
+          "pioggia": null,
+          "pioggia_metodo": null
+        },
+        {
+          "fonte": "Visual Crossing",
+          "tmax": 16.4,
+          "pioggia": 3,
+          "pioggia_metodo": "orario"
+        },
+        {
+          "fonte": "7Timer!",
+          "tmax": 16,
+          "pioggia": null,
+          "pioggia_metodo": null
+        },
+        {
+          "fonte": "Tomorrow.io",
+          "tmax": 15.43,
+          "pioggia": 0,
+          "pioggia_metodo": "orario"
+        }
+      ],
+      "verifica": {
+        "esito": "ok",
+        "controlli": [
+          {
+            "nome": "backend",
+            "esito": "ok",
+            "dettaglio": "/health = healthy"
+          },
+          {
+            "nome": "fonti",
+            "esito": "ok",
+            "dettaglio": "8 fonti su 8 per 2026-10-31 (minimo 6)"
+          },
+          {
+            "nome": "freschezza",
+            "esito": "ok",
+            "dettaglio": "dato scaricato 0 minuti prima del rendering (massimo 3 ore, cache backend 10 minuti)"
+          },
+          {
+            "nome": "calcolo_app",
+            "esito": "ok",
+            "dettaglio": "copia del calcolo dell'app sha f8de55e39310 (submodule assente in CI) | codice dell'app (buildAggregateDays)"
+          },
+          {
+            "nome": "numeri_testo",
+            "esito": "ok",
+            "dettaglio": "tutti i numeri con ° o % sono quelli calcolati come nell'app"
+          },
+          {
+            "nome": "scarto",
+            "esito": "ok",
+            "dettaglio": "massime 15-18° (scarto 3°), pioggia 0-18% (scarto 18)"
+          },
+          {
+            "nome": "giorno",
+            "esito": "ok",
+            "dettaglio": "giorno citato = sabato 2026-10-31"
+          },
+          {
+            "nome": "allerte",
+            "esito": "ok",
+            "dettaglio": "nessuna allerta meteo attiva per il giorno (WeatherAPI)"
+          },
+          {
+            "nome": "posizione",
+            "esito": "ok",
+            "dettaglio": "Milano: citta fissa del piano, nessuna posizione dell'utente"
+          }
+        ],
+        "fonti": [
+          "https://backend-eta-seven-21.vercel.app/weather?lat=45.46&lon=9.19",
+          "https://open-meteo.com",
+          "https://openweathermap.org",
+          "https://www.weatherapi.com",
+          "https://api.met.no",
+          "https://brightsky.dev",
+          "https://www.visualcrossing.com",
+          "http://www.7timer.info",
+          "https://www.tomorrow.io"
+        ]
+      },
+      "scaricato_il": "2026-10-30T00:04:31+01:00",
+      "citta_usata": "Milano",
+      "anteprima": {
+        "testo": "Sabato a Milano: massima media 16°, nuvoloso per 5 fonti su 8. Cerca «Solo1Meteo» su App Store e Google Play",
+        "immagini": [
+          "https://maxegon.github.io/solo1meteo/social/2026-10-31/S1M_20261031_0830_STORY/storia.png"
+        ]
+      }
+    }
+  ]
+}
