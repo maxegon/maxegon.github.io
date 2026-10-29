@@ -1,0 +1,29 @@
+{
+ "app": "Solo1Meteo",
+ "data": "2026-10-29",
+ "righe": {
+  "S1M_20261029_0800_STORY": {
+   "pubblica_alle": "2026-10-29T08:00:00+01:00",
+   "formato": "Storia",
+   "piattaforma": "Instagram / FB",
+   "sempreverde": false,
+   "chiave": "S1M_20261029_0800_STORY",
+   "decisione": null,
+   "alle": "",
+   "correzioni": [],
+   "messaggio_id": 610
+  }
+ },
+ "messaggi": {
+  "610": {
+   "chat_id": "1614787945",
+   "righe": [
+    "S1M_20261029_0800_STORY"
+   ],
+   "base": "<b>08:00 · Storia · Instagram / FB</b>\nID <code>S1M_20261029_0800_STORY</code>\n✅ Verifica ok · 9 fonti\n<pre>Bologna oggi: sereno per 5 fonti su 8, massima media 18°. Cerca «Solo1Meteo» su App Store e Google Play</pre>\n\n<i>✅ OK: esce all'orario · ⏭️ Salta: non esce, contenuto legato a quella data · ✏️ Correggi: mi scrivi cosa cambiare · ↩️ Annulla: torna come prima. Nessun click = esce. Leggo i pulsanti ogni 15 minuti: decidi almeno 30 minuti prima.</i>"
+  }
+ },
+ "ultimo_update_id": null,
+ "anteprima_inviata_il": "2026-10-29T12:40:18+01:00",
+ "provvisorio": false
+}
