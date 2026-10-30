@@ -1,0 +1,95 @@
+{
+  "date": "2026-10-31",
+  "generated_at": "2026-10-30T23:45+01:00",
+  "sources_skipped": [],
+  "rimandate": [],
+  "items": [
+    {
+      "id": "W1_SAB_1100",
+      "piattaforma": "Instagram / FB",
+      "formato": "Carosello",
+      "ora": "11:00",
+      "utm": "https://podcastviewlens.vercel.app/download?utm_source=instagram&utm_medium=social&utm_campaign=pvl_2026w44&utm_content=W1_SAB_1100",
+      "stato": "PRONTO",
+      "motivo": "",
+      "caption": "Nell'Archivio sfogli le produzioni per network: Chora Media, Il Post, RaiPlay Sound, Radio 24, Will Media, OnePodcast e gli Indipendenti.\n\nScarica PodcastViewLens gratis: link in bio.\n\n#PodcastViewLens #PodcastItalia #CosaAscoltare",
+      "files": [
+        "https://maxegon.github.io/podcastviewlens/social/2026-10-31/W1_SAB_1100/slide_01.jpg",
+        "https://maxegon.github.io/podcastviewlens/social/2026-10-31/W1_SAB_1100/slide_02.jpg",
+        "https://maxegon.github.io/podcastviewlens/social/2026-10-31/W1_SAB_1100/slide_03.jpg",
+        "https://maxegon.github.io/podcastviewlens/social/2026-10-31/W1_SAB_1100/slide_04.jpg",
+        "https://maxegon.github.io/podcastviewlens/social/2026-10-31/W1_SAB_1100/slide_05.jpg"
+      ],
+      "verifica": {
+        "esito": "ok",
+        "controlli": [
+          {
+            "nome": "dati_variabili",
+            "esito": "ok",
+            "dettaglio": "nessun dato variabile: testo sulle funzioni dell'app (app_features.json, guardrails.json)"
+          },
+          {
+            "nome": "funzione_in_app",
+            "esito": "ok",
+            "dettaglio": "«archivio_network» verificata il 2026-10-23 su src/data/networks.js, src/screens/ArchiveScreen.js"
+          }
+        ],
+        "fonti": []
+      },
+      "anteprima": {
+        "testo": "Nell'Archivio sfogli le produzioni per network: Chora Media, Il Post, RaiPlay Sound, Radio 24, Will Media, OnePodcast e gli Indipendenti.\n\nScarica PodcastViewLens gratis: link in bio.\n\n#PodcastViewLens #PodcastItalia #CosaAscoltare",
+        "immagini": [
+          "https://maxegon.github.io/podcastviewlens/social/2026-10-31/W1_SAB_1100/slide_01.jpg"
+        ]
+      },
+      "pubblica_alle": "2026-10-31T11:00+01:00",
+      "sempreverde": true,
+      "eventi": [],
+      "titolo_slide": "I network in un solo Archivio",
+      "ig_media": [
+        {
+          "media_type": "IMAGE",
+          "image_url": "https://maxegon.github.io/podcastviewlens/social/2026-10-31/W1_SAB_1100/slide_01.jpg"
+        },
+        {
+          "media_type": "IMAGE",
+          "image_url": "https://maxegon.github.io/podcastviewlens/social/2026-10-31/W1_SAB_1100/slide_02.jpg"
+        },
+        {
+          "media_type": "IMAGE",
+          "image_url": "https://maxegon.github.io/podcastviewlens/social/2026-10-31/W1_SAB_1100/slide_03.jpg"
+        },
+        {
+          "media_type": "IMAGE",
+          "image_url": "https://maxegon.github.io/podcastviewlens/social/2026-10-31/W1_SAB_1100/slide_04.jpg"
+        },
+        {
+          "media_type": "IMAGE",
+          "image_url": "https://maxegon.github.io/podcastviewlens/social/2026-10-31/W1_SAB_1100/slide_05.jpg"
+        }
+      ],
+      "fb_photos": [
+        {
+          "type": "url",
+          "url": "https://maxegon.github.io/podcastviewlens/social/2026-10-31/W1_SAB_1100/slide_01.jpg"
+        },
+        {
+          "type": "url",
+          "url": "https://maxegon.github.io/podcastviewlens/social/2026-10-31/W1_SAB_1100/slide_02.jpg"
+        },
+        {
+          "type": "url",
+          "url": "https://maxegon.github.io/podcastviewlens/social/2026-10-31/W1_SAB_1100/slide_03.jpg"
+        },
+        {
+          "type": "url",
+          "url": "https://maxegon.github.io/podcastviewlens/social/2026-10-31/W1_SAB_1100/slide_04.jpg"
+        },
+        {
+          "type": "url",
+          "url": "https://maxegon.github.io/podcastviewlens/social/2026-10-31/W1_SAB_1100/slide_05.jpg"
+        }
+      ]
+    }
+  ]
+}
