@@ -1,0 +1,232 @@
+{
+  "slot": "S1M_20261030_1830_FEED",
+  "piattaforma": "Instagram / FB",
+  "formato": "Carosello",
+  "ora_pubblicazione": "2026-10-30 18:30",
+  "data_evento": "2026-10-31",
+  "utm": "https://maxegon.github.io/meteo-stat-privacy/landing/?utm_source=instagram&utm_medium=social&utm_campaign=s1m_2026w44&utm_content=S1M_20261030_1830_FEED",
+  "generato_il": "2026-10-30T12:30:37+01:00",
+  "provvisorio": false,
+  "giorno": "2026-10-30",
+  "stato": "MEDIA_PRONTA",
+  "motivo": null,
+  "testo_finale": "Il weekend a Milano, fonte per fonte. Sabato massima media 16°, pioggia 3%. Quando le fonti divergono, ricontrolla sabato mattina. Scarica Solo1Meteo gratis: link in bio. #solo1meteo #meteo #previsionimeteo #meteoitalia",
+  "concept_finale": "S1 gancio: Sabato a Milano: 16°, pioggia 3% | S2 confronto: massime da 15° a 18° tra 8 fonti | S3 pioggia: tra 0% e 16% secondo 5 fonti | S4 screenshot: schermata Previsioni | S5 cta: Scarica gratis Solo1Meteo",
+  "immagini": [
+    "https://maxegon.github.io/solo1meteo/social/2026-10-30/S1M_20261030_1830_FEED/1_copertina.png",
+    "https://maxegon.github.io/solo1meteo/social/2026-10-30/S1M_20261030_1830_FEED/2a_temperature.png",
+    "https://maxegon.github.io/solo1meteo/social/2026-10-30/S1M_20261030_1830_FEED/2b_temperature.png",
+    "https://maxegon.github.io/solo1meteo/social/2026-10-30/S1M_20261030_1830_FEED/3_pioggia.png",
+    "https://maxegon.github.io/solo1meteo/social/2026-10-30/S1M_20261030_1830_FEED/4_screenshot.png",
+    "https://maxegon.github.io/solo1meteo/social/2026-10-30/S1M_20261030_1830_FEED/5_cta.png"
+  ],
+  "video_url": null,
+  "ig_media": [
+    {
+      "media_type": "IMAGE",
+      "image_url": "https://maxegon.github.io/solo1meteo/social/2026-10-30/S1M_20261030_1830_FEED/1_copertina.png"
+    },
+    {
+      "media_type": "IMAGE",
+      "image_url": "https://maxegon.github.io/solo1meteo/social/2026-10-30/S1M_20261030_1830_FEED/2a_temperature.png"
+    },
+    {
+      "media_type": "IMAGE",
+      "image_url": "https://maxegon.github.io/solo1meteo/social/2026-10-30/S1M_20261030_1830_FEED/2b_temperature.png"
+    },
+    {
+      "media_type": "IMAGE",
+      "image_url": "https://maxegon.github.io/solo1meteo/social/2026-10-30/S1M_20261030_1830_FEED/3_pioggia.png"
+    },
+    {
+      "media_type": "IMAGE",
+      "image_url": "https://maxegon.github.io/solo1meteo/social/2026-10-30/S1M_20261030_1830_FEED/4_screenshot.png"
+    },
+    {
+      "media_type": "IMAGE",
+      "image_url": "https://maxegon.github.io/solo1meteo/social/2026-10-30/S1M_20261030_1830_FEED/5_cta.png"
+    }
+  ],
+  "fb_photos": [
+    {
+      "type": "url",
+      "url": "https://maxegon.github.io/solo1meteo/social/2026-10-30/S1M_20261030_1830_FEED/1_copertina.png"
+    },
+    {
+      "type": "url",
+      "url": "https://maxegon.github.io/solo1meteo/social/2026-10-30/S1M_20261030_1830_FEED/2a_temperature.png"
+    },
+    {
+      "type": "url",
+      "url": "https://maxegon.github.io/solo1meteo/social/2026-10-30/S1M_20261030_1830_FEED/2b_temperature.png"
+    },
+    {
+      "type": "url",
+      "url": "https://maxegon.github.io/solo1meteo/social/2026-10-30/S1M_20261030_1830_FEED/3_pioggia.png"
+    },
+    {
+      "type": "url",
+      "url": "https://maxegon.github.io/solo1meteo/social/2026-10-30/S1M_20261030_1830_FEED/4_screenshot.png"
+    },
+    {
+      "type": "url",
+      "url": "https://maxegon.github.io/solo1meteo/social/2026-10-30/S1M_20261030_1830_FEED/5_cta.png"
+    }
+  ],
+  "dati": {
+    "citta": "Milano",
+    "data_label": "sabato 31 ottobre",
+    "fonti_n": 8,
+    "fonti_elencate": 8,
+    "fonti_escluse": [],
+    "tmax_media": 16,
+    "tmax_min": 15,
+    "tmax_max": 18,
+    "tmin_media": 9,
+    "pioggia_media": 3,
+    "pioggia_min": 0,
+    "pioggia_max": 16,
+    "fonti_pioggia": 5,
+    "condizione": "nuvoloso",
+    "fonti_condizione": 4,
+    "giorno_piu_incerto": "domenica",
+    "scarto_tmax": 4,
+    "tmax_scarto_fonti": 2.9,
+    "tmax_disaccordo": false,
+    "pioggia_disaccordo": false,
+    "gancio_pioggia": "pioggia 3%"
+  },
+  "fonti": [
+    {
+      "fonte": "Open-Meteo",
+      "tmax": 16.7,
+      "pioggia": 3,
+      "pioggia_metodo": "orario"
+    },
+    {
+      "fonte": "OpenWeatherMap",
+      "tmax": 17.98,
+      "pioggia": 0,
+      "pioggia_metodo": "orario"
+    },
+    {
+      "fonte": "WeatherAPI",
+      "tmax": 17.4,
+      "pioggia": 16,
+      "pioggia_metodo": "orario"
+    },
+    {
+      "fonte": "MET Norway",
+      "tmax": 15.1,
+      "pioggia": null,
+      "pioggia_metodo": null
+    },
+    {
+      "fonte": "DWD",
+      "tmax": 15.9,
+      "pioggia": null,
+      "pioggia_metodo": null
+    },
+    {
+      "fonte": "Visual Crossing",
+      "tmax": 16.4,
+      "pioggia": 0,
+      "pioggia_metodo": "orario"
+    },
+    {
+      "fonte": "7Timer!",
+      "tmax": 16,
+      "pioggia": null,
+      "pioggia_metodo": null
+    },
+    {
+      "fonte": "Tomorrow.io",
+      "tmax": 15.12,
+      "pioggia": 0,
+      "pioggia_metodo": "orario"
+    }
+  ],
+  "verifica": {
+    "esito": "ok",
+    "controlli": [
+      {
+        "nome": "backend",
+        "esito": "ok",
+        "dettaglio": "/health = healthy"
+      },
+      {
+        "nome": "fonti",
+        "esito": "ok",
+        "dettaglio": "8 fonti su 8 per 2026-10-31 (minimo 6)"
+      },
+      {
+        "nome": "fonti_pioggia",
+        "esito": "ok",
+        "dettaglio": "5 fonti con il dato di pioggia (minimo 3)"
+      },
+      {
+        "nome": "freschezza",
+        "esito": "ok",
+        "dettaglio": "dato scaricato 0 minuti prima del rendering (massimo 3 ore, cache backend 10 minuti)"
+      },
+      {
+        "nome": "calcolo_app",
+        "esito": "ok",
+        "dettaglio": "copia del calcolo dell'app sha f8de55e39310 (submodule assente in CI) | codice dell'app (buildAggregateDays)"
+      },
+      {
+        "nome": "numeri_testo",
+        "esito": "ok",
+        "dettaglio": "tutti i numeri con ° o % sono quelli calcolati come nell'app"
+      },
+      {
+        "nome": "scarto",
+        "esito": "ok",
+        "dettaglio": "massime 15-18° (scarto 3°), pioggia 0-16% (scarto 16)"
+      },
+      {
+        "nome": "giorno",
+        "esito": "ok",
+        "dettaglio": "giorno citato = sabato 2026-10-31"
+      },
+      {
+        "nome": "allerte",
+        "esito": "ok",
+        "dettaglio": "nessuna allerta meteo attiva per il giorno (WeatherAPI)"
+      },
+      {
+        "nome": "posizione",
+        "esito": "ok",
+        "dettaglio": "Milano: citta fissa del piano, nessuna posizione dell'utente"
+      },
+      {
+        "nome": "citta",
+        "esito": "ok",
+        "dettaglio": "Roma sostituita con Milano: allerte: allerta meteo attiva (Giallo Temporali Allerta; Giallo Temporali Allerta; Giallo Temporali Allerta) e nessun ente citato nel post"
+      }
+    ],
+    "fonti": [
+      "https://backend-eta-seven-21.vercel.app/weather?lat=45.46&lon=9.19",
+      "https://open-meteo.com",
+      "https://openweathermap.org",
+      "https://www.weatherapi.com",
+      "https://api.met.no",
+      "https://brightsky.dev",
+      "https://www.visualcrossing.com",
+      "http://www.7timer.info",
+      "https://www.tomorrow.io"
+    ]
+  },
+  "scaricato_il": "2026-10-30T12:30:40+01:00",
+  "citta_usata": "Milano",
+  "anteprima": {
+    "testo": "Il weekend a Milano, fonte per fonte. Sabato massima media 16°, pioggia 3%. Quando le fonti divergono, ricontrolla sabato mattina. Scarica Solo1Meteo gratis: link in bio. #solo1meteo #meteo #previsionimeteo #meteoitalia",
+    "immagini": [
+      "https://maxegon.github.io/solo1meteo/social/2026-10-30/S1M_20261030_1830_FEED/1_copertina.png"
+    ]
+  },
+  "cambio_serale": {
+    "tipo": "nuova",
+    "motivo": "non c'era un rendering serale"
+  }
+}
