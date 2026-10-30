@@ -15,13 +15,13 @@
       "ora_pubblicazione": "2026-10-31 08:30",
       "data_evento": "2026-10-31",
       "utm": "https://maxegon.github.io/meteo-stat-privacy/landing/?utm_source=instagram&utm_medium=social&utm_campaign=s1m_2026w44&utm_content=S1M_20261031_0830_STORY",
-      "generato_il": "2026-10-30T00:04:29+01:00",
+      "generato_il": "2026-10-30T23:46:03+01:00",
       "provvisorio": true,
       "giorno": "2026-10-31",
       "stato": "MEDIA_PRONTA",
       "motivo": null,
-      "testo_finale": "Sabato a Milano: massima media 16°, nuvoloso per 5 fonti su 8. Cerca «Solo1Meteo» su App Store e Google Play",
-      "concept_finale": "S1 gancio: Sabato a Milano: 16° | S2 dato: nuvoloso per 5 fonti su 8 | S3 cta: Cerca «Solo1Meteo» su App Store e Google Play",
+      "testo_finale": "Sabato a Milano: massima media 17°, sereno per 5 fonti su 8. Cerca «Solo1Meteo» su App Store e Google Play",
+      "concept_finale": "S1 gancio: Sabato a Milano: 17° | S2 dato: sereno per 5 fonti su 8 | S3 cta: Cerca «Solo1Meteo» su App Store e Google Play",
       "immagini": [
         "https://maxegon.github.io/solo1meteo/social/2026-10-31/S1M_20261031_0830_STORY/storia.png"
       ],
@@ -44,58 +44,58 @@
         "fonti_n": 8,
         "fonti_elencate": 8,
         "fonti_escluse": [],
-        "tmax_media": 16,
-        "tmax_min": 15,
+        "tmax_media": 17,
+        "tmax_min": 16,
         "tmax_max": 18,
         "tmin_media": 9,
-        "pioggia_media": 4,
+        "pioggia_media": 20,
         "pioggia_min": 0,
-        "pioggia_max": 18,
+        "pioggia_max": 15,
         "fonti_pioggia": 5,
-        "condizione": "nuvoloso",
+        "condizione": "sereno",
         "fonti_condizione": 5,
-        "giorno_piu_incerto": "lunedì",
+        "giorno_piu_incerto": "mercoledì",
         "scarto_tmax": 4,
-        "tmax_scarto_fonti": 2.2,
+        "tmax_scarto_fonti": 1.9,
         "tmax_disaccordo": false,
         "pioggia_disaccordo": false,
-        "gancio_pioggia": "pioggia 4%"
+        "gancio_pioggia": "pioggia 20%"
       },
       "fonti": [
         {
           "fonte": "Open-Meteo",
-          "tmax": 16.1,
+          "tmax": 16.4,
           "pioggia": 0,
           "pioggia_metodo": "orario"
         },
         {
           "fonte": "OpenWeatherMap",
-          "tmax": 17.64,
+          "tmax": 17.91,
           "pioggia": 0,
           "pioggia_metodo": "orario"
         },
         {
           "fonte": "WeatherAPI",
-          "tmax": 17.6,
-          "pioggia": 18,
+          "tmax": 17.8,
+          "pioggia": 15,
           "pioggia_metodo": "orario"
         },
         {
           "fonte": "MET Norway",
-          "tmax": 15.4,
+          "tmax": 16,
           "pioggia": null,
           "pioggia_metodo": null
         },
         {
           "fonte": "DWD",
-          "tmax": 15.8,
+          "tmax": 16.9,
           "pioggia": null,
           "pioggia_metodo": null
         },
         {
           "fonte": "Visual Crossing",
-          "tmax": 16.4,
-          "pioggia": 3,
+          "tmax": 16.7,
+          "pioggia": 0,
           "pioggia_metodo": "orario"
         },
         {
@@ -106,7 +106,7 @@
         },
         {
           "fonte": "Tomorrow.io",
-          "tmax": 15.43,
+          "tmax": 15.97,
           "pioggia": 0,
           "pioggia_metodo": "orario"
         }
@@ -142,7 +142,7 @@
           {
             "nome": "scarto",
             "esito": "ok",
-            "dettaglio": "massime 15-18° (scarto 3°), pioggia 0-18% (scarto 18)"
+            "dettaglio": "massime 16-18° (scarto 2°), pioggia 0-15% (scarto 15)"
           },
           {
             "nome": "giorno",
@@ -172,10 +172,10 @@
           "https://www.tomorrow.io"
         ]
       },
-      "scaricato_il": "2026-10-30T00:04:31+01:00",
+      "scaricato_il": "2026-10-30T23:46:05+01:00",
       "citta_usata": "Milano",
       "anteprima": {
-        "testo": "Sabato a Milano: massima media 16°, nuvoloso per 5 fonti su 8. Cerca «Solo1Meteo» su App Store e Google Play",
+        "testo": "Sabato a Milano: massima media 17°, sereno per 5 fonti su 8. Cerca «Solo1Meteo» su App Store e Google Play",
         "immagini": [
           "https://maxegon.github.io/solo1meteo/social/2026-10-31/S1M_20261031_0830_STORY/storia.png"
         ]
