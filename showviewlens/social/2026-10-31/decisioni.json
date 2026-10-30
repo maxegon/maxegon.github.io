@@ -1,0 +1,29 @@
+{
+ "app": "ShowViewLens",
+ "data": "2026-10-31",
+ "righe": {
+  "SHV_20261031_1100_STORY": {
+   "pubblica_alle": "2026-10-31T11:00:00+01:00",
+   "formato": "Storia",
+   "piattaforma": "Instagram / FB Stories",
+   "sempreverde": false,
+   "chiave": "SHV_20261031_1100_STORY",
+   "decisione": null,
+   "alle": "",
+   "correzioni": [],
+   "messaggio_id": 738
+  }
+ },
+ "messaggi": {
+  "738": {
+   "chat_id": "1614787945",
+   "righe": [
+    "SHV_20261031_1100_STORY"
+   ],
+   "base": "<b>11:00 · Storia · Instagram / FB Stories</b>\nID <code>SHV_20261031_1100_STORY</code>\n✅ Verifica ok · 3 fonti\n<pre>🌙 Stasera a Napoli\n\n1. Uscita D&#x27;Emergenza · Teatro San Ferdinando · sab 31/10 · 19:00\n2. L&#x27;ultimo Nastro di Krapp - Presse Conference · Teatro Mercadante · sab 31/10 · 19:00\n3. Ma Che Serata...! · Teatro Bracco · sab 31/10 · 19:30\n\nCerca «ShowViewLens» su App Store e Google Play.\n#ShowViewLens</pre>\n\n<i>✅ OK: esce all'orario · ⏭️ Salta: non esce, contenuto legato a quella data · ✏️ Correggi: mi scrivi cosa cambiare · ↩️ Annulla: torna come prima. Nessun click = esce. Leggo i pulsanti ogni 15 minuti: decidi almeno 30 minuti prima.</i>"
+  }
+ },
+ "ultimo_update_id": null,
+ "anteprima_inviata_il": "2026-10-30T23:53:27+01:00",
+ "provvisorio": false
+}
