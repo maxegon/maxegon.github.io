@@ -1,0 +1,29 @@
+{
+ "app": "SportViewLens",
+ "data": "2026-10-31",
+ "righe": {
+  "SVL_20261031_1000_CAR": {
+   "pubblica_alle": "2026-10-31T10:00:00+01:00",
+   "formato": "Carosello",
+   "piattaforma": "Instagram / FB",
+   "sempreverde": false,
+   "chiave": "SVL_20261031_1000_CAR",
+   "decisione": null,
+   "alle": "",
+   "correzioni": [],
+   "messaggio_id": 460
+  }
+ },
+ "messaggi": {
+  "460": {
+   "chat_id": "1614787945",
+   "righe": [
+    "SVL_20261031_1000_CAR"
+   ],
+   "base": "<b>10:00 · Carosello · Instagram / FB</b>\nID <code>SVL_20261031_1000_CAR</code>\n⚠️ Verifica ok · 5 fonti, tolti perché incerti:\n  • tolto «GP Malesia — Qualifiche» 09:50: orario 09:50 fuori dalla finestra [-5, +60] min dall&#x27;inizio trasmissione\n  • tolto «Ternana W – Como 1907 W» 12:30: stagione dei diritti (2025-2026, None) non contiene il 2026-10-31; nessun canale con due fonti: DAZN (solo palinsesto); orario 12:30 non con\n  • tolto «Chelsea – Manchester United» 13:30: stagione dei diritti (2025-2026) non contiene il 2026-10-31; nessun canale con due fonti: Sky Sport Uno (solo palinsesto); Sky Sport 4K (sol\n  • tolto «Levante – Atletico Madrid» 14:00: stagione dei diritti (2025-2026) non contiene il 2026-10-31; nessun canale con due fonti: DAZN (nessuna fonte); orario 14:00 non confrontabi\n  • tolto «Vienna Maschile (cemento)» 14:00: nessuna riga di tv_rights per tennis / «ATP 500»; nessun canale con due fonti: Sky Sport Tennis (solo palinsesto); orario 14:00 non confront\n  • tolto «Basilea Maschile (cemento)» 14:00: nessuna riga di tv_rights per tennis / «ATP 500»; nessun canale con due fonti: Sky Sport Max (solo palinsesto); orario 14:00 non confrontabi\n  • … altri 6\n<pre>📺 Oggi in TV: 5 dirette sport\n\n• 15:30 Bayer Leverkusen – VfB Stuttgart · Sky Sport 259, Sky Sport\n• 18:25 GP Messico: Prove libere 3 · Sky Sport F1\n• 18:30 Bayern München – Borussia Dortmund · Sky Sport Uno, Sky Sport\n• 22:00 Mexico City Grand Prix — Qualifiche · Sky Sport F1\n• 23:00 UFC Fight Night: Renato Moicano - Tom Nolan · Eurosport 6\n\nCerca la tua squadra e scegli le tue piattaforme in SportViewLens.\n📲 Scarica gratis SportViewLens: link in bio.\n\nSportViewLens non è affiliata con DAZN, Sky, RAI o altri broadcaster.\n🤖 Contenuto generato in automatico con IA dai palinsesti TV ufficiali.\n\n#SportViewLens #SportInTV #OggiInTV</pre>\n\n<i>✅ OK: esce all'orario · ⏭️ Salta: non esce, contenuto legato a quella data · ✏️ Correggi: mi scrivi cosa cambiare · ↩️ Annulla: torna come prima. Nessun click = esce. Leggo i pulsanti ogni 15 minuti: decidi almeno 30 minuti prima.</i>"
+  }
+ },
+ "ultimo_update_id": null,
+ "anteprima_inviata_il": "2026-10-30T23:55:42+01:00",
+ "provvisorio": false
+}
