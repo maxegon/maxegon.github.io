@@ -1,0 +1,29 @@
+{
+ "app": "PodcastViewLens",
+ "data": "2026-10-31",
+ "righe": {
+  "W1_SAB_1100": {
+   "pubblica_alle": "2026-10-31T11:00:00+01:00",
+   "formato": "Carosello",
+   "piattaforma": "Instagram / FB",
+   "sempreverde": true,
+   "chiave": "W1_SAB_1100",
+   "decisione": null,
+   "alle": "",
+   "correzioni": [],
+   "messaggio_id": 102
+  }
+ },
+ "messaggi": {
+  "102": {
+   "chat_id": "1614787945",
+   "righe": [
+    "W1_SAB_1100"
+   ],
+   "base": "<b>11:00 · Carosello · Instagram / FB</b>\nID <code>W1_SAB_1100</code>\n✅ Verifica ok\n<pre>Nell&#x27;Archivio sfogli le produzioni per network: Chora Media, Il Post, RaiPlay Sound, Radio 24, Will Media, OnePodcast e gli Indipendenti.\n\nScarica PodcastViewLens gratis: link in bio.\n\n#PodcastViewLens #PodcastItalia #CosaAscoltare</pre>\n\n<i>✅ OK: esce all'orario · ⏭️ Salta: non esce, torna in coda tra 7 giorni · ✏️ Correggi: mi scrivi cosa cambiare · ↩️ Annulla: torna come prima. Nessun click = esce. Leggo i pulsanti ogni 15 minuti: decidi almeno 30 minuti prima.</i>"
+  }
+ },
+ "ultimo_update_id": null,
+ "anteprima_inviata_il": "2026-10-30T23:46:18+01:00",
+ "provvisorio": false
+}
