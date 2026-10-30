@@ -1,0 +1,370 @@
+{
+ "generato": "2026-10-30T22:54:35+00:00",
+ "data_pubblicazione": "2026-10-31",
+ "base_url": "https://maxegon.github.io/sportviewlens/social/2026-10-31",
+ "righe": [
+  {
+   "Giorno_Slot": "SVL_20261031_1000_CAR",
+   "Formato": "Carosello",
+   "Piattaforma": "Instagram / FB",
+   "Ora": "10:00",
+   "Categoria": "oggi_in_tv",
+   "Data_Evento": "2026-10-31",
+   "UTM": "https://maxegon.github.io/sportviewlens/download/?utm_source=instagram&utm_medium=carosello&utm_campaign=oggi_in_tv&utm_content=SVL_20261031_1000_CAR",
+   "note": [],
+   "verifica": {
+    "esito": "dubbio",
+    "controlli": [
+     {
+      "nome": "eventi nel post",
+      "esito": "ok",
+      "dettaglio": "5 eventi verificati ok, 38 tolti, su 43 candidati dell'app"
+     },
+     {
+      "nome": "tolto «GP Malesia — Qualifiche» 09:50",
+      "esito": "dubbio",
+      "dettaglio": "orario 09:50 fuori dalla finestra [-5, +60] min dall'inizio trasmissione"
+     },
+     {
+      "nome": "tolto «Ternana W – Como 1907 W» 12:30",
+      "esito": "dubbio",
+      "dettaglio": "stagione dei diritti (2025-2026, None) non contiene il 2026-10-31; nessun canale con due fonti: DAZN (solo palinsesto); orario 12:30 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Chelsea – Manchester United» 13:30",
+      "esito": "dubbio",
+      "dettaglio": "stagione dei diritti (2025-2026) non contiene il 2026-10-31; nessun canale con due fonti: Sky Sport Uno (solo palinsesto); Sky Sport 4K (solo palinsesto); Sky Sport (solo palinsesto); NOW (nessuna fonte); orario 13:30 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Levante – Atletico Madrid» 14:00",
+      "esito": "dubbio",
+      "dettaglio": "stagione dei diritti (2025-2026) non contiene il 2026-10-31; nessun canale con due fonti: DAZN (nessuna fonte); orario 14:00 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Vienna Maschile (cemento)» 14:00",
+      "esito": "dubbio",
+      "dettaglio": "nessuna riga di tv_rights per tennis / «ATP 500»; nessun canale con due fonti: Sky Sport Tennis (solo palinsesto); orario 14:00 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Basilea Maschile (cemento)» 14:00",
+      "esito": "dubbio",
+      "dettaglio": "nessuna riga di tv_rights per tennis / «ATP 500»; nessun canale con due fonti: Sky Sport Max (solo palinsesto); orario 14:00 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Bologna – Monza» 15:00",
+      "esito": "dubbio",
+      "dettaglio": "nessun canale con due fonti: DAZN (solo tv_rights); orario 15:00 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Cremonese – Benevento» 15:00",
+      "esito": "dubbio",
+      "dettaglio": "stagione dei diritti (2025-2026) non contiene il 2026-10-31; nessun canale con due fonti: DAZN (nessuna fonte); orario 15:00 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Modena – Mantova» 15:00",
+      "esito": "dubbio",
+      "dettaglio": "stagione dei diritti (2025-2026) non contiene il 2026-10-31; nessun canale con due fonti: DAZN (nessuna fonte); orario 15:00 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Sudtirol – Cesena» 15:00",
+      "esito": "dubbio",
+      "dettaglio": "stagione dei diritti (2025-2026) non contiene il 2026-10-31; nessun canale con due fonti: DAZN (nessuna fonte); orario 15:00 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Borussia Mönchengladbach – SC Paderbor» 15:30",
+      "esito": "dubbio",
+      "dettaglio": "nessun canale con due fonti: Sky Sport Uno (solo tv_rights); Sky Sport (solo tv_rights); NOW (solo tv_rights); orario 15:30 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Brentford – Nottingham Forest» 16:00",
+      "esito": "dubbio",
+      "dettaglio": "stagione dei diritti (2025-2026) non contiene il 2026-10-31; nessun canale con due fonti: Sky Sport 258 (solo palinsesto); Sky Sport (solo palinsesto); NOW (nessuna fonte); orario 16:00 non confrontabile col palinsesto"
+     }
+    ],
+    "fonti": [
+     "https://sport.sky.it/calcio",
+     "supabase:tv_epg_cache?date=eq.2026-10-31",
+     "supabase:tv_rights?active=eq.true",
+     "https://sport.sky.it/formula-1",
+     "https://www.eurosport.it"
+    ]
+   },
+   "Stato": "PRONTO",
+   "Testo_Post_Completo": "📺 Oggi in TV: 5 dirette sport\n\n• 15:30 Bayer Leverkusen – VfB Stuttgart · Sky Sport 259, Sky Sport\n• 18:25 GP Messico: Prove libere 3 · Sky Sport F1\n• 18:30 Bayern München – Borussia Dortmund · Sky Sport Uno, Sky Sport\n• 22:00 Mexico City Grand Prix — Qualifiche · Sky Sport F1\n• 23:00 UFC Fight Night: Renato Moicano - Tom Nolan · Eurosport 6\n\nCerca la tua squadra e scegli le tue piattaforme in SportViewLens.\n📲 Scarica gratis SportViewLens: link in bio.\n\nSportViewLens non è affiliata con DAZN, Sky, RAI o altri broadcaster.\n🤖 Contenuto generato in automatico con IA dai palinsesti TV ufficiali.\n\n#SportViewLens #SportInTV #OggiInTV",
+   "eventi": [
+    "Bayer Leverkusen – VfB Stuttgart",
+    "GP Messico: Prove libere 3",
+    "Bayern München – Borussia Dortmund",
+    "Mexico City Grand Prix — Qualifiche",
+    "UFC Fight Night: Renato Moicano - Tom Nolan"
+   ],
+   "conteggio": 5,
+   "file": [
+    "https://maxegon.github.io/sportviewlens/social/2026-10-31/SVL_20261031_1000_CAR/01_copertina.png",
+    "https://maxegon.github.io/sportviewlens/social/2026-10-31/SVL_20261031_1000_CAR/02_dati.png",
+    "https://maxegon.github.io/sportviewlens/social/2026-10-31/SVL_20261031_1000_CAR/03_dati.png",
+    "https://maxegon.github.io/sportviewlens/social/2026-10-31/SVL_20261031_1000_CAR/04_dati.png",
+    "https://maxegon.github.io/sportviewlens/social/2026-10-31/SVL_20261031_1000_CAR/05_screenshot.png",
+    "https://maxegon.github.io/sportviewlens/social/2026-10-31/SVL_20261031_1000_CAR/06_cta.png"
+   ],
+   "anteprima": {
+    "testo": "📺 Oggi in TV: 5 dirette sport\n\n• 15:30 Bayer Leverkusen – VfB Stuttgart · Sky Sport 259, Sky Sport\n• 18:25 GP Messico: Prove libere 3 · Sky Sport F1\n• 18:30 Bayern München – Borussia Dortmund · Sky Sport Uno, Sky Sport\n• 22:00 Mexico City Grand Prix — Qualifiche · Sky Sport F1\n• 23:00 UFC Fight Night: Renato Moicano - Tom Nolan · Eurosport 6\n\nCerca la tua squadra e scegli le tue piattaforme in SportViewLens.\n📲 Scarica gratis SportViewLens: link in bio.\n\nSportViewLens non è affiliata con DAZN, Sky, RAI o altri broadcaster.\n🤖 Contenuto generato in automatico con IA dai palinsesti TV ufficiali.\n\n#SportViewLens #SportInTV #OggiInTV",
+    "immagini": [
+     "https://maxegon.github.io/sportviewlens/social/2026-10-31/SVL_20261031_1000_CAR/01_copertina.png"
+    ]
+   },
+   "id": "SVL_20261031_1000_CAR",
+   "stato": "PRONTO",
+   "formato": "Carosello",
+   "piattaforma": "Instagram / FB",
+   "utm": "https://maxegon.github.io/sportviewlens/download/?utm_source=instagram&utm_medium=carosello&utm_campaign=oggi_in_tv&utm_content=SVL_20261031_1000_CAR",
+   "pubblica_alle": "2026-10-31T10:00+01:00",
+   "testo_finale": "📺 Oggi in TV: 5 dirette sport\n\n• 15:30 Bayer Leverkusen – VfB Stuttgart · Sky Sport 259, Sky Sport\n• 18:25 GP Messico: Prove libere 3 · Sky Sport F1\n• 18:30 Bayern München – Borussia Dortmund · Sky Sport Uno, Sky Sport\n• 22:00 Mexico City Grand Prix — Qualifiche · Sky Sport F1\n• 23:00 UFC Fight Night: Renato Moicano - Tom Nolan · Eurosport 6\n\nCerca la tua squadra e scegli le tue piattaforme in SportViewLens.\n📲 Scarica gratis SportViewLens: link in bio.\n\nSportViewLens non è affiliata con DAZN, Sky, RAI o altri broadcaster.\n🤖 Contenuto generato in automatico con IA dai palinsesti TV ufficiali.\n\n#SportViewLens #SportInTV #OggiInTV",
+   "ig_media": [
+    {
+     "media_type": "IMAGE",
+     "image_url": "https://maxegon.github.io/sportviewlens/social/2026-10-31/SVL_20261031_1000_CAR/01_copertina.png"
+    },
+    {
+     "media_type": "IMAGE",
+     "image_url": "https://maxegon.github.io/sportviewlens/social/2026-10-31/SVL_20261031_1000_CAR/02_dati.png"
+    },
+    {
+     "media_type": "IMAGE",
+     "image_url": "https://maxegon.github.io/sportviewlens/social/2026-10-31/SVL_20261031_1000_CAR/03_dati.png"
+    },
+    {
+     "media_type": "IMAGE",
+     "image_url": "https://maxegon.github.io/sportviewlens/social/2026-10-31/SVL_20261031_1000_CAR/04_dati.png"
+    },
+    {
+     "media_type": "IMAGE",
+     "image_url": "https://maxegon.github.io/sportviewlens/social/2026-10-31/SVL_20261031_1000_CAR/05_screenshot.png"
+    },
+    {
+     "media_type": "IMAGE",
+     "image_url": "https://maxegon.github.io/sportviewlens/social/2026-10-31/SVL_20261031_1000_CAR/06_cta.png"
+    }
+   ],
+   "fb_photos": [
+    {
+     "type": "url",
+     "url": "https://maxegon.github.io/sportviewlens/social/2026-10-31/SVL_20261031_1000_CAR/01_copertina.png"
+    },
+    {
+     "type": "url",
+     "url": "https://maxegon.github.io/sportviewlens/social/2026-10-31/SVL_20261031_1000_CAR/02_dati.png"
+    },
+    {
+     "type": "url",
+     "url": "https://maxegon.github.io/sportviewlens/social/2026-10-31/SVL_20261031_1000_CAR/03_dati.png"
+    },
+    {
+     "type": "url",
+     "url": "https://maxegon.github.io/sportviewlens/social/2026-10-31/SVL_20261031_1000_CAR/04_dati.png"
+    },
+    {
+     "type": "url",
+     "url": "https://maxegon.github.io/sportviewlens/social/2026-10-31/SVL_20261031_1000_CAR/05_screenshot.png"
+    },
+    {
+     "type": "url",
+     "url": "https://maxegon.github.io/sportviewlens/social/2026-10-31/SVL_20261031_1000_CAR/06_cta.png"
+    }
+   ]
+  },
+  {
+   "Giorno_Slot": "SVL_20261031_1230_VID",
+   "Formato": "Video",
+   "Piattaforma": "Instagram / FB + TikTok",
+   "Ora": "12:30",
+   "Categoria": "oggi_in_tv",
+   "Data_Evento": "2026-10-31",
+   "UTM": "https://maxegon.github.io/sportviewlens/download/?utm_source=instagram&utm_medium=reel&utm_campaign=oggi_in_tv&utm_content=SVL_20261031_1230_VID",
+   "note": [],
+   "verifica": {
+    "esito": "dubbio",
+    "controlli": [
+     {
+      "nome": "eventi nel post",
+      "esito": "ok",
+      "dettaglio": "5 eventi verificati ok, 38 tolti, su 43 candidati dell'app"
+     },
+     {
+      "nome": "tolto «GP Malesia — Qualifiche» 09:50",
+      "esito": "dubbio",
+      "dettaglio": "orario 09:50 fuori dalla finestra [-5, +60] min dall'inizio trasmissione"
+     },
+     {
+      "nome": "tolto «Ternana W – Como 1907 W» 12:30",
+      "esito": "dubbio",
+      "dettaglio": "stagione dei diritti (2025-2026, None) non contiene il 2026-10-31; nessun canale con due fonti: DAZN (solo palinsesto); orario 12:30 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Chelsea – Manchester United» 13:30",
+      "esito": "dubbio",
+      "dettaglio": "stagione dei diritti (2025-2026) non contiene il 2026-10-31; nessun canale con due fonti: Sky Sport Uno (solo palinsesto); Sky Sport 4K (solo palinsesto); Sky Sport (solo palinsesto); NOW (nessuna fonte); orario 13:30 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Levante – Atletico Madrid» 14:00",
+      "esito": "dubbio",
+      "dettaglio": "stagione dei diritti (2025-2026) non contiene il 2026-10-31; nessun canale con due fonti: DAZN (nessuna fonte); orario 14:00 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Vienna Maschile (cemento)» 14:00",
+      "esito": "dubbio",
+      "dettaglio": "nessuna riga di tv_rights per tennis / «ATP 500»; nessun canale con due fonti: Sky Sport Tennis (solo palinsesto); orario 14:00 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Basilea Maschile (cemento)» 14:00",
+      "esito": "dubbio",
+      "dettaglio": "nessuna riga di tv_rights per tennis / «ATP 500»; nessun canale con due fonti: Sky Sport Max (solo palinsesto); orario 14:00 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Bologna – Monza» 15:00",
+      "esito": "dubbio",
+      "dettaglio": "nessun canale con due fonti: DAZN (solo tv_rights); orario 15:00 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Cremonese – Benevento» 15:00",
+      "esito": "dubbio",
+      "dettaglio": "stagione dei diritti (2025-2026) non contiene il 2026-10-31; nessun canale con due fonti: DAZN (nessuna fonte); orario 15:00 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Modena – Mantova» 15:00",
+      "esito": "dubbio",
+      "dettaglio": "stagione dei diritti (2025-2026) non contiene il 2026-10-31; nessun canale con due fonti: DAZN (nessuna fonte); orario 15:00 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Sudtirol – Cesena» 15:00",
+      "esito": "dubbio",
+      "dettaglio": "stagione dei diritti (2025-2026) non contiene il 2026-10-31; nessun canale con due fonti: DAZN (nessuna fonte); orario 15:00 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Borussia Mönchengladbach – SC Paderbor» 15:30",
+      "esito": "dubbio",
+      "dettaglio": "nessun canale con due fonti: Sky Sport Uno (solo tv_rights); Sky Sport (solo tv_rights); NOW (solo tv_rights); orario 15:30 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Brentford – Nottingham Forest» 16:00",
+      "esito": "dubbio",
+      "dettaglio": "stagione dei diritti (2025-2026) non contiene il 2026-10-31; nessun canale con due fonti: Sky Sport 258 (solo palinsesto); Sky Sport (solo palinsesto); NOW (nessuna fonte); orario 16:00 non confrontabile col palinsesto"
+     }
+    ],
+    "fonti": [
+     "https://sport.sky.it/calcio",
+     "supabase:tv_epg_cache?date=eq.2026-10-31",
+     "supabase:tv_rights?active=eq.true",
+     "https://sport.sky.it/formula-1",
+     "https://www.eurosport.it"
+    ]
+   },
+   "Stato": "DA_RIVEDERE",
+   "motivo": "renderer",
+   "errori": [
+    "[v9_cta] slide rifiutata:",
+    "  - testo fuori dalla zona sicura (64, 250, 1016, 1580): (64, 973, 1022, 1097) (SportViewLens)"
+   ],
+   "id": "SVL_20261031_1230_VID",
+   "stato": "DA_RIVEDERE",
+   "formato": "Video",
+   "piattaforma": "Instagram / FB + TikTok",
+   "utm": "https://maxegon.github.io/sportviewlens/download/?utm_source=instagram&utm_medium=reel&utm_campaign=oggi_in_tv&utm_content=SVL_20261031_1230_VID",
+   "pubblica_alle": "2026-10-31T12:30+01:00"
+  },
+  {
+   "Giorno_Slot": "SVL_20261031_1400_BIG",
+   "Formato": "Carosello",
+   "Piattaforma": "Instagram / FB",
+   "Ora": "14:00",
+   "Categoria": "big_match",
+   "Data_Evento": "2026-10-31",
+   "UTM": "https://maxegon.github.io/sportviewlens/download/?utm_source=instagram&utm_medium=carosello&utm_campaign=big_match&utm_content=SVL_20261031_1400_BIG",
+   "note": [],
+   "verifica": {
+    "esito": "ko",
+    "controlli": [
+     {
+      "nome": "eventi nel post",
+      "esito": "ok",
+      "dettaglio": "0 eventi verificati ok, 35 tolti, su 40 candidati dell'app"
+     },
+     {
+      "nome": "tolto «Levante – Atletico Madrid» 14:00",
+      "esito": "dubbio",
+      "dettaglio": "stagione dei diritti (2025-2026) non contiene il 2026-10-31; nessun canale con due fonti: DAZN (nessuna fonte); orario 14:00 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Vienna Maschile (cemento)» 14:00",
+      "esito": "dubbio",
+      "dettaglio": "nessuna riga di tv_rights per tennis / «ATP 500»; nessun canale con due fonti: Sky Sport Tennis (solo palinsesto); orario 14:00 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Basilea Maschile (cemento)» 14:00",
+      "esito": "dubbio",
+      "dettaglio": "nessuna riga di tv_rights per tennis / «ATP 500»; nessun canale con due fonti: Sky Sport Max (solo palinsesto); orario 14:00 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Bologna – Monza» 15:00",
+      "esito": "dubbio",
+      "dettaglio": "nessun canale con due fonti: DAZN (solo tv_rights); orario 15:00 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Cremonese – Benevento» 15:00",
+      "esito": "dubbio",
+      "dettaglio": "stagione dei diritti (2025-2026) non contiene il 2026-10-31; nessun canale con due fonti: DAZN (nessuna fonte); orario 15:00 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Modena – Mantova» 15:00",
+      "esito": "dubbio",
+      "dettaglio": "stagione dei diritti (2025-2026) non contiene il 2026-10-31; nessun canale con due fonti: DAZN (nessuna fonte); orario 15:00 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Sudtirol – Cesena» 15:00",
+      "esito": "dubbio",
+      "dettaglio": "stagione dei diritti (2025-2026) non contiene il 2026-10-31; nessun canale con due fonti: DAZN (nessuna fonte); orario 15:00 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Borussia Mönchengladbach – SC Paderbor» 15:30",
+      "esito": "dubbio",
+      "dettaglio": "nessun canale con due fonti: Sky Sport Uno (solo tv_rights); Sky Sport (solo tv_rights); NOW (solo tv_rights); orario 15:30 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Brentford – Nottingham Forest» 16:00",
+      "esito": "dubbio",
+      "dettaglio": "stagione dei diritti (2025-2026) non contiene il 2026-10-31; nessun canale con due fonti: Sky Sport 258 (solo palinsesto); Sky Sport (solo palinsesto); NOW (nessuna fonte); orario 16:00 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Manchester City – Brighton» 16:00",
+      "esito": "dubbio",
+      "dettaglio": "stagione dei diritti (2025-2026) non contiene il 2026-10-31; nessun canale con due fonti: Sky Sport Uno (solo palinsesto); Sky Sport 4K (solo palinsesto); Sky Sport (solo palinsesto); NOW (nessuna fonte); orario 16:00 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Rayo Vallecano – Celta Vigo» 16:15",
+      "esito": "dubbio",
+      "dettaglio": "stagione dei diritti (2025-2026) non contiene il 2026-10-31; nessun canale con due fonti: DAZN (nessuna fonte); orario 16:15 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Feyenoord – Fortuna Sittard» 16:30",
+      "esito": "dubbio",
+      "dettaglio": "stagione dei diritti (2025-2026) non contiene il 2026-10-31; nessun canale con due fonti: DAZN (nessuna fonte); orario 16:30 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "minimo eventi",
+      "esito": "ko",
+      "dettaglio": "0 eventi verificati, ne servono almeno 1: la riga non esce"
+     }
+    ],
+    "fonti": []
+   },
+   "Stato": "SALTATO_VERIFICA",
+   "motivo": "0 eventi verificati (minimo 1)",
+   "id": "SVL_20261031_1400_BIG",
+   "stato": "SALTATO_VERIFICA",
+   "formato": "Carosello",
+   "piattaforma": "Instagram / FB",
+   "utm": "https://maxegon.github.io/sportviewlens/download/?utm_source=instagram&utm_medium=carosello&utm_campaign=big_match&utm_content=SVL_20261031_1400_BIG",
+   "pubblica_alle": "2026-10-31T14:00+01:00"
+  }
+ ]
+}
