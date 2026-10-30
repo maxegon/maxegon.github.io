@@ -1,0 +1,443 @@
+{
+  "data": "2026-10-31",
+  "generato_il": "2026-10-30T22:53:08+00:00",
+  "piano": "marketing/piano_4_settimane.csv",
+  "righe": [
+    {
+      "id": "SHV_20261031_1100_STORY",
+      "piattaforma": "Instagram / FB Stories",
+      "formato": "Storia",
+      "categoria": "concerti+teatro+danza+opera",
+      "pubblica_alle": "2026-10-31T11:00:00+01:00",
+      "scartati": [],
+      "doppioni_rimossi": 3,
+      "verifica_eventi": [
+        {
+          "evento": "Uscita D'Emergenza",
+          "data": "2026-10-31",
+          "ora": "19:00",
+          "citta": "Napoli",
+          "fonte": "vivaticket",
+          "esito": "ok",
+          "rinforzato": false,
+          "controlli": [
+            {
+              "nome": "orario",
+              "esito": "ok",
+              "dettaglio": "19:00"
+            },
+            {
+              "nome": "titolo",
+              "esito": "ok",
+              "dettaglio": "nessuna etichetta di abbonamento"
+            },
+            {
+              "nome": "biglietteria",
+              "esito": "ok",
+              "dettaglio": "Vivaticket: replica letta dall API pubblica"
+            },
+            {
+              "nome": "pagina",
+              "esito": "ok",
+              "dettaglio": "titolo, citta, data e ora coincidono (2026-10-31 19:00, NAPOLI)"
+            },
+            {
+              "nome": "serie",
+              "esito": "ok",
+              "dettaglio": "9 date della produzione, nessuna anomalia in testa alla serie"
+            }
+          ],
+          "fonti": [
+            "https://shop.vivaticket.com/it/sell/?cmd=prices&pcode=14472556&tcode=tl015970"
+          ]
+        },
+        {
+          "evento": "L'ultimo Nastro di Krapp - Presse Conference",
+          "data": "2026-10-31",
+          "ora": "19:00",
+          "citta": "Napoli",
+          "fonte": "vivaticket",
+          "esito": "ok",
+          "rinforzato": false,
+          "controlli": [
+            {
+              "nome": "orario",
+              "esito": "ok",
+              "dettaglio": "19:00"
+            },
+            {
+              "nome": "titolo",
+              "esito": "ok",
+              "dettaglio": "nessuna etichetta di abbonamento"
+            },
+            {
+              "nome": "biglietteria",
+              "esito": "ok",
+              "dettaglio": "Vivaticket: replica letta dall API pubblica"
+            },
+            {
+              "nome": "pagina",
+              "esito": "ok",
+              "dettaglio": "titolo, citta, data e ora coincidono (2026-10-31 19:00, NAPOLI)"
+            },
+            {
+              "nome": "serie",
+              "esito": "ok",
+              "dettaglio": "3 date della produzione, nessuna anomalia in testa alla serie"
+            }
+          ],
+          "fonti": [
+            "https://shop.vivaticket.com/it/sell/?cmd=prices&pcode=14472697&tcode=tl015859"
+          ]
+        },
+        {
+          "evento": "Ma Che Serata...!",
+          "data": "2026-10-31",
+          "ora": "19:30",
+          "citta": "Napoli",
+          "fonte": "vivaticket",
+          "esito": "ok",
+          "rinforzato": false,
+          "controlli": [
+            {
+              "nome": "orario",
+              "esito": "ok",
+              "dettaglio": "19:30"
+            },
+            {
+              "nome": "titolo",
+              "esito": "ok",
+              "dettaglio": "nessuna etichetta di abbonamento"
+            },
+            {
+              "nome": "biglietteria",
+              "esito": "ok",
+              "dettaglio": "Vivaticket: replica letta dall API pubblica"
+            },
+            {
+              "nome": "pagina",
+              "esito": "ok",
+              "dettaglio": "titolo, citta, data e ora coincidono (2026-10-31 19:30, NAPOLI)"
+            },
+            {
+              "nome": "serie",
+              "esito": "ok",
+              "dettaglio": "3 date della produzione, nessuna anomalia in testa alla serie"
+            }
+          ],
+          "fonti": [
+            "https://shop.vivaticket.com/it/sell/?cmd=prices&pcode=14272417&tcode=vt0007659"
+          ]
+        }
+      ],
+      "stato": "PRONTO",
+      "testo_finale": "🌙 Stasera a Napoli\n\n1. Uscita D'Emergenza · Teatro San Ferdinando · sab 31/10 · 19:00\n2. L'ultimo Nastro di Krapp - Presse Conference · Teatro Mercadante · sab 31/10 · 19:00\n3. Ma Che Serata...! · Teatro Bracco · sab 31/10 · 19:30\n\nCerca «ShowViewLens» su App Store e Google Play.\n#ShowViewLens",
+      "titolo_slide": "Stasera a Napoli",
+      "eventi": [
+        "Uscita D'Emergenza",
+        "L'ultimo Nastro di Krapp - Presse Conference",
+        "Ma Che Serata...!"
+      ],
+      "conteggio": 10,
+      "file": [
+        "https://maxegon.github.io/showviewlens/social/2026-10-31/SHV_20261031_1100_STORY/01_storia.jpg"
+      ],
+      "utm": "https://maxegon.github.io/showviewlens/download/?utm_source=instagram&utm_medium=story&utm_campaign=piano_2026_11&utm_content=SHV_20261031_1100_STORY",
+      "verifica": {
+        "esito": "ok",
+        "controlli": [
+          {
+            "nome": "eventi nel post",
+            "esito": "ok",
+            "dettaglio": "3 eventi verificati ok, 0 tolti, su 10 candidati"
+          }
+        ],
+        "fonti": [
+          "https://shop.vivaticket.com/it/sell/?cmd=prices&pcode=14472556&tcode=tl015970",
+          "https://shop.vivaticket.com/it/sell/?cmd=prices&pcode=14472697&tcode=tl015859",
+          "https://shop.vivaticket.com/it/sell/?cmd=prices&pcode=14272417&tcode=vt0007659"
+        ]
+      },
+      "anteprima": {
+        "testo": "🌙 Stasera a Napoli\n\n1. Uscita D'Emergenza · Teatro San Ferdinando · sab 31/10 · 19:00\n2. L'ultimo Nastro di Krapp - Presse Conference · Teatro Mercadante · sab 31/10 · 19:00\n3. Ma Che Serata...! · Teatro Bracco · sab 31/10 · 19:30\n\nCerca «ShowViewLens» su App Store e Google Play.\n#ShowViewLens",
+        "immagini": [
+          "https://maxegon.github.io/showviewlens/social/2026-10-31/SHV_20261031_1100_STORY/01_storia.jpg"
+        ]
+      },
+      "ig_media": [
+        {
+          "media_type": "IMAGE",
+          "image_url": "https://maxegon.github.io/showviewlens/social/2026-10-31/SHV_20261031_1100_STORY/01_storia.jpg"
+        }
+      ],
+      "fb_photos": [
+        {
+          "type": "url",
+          "url": "https://maxegon.github.io/showviewlens/social/2026-10-31/SHV_20261031_1100_STORY/01_storia.jpg"
+        }
+      ]
+    },
+    {
+      "id": "SHV_20261031_1730_VID",
+      "piattaforma": "TikTok / Shorts",
+      "formato": "Video",
+      "categoria": "concerti+teatro",
+      "pubblica_alle": "2026-10-31T17:30:00+01:00",
+      "scartati": [
+        [
+          "Monsterland Halloween Festival con Salmo, Marco Carola, Loco Dice e Guè",
+          "ora 00:00 prima di 11:00"
+        ],
+        [
+          "Speciale Halloween – Francesco Lioi & Christian Sassano",
+          "ora 00:00 prima di 11:00"
+        ],
+        [
+          "Shakespeare Interactive Museum - Sim",
+          "ora 10:00 prima di 11:00"
+        ],
+        [
+          "Caccia al Rubino di Zolfo",
+          "ora 10:30 prima di 11:00"
+        ],
+        [
+          "C2c Festival 2026 – a Matinée with Smerz",
+          "senza biglietteria online"
+        ],
+        [
+          "Note nei Musei: Prospettive Musicali 2026",
+          "fuori perimetro: musei/gallerie/arte: fuori perimetro"
+        ],
+        [
+          "Flautissimo 2026 – Concerti di Musica da Camera",
+          "senza biglietteria online"
+        ],
+        [
+          "Il Teatro Che Cresce 2026",
+          "senza biglietteria online"
+        ],
+        [
+          "Giovane Orchestra Lucana (G.o.l.) Feat. Rosario Giuliani – My Favorite Tunes",
+          "senza biglietteria online"
+        ],
+        [
+          "Oltre il Mito - la Ballata degli Spettri",
+          "senza biglietteria online"
+        ],
+        [
+          "Bach al Teatro Olimpico: L'Olimpo di Bach (Cantate Bwv 213 e Bwv 29)",
+          "senza biglietteria online"
+        ],
+        [
+          "Partita a 4",
+          "fuori perimetro: sport: e SportViewLens, non questa app"
+        ],
+        [
+          "Ars Variandi 2.0",
+          "senza biglietteria online"
+        ],
+        [
+          "Blue Jazz Tropea – Anush Duo",
+          "senza biglietteria online"
+        ]
+      ],
+      "doppioni_rimossi": 20,
+      "verifica_eventi": [
+        {
+          "evento": "Mostry",
+          "data": "2026-10-31",
+          "ora": "18:30",
+          "citta": "Palazzolo Sull'oglio",
+          "fonte": "vivaticket",
+          "esito": "ok",
+          "rinforzato": false,
+          "controlli": [
+            {
+              "nome": "orario",
+              "esito": "ok",
+              "dettaglio": "18:30"
+            },
+            {
+              "nome": "titolo",
+              "esito": "ok",
+              "dettaglio": "nessuna etichetta di abbonamento"
+            },
+            {
+              "nome": "biglietteria",
+              "esito": "ok",
+              "dettaglio": "Vivaticket: replica letta dall API pubblica"
+            },
+            {
+              "nome": "pagina",
+              "esito": "ok",
+              "dettaglio": "titolo, citta, data e ora coincidono (2026-10-31 18:30, PALAZZOLO SULL'OGLIO)"
+            },
+            {
+              "nome": "serie",
+              "esito": "ok",
+              "dettaglio": "1 date della produzione, nessuna anomalia in testa alla serie"
+            }
+          ],
+          "fonti": [
+            "https://www.vivaticket.com/it/ticket/mostry/318866"
+          ]
+        },
+        {
+          "evento": "Ryan Adams",
+          "data": "2026-10-31",
+          "ora": "20:00",
+          "citta": "Roma",
+          "fonte": "ticketone",
+          "esito": "ok",
+          "rinforzato": false,
+          "controlli": [
+            {
+              "nome": "orario",
+              "esito": "ok",
+              "dettaglio": "20:00"
+            },
+            {
+              "nome": "titolo",
+              "esito": "ok",
+              "dettaglio": "nessuna etichetta di abbonamento"
+            },
+            {
+              "nome": "biglietteria",
+              "esito": "ok",
+              "dettaglio": "TicketOne (blocca i bot): URL ben formato, visto nell ultimo giro (missing_count=0, fonte aggiornata da meno di 36 h)"
+            },
+            {
+              "nome": "serie",
+              "esito": "ok",
+              "dettaglio": "1 date della produzione, nessuna anomalia in testa alla serie"
+            }
+          ],
+          "fonti": [
+            "https://www.ticketone.it/event/ryan-adams-auditorium-parco-della-musica-ennio-morricone-21527093/"
+          ]
+        },
+        {
+          "evento": "Carlo Molinari",
+          "data": "2026-10-31",
+          "ora": "20:00",
+          "citta": "Roma",
+          "fonte": "ticketone",
+          "esito": "ok",
+          "rinforzato": false,
+          "controlli": [
+            {
+              "nome": "orario",
+              "esito": "ok",
+              "dettaglio": "20:00"
+            },
+            {
+              "nome": "titolo",
+              "esito": "ok",
+              "dettaglio": "nessuna etichetta di abbonamento"
+            },
+            {
+              "nome": "biglietteria",
+              "esito": "ok",
+              "dettaglio": "TicketOne (blocca i bot): URL ben formato, visto nell ultimo giro (missing_count=0, fonte aggiornata da meno di 36 h)"
+            },
+            {
+              "nome": "serie",
+              "esito": "ok",
+              "dettaglio": "1 date della produzione, nessuna anomalia in testa alla serie"
+            }
+          ],
+          "fonti": [
+            "https://www.ticketone.it/event/carlo-molinari-auditorium-parco-della-musica-ennio-morricone-21463865/"
+          ]
+        },
+        {
+          "evento": "Mrs Dalloway #1",
+          "data": "2026-10-31",
+          "ora": "20:30",
+          "citta": "Udine",
+          "fonte": "vivaticket",
+          "esito": "ok",
+          "rinforzato": false,
+          "controlli": [
+            {
+              "nome": "orario",
+              "esito": "ok",
+              "dettaglio": "20:30"
+            },
+            {
+              "nome": "titolo",
+              "esito": "ok",
+              "dettaglio": "nessuna etichetta di abbonamento"
+            },
+            {
+              "nome": "biglietteria",
+              "esito": "ok",
+              "dettaglio": "Vivaticket: replica letta dall API pubblica"
+            },
+            {
+              "nome": "pagina",
+              "esito": "ok",
+              "dettaglio": "titolo, citta, data e ora coincidono (2026-10-31 20:30, UDINE)"
+            },
+            {
+              "nome": "serie",
+              "esito": "ok",
+              "dettaglio": "2 date della produzione, nessuna anomalia in testa alla serie"
+            }
+          ],
+          "fonti": [
+            "https://www.vivaticket.com/it/ticket/mrs-dalloway-1/311607"
+          ]
+        }
+      ],
+      "video": {
+        "file": "marketing/out/2026-10-31/SHV_20261031_1730_VID/video.mp4",
+        "durata_s": 12.0,
+        "video": {
+          "codec_name": "h264",
+          "width": 1080,
+          "height": 1920,
+          "pix_fmt": "yuv420p"
+        },
+        "slide": 4,
+        "ok": true
+      },
+      "stato": "PRONTO",
+      "testo_finale": "🎶 Stasera in Italia: 164 serate dal vivo in ShowViewLens.\n\n1. Mostry · Teatro Sociale · sab 31/10 · 18:30\n2. Ryan Adams · Auditorium Parco della Musica Ennio Morricone · sab 31/10 · 20:00\n3. Carlo Molinari · Auditorium Parco della Musica Ennio Morricone · sab 31/10 · 20:00\n4. Mrs Dalloway #1 · Teatro Palamostre ex Gamud · sab 31/10 · 20:30\n\nOrari e biglietteria ufficiale su ShowViewLens. Scaricala gratis: link in bio.\n\n#ShowViewLens #Concerti #Teatro #CosaFareStasera",
+      "titolo_slide": "Stasera in Italia: 164 serate dal vivo",
+      "eventi": [
+        "Mostry",
+        "Ryan Adams",
+        "Carlo Molinari",
+        "Mrs Dalloway #1"
+      ],
+      "conteggio": 164,
+      "file": [
+        "https://maxegon.github.io/showviewlens/social/2026-10-31/SHV_20261031_1730_VID/video.mp4"
+      ],
+      "utm": "https://maxegon.github.io/showviewlens/download/?utm_source=tiktok&utm_medium=video&utm_campaign=piano_2026_11&utm_content=SHV_20261031_1730_VID",
+      "verifica": {
+        "esito": "ok",
+        "controlli": [
+          {
+            "nome": "eventi nel post",
+            "esito": "ok",
+            "dettaglio": "4 eventi verificati ok, 0 tolti, su 164 candidati"
+          }
+        ],
+        "fonti": [
+          "https://www.vivaticket.com/it/ticket/mostry/318866",
+          "https://www.ticketone.it/event/ryan-adams-auditorium-parco-della-musica-ennio-morricone-21527093/",
+          "https://www.ticketone.it/event/carlo-molinari-auditorium-parco-della-musica-ennio-morricone-21463865/",
+          "https://www.vivaticket.com/it/ticket/mrs-dalloway-1/311607"
+        ]
+      },
+      "anteprima": {
+        "testo": "🎶 Stasera in Italia: 164 serate dal vivo in ShowViewLens.\n\n1. Mostry · Teatro Sociale · sab 31/10 · 18:30\n2. Ryan Adams · Auditorium Parco della Musica Ennio Morricone · sab 31/10 · 20:00\n3. Carlo Molinari · Auditorium Parco della Musica Ennio Morricone · sab 31/10 · 20:00\n4. Mrs Dalloway #1 · Teatro Palamostre ex Gamud · sab 31/10 · 20:30\n\nOrari e biglietteria ufficiale su ShowViewLens. Scaricala gratis: link in bio.\n\n#ShowViewLens #Concerti #Teatro #CosaFareStasera",
+        "immagini": [
+          "https://maxegon.github.io/showviewlens/social/2026-10-31/SHV_20261031_1730_VID/cover.jpg"
+        ]
+      }
+    }
+  ]
+}
