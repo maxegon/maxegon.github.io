@@ -1,0 +1,48 @@
+{
+ "data_evento": "2026-11-01",
+ "data_lunga": "Domenica 1 novembre",
+ "categoria": "oggi_in_tv",
+ "eventi": [
+  {
+   "data": "2026-11-01",
+   "ora": "15:00",
+   "titolo": "Frosinone – Torino",
+   "competizione": "Serie A",
+   "sport": "soccer",
+   "canali": [
+    "DAZN"
+   ]
+  },
+  {
+   "data": "2026-11-01",
+   "ora": "15:30",
+   "titolo": "Union Berlin – 1. FC Köln",
+   "competizione": "Bundesliga",
+   "sport": "soccer",
+   "canali": [
+    "Sky Sport Arena",
+    "Sky Sport"
+   ]
+  },
+  {
+   "data": "2026-11-01",
+   "ora": "18:00",
+   "titolo": "Lecce – Genoa",
+   "competizione": "Serie A",
+   "sport": "soccer",
+   "canali": [
+    "Sky Sport 251"
+   ]
+  },
+  {
+   "data": "2026-11-01",
+   "ora": "20:55",
+   "titolo": "GP Messico: Gara",
+   "competizione": "Formula 1",
+   "sport": "f1",
+   "canali": [
+    "Sky Sport F1"
+   ]
+  }
+ ]
+}
