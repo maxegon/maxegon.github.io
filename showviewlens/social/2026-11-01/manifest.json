@@ -1,0 +1,320 @@
+{
+  "data": "2026-11-01",
+  "generato_il": "2026-10-31T22:22:50+00:00",
+  "piano": "marketing/piano_4_settimane.csv",
+  "righe": [
+    {
+      "id": "SHV_20261101_1800_CAR",
+      "piattaforma": "Instagram / FB",
+      "formato": "Carosello",
+      "categoria": "opera+danza",
+      "pubblica_alle": "2026-11-01T18:00:00+01:00",
+      "scartati": [
+        [
+          "Concerto Lirico dei Finalisti del Concorso Lirico",
+          "senza biglietteria online"
+        ],
+        [
+          "Ragazzi All'Opera",
+          "ora 10:30 prima di 11:00"
+        ],
+        [
+          "Il Mirabile Elisir",
+          "ora 00:00 prima di 11:00"
+        ]
+      ],
+      "doppioni_rimossi": 31,
+      "verifica_eventi": [
+        {
+          "evento": "Italian Opera Taormina",
+          "data": "2026-11-02",
+          "ora": "21:15",
+          "citta": "Taormina",
+          "fonte": "vivaticket",
+          "esito": "ok",
+          "rinforzato": false,
+          "controlli": [
+            {
+              "nome": "orario",
+              "esito": "ok",
+              "dettaglio": "21:15"
+            },
+            {
+              "nome": "titolo",
+              "esito": "ok",
+              "dettaglio": "nessuna etichetta di abbonamento"
+            },
+            {
+              "nome": "biglietteria",
+              "esito": "ok",
+              "dettaglio": "Vivaticket: replica letta dall API pubblica"
+            },
+            {
+              "nome": "pagina",
+              "esito": "ok",
+              "dettaglio": "titolo, citta, data e ora coincidono (2026-11-02 21:15, TAORMINA)"
+            },
+            {
+              "nome": "serie",
+              "esito": "ok",
+              "dettaglio": "13 date della produzione, nessuna anomalia in testa alla serie"
+            }
+          ],
+          "fonti": [
+            "https://shop.vivaticket.com/it/sell/?cmd=prices&pcode=13298488&tcode=vt0020309"
+          ]
+        },
+        {
+          "evento": "Great Italian Opera",
+          "data": "2026-11-02",
+          "ora": "19:15",
+          "citta": "Firenze",
+          "fonte": "vivaticket",
+          "esito": "ok",
+          "rinforzato": false,
+          "controlli": [
+            {
+              "nome": "orario",
+              "esito": "ok",
+              "dettaglio": "19:15"
+            },
+            {
+              "nome": "titolo",
+              "esito": "ok",
+              "dettaglio": "nessuna etichetta di abbonamento"
+            },
+            {
+              "nome": "biglietteria",
+              "esito": "ok",
+              "dettaglio": "Vivaticket: replica letta dall API pubblica"
+            },
+            {
+              "nome": "pagina",
+              "esito": "ok",
+              "dettaglio": "titolo, citta, data e ora coincidono (2026-11-02 19:15, FIRENZE)"
+            },
+            {
+              "nome": "serie",
+              "esito": "ok",
+              "dettaglio": "1 date della produzione, nessuna anomalia in testa alla serie"
+            }
+          ],
+          "fonti": [
+            "https://www.vivaticket.com/it/ticket/great-italian-opera/295617"
+          ]
+        },
+        {
+          "evento": "Preghiera. Tempi di Guerra",
+          "data": "2026-11-03",
+          "ora": "20:00",
+          "citta": "Torino",
+          "fonte": "vivaticket",
+          "esito": "ok",
+          "rinforzato": false,
+          "controlli": [
+            {
+              "nome": "orario",
+              "esito": "ok",
+              "dettaglio": "20:00"
+            },
+            {
+              "nome": "titolo",
+              "esito": "ok",
+              "dettaglio": "nessuna etichetta di abbonamento"
+            },
+            {
+              "nome": "biglietteria",
+              "esito": "ok",
+              "dettaglio": "Vivaticket: replica letta dall API pubblica"
+            },
+            {
+              "nome": "pagina",
+              "esito": "ok",
+              "dettaglio": "titolo, citta, data e ora coincidono (2026-11-03 20:00, TORINO)"
+            },
+            {
+              "nome": "serie",
+              "esito": "ok",
+              "dettaglio": "6 date della produzione, nessuna anomalia in testa alla serie"
+            }
+          ],
+          "fonti": [
+            "https://shop.vivaticket.com/it/sell/?cmd=prices&pcode=14034042&tcode=vt0000345"
+          ]
+        },
+        {
+          "evento": "Bellini e L'Opera",
+          "data": "2026-11-03",
+          "ora": "20:30",
+          "citta": "Catania",
+          "fonte": "vivaticket",
+          "esito": "ok",
+          "rinforzato": false,
+          "controlli": [
+            {
+              "nome": "orario",
+              "esito": "ok",
+              "dettaglio": "20:30"
+            },
+            {
+              "nome": "titolo",
+              "esito": "ok",
+              "dettaglio": "nessuna etichetta di abbonamento"
+            },
+            {
+              "nome": "biglietteria",
+              "esito": "ok",
+              "dettaglio": "Vivaticket: replica letta dall API pubblica"
+            },
+            {
+              "nome": "pagina",
+              "esito": "ok",
+              "dettaglio": "titolo, citta, data e ora coincidono (2026-11-03 20:30, CATANIA)"
+            },
+            {
+              "nome": "serie",
+              "esito": "ok",
+              "dettaglio": "4 date della produzione, nessuna anomalia in testa alla serie"
+            }
+          ],
+          "fonti": [
+            "https://shop.vivaticket.com/it/sell/?cmd=prices&pcode=13700034&tcode=vt0017284"
+          ]
+        },
+        {
+          "evento": "Voci D'Italia — An Enveloping Opera Night",
+          "data": "2026-11-02",
+          "ora": "20:30",
+          "citta": "Firenze",
+          "fonte": "vivaticket",
+          "esito": "dubbio",
+          "rinforzato": false,
+          "controlli": [
+            {
+              "nome": "orario",
+              "esito": "ok",
+              "dettaglio": "20:30"
+            },
+            {
+              "nome": "titolo",
+              "esito": "ok",
+              "dettaglio": "nessuna etichetta di abbonamento"
+            },
+            {
+              "nome": "biglietteria",
+              "esito": "ok",
+              "dettaglio": "Vivaticket: replica letta dall API pubblica"
+            },
+            {
+              "nome": "pagina",
+              "esito": "ok",
+              "dettaglio": "titolo, citta, data e ora coincidono (2026-11-02 20:30, FIRENZE)"
+            },
+            {
+              "nome": "freschezza",
+              "esito": "dubbio",
+              "dettaglio": "non visto nell ultimo giro della fonte (missing_count=1)"
+            },
+            {
+              "nome": "serie",
+              "esito": "ok",
+              "dettaglio": "57 date della produzione, nessuna anomalia in testa alla serie"
+            }
+          ],
+          "fonti": [
+            "https://shop.vivaticket.com/it/sell/?cmd=prices&pcode=14211195&tcode=vt0021949"
+          ]
+        }
+      ],
+      "stato": "PRONTO",
+      "testo_finale": "🎼 La prossima settimana tra opera e balletto: 40 serate in ShowViewLens.\n\n1. Italian Opera Taormina · TEATRO NAZARENA · lun 2/11 · 21:15\n2. Great Italian Opera · ORATORIO DELLA COMPAGNIA DI S. MARIA DELLA CROCE · lun 2/11 · 19:15\n3. Preghiera. Tempi di Guerra · Teatro Astra · mar 3/11 · 20:00\n4. Bellini e L'Opera · Chiesa della Badia di Sant’Agata · mar 3/11 · 20:30\n\nSalva il post e scegli la tua serata. Su ShowViewLens c’è il link alla biglietteria ufficiale.\n\n📲 Scarica ShowViewLens gratis: link in bio (App Store e Google Play).\n\n#ShowViewLens #OperaLirica #Balletto #SpettacoliDalVivo",
+      "titolo_slide": "Opera e balletto: 40 serate la prossima settimana",
+      "eventi": [
+        "Italian Opera Taormina",
+        "Great Italian Opera",
+        "Preghiera. Tempi di Guerra",
+        "Bellini e L'Opera"
+      ],
+      "conteggio": 40,
+      "file": [
+        "https://maxegon.github.io/showviewlens/social/2026-11-01/SHV_20261101_1800_CAR/01_gancio.jpg",
+        "https://maxegon.github.io/showviewlens/social/2026-11-01/SHV_20261101_1800_CAR/02_dati.jpg",
+        "https://maxegon.github.io/showviewlens/social/2026-11-01/SHV_20261101_1800_CAR/03_dati.jpg",
+        "https://maxegon.github.io/showviewlens/social/2026-11-01/SHV_20261101_1800_CAR/04_screenshot.jpg",
+        "https://maxegon.github.io/showviewlens/social/2026-11-01/SHV_20261101_1800_CAR/05_cta.jpg"
+      ],
+      "utm": "https://maxegon.github.io/showviewlens/download/?utm_source=instagram&utm_medium=social&utm_campaign=piano_2026_11&utm_content=SHV_20261101_1800_CAR",
+      "verifica": {
+        "esito": "dubbio",
+        "controlli": [
+          {
+            "nome": "eventi nel post",
+            "esito": "ok",
+            "dettaglio": "4 eventi verificati ok, 1 tolti, su 41 candidati"
+          },
+          {
+            "nome": "tolto «Voci D'Italia — An Enveloping Opera…» lun 2/11",
+            "esito": "dubbio",
+            "dettaglio": "non visto nell ultimo giro della fonte (missing_count=1)"
+          }
+        ],
+        "fonti": [
+          "https://shop.vivaticket.com/it/sell/?cmd=prices&pcode=13298488&tcode=vt0020309",
+          "https://www.vivaticket.com/it/ticket/great-italian-opera/295617",
+          "https://shop.vivaticket.com/it/sell/?cmd=prices&pcode=14034042&tcode=vt0000345",
+          "https://shop.vivaticket.com/it/sell/?cmd=prices&pcode=13700034&tcode=vt0017284"
+        ]
+      },
+      "anteprima": {
+        "testo": "🎼 La prossima settimana tra opera e balletto: 40 serate in ShowViewLens.\n\n1. Italian Opera Taormina · TEATRO NAZARENA · lun 2/11 · 21:15\n2. Great Italian Opera · ORATORIO DELLA COMPAGNIA DI S. MARIA DELLA CROCE · lun 2/11 · 19:15\n3. Preghiera. Tempi di Guerra · Teatro Astra · mar 3/11 · 20:00\n4. Bellini e L'Opera · Chiesa della Badia di Sant’Agata · mar 3/11 · 20:30\n\nSalva il post e scegli la tua serata. Su ShowViewLens c’è il link alla biglietteria ufficiale.\n\n📲 Scarica ShowViewLens gratis: link in bio (App Store e Google Play).\n\n#ShowViewLens #OperaLirica #Balletto #SpettacoliDalVivo",
+        "immagini": [
+          "https://maxegon.github.io/showviewlens/social/2026-11-01/SHV_20261101_1800_CAR/01_gancio.jpg"
+        ]
+      },
+      "ig_media": [
+        {
+          "media_type": "IMAGE",
+          "image_url": "https://maxegon.github.io/showviewlens/social/2026-11-01/SHV_20261101_1800_CAR/01_gancio.jpg"
+        },
+        {
+          "media_type": "IMAGE",
+          "image_url": "https://maxegon.github.io/showviewlens/social/2026-11-01/SHV_20261101_1800_CAR/02_dati.jpg"
+        },
+        {
+          "media_type": "IMAGE",
+          "image_url": "https://maxegon.github.io/showviewlens/social/2026-11-01/SHV_20261101_1800_CAR/03_dati.jpg"
+        },
+        {
+          "media_type": "IMAGE",
+          "image_url": "https://maxegon.github.io/showviewlens/social/2026-11-01/SHV_20261101_1800_CAR/04_screenshot.jpg"
+        },
+        {
+          "media_type": "IMAGE",
+          "image_url": "https://maxegon.github.io/showviewlens/social/2026-11-01/SHV_20261101_1800_CAR/05_cta.jpg"
+        }
+      ],
+      "fb_photos": [
+        {
+          "type": "url",
+          "url": "https://maxegon.github.io/showviewlens/social/2026-11-01/SHV_20261101_1800_CAR/01_gancio.jpg"
+        },
+        {
+          "type": "url",
+          "url": "https://maxegon.github.io/showviewlens/social/2026-11-01/SHV_20261101_1800_CAR/02_dati.jpg"
+        },
+        {
+          "type": "url",
+          "url": "https://maxegon.github.io/showviewlens/social/2026-11-01/SHV_20261101_1800_CAR/03_dati.jpg"
+        },
+        {
+          "type": "url",
+          "url": "https://maxegon.github.io/showviewlens/social/2026-11-01/SHV_20261101_1800_CAR/04_screenshot.jpg"
+        },
+        {
+          "type": "url",
+          "url": "https://maxegon.github.io/showviewlens/social/2026-11-01/SHV_20261101_1800_CAR/05_cta.jpg"
+        }
+      ]
+    }
+  ]
+}
