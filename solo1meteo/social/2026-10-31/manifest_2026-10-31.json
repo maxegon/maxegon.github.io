@@ -15,13 +15,13 @@
       "ora_pubblicazione": "2026-10-31 08:30",
       "data_evento": "2026-10-31",
       "utm": "https://maxegon.github.io/meteo-stat-privacy/landing/?utm_source=instagram&utm_medium=social&utm_campaign=s1m_2026w44&utm_content=S1M_20261031_0830_STORY",
-      "generato_il": "2026-10-30T23:46:03+01:00",
-      "provvisorio": true,
+      "generato_il": "2026-10-31T12:02:28+01:00",
+      "provvisorio": false,
       "giorno": "2026-10-31",
       "stato": "MEDIA_PRONTA",
       "motivo": null,
-      "testo_finale": "Sabato a Milano: massima media 17°, sereno per 5 fonti su 8. Cerca «Solo1Meteo» su App Store e Google Play",
-      "concept_finale": "S1 gancio: Sabato a Milano: 17° | S2 dato: sereno per 5 fonti su 8 | S3 cta: Cerca «Solo1Meteo» su App Store e Google Play",
+      "testo_finale": "Sabato a Milano: massima media 17°, nuvoloso per 3 fonti su 8. Cerca «Solo1Meteo» su App Store e Google Play",
+      "concept_finale": "S1 gancio: Sabato a Milano: 17° | S2 dato: nuvoloso per 3 fonti su 8 | S3 cta: Cerca «Solo1Meteo» su App Store e Google Play",
       "immagini": [
         "https://maxegon.github.io/solo1meteo/social/2026-10-31/S1M_20261031_0830_STORY/storia.png"
       ],
@@ -47,16 +47,16 @@
         "tmax_media": 17,
         "tmax_min": 16,
         "tmax_max": 18,
-        "tmin_media": 9,
+        "tmin_media": 7,
         "pioggia_media": 20,
         "pioggia_min": 0,
-        "pioggia_max": 15,
+        "pioggia_max": 12,
         "fonti_pioggia": 5,
-        "condizione": "sereno",
-        "fonti_condizione": 5,
-        "giorno_piu_incerto": "mercoledì",
+        "condizione": "nuvoloso",
+        "fonti_condizione": 3,
+        "giorno_piu_incerto": "lunedì",
         "scarto_tmax": 4,
-        "tmax_scarto_fonti": 1.9,
+        "tmax_scarto_fonti": 2.2,
         "tmax_disaccordo": false,
         "pioggia_disaccordo": false,
         "gancio_pioggia": "pioggia 20%"
@@ -70,43 +70,43 @@
         },
         {
           "fonte": "OpenWeatherMap",
-          "tmax": 17.91,
+          "tmax": 15.69,
           "pioggia": 0,
           "pioggia_metodo": "orario"
         },
         {
           "fonte": "WeatherAPI",
-          "tmax": 17.8,
-          "pioggia": 15,
+          "tmax": 17.9,
+          "pioggia": 12,
           "pioggia_metodo": "orario"
         },
         {
           "fonte": "MET Norway",
-          "tmax": 16,
+          "tmax": 16.4,
           "pioggia": null,
           "pioggia_metodo": null
         },
         {
           "fonte": "DWD",
-          "tmax": 16.9,
+          "tmax": 16.5,
           "pioggia": null,
           "pioggia_metodo": null
         },
         {
           "fonte": "Visual Crossing",
-          "tmax": 16.7,
+          "tmax": 16.5,
           "pioggia": 0,
           "pioggia_metodo": "orario"
         },
         {
           "fonte": "7Timer!",
-          "tmax": 16,
+          "tmax": 17,
           "pioggia": null,
           "pioggia_metodo": null
         },
         {
           "fonte": "Tomorrow.io",
-          "tmax": 15.97,
+          "tmax": 16.38,
           "pioggia": 0,
           "pioggia_metodo": "orario"
         }
@@ -142,7 +142,7 @@
           {
             "nome": "scarto",
             "esito": "ok",
-            "dettaglio": "massime 16-18° (scarto 2°), pioggia 0-15% (scarto 15)"
+            "dettaglio": "massime 16-18° (scarto 2°), pioggia 0-12% (scarto 12)"
           },
           {
             "nome": "giorno",
@@ -172,13 +172,44 @@
           "https://www.tomorrow.io"
         ]
       },
-      "scaricato_il": "2026-10-30T23:46:05+01:00",
+      "scaricato_il": "2026-10-31T12:02:30+01:00",
       "citta_usata": "Milano",
       "anteprima": {
-        "testo": "Sabato a Milano: massima media 17°, sereno per 5 fonti su 8. Cerca «Solo1Meteo» su App Store e Google Play",
+        "testo": "Sabato a Milano: massima media 17°, nuvoloso per 3 fonti su 8. Cerca «Solo1Meteo» su App Store e Google Play",
         "immagini": [
           "https://maxegon.github.io/solo1meteo/social/2026-10-31/S1M_20261031_0830_STORY/storia.png"
         ]
+      },
+      "cambio_serale": {
+        "tipo": "cambiata",
+        "motivo": "condizione: sereno -> nuvoloso",
+        "prima": {
+          "stato": "MEDIA_PRONTA",
+          "dati": {
+            "citta": "Milano",
+            "data_label": "sabato 31 ottobre",
+            "fonti_n": 8,
+            "fonti_elencate": 8,
+            "fonti_escluse": [],
+            "tmax_media": 17,
+            "tmax_min": 16,
+            "tmax_max": 18,
+            "tmin_media": 9,
+            "pioggia_media": 20,
+            "pioggia_min": 0,
+            "pioggia_max": 15,
+            "fonti_pioggia": 5,
+            "condizione": "sereno",
+            "fonti_condizione": 5,
+            "giorno_piu_incerto": "mercoledì",
+            "scarto_tmax": 4,
+            "tmax_scarto_fonti": 1.9,
+            "tmax_disaccordo": false,
+            "pioggia_disaccordo": false,
+            "gancio_pioggia": "pioggia 20%"
+          },
+          "generato_il": "2026-10-30T23:46:03+01:00"
+        }
       }
     }
   ]
