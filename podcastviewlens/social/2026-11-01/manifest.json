@@ -1,6 +1,6 @@
 {
   "date": "2026-11-01",
-  "generated_at": "2026-10-24T16:50+02:00",
+  "generated_at": "2026-10-31T23:09+01:00",
   "sources_skipped": [],
   "rimandate": [],
   "items": [
@@ -12,7 +12,7 @@
       "utm": "https://podcastviewlens.vercel.app/download?utm_source=instagram&utm_medium=social&utm_campaign=pvl_2026w44&utm_content=W1_DOM_1800",
       "stato": "PRONTO",
       "motivo": "",
-      "caption": "Le puntate uscite dal 17 al 23 ottobre nei podcast in palinsesto, fascia per fascia: 47 puntate da 8 podcast (Mattina 5, Pranzo 21, Pomeriggio 6, Sera 5, Notte 10). Dati dei feed pubblici, aggiornati al 23 ottobre.\n\nScarica PodcastViewLens gratis: link in bio.\n\n#PodcastViewLens #PodcastItalia #CosaAscoltare",
+      "caption": "Le puntate uscite dal 24 al 30 ottobre nei podcast in palinsesto, fascia per fascia: 45 puntate da 8 podcast (Mattina 6, Pranzo 18, Pomeriggio 4, Sera 7, Notte 10). Dati dei feed pubblici, aggiornati al 30 ottobre.\n\nScarica PodcastViewLens gratis: link in bio.\n\n#PodcastViewLens #PodcastItalia #CosaAscoltare",
       "files": [
         "https://maxegon.github.io/podcastviewlens/social/2026-11-01/W1_DOM_1800/slide_01.jpg",
         "https://maxegon.github.io/podcastviewlens/social/2026-11-01/W1_DOM_1800/slide_02.jpg",
@@ -31,7 +31,7 @@
           {
             "nome": "finestra_pubdate",
             "esito": "ok",
-            "dettaglio": "pubDate reale tra 2026-10-17 e 2026-10-23 (Europe/Rome), mai oltre 2026-10-24 16:50"
+            "dettaglio": "pubDate reale tra 2026-10-24 e 2026-10-30 (Europe/Rome), mai oltre 2026-10-31 23:09"
           },
           {
             "nome": "catalogo_app",
@@ -41,7 +41,7 @@
           {
             "nome": "presente_nell_app",
             "esito": "ok",
-            "dettaglio": "47 su 47 puntate trovate nel Palinsesto dell'app con lo stesso orario (scripts/verify_palinsesto.mjs (codice dell'app: scheduleService.getReleasesForDate))"
+            "dettaglio": "45 su 45 puntate trovate nel Palinsesto dell'app con lo stesso orario (scripts/verify_palinsesto.mjs (codice dell'app: scheduleService.getReleasesForDate))"
           },
           {
             "nome": "duplicati_guid",
@@ -51,7 +51,7 @@
           {
             "nome": "link_episodio",
             "esito": "ok",
-            "dettaglio": "47 su 47 enclosure/link rispondono"
+            "dettaglio": "45 su 45 enclosure/link rispondono"
           }
         ],
         "fonti": [
@@ -66,7 +66,7 @@
         ]
       },
       "anteprima": {
-        "testo": "Le puntate uscite dal 17 al 23 ottobre nei podcast in palinsesto, fascia per fascia: 47 puntate da 8 podcast (Mattina 5, Pranzo 21, Pomeriggio 6, Sera 5, Notte 10). Dati dei feed pubblici, aggiornati al 23 ottobre.\n\nScarica PodcastViewLens gratis: link in bio.\n\n#PodcastViewLens #PodcastItalia #CosaAscoltare",
+        "testo": "Le puntate uscite dal 24 al 30 ottobre nei podcast in palinsesto, fascia per fascia: 45 puntate da 8 podcast (Mattina 6, Pranzo 18, Pomeriggio 4, Sera 7, Notte 10). Dati dei feed pubblici, aggiornati al 30 ottobre.\n\nScarica PodcastViewLens gratis: link in bio.\n\n#PodcastViewLens #PodcastItalia #CosaAscoltare",
         "immagini": [
           "https://maxegon.github.io/podcastviewlens/social/2026-11-01/W1_DOM_1800/slide_01.jpg"
         ]
@@ -77,13 +77,13 @@
         "La Zanzara",
         "Stories",
         "Passa dal BSMT",
-        "Deejay Chiama Italia",
         "Geopop: Le scienze quotidiane",
         "Start - Il Sole 24 Ore",
         "Non hanno un amico",
-        "The Bull"
+        "The Bull",
+        "Deejay Chiama Italia"
       ],
-      "titolo_slide": "puntate uscite dal 17 al 23 ottobre",
+      "titolo_slide": "puntate uscite dal 24 al 30 ottobre",
       "ig_media": [
         {
           "media_type": "IMAGE",
@@ -145,7 +145,7 @@
           {
             "nome": "finestra_pubdate",
             "esito": "ok",
-            "dettaglio": "pubDate reale tra 2026-10-03 e 2026-10-24 (Europe/Rome), mai oltre 2026-10-24 16:50"
+            "dettaglio": "pubDate reale tra 2026-10-10 e 2026-10-31 (Europe/Rome), mai oltre 2026-10-31 23:09"
           },
           {
             "nome": "catalogo_app",
@@ -155,7 +155,7 @@
           {
             "nome": "presente_nell_app",
             "esito": "ok",
-            "dettaglio": "147 su 147 puntate trovate nel Palinsesto dell'app con lo stesso orario (scripts/verify_palinsesto.mjs (codice dell'app: scheduleService.getReleasesForDate))"
+            "dettaglio": "141 su 141 puntate trovate nel Palinsesto dell'app con lo stesso orario (scripts/verify_palinsesto.mjs (codice dell'app: scheduleService.getReleasesForDate))"
           },
           {
             "nome": "duplicati_guid",
@@ -165,7 +165,7 @@
           {
             "nome": "link_episodio",
             "esito": "ok",
-            "dettaglio": "147 su 147 enclosure/link rispondono"
+            "dettaglio": "141 su 141 enclosure/link rispondono"
           },
           {
             "nome": "previsione_non_confermata",
@@ -202,8 +202,8 @@
         "Non hanno un amico",
         "Start - Il Sole 24 Ore",
         "The Bull",
-        "Deejay Chiama Italia",
         "Passa dal BSMT",
+        "Deejay Chiama Italia",
         "Stories",
         "La Zanzara"
       ],
