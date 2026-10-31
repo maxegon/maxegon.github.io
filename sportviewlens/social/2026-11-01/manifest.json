@@ -1,0 +1,119 @@
+{
+ "generato": "2026-10-31T22:26:08+00:00",
+ "data_pubblicazione": "2026-11-01",
+ "base_url": "https://maxegon.github.io/sportviewlens/social/2026-11-01",
+ "righe": [
+  {
+   "Giorno_Slot": "SVL_20261101_1000_CAR",
+   "Formato": "Carosello",
+   "Piattaforma": "Instagram / FB",
+   "Ora": "10:00",
+   "Categoria": "oggi_in_tv",
+   "Data_Evento": "2026-11-01",
+   "UTM": "https://maxegon.github.io/sportviewlens/download/?utm_source=instagram&utm_medium=carosello&utm_campaign=oggi_in_tv&utm_content=SVL_20261101_1000_CAR",
+   "note": [],
+   "verifica": {
+    "esito": "ko",
+    "controlli": [
+     {
+      "nome": "eventi nel post",
+      "esito": "ok",
+      "dettaglio": "0 eventi verificati ok, 27 tolti, su 27 candidati dell'app"
+     },
+     {
+      "nome": "tolto «GP Malesia — Gara» 10:00",
+      "esito": "dubbio",
+      "dettaglio": "orario 10:00 fuori dalla finestra [-5, +60] min dall'inizio trasmissione"
+     },
+     {
+      "nome": "tolto «PEC Zwolle – ADO Den Haag» 12:15",
+      "esito": "dubbio",
+      "dettaglio": "stagione dei diritti (2025-2026) non contiene il 2026-11-01; nessun canale con due fonti: DAZN (nessuna fonte); orario 12:15 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Como – Venezia» 12:30",
+      "esito": "dubbio",
+      "dettaglio": "nessun canale con due fonti: DAZN (solo tv_rights); orario 12:30 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Inter Milano W – Lazio W» 12:30",
+      "esito": "dubbio",
+      "dettaglio": "stagione dei diritti (2025-2026, None) non contiene il 2026-11-01; nessun canale con due fonti: DAZN (nessuna fonte); orario 12:30 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Getafe – Sevilla» 14:00",
+      "esito": "dubbio",
+      "dettaglio": "stagione dei diritti (2025-2026) non contiene il 2026-11-01; nessun canale con due fonti: DAZN (nessuna fonte); orario 14:00 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Excelsior – Twente» 14:30",
+      "esito": "dubbio",
+      "dettaglio": "stagione dei diritti (2025-2026) non contiene il 2026-11-01; nessun canale con due fonti: DAZN (nessuna fonte); orario 14:30 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Telstar – Utrecht» 14:30",
+      "esito": "dubbio",
+      "dettaglio": "stagione dei diritti (2025-2026) non contiene il 2026-11-01; nessun canale con due fonti: DAZN (nessuna fonte); orario 14:30 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Frosinone – Torino» 15:00",
+      "esito": "dubbio",
+      "dettaglio": "nessun canale con due fonti: DAZN (solo tv_rights); orario 15:00 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Lazio – Cagliari» 15:00",
+      "esito": "dubbio",
+      "dettaglio": "nessun canale con due fonti: DAZN (solo tv_rights); orario 15:00 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Strasbourg – Auxerre» 15:00",
+      "esito": "dubbio",
+      "dettaglio": "stagione dei diritti (2025-2026) non contiene il 2026-11-01; nessun canale con due fonti: Ligue1+ (nessuna fonte); orario 15:00 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Roma W – Napoli W» 15:00",
+      "esito": "dubbio",
+      "dettaglio": "stagione dei diritti (2025-2026, None) non contiene il 2026-11-01; nessun canale con due fonti: DAZN (nessuna fonte); orario 15:00 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Arezzo – Ascoli» 15:00",
+      "esito": "dubbio",
+      "dettaglio": "stagione dei diritti (2025-2026) non contiene il 2026-11-01; nessun canale con due fonti: DAZN (nessuna fonte); orario 15:00 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "minimo eventi",
+      "esito": "ko",
+      "dettaglio": "0 eventi verificati, ne servono almeno 3: la riga non esce"
+     }
+    ],
+    "fonti": []
+   },
+   "Stato": "SALTATO_VERIFICA",
+   "motivo": "0 eventi verificati (minimo 3)",
+   "id": "SVL_20261101_1000_CAR",
+   "stato": "SALTATO_VERIFICA",
+   "formato": "Carosello",
+   "piattaforma": "Instagram / FB",
+   "utm": "https://maxegon.github.io/sportviewlens/download/?utm_source=instagram&utm_medium=carosello&utm_campaign=oggi_in_tv&utm_content=SVL_20261101_1000_CAR",
+   "pubblica_alle": "2026-11-01T10:00+01:00"
+  },
+  {
+   "Giorno_Slot": "SVL_20261101_1100_STO",
+   "Formato": "Storia",
+   "Piattaforma": "Instagram / FB Stories",
+   "Ora": "11:00",
+   "Categoria": "oggi_in_tv",
+   "Data_Evento": "2026-11-01",
+   "UTM": "",
+   "note": [],
+   "Stato": "SALTATO_DATI",
+   "motivo": "<urlopen error [SSL: DECRYPTION_FAILED_OR_BAD_RECORD_MAC] decryption failed or bad record mac (_ssl.c:1010)>",
+   "id": "SVL_20261101_1100_STO",
+   "stato": "SALTATO_DATI",
+   "formato": "Storia",
+   "piattaforma": "Instagram / FB Stories",
+   "utm": "",
+   "pubblica_alle": "2026-11-01T11:00+01:00"
+  }
+ ]
+}
