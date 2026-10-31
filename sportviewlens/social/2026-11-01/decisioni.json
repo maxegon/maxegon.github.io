@@ -1,0 +1,47 @@
+{
+ "app": "SportViewLens",
+ "data": "2026-11-01",
+ "righe": {
+  "SVL_20261101_1000_CAR": {
+   "pubblica_alle": "2026-11-01T10:00:00+01:00",
+   "formato": "Carosello",
+   "piattaforma": "Instagram / FB",
+   "sempreverde": false,
+   "chiave": "SVL_20261101_1000_CAR",
+   "decisione": null,
+   "alle": "",
+   "correzioni": [],
+   "messaggio_id": 470
+  },
+  "SVL_20261101_1100_STO": {
+   "pubblica_alle": "2026-11-01T11:00:00+01:00",
+   "formato": "Storia",
+   "piattaforma": "Instagram / FB Stories",
+   "sempreverde": false,
+   "chiave": "SVL_20261101_1100_STO",
+   "decisione": null,
+   "alle": "",
+   "correzioni": [],
+   "messaggio_id": 472
+  }
+ },
+ "messaggi": {
+  "470": {
+   "chat_id": "1614787945",
+   "righe": [
+    "SVL_20261101_1000_CAR"
+   ],
+   "base": "<b>10:00 · Carosello · Instagram / FB</b>\nID <code>SVL_20261101_1000_CAR</code>\n⚠️ Verifica ok · 5 fonti, tolti perché incerti:\n  • tolto «GP Malesia — Gara» 10:00: nessun canale con due fonti: Sky Sport Uno (solo palinsesto); NOW (solo tv_rights); orario 10:00 non confrontabile col palinsesto\n  • tolto «PEC Zwolle – ADO Den Haag» 12:15: stagione dei diritti (2025-2026) non contiene il 2026-11-01; nessun canale con due fonti: DAZN (nessuna fonte); orario 12:15 non confrontabi\n  • tolto «Como – Venezia» 12:30: nessun canale con due fonti: DAZN (solo tv_rights); orario 12:30 non confrontabile col palinsesto\n  • tolto «Inter Milano W – Lazio W» 12:30: stagione dei diritti (2025-2026, None) non contiene il 2026-11-01; nessun canale con due fonti: DAZN (nessuna fonte); orario 12:30 non confr\n  • tolto «Getafe – Sevilla» 14:00: stagione dei diritti (2025-2026) non contiene il 2026-11-01; nessun canale con due fonti: DAZN (nessuna fonte); orario 14:00 non confrontabi\n  • tolto «Vienna Maschile (cemento)» 14:00: nessuna riga di tv_rights per tennis / «ATP 500»; nessun canale con due fonti: Sky Sport Tennis (solo palinsesto); orario 14:00 non confront\n  • … altri 6\n<pre>📺 Oggi in TV: 4 dirette sport\n\n• 15:00 Frosinone – Torino · DAZN\n• 15:30 Union Berlin – 1. FC Köln · Sky Sport Arena, Sky Sport\n• 18:00 Lecce – Genoa · Sky Sport 251\n• 20:55 GP Messico: Gara · Sky Sport F1\n\nCerca la tua squadra e scegli le tue piattaforme in SportViewLens.\n📲 Scarica gratis SportViewLens: link in bio.\n\nSportViewLens non è affiliata con DAZN, Sky, RAI o altri broadcaster.\n🤖 Contenuto generato in automatico con IA dai palinsesti TV ufficiali.\n\n#SportViewLens #SportInTV #OggiInTV</pre>\n\n<i>✅ OK: esce all'orario · ⏭️ Salta: non esce, contenuto legato a quella data · ✏️ Correggi: mi scrivi cosa cambiare · ↩️ Annulla: torna come prima. Nessun click = esce. Leggo i pulsanti ogni 15 minuti: decidi almeno 30 minuti prima.</i>"
+  },
+  "472": {
+   "chat_id": "1614787945",
+   "righe": [
+    "SVL_20261101_1100_STO"
+   ],
+   "base": "<b>11:00 · Storia · Instagram / FB Stories</b>\nID <code>SVL_20261101_1100_STO</code>\n⚠️ Verifica ok · 5 fonti, tolti perché incerti:\n  • tolto «GP Malesia — Gara» 10:00: nessun canale con due fonti: Sky Sport Uno (solo palinsesto); NOW (solo tv_rights); orario 10:00 non confrontabile col palinsesto\n  • tolto «PEC Zwolle – ADO Den Haag» 12:15: stagione dei diritti (2025-2026) non contiene il 2026-11-01; nessun canale con due fonti: DAZN (nessuna fonte); orario 12:15 non confrontabi\n  • tolto «Como – Venezia» 12:30: nessun canale con due fonti: DAZN (solo tv_rights); orario 12:30 non confrontabile col palinsesto\n  • tolto «Inter Milano W – Lazio W» 12:30: stagione dei diritti (2025-2026, None) non contiene il 2026-11-01; nessun canale con due fonti: DAZN (nessuna fonte); orario 12:30 non confr\n  • tolto «Getafe – Sevilla» 14:00: stagione dei diritti (2025-2026) non contiene il 2026-11-01; nessun canale con due fonti: DAZN (nessuna fonte); orario 14:00 non confrontabi\n  • tolto «Vienna Maschile (cemento)» 14:00: nessuna riga di tv_rights per tennis / «ATP 500»; nessun canale con due fonti: Sky Sport Tennis (solo palinsesto); orario 14:00 non confront\n  • … altri 6\n<pre>Oggi in TV: 4 dirette. • 15:00 Frosinone – Torino · DAZN\n• 15:30 Union Berlin – 1. FC Köln · Sky Sport Arena, Sky Sport\n• 18:00 Lecce – Genoa · Sky Sport 251\n• 20:55 GP Messico: Gara · Sky Sport F1\nCerca «SportViewLens» su App Store e Google Play.\nSportViewLens non è affiliata con DAZN, Sky, RAI o altri broadcaster.\n🤖 Contenuto generato in automatico con IA dai palinsesti TV ufficiali.</pre>\n\n<i>✅ OK: esce all'orario · ⏭️ Salta: non esce, contenuto legato a quella data · ✏️ Correggi: mi scrivi cosa cambiare · ↩️ Annulla: torna come prima. Nessun click = esce. Leggo i pulsanti ogni 15 minuti: decidi almeno 30 minuti prima.</i>"
+  }
+ },
+ "ultimo_update_id": null,
+ "anteprima_inviata_il": "2026-11-01T00:20:40+01:00",
+ "provvisorio": false
+}
