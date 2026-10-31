@@ -1,0 +1,216 @@
+{
+  "slot": "S1M_20261101_1930_FEED",
+  "piattaforma": "Instagram / FB",
+  "formato": "Carosello",
+  "ora_pubblicazione": "2026-11-01 19:30",
+  "data_evento": "2026-11-02",
+  "utm": "https://maxegon.github.io/meteo-stat-privacy/landing/?utm_source=instagram&utm_medium=social&utm_campaign=s1m_2026w44&utm_content=S1M_20261101_1930_FEED",
+  "generato_il": "2026-10-31T23:07:17+01:00",
+  "provvisorio": true,
+  "giorno": "2026-11-01",
+  "stato": "MEDIA_PRONTA",
+  "motivo": null,
+  "testo_finale": "La settimana a Milano: il giorno su cui le fonti sono meno d'accordo è lunedì, con 4° di differenza tra le massime. Ricontrolla la sera prima. Scarica Solo1Meteo gratis: link in bio. #solo1meteo #meteo #previsionimeteo #meteoitalia",
+  "concept_finale": "S1 gancio: La settimana a Milano: giorno più incerto lunedì | S2 confronto: 4° di differenza tra le massime delle fonti | S3 consiglio: per quel giorno ricontrolla la sera prima | S4 screenshot: schermata Previsioni | S5 cta: Scarica gratis Solo1Meteo",
+  "immagini": [
+    "https://maxegon.github.io/solo1meteo/social/2026-11-01/S1M_20261101_1930_FEED/1_copertina.png",
+    "https://maxegon.github.io/solo1meteo/social/2026-11-01/S1M_20261101_1930_FEED/2a_temperature.png",
+    "https://maxegon.github.io/solo1meteo/social/2026-11-01/S1M_20261101_1930_FEED/2b_temperature.png",
+    "https://maxegon.github.io/solo1meteo/social/2026-11-01/S1M_20261101_1930_FEED/3_pioggia.png",
+    "https://maxegon.github.io/solo1meteo/social/2026-11-01/S1M_20261101_1930_FEED/4_screenshot.png",
+    "https://maxegon.github.io/solo1meteo/social/2026-11-01/S1M_20261101_1930_FEED/5_cta.png"
+  ],
+  "video_url": null,
+  "ig_media": [
+    {
+      "media_type": "IMAGE",
+      "image_url": "https://maxegon.github.io/solo1meteo/social/2026-11-01/S1M_20261101_1930_FEED/1_copertina.png"
+    },
+    {
+      "media_type": "IMAGE",
+      "image_url": "https://maxegon.github.io/solo1meteo/social/2026-11-01/S1M_20261101_1930_FEED/2a_temperature.png"
+    },
+    {
+      "media_type": "IMAGE",
+      "image_url": "https://maxegon.github.io/solo1meteo/social/2026-11-01/S1M_20261101_1930_FEED/2b_temperature.png"
+    },
+    {
+      "media_type": "IMAGE",
+      "image_url": "https://maxegon.github.io/solo1meteo/social/2026-11-01/S1M_20261101_1930_FEED/3_pioggia.png"
+    },
+    {
+      "media_type": "IMAGE",
+      "image_url": "https://maxegon.github.io/solo1meteo/social/2026-11-01/S1M_20261101_1930_FEED/4_screenshot.png"
+    },
+    {
+      "media_type": "IMAGE",
+      "image_url": "https://maxegon.github.io/solo1meteo/social/2026-11-01/S1M_20261101_1930_FEED/5_cta.png"
+    }
+  ],
+  "fb_photos": [
+    {
+      "type": "url",
+      "url": "https://maxegon.github.io/solo1meteo/social/2026-11-01/S1M_20261101_1930_FEED/1_copertina.png"
+    },
+    {
+      "type": "url",
+      "url": "https://maxegon.github.io/solo1meteo/social/2026-11-01/S1M_20261101_1930_FEED/2a_temperature.png"
+    },
+    {
+      "type": "url",
+      "url": "https://maxegon.github.io/solo1meteo/social/2026-11-01/S1M_20261101_1930_FEED/2b_temperature.png"
+    },
+    {
+      "type": "url",
+      "url": "https://maxegon.github.io/solo1meteo/social/2026-11-01/S1M_20261101_1930_FEED/3_pioggia.png"
+    },
+    {
+      "type": "url",
+      "url": "https://maxegon.github.io/solo1meteo/social/2026-11-01/S1M_20261101_1930_FEED/4_screenshot.png"
+    },
+    {
+      "type": "url",
+      "url": "https://maxegon.github.io/solo1meteo/social/2026-11-01/S1M_20261101_1930_FEED/5_cta.png"
+    }
+  ],
+  "dati": {
+    "citta": "Milano",
+    "data_label": "lunedì 2 novembre",
+    "fonti_n": 7,
+    "fonti_elencate": 7,
+    "fonti_escluse": [],
+    "tmax_media": 15,
+    "tmax_min": 13,
+    "tmax_max": 17,
+    "tmin_media": 6,
+    "pioggia_media": 25,
+    "pioggia_min": 0,
+    "pioggia_max": 11,
+    "fonti_pioggia": 4,
+    "condizione": "sereno",
+    "fonti_condizione": 6,
+    "giorno_piu_incerto": "lunedì",
+    "scarto_tmax": 4,
+    "tmax_scarto_fonti": 4,
+    "tmax_disaccordo": false,
+    "pioggia_disaccordo": false,
+    "gancio_pioggia": "pioggia 25%"
+  },
+  "fonti": [
+    {
+      "fonte": "Open-Meteo",
+      "tmax": 16.1,
+      "pioggia": 0,
+      "pioggia_metodo": "orario"
+    },
+    {
+      "fonte": "OpenWeatherMap",
+      "tmax": 17,
+      "pioggia": 0,
+      "pioggia_metodo": "orario"
+    },
+    {
+      "fonte": "WeatherAPI",
+      "tmax": 14.5,
+      "pioggia": 11,
+      "pioggia_metodo": "orario"
+    },
+    {
+      "fonte": "MET Norway",
+      "tmax": 15.2,
+      "pioggia": null,
+      "pioggia_metodo": null
+    },
+    {
+      "fonte": "DWD",
+      "tmax": 15.1,
+      "pioggia": null,
+      "pioggia_metodo": null
+    },
+    {
+      "fonte": "7Timer!",
+      "tmax": 13,
+      "pioggia": null,
+      "pioggia_metodo": null
+    },
+    {
+      "fonte": "Tomorrow.io",
+      "tmax": 15.22,
+      "pioggia": 0,
+      "pioggia_metodo": "orario"
+    }
+  ],
+  "verifica": {
+    "esito": "ok",
+    "controlli": [
+      {
+        "nome": "backend",
+        "esito": "ok",
+        "dettaglio": "/health = healthy"
+      },
+      {
+        "nome": "fonti",
+        "esito": "ok",
+        "dettaglio": "7 fonti su 8 per 2026-11-02 (minimo 6)"
+      },
+      {
+        "nome": "freschezza",
+        "esito": "ok",
+        "dettaglio": "dato scaricato 0 minuti prima del rendering (massimo 3 ore, cache backend 10 minuti)"
+      },
+      {
+        "nome": "calcolo_app",
+        "esito": "ok",
+        "dettaglio": "copia del calcolo dell'app sha f8de55e39310 (submodule assente in CI) | codice dell'app (buildAggregateDays)"
+      },
+      {
+        "nome": "numeri_testo",
+        "esito": "ok",
+        "dettaglio": "tutti i numeri con ° o % sono quelli calcolati come nell'app"
+      },
+      {
+        "nome": "scarto",
+        "esito": "ok",
+        "dettaglio": "massime 13-17° (scarto 4°), pioggia 0-11% (scarto 11)"
+      },
+      {
+        "nome": "giorno",
+        "esito": "ok",
+        "dettaglio": "giorno citato = lunedì 2026-11-02"
+      },
+      {
+        "nome": "allerte",
+        "esito": "ok",
+        "dettaglio": "nessuna allerta meteo attiva per il giorno (WeatherAPI)"
+      },
+      {
+        "nome": "posizione",
+        "esito": "ok",
+        "dettaglio": "Milano: citta fissa del piano, nessuna posizione dell'utente"
+      },
+      {
+        "nome": "citta",
+        "esito": "ok",
+        "dettaglio": "Palermo sostituita con Milano: scarto: massime in disaccordo (13-18°) ma il testo ha un numero secco"
+      }
+    ],
+    "fonti": [
+      "https://backend-eta-seven-21.vercel.app/weather?lat=45.46&lon=9.19",
+      "https://open-meteo.com",
+      "https://openweathermap.org",
+      "https://www.weatherapi.com",
+      "https://api.met.no",
+      "https://brightsky.dev",
+      "http://www.7timer.info",
+      "https://www.tomorrow.io"
+    ]
+  },
+  "scaricato_il": "2026-10-31T23:07:21+01:00",
+  "citta_usata": "Milano",
+  "anteprima": {
+    "testo": "La settimana a Milano: il giorno su cui le fonti sono meno d'accordo è lunedì, con 4° di differenza tra le massime. Ricontrolla la sera prima. Scarica Solo1Meteo gratis: link in bio. #solo1meteo #meteo #previsionimeteo #meteoitalia",
+    "immagini": [
+      "https://maxegon.github.io/solo1meteo/social/2026-11-01/S1M_20261101_1930_FEED/1_copertina.png"
+    ]
+  }
+}
