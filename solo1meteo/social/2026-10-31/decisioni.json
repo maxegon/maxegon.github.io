@@ -11,7 +11,7 @@
    "decisione": null,
    "alle": "",
    "correzioni": [],
-   "messaggio_id": 629
+   "messaggio_id": 632
   }
  },
  "messaggi": {
@@ -28,9 +28,16 @@
     "S1M_20261031_0830_STORY"
    ],
    "base": "<b>08:30 · Storia · Instagram / FB</b>\nID <code>S1M_20261031_0830_STORY</code>\n✅ Verifica ok · 9 fonti\n<pre>Sabato a Milano: massima media 17°, sereno per 5 fonti su 8. Cerca «Solo1Meteo» su App Store e Google Play</pre>\n\n<i>✅ OK: esce all'orario · ⏭️ Salta: non esce, contenuto legato a quella data · ✏️ Correggi: mi scrivi cosa cambiare · ↩️ Annulla: torna come prima. Nessun click = esce. Leggo i pulsanti ogni 15 minuti: decidi almeno 30 minuti prima.</i>"
+  },
+  "632": {
+   "chat_id": "1614787945",
+   "righe": [
+    "S1M_20261031_0830_STORY"
+   ],
+   "base": "🔄 Dati cambiati dalla sera (ora definitivi): condizione: sereno -&gt; nuvoloso. Il post esce con i dati freschi; conferma o salta.\n<b>08:30 · Storia · Instagram / FB</b>\nID <code>S1M_20261031_0830_STORY</code>\n✅ Verifica ok · 9 fonti\n<pre>Sabato a Milano: massima media 17°, nuvoloso per 3 fonti su 8. Cerca «Solo1Meteo» su App Store e Google Play</pre>\n\n<i>✅ OK: esce all'orario · ⏭️ Salta: non esce, contenuto legato a quella data · ✏️ Correggi: mi scrivi cosa cambiare · ↩️ Annulla: torna come prima. Nessun click = esce. Leggo i pulsanti ogni 15 minuti: decidi almeno 30 minuti prima.</i>"
   }
  },
  "ultimo_update_id": null,
- "anteprima_inviata_il": "2026-10-30T23:46:31+01:00",
- "provvisorio": true
+ "anteprima_inviata_il": "2026-10-31T12:02:54+01:00",
+ "provvisorio": false
 }
