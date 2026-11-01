@@ -1,0 +1,29 @@
+{
+ "app": "PodcastViewLens",
+ "data": "2026-11-02",
+ "righe": {
+  "W2_LUN_1830": {
+   "pubblica_alle": "2026-11-02T18:30:00+01:00",
+   "formato": "Carosello",
+   "piattaforma": "Instagram / FB",
+   "sempreverde": true,
+   "chiave": "W2_LUN_1830",
+   "decisione": null,
+   "alle": "",
+   "correzioni": [],
+   "messaggio_id": 119
+  }
+ },
+ "messaggi": {
+  "119": {
+   "chat_id": "1614787945",
+   "righe": [
+    "W2_LUN_1830"
+   ],
+   "base": "<b>18:30 · Carosello · Instagram / FB</b>\nID <code>W2_LUN_1830</code>\n✅ Verifica ok\n<pre>Una striscia di 29 giorni: 14 indietro per recuperare le puntate uscite, 14 avanti per vedere le uscite previste. Le date future sono stime calcolate dagli ultimi episodi e sono segnate come Previsto.\n\nScarica PodcastViewLens gratis: link in bio.\n\n#PodcastViewLens #PodcastItalia #CosaAscoltare</pre>\n\n<i>✅ OK: esce all'orario · ⏭️ Salta: non esce, torna in coda tra 7 giorni · ✏️ Correggi: mi scrivi cosa cambiare · ↩️ Annulla: torna come prima. Nessun click = esce. Leggo i pulsanti ogni 15 minuti: decidi almeno 30 minuti prima.</i>"
+  }
+ },
+ "ultimo_update_id": null,
+ "anteprima_inviata_il": "2026-11-01T23:35:23+01:00",
+ "provvisorio": false
+}
