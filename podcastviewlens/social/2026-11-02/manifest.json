@@ -1,0 +1,95 @@
+{
+  "date": "2026-11-02",
+  "generated_at": "2026-11-01T23:34+01:00",
+  "sources_skipped": [],
+  "rimandate": [],
+  "items": [
+    {
+      "id": "W2_LUN_1830",
+      "piattaforma": "Instagram / FB",
+      "formato": "Carosello",
+      "ora": "18:30",
+      "utm": "https://podcastviewlens.vercel.app/download?utm_source=instagram&utm_medium=social&utm_campaign=pvl_2026w45&utm_content=W2_LUN_1830",
+      "stato": "PRONTO",
+      "motivo": "",
+      "caption": "Una striscia di 29 giorni: 14 indietro per recuperare le puntate uscite, 14 avanti per vedere le uscite previste. Le date future sono stime calcolate dagli ultimi episodi e sono segnate come Previsto.\n\nScarica PodcastViewLens gratis: link in bio.\n\n#PodcastViewLens #PodcastItalia #CosaAscoltare",
+      "files": [
+        "https://maxegon.github.io/podcastviewlens/social/2026-11-02/W2_LUN_1830/slide_01.jpg",
+        "https://maxegon.github.io/podcastviewlens/social/2026-11-02/W2_LUN_1830/slide_02.jpg",
+        "https://maxegon.github.io/podcastviewlens/social/2026-11-02/W2_LUN_1830/slide_03.jpg",
+        "https://maxegon.github.io/podcastviewlens/social/2026-11-02/W2_LUN_1830/slide_04.jpg",
+        "https://maxegon.github.io/podcastviewlens/social/2026-11-02/W2_LUN_1830/slide_05.jpg"
+      ],
+      "verifica": {
+        "esito": "ok",
+        "controlli": [
+          {
+            "nome": "dati_variabili",
+            "esito": "ok",
+            "dettaglio": "nessun dato variabile: testo sulle funzioni dell'app (app_features.json, guardrails.json)"
+          },
+          {
+            "nome": "funzione_in_app",
+            "esito": "ok",
+            "dettaglio": "«nastro_29_giorni» verificata il 2026-10-23 su src/services/scheduleService.js, src/screens/PalinsestoScreen.js"
+          }
+        ],
+        "fonti": []
+      },
+      "anteprima": {
+        "testo": "Una striscia di 29 giorni: 14 indietro per recuperare le puntate uscite, 14 avanti per vedere le uscite previste. Le date future sono stime calcolate dagli ultimi episodi e sono segnate come Previsto.\n\nScarica PodcastViewLens gratis: link in bio.\n\n#PodcastViewLens #PodcastItalia #CosaAscoltare",
+        "immagini": [
+          "https://maxegon.github.io/podcastviewlens/social/2026-11-02/W2_LUN_1830/slide_01.jpg"
+        ]
+      },
+      "pubblica_alle": "2026-11-02T18:30+01:00",
+      "sempreverde": true,
+      "eventi": [],
+      "titolo_slide": "29 giorni di uscite in una striscia",
+      "ig_media": [
+        {
+          "media_type": "IMAGE",
+          "image_url": "https://maxegon.github.io/podcastviewlens/social/2026-11-02/W2_LUN_1830/slide_01.jpg"
+        },
+        {
+          "media_type": "IMAGE",
+          "image_url": "https://maxegon.github.io/podcastviewlens/social/2026-11-02/W2_LUN_1830/slide_02.jpg"
+        },
+        {
+          "media_type": "IMAGE",
+          "image_url": "https://maxegon.github.io/podcastviewlens/social/2026-11-02/W2_LUN_1830/slide_03.jpg"
+        },
+        {
+          "media_type": "IMAGE",
+          "image_url": "https://maxegon.github.io/podcastviewlens/social/2026-11-02/W2_LUN_1830/slide_04.jpg"
+        },
+        {
+          "media_type": "IMAGE",
+          "image_url": "https://maxegon.github.io/podcastviewlens/social/2026-11-02/W2_LUN_1830/slide_05.jpg"
+        }
+      ],
+      "fb_photos": [
+        {
+          "type": "url",
+          "url": "https://maxegon.github.io/podcastviewlens/social/2026-11-02/W2_LUN_1830/slide_01.jpg"
+        },
+        {
+          "type": "url",
+          "url": "https://maxegon.github.io/podcastviewlens/social/2026-11-02/W2_LUN_1830/slide_02.jpg"
+        },
+        {
+          "type": "url",
+          "url": "https://maxegon.github.io/podcastviewlens/social/2026-11-02/W2_LUN_1830/slide_03.jpg"
+        },
+        {
+          "type": "url",
+          "url": "https://maxegon.github.io/podcastviewlens/social/2026-11-02/W2_LUN_1830/slide_04.jpg"
+        },
+        {
+          "type": "url",
+          "url": "https://maxegon.github.io/podcastviewlens/social/2026-11-02/W2_LUN_1830/slide_05.jpg"
+        }
+      ]
+    }
+  ]
+}
