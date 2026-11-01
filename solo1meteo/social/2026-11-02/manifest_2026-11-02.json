@@ -1,0 +1,233 @@
+{
+  "riferimento": "2026-11-02",
+  "selezione": "pubblicazione",
+  "piano_valido": true,
+  "backend": "healthy",
+  "righe": 1,
+  "stati": {
+    "MEDIA_PRONTA": 1
+  },
+  "voci": [
+    {
+      "slot": "S1M_20261102_1900_FEED",
+      "piattaforma": "Instagram / FB",
+      "formato": "Carosello",
+      "ora_pubblicazione": "2026-11-02 19:00",
+      "data_evento": "2026-11-03",
+      "utm": "https://maxegon.github.io/meteo-stat-privacy/landing/?utm_source=instagram&utm_medium=social&utm_campaign=s1m_2026w45&utm_content=S1M_20261102_1900_FEED",
+      "generato_il": "2026-11-01T23:33:54+01:00",
+      "provvisorio": true,
+      "giorno": "2026-11-02",
+      "stato": "MEDIA_PRONTA",
+      "motivo": null,
+      "testo_finale": "Perché due app meteo dicono cose diverse. Domani a Milano le fonti indicano in media 14° di massima (da 13° a 17°). Scorri per capire come leggiamo i numeri. Scarica Solo1Meteo gratis: link in bio. #solo1meteo #meteo #previsionimeteo #meteoitalia",
+      "concept_finale": "S1 gancio: Domani a Milano: 14°, pioggia 8% | S2 perché: ogni servizio usa dati e metodi suoi | S3 cosa fare: se le fonti divergono, la previsione è più incerta e conviene ricontrollare | S4 screenshot: schermata Confronto | S5 cta: Scarica gratis Solo1Meteo",
+      "immagini": [
+        "https://maxegon.github.io/solo1meteo/social/2026-11-02/S1M_20261102_1900_FEED/1_copertina.png",
+        "https://maxegon.github.io/solo1meteo/social/2026-11-02/S1M_20261102_1900_FEED/2a_temperature.png",
+        "https://maxegon.github.io/solo1meteo/social/2026-11-02/S1M_20261102_1900_FEED/2b_temperature.png",
+        "https://maxegon.github.io/solo1meteo/social/2026-11-02/S1M_20261102_1900_FEED/3_pioggia.png",
+        "https://maxegon.github.io/solo1meteo/social/2026-11-02/S1M_20261102_1900_FEED/4_screenshot.png",
+        "https://maxegon.github.io/solo1meteo/social/2026-11-02/S1M_20261102_1900_FEED/5_cta.png"
+      ],
+      "video_url": null,
+      "ig_media": [
+        {
+          "media_type": "IMAGE",
+          "image_url": "https://maxegon.github.io/solo1meteo/social/2026-11-02/S1M_20261102_1900_FEED/1_copertina.png"
+        },
+        {
+          "media_type": "IMAGE",
+          "image_url": "https://maxegon.github.io/solo1meteo/social/2026-11-02/S1M_20261102_1900_FEED/2a_temperature.png"
+        },
+        {
+          "media_type": "IMAGE",
+          "image_url": "https://maxegon.github.io/solo1meteo/social/2026-11-02/S1M_20261102_1900_FEED/2b_temperature.png"
+        },
+        {
+          "media_type": "IMAGE",
+          "image_url": "https://maxegon.github.io/solo1meteo/social/2026-11-02/S1M_20261102_1900_FEED/3_pioggia.png"
+        },
+        {
+          "media_type": "IMAGE",
+          "image_url": "https://maxegon.github.io/solo1meteo/social/2026-11-02/S1M_20261102_1900_FEED/4_screenshot.png"
+        },
+        {
+          "media_type": "IMAGE",
+          "image_url": "https://maxegon.github.io/solo1meteo/social/2026-11-02/S1M_20261102_1900_FEED/5_cta.png"
+        }
+      ],
+      "fb_photos": [
+        {
+          "type": "url",
+          "url": "https://maxegon.github.io/solo1meteo/social/2026-11-02/S1M_20261102_1900_FEED/1_copertina.png"
+        },
+        {
+          "type": "url",
+          "url": "https://maxegon.github.io/solo1meteo/social/2026-11-02/S1M_20261102_1900_FEED/2a_temperature.png"
+        },
+        {
+          "type": "url",
+          "url": "https://maxegon.github.io/solo1meteo/social/2026-11-02/S1M_20261102_1900_FEED/2b_temperature.png"
+        },
+        {
+          "type": "url",
+          "url": "https://maxegon.github.io/solo1meteo/social/2026-11-02/S1M_20261102_1900_FEED/3_pioggia.png"
+        },
+        {
+          "type": "url",
+          "url": "https://maxegon.github.io/solo1meteo/social/2026-11-02/S1M_20261102_1900_FEED/4_screenshot.png"
+        },
+        {
+          "type": "url",
+          "url": "https://maxegon.github.io/solo1meteo/social/2026-11-02/S1M_20261102_1900_FEED/5_cta.png"
+        }
+      ],
+      "dati": {
+        "citta": "Milano",
+        "data_label": "martedì 3 novembre",
+        "fonti_n": 7,
+        "fonti_elencate": 7,
+        "fonti_escluse": [],
+        "tmax_media": 14,
+        "tmax_min": 13,
+        "tmax_max": 17,
+        "tmin_media": 7,
+        "pioggia_media": 8,
+        "pioggia_min": 0,
+        "pioggia_max": 16,
+        "fonti_pioggia": 4,
+        "condizione": "nuvoloso",
+        "fonti_condizione": 7,
+        "giorno_piu_incerto": "martedì",
+        "scarto_tmax": 4,
+        "tmax_scarto_fonti": 3.6,
+        "tmax_disaccordo": false,
+        "pioggia_disaccordo": false,
+        "gancio_pioggia": "pioggia 8%"
+      },
+      "fonti": [
+        {
+          "fonte": "Open-Meteo",
+          "tmax": 14.4,
+          "pioggia": 12,
+          "pioggia_metodo": "orario"
+        },
+        {
+          "fonte": "OpenWeatherMap",
+          "tmax": 16.6,
+          "pioggia": 0,
+          "pioggia_metodo": "orario"
+        },
+        {
+          "fonte": "WeatherAPI",
+          "tmax": 14.4,
+          "pioggia": 16,
+          "pioggia_metodo": "orario"
+        },
+        {
+          "fonte": "MET Norway",
+          "tmax": 14.1,
+          "pioggia": null,
+          "pioggia_metodo": null
+        },
+        {
+          "fonte": "DWD",
+          "tmax": 14,
+          "pioggia": null,
+          "pioggia_metodo": null
+        },
+        {
+          "fonte": "7Timer!",
+          "tmax": 13,
+          "pioggia": null,
+          "pioggia_metodo": null
+        },
+        {
+          "fonte": "Tomorrow.io",
+          "tmax": 14.11,
+          "pioggia": 0,
+          "pioggia_metodo": "orario"
+        }
+      ],
+      "verifica": {
+        "esito": "ok",
+        "controlli": [
+          {
+            "nome": "backend",
+            "esito": "ok",
+            "dettaglio": "/health = healthy"
+          },
+          {
+            "nome": "fonti",
+            "esito": "ok",
+            "dettaglio": "7 fonti su 8 per 2026-11-03 (minimo 6)"
+          },
+          {
+            "nome": "fonti_pioggia",
+            "esito": "ok",
+            "dettaglio": "4 fonti con il dato di pioggia (minimo 3)"
+          },
+          {
+            "nome": "freschezza",
+            "esito": "ok",
+            "dettaglio": "dato scaricato 0 minuti prima del rendering (massimo 3 ore, cache backend 10 minuti)"
+          },
+          {
+            "nome": "calcolo_app",
+            "esito": "ok",
+            "dettaglio": "copia del calcolo dell'app sha f8de55e39310 (submodule assente in CI) | codice dell'app (buildAggregateDays)"
+          },
+          {
+            "nome": "numeri_testo",
+            "esito": "ok",
+            "dettaglio": "tutti i numeri con ° o % sono quelli calcolati come nell'app"
+          },
+          {
+            "nome": "scarto",
+            "esito": "ok",
+            "dettaglio": "massime 13-17° (scarto 4°), pioggia 0-16% (scarto 16)"
+          },
+          {
+            "nome": "giorno",
+            "esito": "ok",
+            "dettaglio": "giorno citato = martedì 2026-11-03"
+          },
+          {
+            "nome": "allerte",
+            "esito": "ok",
+            "dettaglio": "nessuna allerta meteo attiva per il giorno (WeatherAPI)"
+          },
+          {
+            "nome": "posizione",
+            "esito": "ok",
+            "dettaglio": "Milano: citta fissa del piano, nessuna posizione dell'utente"
+          },
+          {
+            "nome": "citta",
+            "esito": "ok",
+            "dettaglio": "Napoli sostituita con Milano: allerte: allerta meteo attiva (Arancione Temporali Allerta; Giallo Pioggia Allerta; Arancione Temporali Allerta) e nessun ente citato nel post"
+          }
+        ],
+        "fonti": [
+          "https://backend-eta-seven-21.vercel.app/weather?lat=45.46&lon=9.19",
+          "https://open-meteo.com",
+          "https://openweathermap.org",
+          "https://www.weatherapi.com",
+          "https://api.met.no",
+          "https://brightsky.dev",
+          "http://www.7timer.info",
+          "https://www.tomorrow.io"
+        ]
+      },
+      "scaricato_il": "2026-11-01T23:33:58+01:00",
+      "citta_usata": "Milano",
+      "anteprima": {
+        "testo": "Perché due app meteo dicono cose diverse. Domani a Milano le fonti indicano in media 14° di massima (da 13° a 17°). Scorri per capire come leggiamo i numeri. Scarica Solo1Meteo gratis: link in bio. #solo1meteo #meteo #previsionimeteo #meteoitalia",
+        "immagini": [
+          "https://maxegon.github.io/solo1meteo/social/2026-11-02/S1M_20261102_1900_FEED/1_copertina.png"
+        ]
+      }
+    }
+  ]
+}
