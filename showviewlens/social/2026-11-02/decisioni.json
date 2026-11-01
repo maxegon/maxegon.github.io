@@ -1,0 +1,29 @@
+{
+ "app": "ShowViewLens",
+ "data": "2026-11-02",
+ "righe": {
+  "SHV_20261102_1900_CAR": {
+   "pubblica_alle": "2026-11-02T19:00:00+01:00",
+   "formato": "Carosello",
+   "piattaforma": "Instagram / FB",
+   "sempreverde": false,
+   "chiave": "SHV_20261102_1900_CAR",
+   "decisione": null,
+   "alle": "",
+   "correzioni": [],
+   "messaggio_id": 754
+  }
+ },
+ "messaggi": {
+  "754": {
+   "chat_id": "1614787945",
+   "righe": [
+    "SHV_20261102_1900_CAR"
+   ],
+   "base": "<b>19:00 · Carosello · Instagram / FB</b>\nID <code>SHV_20261102_1900_CAR</code>\n✅ Verifica ok · 4 fonti\n<pre>🎭 Questa settimana a teatro a Roma: 34 spettacoli in ShowViewLens. Eccone alcuni:\n\n1. Fabio De Luigi · Teatro Olimpico · lun 2/11 · 21:00\n2. Paolo Jannacci &amp; Band - Jannacci Arrenditi! la Città Ascolta · Auditorium Parco della Musica Ennio Morricone · mar 3/11 · 20:00\n3. Maurizio Battista - Se Non Vinco...imparo · Teatro Olimpico · mer 4/11 · 20:30\n4. Soddy: Poulenc, Prokofiev 5 · Auditorium Parco della Musica Ennio Morricone · gio 5/11 · 19:30\n\nSalva il post. Su ShowViewLens trovi date, orari e il link alla biglietteria ufficiale.\n\n📲 Scarica ShowViewLens gratis: link in bio (App Store e Google Play).\n\n#ShowViewLens #TeatroRoma #TeatroItalia #SpettacoliDalVivo</pre>\n\n<i>✅ OK: esce all'orario · ⏭️ Salta: non esce, contenuto legato a quella data · ✏️ Correggi: mi scrivi cosa cambiare · ↩️ Annulla: torna come prima. Nessun click = esce. Leggo i pulsanti ogni 15 minuti: decidi almeno 30 minuti prima.</i>"
+  }
+ },
+ "ultimo_update_id": null,
+ "anteprima_inviata_il": "2026-11-01T23:39:00+01:00",
+ "provvisorio": false
+}
