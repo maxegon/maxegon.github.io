@@ -1,0 +1,69 @@
+{
+ "data_evento": "2026-11-04",
+ "data_lunga": "Mercoledì 4 novembre",
+ "categoria": "stasera_tv",
+ "eventi": [
+  {
+   "data": "2026-11-04",
+   "ora": "18:45",
+   "titolo": "AEK Athens FC – Real Madrid",
+   "competizione": "Champions League",
+   "sport": "soccer",
+   "canali": [
+    "Sky Sport Calcio"
+   ]
+  },
+  {
+   "data": "2026-11-04",
+   "ora": "18:45",
+   "titolo": "Fenerbahçe – Liverpool",
+   "competizione": "Champions League",
+   "sport": "soccer",
+   "canali": [
+    "Sky Sport Arena",
+    "Sky Sport 254"
+   ]
+  },
+  {
+   "data": "2026-11-04",
+   "ora": "21:00",
+   "titolo": "Borussia Dortmund – Real Betis",
+   "competizione": "Champions League",
+   "sport": "soccer",
+   "canali": [
+    "Sky Sport 255"
+   ]
+  },
+  {
+   "data": "2026-11-04",
+   "ora": "21:00",
+   "titolo": "Lens – Como",
+   "competizione": "Champions League",
+   "sport": "soccer",
+   "canali": [
+    "Sky Sport",
+    "Sky Sport 252"
+   ]
+  },
+  {
+   "data": "2026-11-04",
+   "ora": "21:00",
+   "titolo": "Slavia Praha – Arsenal",
+   "competizione": "Champions League",
+   "sport": "soccer",
+   "canali": [
+    "Sky Sport 254"
+   ]
+  },
+  {
+   "data": "2026-11-04",
+   "ora": "21:00",
+   "titolo": "Viking – Sabah FA",
+   "competizione": "Champions League",
+   "sport": "soccer",
+   "canali": [
+    "Sky Sport 257"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,106 @@
+{
+ "generato": "2026-11-03T23:56:44+00:00",
+ "data_pubblicazione": "2026-11-04",
+ "base_url": "https://maxegon.github.io/sportviewlens/social/2026-11-04",
+ "righe": [
+  {
+   "Giorno_Slot": "SVL_20261104_1830_VID",
+   "Formato": "Video",
+   "Piattaforma": "Instagram / FB + TikTok",
+   "Ora": "18:30",
+   "Categoria": "stasera_tv",
+   "Data_Evento": "2026-11-04",
+   "UTM": "https://maxegon.github.io/sportviewlens/download/?utm_source=instagram&utm_medium=reel&utm_campaign=stasera_tv&utm_content=SVL_20261104_1830_VID",
+   "note": [],
+   "verifica": {
+    "esito": "dubbio",
+    "controlli": [
+     {
+      "nome": "eventi nel post",
+      "esito": "ok",
+      "dettaglio": "6 eventi verificati ok, 14 tolti, su 20 candidati dell'app"
+     },
+     {
+      "nome": "tolto «Cluj Napoca W – Venezia W» 18:00",
+      "esito": "dubbio",
+      "dettaglio": "nessuna riga di tv_rights per basket / «Eurocup Basket Femminile»; nessun canale con due fonti: Sky Sport Mix (nessuna fonte); NOW (nessuna fonte); orario 18:00 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Cedevita Olimpija – Tortona» 18:30",
+      "esito": "dubbio",
+      "dettaglio": "nessuna riga di tv_rights per basket / «Eurocup Basket»; nessun canale con due fonti: Sky Sport Basket (solo palinsesto); NOW (nessuna fonte); orario 18:30 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Derthona Basket W – Fribourg W» 19:00",
+      "esito": "dubbio",
+      "dettaglio": "nessuna riga di tv_rights per basket / «Eurocup Basket Femminile»; nessun canale con due fonti: Sky Sport Basket (nessuna fonte); NOW (nessuna fonte); orario 19:00 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Venezia – Siauliai» 20:00",
+      "esito": "dubbio",
+      "dettaglio": "nessuna riga di tv_rights per basket / «Eurocup Basket»; nessun canale con due fonti: Sky Sport Mix (solo palinsesto); NOW (nessuna fonte); orario 20:00 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Maxima Roma – London Lions» 20:30",
+      "esito": "dubbio",
+      "dettaglio": "nessuna riga di tv_rights per basket / «Eurocup Basket»; nessun canale con due fonti: Sky Sport Basket (solo palinsesto); NOW (nessuna fonte); orario 20:30 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Perugia – Cisterna» 20:30",
+      "esito": "dubbio",
+      "dettaglio": "stagione dei diritti (2025-2026) non contiene il 2026-11-04; nessun canale con due fonti: VBTV (solo palinsesto); orario 20:30 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Trentino – Piacenza» 20:30",
+      "esito": "dubbio",
+      "dettaglio": "stagione dei diritti (2025-2026) non contiene il 2026-11-04; nessun canale con due fonti: VBTV (solo palinsesto); DAZN (solo palinsesto); orario 20:30 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Verona – Milano» 20:30",
+      "esito": "dubbio",
+      "dettaglio": "stagione dei diritti (2025-2026) non contiene il 2026-11-04; nessun canale con due fonti: VBTV (solo palinsesto); Rai Sport (solo palinsesto); RaiPlay (streaming) (nessuna fonte); orario 20:30 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Lube Civitanova – Modena» 20:30",
+      "esito": "dubbio",
+      "dettaglio": "stagione dei diritti (2025-2026) non contiene il 2026-11-04; nessun canale con due fonti: VBTV (solo palinsesto); DAZN (solo palinsesto); orario 20:30 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Cuneo Volley – Monza» 20:30",
+      "esito": "dubbio",
+      "dettaglio": "stagione dei diritti (2025-2026) non contiene il 2026-11-04; nessun canale con due fonti: VBTV (solo palinsesto); orario 20:30 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «PSV Eindhoven – Club Brugge KV» 21:00",
+      "esito": "dubbio",
+      "dettaglio": "nessun canale con due fonti: Sky Sport (solo tv_rights); orario 21:00 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «RB Leipzig – Manchester City» 21:00",
+      "esito": "dubbio",
+      "dettaglio": "nessun canale con due fonti: Sky Sport Calcio (solo tv_rights); Sky Sport 253 (solo tv_rights); TV8 (solo tv_rights); NOW (solo tv_rights); orario 21:00 non confrontabile col palinsesto"
+     }
+    ],
+    "fonti": [
+     "https://sport.sky.it/calcio",
+     "supabase:tv_epg_cache?date=eq.2026-11-04",
+     "supabase:tv_rights?active=eq.true"
+    ]
+   },
+   "Stato": "DA_RIVEDERE",
+   "motivo": "renderer",
+   "errori": [
+    "[v9_cta] slide rifiutata:",
+    "  - testo fuori dalla zona sicura (64, 250, 1016, 1580): (64, 973, 1022, 1097) (SportViewLens)"
+   ],
+   "id": "SVL_20261104_1830_VID",
+   "stato": "DA_RIVEDERE",
+   "formato": "Video",
+   "piattaforma": "Instagram / FB + TikTok",
+   "utm": "https://maxegon.github.io/sportviewlens/download/?utm_source=instagram&utm_medium=reel&utm_campaign=stasera_tv&utm_content=SVL_20261104_1830_VID",
+   "pubblica_alle": "2026-11-04T18:30+01:00",
+   "slot": "SVL_20261104_1830_VID",
+   "ora_pubblicazione": "2026-11-04 18:30"
+  }
+ ]
+}
