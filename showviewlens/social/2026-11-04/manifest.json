@@ -1,0 +1,350 @@
+{
+  "data": "2026-11-04",
+  "generato_il": "2026-11-03T23:55:00+00:00",
+  "piano": "marketing/piano_4_settimane.csv",
+  "righe": [
+    {
+      "id": "SHV_20261104_1230_VID",
+      "piattaforma": "TikTok / Shorts",
+      "formato": "Video",
+      "categoria": "danza+opera",
+      "pubblica_alle": "2026-11-04T12:30:00+01:00",
+      "scartati": [
+        [
+          "Ragazzi All'Opera",
+          "ora 10:30 prima di 11:00"
+        ],
+        [
+          "Epiphanīa — Compagnia Abbondanza/Bertoni",
+          "senza biglietteria online"
+        ],
+        [
+          "Il Mirabile Elisir",
+          "ora 00:00 prima di 11:00"
+        ],
+        [
+          "La Vedova Allegra — Compagnia Corrado Abbati e Parma Ballet",
+          "senza biglietteria online"
+        ],
+        [
+          "La Vedova Allegra — Compagnia Corrado Abbati e Parma Ballet",
+          "senza biglietteria online"
+        ],
+        [
+          "Kaguya-Hime",
+          "ora 10:00 prima di 11:00"
+        ],
+        [
+          "Ragazzi All'Opera",
+          "ora 10:30 prima di 11:00"
+        ]
+      ],
+      "doppioni_rimossi": 60,
+      "verifica_eventi": [
+        {
+          "evento": "Italian Opera Taormina",
+          "data": "2026-11-04",
+          "ora": "21:15",
+          "citta": "Taormina",
+          "fonte": "vivaticket",
+          "esito": "ok",
+          "rinforzato": false,
+          "controlli": [
+            {
+              "nome": "orario",
+              "esito": "ok",
+              "dettaglio": "21:15"
+            },
+            {
+              "nome": "titolo",
+              "esito": "ok",
+              "dettaglio": "nessuna etichetta di abbonamento"
+            },
+            {
+              "nome": "biglietteria",
+              "esito": "ok",
+              "dettaglio": "Vivaticket: replica letta dall API pubblica"
+            },
+            {
+              "nome": "pagina",
+              "esito": "ok",
+              "dettaglio": "titolo, citta, data e ora coincidono (2026-11-04 21:15, TAORMINA)"
+            },
+            {
+              "nome": "serie",
+              "esito": "ok",
+              "dettaglio": "12 date della produzione, nessuna anomalia in testa alla serie"
+            }
+          ],
+          "fonti": [
+            "https://shop.vivaticket.com/it/sell/?cmd=prices&pcode=13298489&tcode=vt0020309"
+          ]
+        },
+        {
+          "evento": "Otello",
+          "data": "2026-11-04",
+          "ora": "20:00",
+          "citta": "Roma",
+          "fonte": "vivaticket",
+          "esito": "ok",
+          "rinforzato": false,
+          "controlli": [
+            {
+              "nome": "orario",
+              "esito": "ok",
+              "dettaglio": "20:00"
+            },
+            {
+              "nome": "titolo",
+              "esito": "ok",
+              "dettaglio": "nessuna etichetta di abbonamento"
+            },
+            {
+              "nome": "biglietteria",
+              "esito": "ok",
+              "dettaglio": "Vivaticket: replica letta dall API pubblica"
+            },
+            {
+              "nome": "pagina",
+              "esito": "ok",
+              "dettaglio": "titolo, citta, data e ora coincidono (2026-11-04 20:00, ROMA)"
+            },
+            {
+              "nome": "serie",
+              "esito": "ok",
+              "dettaglio": "34 date della produzione, nessuna anomalia in testa alla serie"
+            }
+          ],
+          "fonti": [
+            "https://www.vivaticket.com/it/ticket/otello/319268"
+          ]
+        },
+        {
+          "evento": "La Traviata",
+          "data": "2026-11-04",
+          "ora": "20:30",
+          "citta": "Roma",
+          "fonte": "vivaticket",
+          "esito": "ok",
+          "rinforzato": false,
+          "controlli": [
+            {
+              "nome": "orario",
+              "esito": "ok",
+              "dettaglio": "20:30"
+            },
+            {
+              "nome": "titolo",
+              "esito": "ok",
+              "dettaglio": "nessuna etichetta di abbonamento"
+            },
+            {
+              "nome": "biglietteria",
+              "esito": "ok",
+              "dettaglio": "Vivaticket: replica letta dall API pubblica"
+            },
+            {
+              "nome": "pagina",
+              "esito": "ok",
+              "dettaglio": "titolo, citta, data e ora coincidono (2026-11-04 20:30, ROMA)"
+            },
+            {
+              "nome": "serie",
+              "esito": "ok",
+              "dettaglio": "57 date della produzione, nessuna anomalia in testa alla serie"
+            }
+          ],
+          "fonti": [
+            "https://shop.vivaticket.com/it/sell/?cmd=prices&pcode=13246449&tcode=vt0007423"
+          ]
+        },
+        {
+          "evento": "Voci D'Italia — An Enveloping Opera Night",
+          "data": "2026-11-04",
+          "ora": "20:30",
+          "citta": "Firenze",
+          "fonte": "vivaticket",
+          "esito": "ok",
+          "rinforzato": false,
+          "controlli": [
+            {
+              "nome": "orario",
+              "esito": "ok",
+              "dettaglio": "20:30"
+            },
+            {
+              "nome": "titolo",
+              "esito": "ok",
+              "dettaglio": "nessuna etichetta di abbonamento"
+            },
+            {
+              "nome": "biglietteria",
+              "esito": "ok",
+              "dettaglio": "Vivaticket: replica letta dall API pubblica"
+            },
+            {
+              "nome": "pagina",
+              "esito": "ok",
+              "dettaglio": "titolo, citta, data e ora coincidono (2026-11-04 20:30, FIRENZE)"
+            },
+            {
+              "nome": "serie",
+              "esito": "ok",
+              "dettaglio": "58 date della produzione, nessuna anomalia in testa alla serie"
+            }
+          ],
+          "fonti": [
+            "https://shop.vivaticket.com/it/sell/?cmd=prices&pcode=14211196&tcode=vt0021949"
+          ]
+        },
+        {
+          "evento": "Preghiera. Tempi di Guerra",
+          "data": "2026-11-04",
+          "ora": "19:00",
+          "citta": "Torino",
+          "fonte": "vivaticket",
+          "esito": "ko",
+          "rinforzato": false,
+          "controlli": [
+            {
+              "nome": "orario",
+              "esito": "ok",
+              "dettaglio": "19:00"
+            },
+            {
+              "nome": "titolo",
+              "esito": "ok",
+              "dettaglio": "nessuna etichetta di abbonamento"
+            },
+            {
+              "nome": "biglietteria",
+              "esito": "ok",
+              "dettaglio": "Vivaticket: replica letta dall API pubblica"
+            },
+            {
+              "nome": "pagina",
+              "esito": "ko",
+              "dettaglio": "la replica del 2026-11-04 19:00 non e sulla pagina (https://shop.vivaticket.com/it/sell/?cmd=prices&pcode=14034043&tcode=vt0000345)"
+            },
+            {
+              "nome": "serie",
+              "esito": "ok",
+              "dettaglio": "5 date della produzione, nessuna anomalia in testa alla serie"
+            }
+          ],
+          "fonti": [
+            "https://shop.vivaticket.com/it/sell/?cmd=prices&pcode=14034043&tcode=vt0000345"
+          ]
+        }
+      ],
+      "video": {
+        "file": "marketing/out/2026-11-04/SHV_20261104_1230_VID/video.mp4",
+        "durata_s": 12.0,
+        "video": {
+          "codec_name": "h264",
+          "width": 1080,
+          "height": 1920,
+          "pix_fmt": "yuv420p"
+        },
+        "slide": 4,
+        "ok": true
+      },
+      "stato": "PRONTO",
+      "testo_finale": "🩰 Danza e opera in arrivo in Italia: 70 serate in ShowViewLens.\n\n1. Italian Opera Taormina · TEATRO NAZARENA · mer 4/11 · 21:15\n2. Otello · TEATRO ARGENTINA · mer 4/11 · 20:00\n3. La Traviata · Chiesa di San Paolo entro le Mura · mer 4/11 · 20:30\n4. Voci D'Italia — An Enveloping Opera Night · Teatro Nazionale Firenze · mer 4/11 · 20:30\n\nTrovi date e biglietteria ufficiale su ShowViewLens. Scaricala gratis: link in bio.\n\n#ShowViewLens #Danza #OperaLirica #SpettacoliDalVivo",
+      "titolo_slide": "Danza e opera: 70 serate in arrivo",
+      "eventi": [
+        "Italian Opera Taormina",
+        "Otello",
+        "La Traviata",
+        "Voci D'Italia — An Enveloping Opera Night"
+      ],
+      "conteggio": 70,
+      "file": [
+        "https://maxegon.github.io/showviewlens/social/2026-11-04/SHV_20261104_1230_VID/video.mp4"
+      ],
+      "utm": "https://maxegon.github.io/showviewlens/download/?utm_source=tiktok&utm_medium=video&utm_campaign=piano_2026_11&utm_content=SHV_20261104_1230_VID",
+      "verifica": {
+        "esito": "dubbio",
+        "controlli": [
+          {
+            "nome": "eventi nel post",
+            "esito": "ok",
+            "dettaglio": "4 eventi verificati ok, 1 tolti, su 71 candidati"
+          },
+          {
+            "nome": "tolto «Preghiera. Tempi di Guerra» mer 4/11",
+            "esito": "ko",
+            "dettaglio": "la replica del 2026-11-04 19:00 non e sulla pagina (https://shop.vivaticket.com/it/sell/?cmd=prices&pcode=14034043&tcode=vt0000345)"
+          }
+        ],
+        "fonti": [
+          "https://shop.vivaticket.com/it/sell/?cmd=prices&pcode=13298489&tcode=vt0020309",
+          "https://www.vivaticket.com/it/ticket/otello/319268",
+          "https://shop.vivaticket.com/it/sell/?cmd=prices&pcode=13246449&tcode=vt0007423",
+          "https://shop.vivaticket.com/it/sell/?cmd=prices&pcode=14211196&tcode=vt0021949"
+        ]
+      },
+      "anteprima": {
+        "testo": "🩰 Danza e opera in arrivo in Italia: 70 serate in ShowViewLens.\n\n1. Italian Opera Taormina · TEATRO NAZARENA · mer 4/11 · 21:15\n2. Otello · TEATRO ARGENTINA · mer 4/11 · 20:00\n3. La Traviata · Chiesa di San Paolo entro le Mura · mer 4/11 · 20:30\n4. Voci D'Italia — An Enveloping Opera Night · Teatro Nazionale Firenze · mer 4/11 · 20:30\n\nTrovi date e biglietteria ufficiale su ShowViewLens. Scaricala gratis: link in bio.\n\n#ShowViewLens #Danza #OperaLirica #SpettacoliDalVivo",
+        "immagini": [
+          "https://maxegon.github.io/showviewlens/social/2026-11-04/SHV_20261104_1230_VID/cover.jpg"
+        ]
+      },
+      "slot": "SHV_20261104_1230_VID",
+      "ora_pubblicazione": "2026-11-04 12:30",
+      "immagini": [
+        "https://maxegon.github.io/showviewlens/social/2026-11-04/SHV_20261104_1230_VID/video.mp4"
+      ]
+    },
+    {
+      "id": "SHV_20261104_1900_POST",
+      "piattaforma": "Instagram / FB",
+      "formato": "Post Singolo",
+      "categoria": "concerti+teatro+danza+opera",
+      "pubblica_alle": "2026-11-04T19:00:00+01:00",
+      "stato": "PRONTO",
+      "testo_finale": "✨ Filtra per regione e città: vedi cosa c’è in scena dalle tue parti, giorno per giorno.\n\nShowViewLens: concerti, teatro, danza e opera in Italia, con il link diretto alla biglietteria ufficiale.\n\n📲 Scarica ShowViewLens gratis: link in bio (App Store e Google Play).\n\n#ShowViewLens #SpettacoliDalVivo #TeatroItalia #ConcertiItalia",
+      "titolo_slide": "Filtra per regione e città",
+      "eventi": [],
+      "conteggio": 0,
+      "file": [
+        "https://maxegon.github.io/showviewlens/social/2026-11-04/SHV_20261104_1900_POST/01_gancio.jpg"
+      ],
+      "utm": "https://maxegon.github.io/showviewlens/download/?utm_source=instagram&utm_medium=social&utm_campaign=piano_2026_11&utm_content=SHV_20261104_1900_POST",
+      "verifica": {
+        "esito": "ok",
+        "fonti": [],
+        "controlli": [
+          {
+            "nome": "contenuto",
+            "esito": "ok",
+            "dettaglio": "testo statico da app_features.json: nessun dato esterno da controllare"
+          }
+        ]
+      },
+      "anteprima": {
+        "testo": "✨ Filtra per regione e città: vedi cosa c’è in scena dalle tue parti, giorno per giorno.\n\nShowViewLens: concerti, teatro, danza e opera in Italia, con il link diretto alla biglietteria ufficiale.\n\n📲 Scarica ShowViewLens gratis: link in bio (App Store e Google Play).\n\n#ShowViewLens #SpettacoliDalVivo #TeatroItalia #ConcertiItalia",
+        "immagini": [
+          "https://maxegon.github.io/showviewlens/social/2026-11-04/SHV_20261104_1900_POST/01_gancio.jpg"
+        ]
+      },
+      "ig_media": [
+        {
+          "media_type": "IMAGE",
+          "image_url": "https://maxegon.github.io/showviewlens/social/2026-11-04/SHV_20261104_1900_POST/01_gancio.jpg"
+        }
+      ],
+      "fb_photos": [
+        {
+          "type": "url",
+          "url": "https://maxegon.github.io/showviewlens/social/2026-11-04/SHV_20261104_1900_POST/01_gancio.jpg"
+        }
+      ],
+      "slot": "SHV_20261104_1900_POST",
+      "ora_pubblicazione": "2026-11-04 19:00",
+      "immagini": [
+        "https://maxegon.github.io/showviewlens/social/2026-11-04/SHV_20261104_1900_POST/01_gancio.jpg"
+      ]
+    }
+  ]
+}
