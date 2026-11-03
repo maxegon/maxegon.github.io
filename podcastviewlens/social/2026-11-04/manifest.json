@@ -1,0 +1,159 @@
+{
+  "date": "2026-11-04",
+  "generated_at": "2026-11-04T00:51+01:00",
+  "sources_skipped": [],
+  "rimandate": [],
+  "items": [
+    {
+      "id": "W2_MER_1830",
+      "piattaforma": "Instagram / FB",
+      "formato": "Carosello",
+      "ora": "18:30",
+      "utm": "https://podcastviewlens.vercel.app/download?utm_source=instagram&utm_medium=social&utm_campaign=pvl_2026w45&utm_content=W2_MER_1830",
+      "stato": "PRONTO",
+      "motivo": "",
+      "caption": "Le prime voci della classifica Apple Podcasts Italia nel genere True Crime, aggiornate al 4 novembre. In PodcastViewLens le trovi filtrando per genere.\n\nScarica PodcastViewLens gratis: link in bio.\n\n#PodcastViewLens #PodcastItalia #CosaAscoltare",
+      "files": [
+        "https://maxegon.github.io/podcastviewlens/social/2026-11-04/W2_MER_1830/slide_01.jpg",
+        "https://maxegon.github.io/podcastviewlens/social/2026-11-04/W2_MER_1830/slide_02.jpg",
+        "https://maxegon.github.io/podcastviewlens/social/2026-11-04/W2_MER_1830/slide_03.jpg",
+        "https://maxegon.github.io/podcastviewlens/social/2026-11-04/W2_MER_1830/slide_04.jpg"
+      ],
+      "verifica": {
+        "esito": "ok",
+        "controlli": [
+          {
+            "nome": "classifica_apple_it",
+            "esito": "ok",
+            "dettaglio": "5 voci dalla classifica Apple Podcasts Italia, la stessa fonte di Cerca/Archivio (podcastApi.js:307); solo nomi"
+          }
+        ],
+        "fonti": [
+          "https://itunes.apple.com/it/rss/toppodcasts/limit=5/genre=1488/json"
+        ]
+      },
+      "anteprima": {
+        "testo": "Le prime voci della classifica Apple Podcasts Italia nel genere True Crime, aggiornate al 4 novembre. In PodcastViewLens le trovi filtrando per genere.\n\nScarica PodcastViewLens gratis: link in bio.\n\n#PodcastViewLens #PodcastItalia #CosaAscoltare",
+        "immagini": [
+          "https://maxegon.github.io/podcastviewlens/social/2026-11-04/W2_MER_1830/slide_01.jpg"
+        ]
+      },
+      "pubblica_alle": "2026-11-04T18:30+01:00",
+      "sempreverde": false,
+      "eventi": [
+        "Indagini",
+        "Elisa True Crime",
+        "Un avvertimento prima di iniziare",
+        "La caduta - La misteriosa morte di David Rossi",
+        "Non Aprite Quella Podcast"
+      ],
+      "titolo_slide": "Classifica Apple Podcasts Italia: True Crime",
+      "ig_media": [
+        {
+          "media_type": "IMAGE",
+          "image_url": "https://maxegon.github.io/podcastviewlens/social/2026-11-04/W2_MER_1830/slide_01.jpg"
+        },
+        {
+          "media_type": "IMAGE",
+          "image_url": "https://maxegon.github.io/podcastviewlens/social/2026-11-04/W2_MER_1830/slide_02.jpg"
+        },
+        {
+          "media_type": "IMAGE",
+          "image_url": "https://maxegon.github.io/podcastviewlens/social/2026-11-04/W2_MER_1830/slide_03.jpg"
+        },
+        {
+          "media_type": "IMAGE",
+          "image_url": "https://maxegon.github.io/podcastviewlens/social/2026-11-04/W2_MER_1830/slide_04.jpg"
+        }
+      ],
+      "fb_photos": [
+        {
+          "type": "url",
+          "url": "https://maxegon.github.io/podcastviewlens/social/2026-11-04/W2_MER_1830/slide_01.jpg"
+        },
+        {
+          "type": "url",
+          "url": "https://maxegon.github.io/podcastviewlens/social/2026-11-04/W2_MER_1830/slide_02.jpg"
+        },
+        {
+          "type": "url",
+          "url": "https://maxegon.github.io/podcastviewlens/social/2026-11-04/W2_MER_1830/slide_03.jpg"
+        },
+        {
+          "type": "url",
+          "url": "https://maxegon.github.io/podcastviewlens/social/2026-11-04/W2_MER_1830/slide_04.jpg"
+        }
+      ],
+      "slot": "W2_MER_1830",
+      "ora_pubblicazione": "2026-11-04 18:30",
+      "testo_finale": "Le prime voci della classifica Apple Podcasts Italia nel genere True Crime, aggiornate al 4 novembre. In PodcastViewLens le trovi filtrando per genere.\n\nScarica PodcastViewLens gratis: link in bio.\n\n#PodcastViewLens #PodcastItalia #CosaAscoltare",
+      "immagini": [
+        "https://maxegon.github.io/podcastviewlens/social/2026-11-04/W2_MER_1830/slide_01.jpg",
+        "https://maxegon.github.io/podcastviewlens/social/2026-11-04/W2_MER_1830/slide_02.jpg",
+        "https://maxegon.github.io/podcastviewlens/social/2026-11-04/W2_MER_1830/slide_03.jpg",
+        "https://maxegon.github.io/podcastviewlens/social/2026-11-04/W2_MER_1830/slide_04.jpg"
+      ]
+    },
+    {
+      "id": "W2_MER_2030",
+      "piattaforma": "Instagram Stories",
+      "formato": "Storia",
+      "ora": "20:30",
+      "utm": "-",
+      "stato": "SALTATO_VERIFICA",
+      "motivo": "0 podcast verificati con uscite il 2026-11-04 (minimo 3)",
+      "caption": "",
+      "files": [],
+      "verifica": {
+        "esito": "ko",
+        "controlli": [
+          {
+            "nome": "fonte_feed_editore",
+            "esito": "ok",
+            "dettaglio": "tutti i podcast con uscite hanno feed dell'editore"
+          },
+          {
+            "nome": "finestra_pubdate",
+            "esito": "ok",
+            "dettaglio": "pubDate reale tra 2026-11-04 e 2026-11-04 (Europe/Rome), mai oltre 2026-11-04 00:51"
+          },
+          {
+            "nome": "catalogo_app",
+            "esito": "ok",
+            "dettaglio": "solo i 15 podcast curati di src/data/curatedPodcasts.js"
+          },
+          {
+            "nome": "presente_nell_app",
+            "esito": "ok",
+            "dettaglio": "0 su 0 puntate trovate nel Palinsesto dell'app con lo stesso orario (scripts/verify_palinsesto.mjs (codice dell'app: scheduleService.getReleasesForDate))"
+          },
+          {
+            "nome": "duplicati_guid",
+            "esito": "ok",
+            "dettaglio": "nessuna guid ripetuta"
+          },
+          {
+            "nome": "link_episodio",
+            "esito": "ok",
+            "dettaglio": "0 su 0 enclosure/link rispondono"
+          },
+          {
+            "nome": "voci_sufficienti",
+            "esito": "ko",
+            "dettaglio": "0 podcast verificati con uscite il 2026-11-04 (minimo 3)"
+          }
+        ],
+        "fonti": []
+      },
+      "anteprima": {
+        "testo": "SALTATO: 0 podcast verificati con uscite il 2026-11-04 (minimo 3)",
+        "immagini": []
+      },
+      "pubblica_alle": "2026-11-04T20:30+01:00",
+      "slot": "W2_MER_2030",
+      "ora_pubblicazione": "2026-11-04 20:30",
+      "testo_finale": "",
+      "immagini": []
+    }
+  ]
+}
