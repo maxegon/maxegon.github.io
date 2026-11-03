@@ -1,0 +1,29 @@
+{
+ "app": "SportViewLens",
+ "data": "2026-11-03",
+ "righe": {
+  "SVL_20261103_1830_CAR": {
+   "pubblica_alle": "2026-11-03T18:30:00+01:00",
+   "formato": "Carosello",
+   "piattaforma": "Instagram / FB",
+   "sempreverde": false,
+   "chiave": "SVL_20261103_1830_CAR",
+   "decisione": null,
+   "alle": "",
+   "correzioni": [],
+   "messaggio_id": 481
+  }
+ },
+ "messaggi": {
+  "481": {
+   "chat_id": "1614787945",
+   "righe": [
+    "SVL_20261103_1830_CAR"
+   ],
+   "base": "<b>18:30 · Carosello · Instagram / FB</b>\nID <code>SVL_20261103_1830_CAR</code>\n⚠️ Verifica ok · 3 fonti, tolti perché incerti:\n  • tolto «Anaitasuna – Alaves» 19:00: nessun canale con due fonti: DAZN (solo tv_rights); orario 19:00 non confrontabile col palinsesto\n  • tolto «Basket Napoli – Trento» 20:00: nessuna riga di tv_rights per basket / «Eurocup Basket»; nessun canale con due fonti: Sky Sport Basket (solo palinsesto); NOW (nessuna fonte\n  • tolto «Barcelona – Aston Villa» 21:00: nessun canale con due fonti: Sky Sport Calcio (solo tv_rights); Sky Sport 254 (solo tv_rights); NOW (solo tv_rights); orario 21:00 non confr\n  • tolto «Chapecoense-sc – Mirassol» 23:30: nessun canale con due fonti: Sportitalia (solo tv_rights); orario 23:30 non confrontabile col palinsesto\n<pre>📺 Stasera in TV: 8 dirette sport\n\n• 18:45 Galatasaray – VfB Stuttgart · Sky Sport Calcio, Sky Sport 254\n• 18:45 Shakhtar Donetsk – Sporting CP · Sky Sport 255, Sky Sport Arena\n• 21:00 Atletico Madrid – Bayern München · Sky Sport 256\n• 21:00 Bodo/Glimt – Lille · Sky Sport 257\n• 21:00 Feyenoord – Inter · Sky Sport 252\n\nOrari e canali della serata, sport per sport, su SportViewLens.\n📲 Scarica gratis SportViewLens: link in bio.\n\nSportViewLens non è affiliata con DAZN, Sky, RAI o altri broadcaster.\n🤖 Contenuto generato in automatico con IA dai palinsesti TV ufficiali.\n\n#SportViewLens #SportInTV #StaseraInTV</pre>\n\n<i>✅ OK: esce all'orario · ⏭️ Salta: non esce, contenuto legato a quella data · ✏️ Correggi: mi scrivi cosa cambiare · ↩️ Annulla: torna come prima. Nessun click = esce. Leggo i pulsanti ogni 15 minuti: decidi almeno 30 minuti prima.</i>"
+  }
+ },
+ "ultimo_update_id": null,
+ "anteprima_inviata_il": "2026-11-03T02:30:57+01:00",
+ "provvisorio": false
+}
