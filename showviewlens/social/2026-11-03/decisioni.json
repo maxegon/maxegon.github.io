@@ -1,0 +1,29 @@
+{
+ "app": "ShowViewLens",
+ "data": "2026-11-03",
+ "righe": {
+  "SHV_20261103_1930_STORY": {
+   "pubblica_alle": "2026-11-03T19:30:00+01:00",
+   "formato": "Storia",
+   "piattaforma": "Instagram / FB Stories",
+   "sempreverde": false,
+   "chiave": "SHV_20261103_1930_STORY",
+   "decisione": null,
+   "alle": "",
+   "correzioni": [],
+   "messaggio_id": 758
+  }
+ },
+ "messaggi": {
+  "758": {
+   "chat_id": "1614787945",
+   "righe": [
+    "SHV_20261103_1930_STORY"
+   ],
+   "base": "<b>19:30 · Storia · Instagram / FB Stories</b>\nID <code>SHV_20261103_1930_STORY</code>\n✅ Verifica ok · 3 fonti\n<pre>🎤 Concerti in Lazio questa settimana\n\n1. Voices · Auditorium Parco della Musica Ennio Morricone · mer 4/11 · 20:00\n2. Kurt Elling &amp; Yellow Jackets - Celebrate Weather Report · Auditorium Parco della Musica Ennio Morricone · mer 4/11 · 20:00\n3. Radici nel Cemento &amp; Friends · Auditorium Parco della Musica Ennio Morricone · gio 5/11 · 20:00\n\nCerca «ShowViewLens» su App Store e Google Play.\n#ShowViewLens</pre>\n\n<i>✅ OK: esce all'orario · ⏭️ Salta: non esce, contenuto legato a quella data · ✏️ Correggi: mi scrivi cosa cambiare · ↩️ Annulla: torna come prima. Nessun click = esce. Leggo i pulsanti ogni 15 minuti: decidi almeno 30 minuti prima.</i>"
+  }
+ },
+ "ultimo_update_id": null,
+ "anteprima_inviata_il": "2026-11-03T02:29:54+01:00",
+ "provvisorio": false
+}
