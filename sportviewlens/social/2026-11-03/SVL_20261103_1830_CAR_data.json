@@ -1,0 +1,89 @@
+{
+ "data_evento": "2026-11-03",
+ "data_lunga": "Martedì 3 novembre",
+ "categoria": "stasera_tv",
+ "eventi": [
+  {
+   "data": "2026-11-03",
+   "ora": "18:45",
+   "titolo": "Galatasaray – VfB Stuttgart",
+   "competizione": "Champions League",
+   "sport": "soccer",
+   "canali": [
+    "Sky Sport Calcio",
+    "Sky Sport 254"
+   ]
+  },
+  {
+   "data": "2026-11-03",
+   "ora": "18:45",
+   "titolo": "Shakhtar Donetsk – Sporting CP",
+   "competizione": "Champions League",
+   "sport": "soccer",
+   "canali": [
+    "Sky Sport 255",
+    "Sky Sport Arena"
+   ]
+  },
+  {
+   "data": "2026-11-03",
+   "ora": "21:00",
+   "titolo": "Atletico Madrid – Bayern München",
+   "competizione": "Champions League",
+   "sport": "soccer",
+   "canali": [
+    "Sky Sport 256"
+   ]
+  },
+  {
+   "data": "2026-11-03",
+   "ora": "21:00",
+   "titolo": "Bodo/Glimt – Lille",
+   "competizione": "Champions League",
+   "sport": "soccer",
+   "canali": [
+    "Sky Sport 257"
+   ]
+  },
+  {
+   "data": "2026-11-03",
+   "ora": "21:00",
+   "titolo": "Feyenoord – Inter",
+   "competizione": "Champions League",
+   "sport": "soccer",
+   "canali": [
+    "Sky Sport 252"
+   ]
+  },
+  {
+   "data": "2026-11-03",
+   "ora": "21:00",
+   "titolo": "Lask Linz – Slovan Bratislava",
+   "competizione": "Champions League",
+   "sport": "soccer",
+   "canali": [
+    "Sky Sport 258"
+   ]
+  },
+  {
+   "data": "2026-11-03",
+   "ora": "21:00",
+   "titolo": "Manchester United – AS Roma",
+   "competizione": "Champions League",
+   "sport": "soccer",
+   "canali": [
+    "Sky Sport 253"
+   ]
+  },
+  {
+   "data": "2026-11-03",
+   "ora": "21:00",
+   "titolo": "Villarreal – Paris Saint Germain",
+   "competizione": "Champions League",
+   "sport": "soccer",
+   "canali": [
+    "Sky Sport 255"
+   ]
+  }
+ ]
+}
