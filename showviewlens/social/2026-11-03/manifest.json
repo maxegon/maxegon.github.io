@@ -1,0 +1,176 @@
+{
+  "data": "2026-11-03",
+  "generato_il": "2026-11-03T01:29:32+00:00",
+  "piano": "marketing/piano_4_settimane.csv",
+  "righe": [
+    {
+      "id": "SHV_20261103_1930_STORY",
+      "piattaforma": "Instagram / FB Stories",
+      "formato": "Storia",
+      "categoria": "concerti",
+      "pubblica_alle": "2026-11-03T19:30:00+01:00",
+      "scartati": [
+        [
+          "San Lorenzo Blues Revue — Fleurs Du Mal, Serrano e Raimondi",
+          "ora 00:00 prima di 11:00"
+        ]
+      ],
+      "doppioni_rimossi": 8,
+      "verifica_eventi": [
+        {
+          "evento": "Voices",
+          "data": "2026-11-04",
+          "ora": "20:00",
+          "citta": "Roma",
+          "fonte": "ticketone",
+          "esito": "ok",
+          "rinforzato": false,
+          "controlli": [
+            {
+              "nome": "orario",
+              "esito": "ok",
+              "dettaglio": "20:00"
+            },
+            {
+              "nome": "titolo",
+              "esito": "ok",
+              "dettaglio": "nessuna etichetta di abbonamento"
+            },
+            {
+              "nome": "biglietteria",
+              "esito": "ok",
+              "dettaglio": "TicketOne (blocca i bot): URL ben formato, visto nell ultimo giro (missing_count=0, fonte aggiornata da meno di 36 h)"
+            },
+            {
+              "nome": "serie",
+              "esito": "ok",
+              "dettaglio": "2 date della produzione, nessuna anomalia in testa alla serie"
+            }
+          ],
+          "fonti": [
+            "https://www.ticketone.it/event/voices-auditorium-parco-della-musica-ennio-morricone-22339092/"
+          ]
+        },
+        {
+          "evento": "Kurt Elling & Yellow Jackets - Celebrate Weather Report",
+          "data": "2026-11-04",
+          "ora": "20:00",
+          "citta": "Roma",
+          "fonte": "ticketone",
+          "esito": "ok",
+          "rinforzato": false,
+          "controlli": [
+            {
+              "nome": "orario",
+              "esito": "ok",
+              "dettaglio": "20:00"
+            },
+            {
+              "nome": "titolo",
+              "esito": "ok",
+              "dettaglio": "nessuna etichetta di abbonamento"
+            },
+            {
+              "nome": "biglietteria",
+              "esito": "ok",
+              "dettaglio": "TicketOne (blocca i bot): URL ben formato, visto nell ultimo giro (missing_count=0, fonte aggiornata da meno di 36 h)"
+            },
+            {
+              "nome": "serie",
+              "esito": "ok",
+              "dettaglio": "1 date della produzione, nessuna anomalia in testa alla serie"
+            }
+          ],
+          "fonti": [
+            "https://www.ticketone.it/event/roma-jazz-festival-2026-auditorium-parco-della-musica-ennio-morricone-21710770/"
+          ]
+        },
+        {
+          "evento": "Radici nel Cemento & Friends",
+          "data": "2026-11-05",
+          "ora": "20:00",
+          "citta": "Roma",
+          "fonte": "ticketone",
+          "esito": "ok",
+          "rinforzato": false,
+          "controlli": [
+            {
+              "nome": "orario",
+              "esito": "ok",
+              "dettaglio": "20:00"
+            },
+            {
+              "nome": "titolo",
+              "esito": "ok",
+              "dettaglio": "nessuna etichetta di abbonamento"
+            },
+            {
+              "nome": "biglietteria",
+              "esito": "ok",
+              "dettaglio": "TicketOne (blocca i bot): URL ben formato, visto nell ultimo giro (missing_count=0, fonte aggiornata da meno di 36 h)"
+            },
+            {
+              "nome": "serie",
+              "esito": "ok",
+              "dettaglio": "1 date della produzione, nessuna anomalia in testa alla serie"
+            }
+          ],
+          "fonti": [
+            "https://www.ticketone.it/event/radici-nel-cemento-friends-auditorium-parco-della-musica-ennio-morricone-21987938/"
+          ]
+        }
+      ],
+      "stato": "PRONTO",
+      "testo_finale": "🎤 Concerti in Lazio questa settimana\n\n1. Voices · Auditorium Parco della Musica Ennio Morricone · mer 4/11 · 20:00\n2. Kurt Elling & Yellow Jackets - Celebrate Weather Report · Auditorium Parco della Musica Ennio Morricone · mer 4/11 · 20:00\n3. Radici nel Cemento & Friends · Auditorium Parco della Musica Ennio Morricone · gio 5/11 · 20:00\n\nCerca «ShowViewLens» su App Store e Google Play.\n#ShowViewLens",
+      "titolo_slide": "Concerti in Lazio questa settimana",
+      "eventi": [
+        "Voices",
+        "Kurt Elling & Yellow Jackets - Celebrate Weather Report",
+        "Radici nel Cemento & Friends"
+      ],
+      "conteggio": 27,
+      "file": [
+        "https://maxegon.github.io/showviewlens/social/2026-11-03/SHV_20261103_1930_STORY/01_storia.jpg"
+      ],
+      "utm": "https://maxegon.github.io/showviewlens/download/?utm_source=instagram&utm_medium=story&utm_campaign=piano_2026_11&utm_content=SHV_20261103_1930_STORY",
+      "verifica": {
+        "esito": "ok",
+        "controlli": [
+          {
+            "nome": "eventi nel post",
+            "esito": "ok",
+            "dettaglio": "3 eventi verificati ok, 0 tolti, su 27 candidati"
+          }
+        ],
+        "fonti": [
+          "https://www.ticketone.it/event/voices-auditorium-parco-della-musica-ennio-morricone-22339092/",
+          "https://www.ticketone.it/event/roma-jazz-festival-2026-auditorium-parco-della-musica-ennio-morricone-21710770/",
+          "https://www.ticketone.it/event/radici-nel-cemento-friends-auditorium-parco-della-musica-ennio-morricone-21987938/"
+        ]
+      },
+      "anteprima": {
+        "testo": "🎤 Concerti in Lazio questa settimana\n\n1. Voices · Auditorium Parco della Musica Ennio Morricone · mer 4/11 · 20:00\n2. Kurt Elling & Yellow Jackets - Celebrate Weather Report · Auditorium Parco della Musica Ennio Morricone · mer 4/11 · 20:00\n3. Radici nel Cemento & Friends · Auditorium Parco della Musica Ennio Morricone · gio 5/11 · 20:00\n\nCerca «ShowViewLens» su App Store e Google Play.\n#ShowViewLens",
+        "immagini": [
+          "https://maxegon.github.io/showviewlens/social/2026-11-03/SHV_20261103_1930_STORY/01_storia.jpg"
+        ]
+      },
+      "ig_media": [
+        {
+          "media_type": "IMAGE",
+          "image_url": "https://maxegon.github.io/showviewlens/social/2026-11-03/SHV_20261103_1930_STORY/01_storia.jpg"
+        }
+      ],
+      "fb_photos": [
+        {
+          "type": "url",
+          "url": "https://maxegon.github.io/showviewlens/social/2026-11-03/SHV_20261103_1930_STORY/01_storia.jpg"
+        }
+      ],
+      "slot": "SHV_20261103_1930_STORY",
+      "ora_pubblicazione": "2026-11-03 19:30",
+      "immagini": [
+        "https://maxegon.github.io/showviewlens/social/2026-11-03/SHV_20261103_1930_STORY/01_storia.jpg"
+      ]
+    }
+  ]
+}
