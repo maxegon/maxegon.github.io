@@ -5,7 +5,7 @@
   "backend": "healthy",
   "righe": 1,
   "stati": {
-    "MEDIA_PRONTA": 1
+    "SALTATO_VERIFICA": 1
   },
   "voci": [
     {
@@ -15,134 +15,12 @@
       "ora_pubblicazione": "2026-11-04 19:00",
       "data_evento": "2026-11-05",
       "utm": "https://maxegon.github.io/meteo-stat-privacy/landing/?utm_source=instagram&utm_medium=social&utm_campaign=s1m_2026w45&utm_content=S1M_20261104_1900_FEED",
-      "generato_il": "2026-11-03T02:26:38+01:00",
-      "provvisorio": true,
-      "giorno": "2026-11-04",
-      "stato": "MEDIA_PRONTA",
-      "motivo": null,
-      "testo_finale": "Fino a 16 giorni, con giudizio. Per domani a Bologna 7 fonti su 7 indicano nuvoloso. Scarica Solo1Meteo gratis: link in bio. #solo1meteo #meteo #previsionimeteo #meteoitalia",
-      "concept_finale": "S1 gancio: Domani a Bologna: nuvoloso per 7 fonti su 7 | S2 lungo termine: più il giorno è lontano, più spesso le fonti divergono | S3 uso: per i giorni lontani guarda la tendenza, non il singolo grado | S4 screenshot: schermata Radar | S5 cta: Scarica gratis Solo1Meteo",
-      "immagini": [
-        "https://maxegon.github.io/solo1meteo/social/2026-11-04/S1M_20261104_1900_FEED/1_copertina.png",
-        "https://maxegon.github.io/solo1meteo/social/2026-11-04/S1M_20261104_1900_FEED/2a_temperature.png",
-        "https://maxegon.github.io/solo1meteo/social/2026-11-04/S1M_20261104_1900_FEED/2b_temperature.png",
-        "https://maxegon.github.io/solo1meteo/social/2026-11-04/S1M_20261104_1900_FEED/4_screenshot.png",
-        "https://maxegon.github.io/solo1meteo/social/2026-11-04/S1M_20261104_1900_FEED/5_cta.png"
-      ],
-      "video_url": null,
-      "ig_media": [
-        {
-          "media_type": "IMAGE",
-          "image_url": "https://maxegon.github.io/solo1meteo/social/2026-11-04/S1M_20261104_1900_FEED/1_copertina.png"
-        },
-        {
-          "media_type": "IMAGE",
-          "image_url": "https://maxegon.github.io/solo1meteo/social/2026-11-04/S1M_20261104_1900_FEED/2a_temperature.png"
-        },
-        {
-          "media_type": "IMAGE",
-          "image_url": "https://maxegon.github.io/solo1meteo/social/2026-11-04/S1M_20261104_1900_FEED/2b_temperature.png"
-        },
-        {
-          "media_type": "IMAGE",
-          "image_url": "https://maxegon.github.io/solo1meteo/social/2026-11-04/S1M_20261104_1900_FEED/4_screenshot.png"
-        },
-        {
-          "media_type": "IMAGE",
-          "image_url": "https://maxegon.github.io/solo1meteo/social/2026-11-04/S1M_20261104_1900_FEED/5_cta.png"
-        }
-      ],
-      "fb_photos": [
-        {
-          "type": "url",
-          "url": "https://maxegon.github.io/solo1meteo/social/2026-11-04/S1M_20261104_1900_FEED/1_copertina.png"
-        },
-        {
-          "type": "url",
-          "url": "https://maxegon.github.io/solo1meteo/social/2026-11-04/S1M_20261104_1900_FEED/2a_temperature.png"
-        },
-        {
-          "type": "url",
-          "url": "https://maxegon.github.io/solo1meteo/social/2026-11-04/S1M_20261104_1900_FEED/2b_temperature.png"
-        },
-        {
-          "type": "url",
-          "url": "https://maxegon.github.io/solo1meteo/social/2026-11-04/S1M_20261104_1900_FEED/4_screenshot.png"
-        },
-        {
-          "type": "url",
-          "url": "https://maxegon.github.io/solo1meteo/social/2026-11-04/S1M_20261104_1900_FEED/5_cta.png"
-        }
-      ],
-      "dati": {
-        "citta": "Bologna",
-        "data_label": "giovedì 5 novembre",
-        "fonti_n": 7,
-        "fonti_elencate": 7,
-        "fonti_escluse": [],
-        "tmax_media": 14,
-        "tmax_min": 13,
-        "tmax_max": 15,
-        "tmin_media": 8,
-        "pioggia_media": 56,
-        "pioggia_min": 11,
-        "pioggia_max": 23,
-        "fonti_pioggia": 2,
-        "condizione": "nuvoloso",
-        "fonti_condizione": 7,
-        "giorno_piu_incerto": "domenica",
-        "scarto_tmax": 5,
-        "tmax_scarto_fonti": 2.1,
-        "tmax_disaccordo": false,
-        "pioggia_disaccordo": false,
-        "gancio_pioggia": "pioggia 56%"
-      },
-      "fonti": [
-        {
-          "fonte": "Open-Meteo",
-          "tmax": 14.6,
-          "pioggia": 11,
-          "pioggia_metodo": "orario"
-        },
-        {
-          "fonte": "OpenWeatherMap",
-          "tmax": 15.04,
-          "pioggia": null,
-          "pioggia_metodo": null
-        },
-        {
-          "fonte": "WeatherAPI",
-          "tmax": 13.8,
-          "pioggia": 23,
-          "pioggia_metodo": "orario"
-        },
-        {
-          "fonte": "MET Norway",
-          "tmax": 14.3,
-          "pioggia": null,
-          "pioggia_metodo": null
-        },
-        {
-          "fonte": "DWD",
-          "tmax": 12.9,
-          "pioggia": null,
-          "pioggia_metodo": null
-        },
-        {
-          "fonte": "7Timer!",
-          "tmax": 14,
-          "pioggia": null,
-          "pioggia_metodo": null
-        },
-        {
-          "fonte": "Tomorrow.io",
-          "tmax": 14.27,
-          "pioggia": null,
-          "pioggia_metodo": null
-        }
-      ],
+      "generato_il": "2026-11-04T14:10:28+01:00",
+      "provvisorio": false,
+      "stato": "SALTATO_VERIFICA",
+      "motivo": "verifica dei dati non superata: allerte: allerta meteo attiva (Giallo Vento Allerta; Giallo Temporali Allerta; Giallo Vento Allerta) e nessun ente citato nel post",
       "verifica": {
-        "esito": "ok",
+        "esito": "dubbio",
         "controlli": [
           {
             "nome": "backend",
@@ -152,7 +30,7 @@
           {
             "nome": "fonti",
             "esito": "ok",
-            "dettaglio": "7 fonti su 8 per 2026-11-05 (minimo 6)"
+            "dettaglio": "8 fonti su 8 per 2026-11-05 (minimo 6)"
           },
           {
             "nome": "freschezza",
@@ -172,7 +50,7 @@
           {
             "nome": "scarto",
             "esito": "ok",
-            "dettaglio": "massime 13-15° (scarto 2°), pioggia 11-23% (scarto 12)"
+            "dettaglio": "massime 13-15° (scarto 2°), pioggia 0-36% (scarto 36) | disaccordo sulla pioggia: il gancio lo dice"
           },
           {
             "nome": "giorno",
@@ -181,8 +59,8 @@
           },
           {
             "nome": "allerte",
-            "esito": "ok",
-            "dettaglio": "nessuna allerta meteo attiva per il giorno (WeatherAPI)"
+            "esito": "dubbio",
+            "dettaglio": "allerta meteo attiva (Giallo Vento Allerta; Giallo Temporali Allerta; Giallo Vento Allerta) e nessun ente citato nel post"
           },
           {
             "nome": "posizione",
@@ -197,17 +75,87 @@
           "https://www.weatherapi.com",
           "https://api.met.no",
           "https://brightsky.dev",
+          "https://www.visualcrossing.com",
           "http://www.7timer.info",
           "https://www.tomorrow.io"
         ]
       },
-      "scaricato_il": "2026-11-03T02:26:42+01:00",
-      "citta_usata": "Bologna",
-      "anteprima": {
-        "testo": "Fino a 16 giorni, con giudizio. Per domani a Bologna 7 fonti su 7 indicano nuvoloso. Scarica Solo1Meteo gratis: link in bio. #solo1meteo #meteo #previsionimeteo #meteoitalia",
-        "immagini": [
-          "https://maxegon.github.io/solo1meteo/social/2026-11-04/S1M_20261104_1900_FEED/1_copertina.png"
-        ]
+      "tentativi": [
+        {
+          "citta": "Bologna",
+          "esito": "verifica",
+          "motivo": "allerte: allerta meteo attiva (Giallo Vento Allerta; Giallo Temporali Allerta; Giallo Vento Allerta) e nessun ente citato nel post"
+        },
+        {
+          "citta": "Roma",
+          "esito": "verifica",
+          "motivo": "allerte: allerta meteo attiva (Giallo Vento Allerta; Giallo Temporali Allerta; Giallo Vento Allerta) e nessun ente citato nel post"
+        },
+        {
+          "citta": "Milano",
+          "esito": "verifica",
+          "motivo": "allerte: allerta meteo attiva (Giallo Vento Allerta; Giallo Temporali Allerta; Giallo Vento Allerta) e nessun ente citato nel post"
+        },
+        {
+          "citta": "Napoli",
+          "esito": "verifica",
+          "motivo": "allerte: allerta meteo attiva (Giallo Vento Allerta; Giallo Temporali Allerta; Giallo Vento Allerta) e nessun ente citato nel post"
+        }
+      ],
+      "dati_scartati": {
+        "citta": "Bologna",
+        "data_label": "giovedì 5 novembre",
+        "fonti_n": 8,
+        "fonti_elencate": 8,
+        "fonti_escluse": [],
+        "tmax_media": 14,
+        "tmax_min": 13,
+        "tmax_max": 15,
+        "tmin_media": 9,
+        "pioggia_media": 13,
+        "pioggia_min": 0,
+        "pioggia_max": 36,
+        "fonti_pioggia": 5,
+        "condizione": "nuvoloso",
+        "fonti_condizione": 7,
+        "giorno_piu_incerto": "sabato",
+        "scarto_tmax": 5,
+        "tmax_scarto_fonti": 2.4,
+        "tmax_disaccordo": false,
+        "pioggia_disaccordo": true,
+        "gancio_pioggia": "le fonti non sono d'accordo sulla pioggia, dal 0% al 36%"
+      },
+      "giorno": "2026-11-04",
+      "cambio_serale": {
+        "tipo": "persa",
+        "motivo": "verifica dei dati non superata: allerte: allerta meteo attiva (Giallo Vento Allerta; Giallo Temporali Allerta; Giallo Vento Allerta) e nessun ente citato nel post",
+        "prima": {
+          "stato": "MEDIA_PRONTA",
+          "dati": {
+            "citta": "Bologna",
+            "data_label": "giovedì 5 novembre",
+            "fonti_n": 7,
+            "fonti_elencate": 7,
+            "fonti_escluse": [],
+            "tmax_media": 14,
+            "tmax_min": 13,
+            "tmax_max": 15,
+            "tmin_media": 8,
+            "pioggia_media": 56,
+            "pioggia_min": 11,
+            "pioggia_max": 23,
+            "fonti_pioggia": 2,
+            "condizione": "nuvoloso",
+            "fonti_condizione": 7,
+            "giorno_piu_incerto": "domenica",
+            "scarto_tmax": 5,
+            "tmax_scarto_fonti": 2.1,
+            "tmax_disaccordo": false,
+            "pioggia_disaccordo": false,
+            "gancio_pioggia": "pioggia 56%"
+          },
+          "generato_il": "2026-11-03T02:26:38+01:00"
+        }
       }
     }
   ]
