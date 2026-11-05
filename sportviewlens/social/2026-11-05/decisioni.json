@@ -1,0 +1,29 @@
+{
+ "app": "SportViewLens",
+ "data": "2026-11-05",
+ "righe": {
+  "SVL_20261105_1830_STO": {
+   "pubblica_alle": "2026-11-05T18:30:00+01:00",
+   "formato": "Storia",
+   "piattaforma": "Instagram / FB Stories",
+   "sempreverde": false,
+   "chiave": "SVL_20261105_1830_STO",
+   "decisione": null,
+   "alle": "",
+   "correzioni": [],
+   "messaggio_id": 486
+  }
+ },
+ "messaggi": {
+  "486": {
+   "chat_id": "1614787945",
+   "righe": [
+    "SVL_20261105_1830_STO"
+   ],
+   "base": "<b>18:30 · Storia · Instagram / FB Stories</b>\nID <code>SVL_20261105_1830_STO</code>\n⚠️ Verifica ok · 5 fonti, tolti perché incerti:\n  • tolto «Anderlecht – Red Bull Salzburg» 18:45: nessun canale con due fonti: Sky Sport (solo tv_rights); orario 18:45 non confrontabile col palinsesto\n  • tolto «Levski Sofia – Jagiellonia» 18:45: nessun canale con due fonti: Sky Sport (solo tv_rights); orario 18:45 non confrontabile col palinsesto\n  • tolto «Lillestrom – Plzen» 18:45: nessun canale con due fonti: Sky Sport (solo tv_rights); orario 18:45 non confrontabile col palinsesto\n  • tolto «NEC Nijmegen – Omonia Nicosia» 18:45: nessun canale con due fonti: Sky Sport (solo tv_rights); orario 18:45 non confrontabile col palinsesto\n  • tolto «Real Sociedad – Lyon» 18:45: nessun canale con due fonti: Sky Sport (solo tv_rights); orario 18:45 non confrontabile col palinsesto\n  • tolto «Aarhus – SC Braga» 18:45: nessun canale con due fonti: Sky Sport (solo tv_rights); orario 18:45 non confrontabile col palinsesto\n  • … altri 6\n<pre>Stasera in TV: 10 dirette. • 18:15 Anadolu Efes – Paris · Sky Sport 259\n• 18:45 AC Milan – Ferencvarosi TC · Sky Sport Uno, Sky Sport 4K\n• 18:45 Atalanta – Kairat Almaty · Sky Sport Arena, Sky Sport 254\n• 18:45 Crystal Palace – 1899 Hoffenheim · Sky Sport Calcio, Sky Sport 255\n• 18:45 Sparta Praha – Bournemouth · Sky Sport 256\nCerca «SportViewLens» su App Store e Google Play.\nSportViewLens non è affiliata con DAZN, Sky, RAI o altri broadcaster.\n🤖 Contenuto generato in automatico con IA dai palinsesti TV ufficiali.</pre>\n\n<i>✅ OK: esce all'orario · ⏭️ Salta: non esce, contenuto legato a quella data · ✏️ Correggi: mi scrivi cosa cambiare · ↩️ Annulla: torna come prima. Nessun click = esce. Leggo i pulsanti ogni 15 minuti: decidi almeno 30 minuti prima.</i>"
+  }
+ },
+ "ultimo_update_id": null,
+ "anteprima_inviata_il": "2026-11-05T01:17:18+01:00",
+ "provvisorio": false
+}
