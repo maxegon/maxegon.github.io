@@ -5,14 +5,12 @@
   "ora_pubblicazione": "2026-11-05 08:00",
   "data_evento": "2026-11-05",
   "utm": "https://maxegon.github.io/meteo-stat-privacy/landing/?utm_source=instagram&utm_medium=social&utm_campaign=s1m_2026w45&utm_content=S1M_20261105_0800_STORY",
-  "generato_il": "2026-11-04T00:50:34+01:00",
-  "provvisorio": true,
-  "giorno": "2026-11-05",
-  "stato": "SALTATO_RENDER",
-  "motivo": "storia RIFIUTATA:\n  - 28 parole > 25",
-  "testo_finale": "Venezia oggi: sereno per 7 fonti su 8, massima media 14° (le fonti non sono d'accordo: da 12° a 17°). Cerca «Solo1Meteo» su App Store e Google Play",
+  "generato_il": "2026-11-05T14:24:31+01:00",
+  "provvisorio": false,
+  "stato": "SALTATO_VERIFICA",
+  "motivo": "verifica dei dati non superata: allerte: allerta meteo attiva (Giallo Vento Allerta; Arancione Temporali Allerta) e nessun ente citato nel post",
   "verifica": {
-    "esito": "ok",
+    "esito": "dubbio",
     "controlli": [
       {
         "nome": "backend",
@@ -42,7 +40,7 @@
       {
         "nome": "scarto",
         "esito": "ok",
-        "dettaglio": "massime 12-17° (scarto 5°), pioggia 0-12% (scarto 12) | disaccordo sulle massime: il gancio mostra l'intervallo"
+        "dettaglio": "massime 13-15° (scarto 2°), pioggia 0-7% (scarto 7)"
       },
       {
         "nome": "giorno",
@@ -51,8 +49,8 @@
       },
       {
         "nome": "allerte",
-        "esito": "ok",
-        "dettaglio": "nessuna allerta meteo attiva per il giorno (WeatherAPI)"
+        "esito": "dubbio",
+        "dettaglio": "allerta meteo attiva (Giallo Vento Allerta; Arancione Temporali Allerta) e nessun ente citato nel post"
       },
       {
         "nome": "posizione",
@@ -71,5 +69,55 @@
       "http://www.7timer.info",
       "https://www.tomorrow.io"
     ]
+  },
+  "tentativi": [
+    {
+      "citta": "Venezia",
+      "esito": "verifica",
+      "motivo": "allerte: allerta meteo attiva (Giallo Vento Allerta; Arancione Temporali Allerta) e nessun ente citato nel post"
+    },
+    {
+      "citta": "Roma",
+      "esito": "verifica",
+      "motivo": "allerte: allerta meteo attiva (Giallo Vento Allerta; Arancione Temporali Allerta) e nessun ente citato nel post"
+    },
+    {
+      "citta": "Napoli",
+      "esito": "verifica",
+      "motivo": "allerte: allerta meteo attiva (Giallo Vento Allerta; Arancione Temporali Allerta) e nessun ente citato nel post"
+    },
+    {
+      "citta": "Torino",
+      "esito": "verifica",
+      "motivo": "allerte: allerta meteo attiva (Giallo Vento Allerta; Arancione Temporali Allerta) e nessun ente citato nel post"
+    }
+  ],
+  "dati_scartati": {
+    "citta": "Venezia",
+    "data_label": "giovedì 5 novembre",
+    "fonti_n": 8,
+    "fonti_elencate": 8,
+    "fonti_escluse": [],
+    "tmax_media": 14,
+    "tmax_min": 13,
+    "tmax_max": 15,
+    "tmin_media": 8,
+    "pioggia_media": 3,
+    "pioggia_min": 0,
+    "pioggia_max": 7,
+    "fonti_pioggia": 3,
+    "condizione": "sereno",
+    "fonti_condizione": 7,
+    "giorno_piu_incerto": "mercoledì",
+    "scarto_tmax": 5,
+    "tmax_scarto_fonti": 1.5,
+    "tmax_disaccordo": false,
+    "pioggia_disaccordo": false,
+    "gancio_pioggia": "pioggia 3%"
+  },
+  "giorno": "2026-11-05",
+  "cambio_serale": {
+    "tipo": "invariata",
+    "motivo": ""
   }
 }

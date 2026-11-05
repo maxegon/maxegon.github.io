@@ -5,7 +5,7 @@
   "backend": "healthy",
   "righe": 2,
   "stati": {
-    "SALTATO_RENDER": 1,
+    "MEDIA_PRONTA": 1,
     "SALTATO_VERIFICA": 1
   },
   "voci": [
@@ -16,14 +16,12 @@
       "ora_pubblicazione": "2026-11-05 08:00",
       "data_evento": "2026-11-05",
       "utm": "https://maxegon.github.io/meteo-stat-privacy/landing/?utm_source=instagram&utm_medium=social&utm_campaign=s1m_2026w45&utm_content=S1M_20261105_0800_STORY",
-      "generato_il": "2026-11-04T00:50:34+01:00",
-      "provvisorio": true,
-      "giorno": "2026-11-05",
-      "stato": "SALTATO_RENDER",
-      "motivo": "storia RIFIUTATA:\n  - 28 parole > 25",
-      "testo_finale": "Venezia oggi: sereno per 7 fonti su 8, massima media 14° (le fonti non sono d'accordo: da 12° a 17°). Cerca «Solo1Meteo» su App Store e Google Play",
+      "generato_il": "2026-11-05T14:24:31+01:00",
+      "provvisorio": false,
+      "stato": "SALTATO_VERIFICA",
+      "motivo": "verifica dei dati non superata: allerte: allerta meteo attiva (Giallo Vento Allerta; Arancione Temporali Allerta) e nessun ente citato nel post",
       "verifica": {
-        "esito": "ok",
+        "esito": "dubbio",
         "controlli": [
           {
             "nome": "backend",
@@ -53,7 +51,7 @@
           {
             "nome": "scarto",
             "esito": "ok",
-            "dettaglio": "massime 12-17° (scarto 5°), pioggia 0-12% (scarto 12) | disaccordo sulle massime: il gancio mostra l'intervallo"
+            "dettaglio": "massime 13-15° (scarto 2°), pioggia 0-7% (scarto 7)"
           },
           {
             "nome": "giorno",
@@ -62,8 +60,8 @@
           },
           {
             "nome": "allerte",
-            "esito": "ok",
-            "dettaglio": "nessuna allerta meteo attiva per il giorno (WeatherAPI)"
+            "esito": "dubbio",
+            "dettaglio": "allerta meteo attiva (Giallo Vento Allerta; Arancione Temporali Allerta) e nessun ente citato nel post"
           },
           {
             "nome": "posizione",
@@ -82,6 +80,56 @@
           "http://www.7timer.info",
           "https://www.tomorrow.io"
         ]
+      },
+      "tentativi": [
+        {
+          "citta": "Venezia",
+          "esito": "verifica",
+          "motivo": "allerte: allerta meteo attiva (Giallo Vento Allerta; Arancione Temporali Allerta) e nessun ente citato nel post"
+        },
+        {
+          "citta": "Roma",
+          "esito": "verifica",
+          "motivo": "allerte: allerta meteo attiva (Giallo Vento Allerta; Arancione Temporali Allerta) e nessun ente citato nel post"
+        },
+        {
+          "citta": "Napoli",
+          "esito": "verifica",
+          "motivo": "allerte: allerta meteo attiva (Giallo Vento Allerta; Arancione Temporali Allerta) e nessun ente citato nel post"
+        },
+        {
+          "citta": "Torino",
+          "esito": "verifica",
+          "motivo": "allerte: allerta meteo attiva (Giallo Vento Allerta; Arancione Temporali Allerta) e nessun ente citato nel post"
+        }
+      ],
+      "dati_scartati": {
+        "citta": "Venezia",
+        "data_label": "giovedì 5 novembre",
+        "fonti_n": 8,
+        "fonti_elencate": 8,
+        "fonti_escluse": [],
+        "tmax_media": 14,
+        "tmax_min": 13,
+        "tmax_max": 15,
+        "tmin_media": 8,
+        "pioggia_media": 3,
+        "pioggia_min": 0,
+        "pioggia_max": 7,
+        "fonti_pioggia": 3,
+        "condizione": "sereno",
+        "fonti_condizione": 7,
+        "giorno_piu_incerto": "mercoledì",
+        "scarto_tmax": 5,
+        "tmax_scarto_fonti": 1.5,
+        "tmax_disaccordo": false,
+        "pioggia_disaccordo": false,
+        "gancio_pioggia": "pioggia 3%"
+      },
+      "giorno": "2026-11-05",
+      "cambio_serale": {
+        "tipo": "invariata",
+        "motivo": ""
       }
     },
     {
@@ -91,12 +139,88 @@
       "ora_pubblicazione": "2026-11-05 18:00",
       "data_evento": "2026-11-07",
       "utm": "https://maxegon.github.io/meteo-stat-privacy/landing/?utm_source=tiktok&utm_medium=social&utm_campaign=s1m_2026w45&utm_content=S1M_20261105_1800_VIDEO",
-      "generato_il": "2026-11-04T00:50:36+01:00",
-      "provvisorio": true,
-      "stato": "SALTATO_VERIFICA",
-      "motivo": "verifica dei dati non superata: fonti_pioggia: 2 fonti con il dato di pioggia (minimo 3)",
+      "generato_il": "2026-11-05T14:24:36+01:00",
+      "provvisorio": false,
+      "giorno": "2026-11-05",
+      "stato": "MEDIA_PRONTA",
+      "motivo": null,
+      "testo_finale": "Sabato a Milano: massima media 11°, pioggia tra 35% e 98% secondo 4 fonti. Per il weekend guarda quanto sono d'accordo. Scarica Solo1Meteo: link in bio. #meteo #solo1meteo #previsionimeteo #meteoitalia",
+      "concept_finale": "S1 gancio: Sabato a Milano: 11° | S2 pioggia: da 35% a 98% | S3 screenshot: schermata Confronto | S4 cta: Scarica gratis Solo1Meteo",
+      "immagini": [
+        "https://maxegon.github.io/solo1meteo/social/2026-11-05/S1M_20261105_1800_VIDEO/v1_gancio.png"
+      ],
+      "video_url": "https://maxegon.github.io/solo1meteo/social/2026-11-05/S1M_20261105_1800_VIDEO/video.mp4",
+      "ig_media": [],
+      "fb_photos": [],
+      "dati": {
+        "citta": "Milano",
+        "data_label": "sabato 7 novembre",
+        "fonti_n": 7,
+        "fonti_elencate": 7,
+        "fonti_escluse": [],
+        "tmax_media": 11,
+        "tmax_min": 9,
+        "tmax_max": 12,
+        "tmin_media": 9,
+        "pioggia_media": 64,
+        "pioggia_min": 35,
+        "pioggia_max": 98,
+        "fonti_pioggia": 4,
+        "condizione": "nuvoloso",
+        "fonti_condizione": 4,
+        "giorno_piu_incerto": "sabato",
+        "scarto_tmax": 3,
+        "tmax_scarto_fonti": 3.4,
+        "tmax_disaccordo": false,
+        "pioggia_disaccordo": true,
+        "gancio_pioggia": "le fonti non sono d'accordo sulla pioggia, dal 35% al 98%"
+      },
+      "fonti": [
+        {
+          "fonte": "Open-Meteo",
+          "tmax": 12.1,
+          "pioggia": 73,
+          "pioggia_metodo": "orario"
+        },
+        {
+          "fonte": "OpenWeatherMap",
+          "tmax": 11.83,
+          "pioggia": 98,
+          "pioggia_metodo": "orario"
+        },
+        {
+          "fonte": "WeatherAPI",
+          "tmax": 12.3,
+          "pioggia": 73,
+          "pioggia_metodo": "orario"
+        },
+        {
+          "fonte": "MET Norway",
+          "tmax": 12.4,
+          "pioggia": null,
+          "pioggia_metodo": null
+        },
+        {
+          "fonte": "DWD",
+          "tmax": 11.6,
+          "pioggia": null,
+          "pioggia_metodo": null
+        },
+        {
+          "fonte": "7Timer!",
+          "tmax": 9,
+          "pioggia": null,
+          "pioggia_metodo": null
+        },
+        {
+          "fonte": "Tomorrow.io",
+          "tmax": 12.45,
+          "pioggia": 35,
+          "pioggia_metodo": "orario"
+        }
+      ],
       "verifica": {
-        "esito": "dubbio",
+        "esito": "ok",
         "controlli": [
           {
             "nome": "backend",
@@ -110,8 +234,8 @@
           },
           {
             "nome": "fonti_pioggia",
-            "esito": "dubbio",
-            "dettaglio": "2 fonti con il dato di pioggia (minimo 3)"
+            "esito": "ok",
+            "dettaglio": "4 fonti con il dato di pioggia (minimo 3)"
           },
           {
             "nome": "freschezza",
@@ -131,7 +255,7 @@
           {
             "nome": "scarto",
             "esito": "ok",
-            "dettaglio": "massime 10-12° (scarto 2°), pioggia 23-30% (scarto 7)"
+            "dettaglio": "massime 9-12° (scarto 3°), pioggia 35-98% (scarto 63) | disaccordo sulla pioggia: il gancio lo dice"
           },
           {
             "nome": "giorno",
@@ -153,59 +277,25 @@
           "https://backend-eta-seven-21.vercel.app/weather?lat=45.46&lon=9.19",
           "https://open-meteo.com",
           "https://openweathermap.org",
+          "https://www.weatherapi.com",
           "https://api.met.no",
           "https://brightsky.dev",
-          "https://www.visualcrossing.com",
           "http://www.7timer.info",
           "https://www.tomorrow.io"
         ]
       },
-      "tentativi": [
-        {
-          "citta": "Milano",
-          "esito": "verifica",
-          "motivo": "fonti_pioggia: 2 fonti con il dato di pioggia (minimo 3)"
-        },
-        {
-          "citta": "Roma",
-          "esito": "verifica",
-          "motivo": "fonti_pioggia: 2 fonti con il dato di pioggia (minimo 3)"
-        },
-        {
-          "citta": "Napoli",
-          "esito": "verifica",
-          "motivo": "fonti_pioggia: 2 fonti con il dato di pioggia (minimo 3)"
-        },
-        {
-          "citta": "Torino",
-          "esito": "verifica",
-          "motivo": "fonti_pioggia: 2 fonti con il dato di pioggia (minimo 3)"
-        }
-      ],
-      "dati_scartati": {
-        "citta": "Milano",
-        "data_label": "sabato 7 novembre",
-        "fonti_n": 7,
-        "fonti_elencate": 7,
-        "fonti_escluse": [],
-        "tmax_media": 11,
-        "tmax_min": 10,
-        "tmax_max": 12,
-        "tmin_media": 8,
-        "pioggia_media": 19,
-        "pioggia_min": 23,
-        "pioggia_max": 30,
-        "fonti_pioggia": 2,
-        "condizione": "nuvoloso",
-        "fonti_condizione": 5,
-        "giorno_piu_incerto": "domenica",
-        "scarto_tmax": 3,
-        "tmax_scarto_fonti": 1.5,
-        "tmax_disaccordo": false,
-        "pioggia_disaccordo": false,
-        "gancio_pioggia": "pioggia 19%"
+      "scaricato_il": "2026-11-05T14:24:37+01:00",
+      "citta_usata": "Milano",
+      "anteprima": {
+        "testo": "Sabato a Milano: massima media 11°, pioggia tra 35% e 98% secondo 4 fonti. Per il weekend guarda quanto sono d'accordo. Scarica Solo1Meteo: link in bio. #meteo #solo1meteo #previsionimeteo #meteoitalia",
+        "immagini": [
+          "https://maxegon.github.io/solo1meteo/social/2026-11-05/S1M_20261105_1800_VIDEO/v1_gancio.png"
+        ]
       },
-      "giorno": "2026-11-05"
+      "cambio_serale": {
+        "tipo": "nuova",
+        "motivo": "la sera era SALTATO_VERIFICA"
+      }
     }
   ]
 }
