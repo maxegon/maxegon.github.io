@@ -1,0 +1,53 @@
+{
+  "date": "2026-11-06",
+  "generated_at": "2026-11-05T22:58+01:00",
+  "sources_skipped": [],
+  "rimandate": [],
+  "items": [
+    {
+      "id": "W2_VEN_1300",
+      "piattaforma": "Instagram Stories",
+      "formato": "Storia",
+      "ora": "13:00",
+      "utm": "-",
+      "stato": "PRONTO",
+      "motivo": "",
+      "caption": "",
+      "files": [
+        "https://maxegon.github.io/podcastviewlens/social/2026-11-06/W2_VEN_1300/storia.png"
+      ],
+      "verifica": {
+        "esito": "ok",
+        "controlli": [
+          {
+            "nome": "dati_variabili",
+            "esito": "ok",
+            "dettaglio": "nessun dato variabile: testo sulle funzioni dell'app (app_features.json, guardrails.json)"
+          },
+          {
+            "nome": "funzione_in_app",
+            "esito": "ok",
+            "dettaglio": "«raccolta_coda» verificata il 2026-10-23 su src/context/FavoritesContext.js"
+          }
+        ],
+        "fonti": []
+      },
+      "anteprima": {
+        "testo": "Storia: S1: Segui i tuoi podcast con la stella | S2: Le loro uscite entrano nel Palinsesto | S3: Cerca «PodcastViewLens» su App Store e Google Play",
+        "immagini": [
+          "https://maxegon.github.io/podcastviewlens/social/2026-11-06/W2_VEN_1300/storia.png"
+        ]
+      },
+      "pubblica_alle": "2026-11-06T13:00+01:00",
+      "sempreverde": true,
+      "eventi": [],
+      "titolo_slide": "Segui i tuoi podcast con la stella",
+      "slot": "W2_VEN_1300",
+      "ora_pubblicazione": "2026-11-06 13:00",
+      "testo_finale": "",
+      "immagini": [
+        "https://maxegon.github.io/podcastviewlens/social/2026-11-06/W2_VEN_1300/storia.png"
+      ]
+    }
+  ]
+}
