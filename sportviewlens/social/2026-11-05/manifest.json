@@ -1,0 +1,142 @@
+{
+ "generato": "2026-11-05T00:16:41+00:00",
+ "data_pubblicazione": "2026-11-05",
+ "base_url": "https://maxegon.github.io/sportviewlens/social/2026-11-05",
+ "righe": [
+  {
+   "Giorno_Slot": "SVL_20261105_1830_STO",
+   "Formato": "Storia",
+   "Piattaforma": "Instagram / FB Stories",
+   "Ora": "18:30",
+   "Categoria": "stasera_tv",
+   "Data_Evento": "2026-11-05",
+   "UTM": "",
+   "note": [],
+   "verifica": {
+    "esito": "dubbio",
+    "controlli": [
+     {
+      "nome": "eventi nel post",
+      "esito": "ok",
+      "dettaglio": "10 eventi verificati ok, 31 tolti, su 41 candidati dell'app"
+     },
+     {
+      "nome": "tolto «Anderlecht – Red Bull Salzburg» 18:45",
+      "esito": "dubbio",
+      "dettaglio": "nessun canale con due fonti: Sky Sport (solo tv_rights); orario 18:45 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Levski Sofia – Jagiellonia» 18:45",
+      "esito": "dubbio",
+      "dettaglio": "nessun canale con due fonti: Sky Sport (solo tv_rights); orario 18:45 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Lillestrom – Plzen» 18:45",
+      "esito": "dubbio",
+      "dettaglio": "nessun canale con due fonti: Sky Sport (solo tv_rights); orario 18:45 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «NEC Nijmegen – Omonia Nicosia» 18:45",
+      "esito": "dubbio",
+      "dettaglio": "nessun canale con due fonti: Sky Sport (solo tv_rights); orario 18:45 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Real Sociedad – Lyon» 18:45",
+      "esito": "dubbio",
+      "dettaglio": "nessun canale con due fonti: Sky Sport (solo tv_rights); orario 18:45 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Aarhus – SC Braga» 18:45",
+      "esito": "dubbio",
+      "dettaglio": "nessun canale con due fonti: Sky Sport (solo tv_rights); orario 18:45 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «FK Crvena Zvezda – Inter Club d'Escald» 18:45",
+      "esito": "dubbio",
+      "dettaglio": "nessun canale con due fonti: Sky Sport (solo tv_rights); orario 18:45 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «KuPS – Gent» 18:45",
+      "esito": "dubbio",
+      "dettaglio": "nessun canale con due fonti: Sky Sport (solo tv_rights); orario 18:45 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Lincoln Red Imps FC – HNK Hajduk Split» 18:45",
+      "esito": "dubbio",
+      "dettaglio": "nessun canale con due fonti: Sky Sport (solo tv_rights); orario 18:45 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «FC Midtjylland – Ajax» 18:45",
+      "esito": "dubbio",
+      "dettaglio": "nessun canale con due fonti: Sky Sport (solo tv_rights); orario 18:45 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Mjallby AIF – Borac Banja Luka» 18:45",
+      "esito": "dubbio",
+      "dettaglio": "nessun canale con due fonti: Sky Sport (solo tv_rights); orario 18:45 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «FC Thun – Heart Of Midlothian» 18:45",
+      "esito": "dubbio",
+      "dettaglio": "nessun canale con due fonti: Sky Sport (solo tv_rights); orario 18:45 non confrontabile col palinsesto"
+     }
+    ],
+    "fonti": [
+     "https://sport.sky.it/basket",
+     "supabase:tv_epg_cache?date=eq.2026-11-05",
+     "supabase:tv_rights?active=eq.true",
+     "https://sport.sky.it/calcio",
+     "https://sport.sky.it/motogp"
+    ]
+   },
+   "Stato": "PRONTO",
+   "Testo_Post_Completo": "Stasera in TV: 10 dirette. • 18:15 Anadolu Efes – Paris · Sky Sport 259\n• 18:45 AC Milan – Ferencvarosi TC · Sky Sport Uno, Sky Sport 4K\n• 18:45 Atalanta – Kairat Almaty · Sky Sport Arena, Sky Sport 254\n• 18:45 Crystal Palace – 1899 Hoffenheim · Sky Sport Calcio, Sky Sport 255\n• 18:45 Sparta Praha – Bournemouth · Sky Sport 256\nCerca «SportViewLens» su App Store e Google Play.\nSportViewLens non è affiliata con DAZN, Sky, RAI o altri broadcaster.\n🤖 Contenuto generato in automatico con IA dai palinsesti TV ufficiali.",
+   "eventi": [
+    "Anadolu Efes – Paris",
+    "AC Milan – Ferencvarosi TC",
+    "Crystal Palace – 1899 Hoffenheim",
+    "Sparta Praha – Bournemouth",
+    "Atalanta – Kairat Almaty",
+    "Olimpia Milano – Valencia",
+    "Celtic – Beşiktaş",
+    "Sunderland – Dinamo Zagreb",
+    "Getafe – Brighton",
+    "Racebook"
+   ],
+   "conteggio": 10,
+   "file": [
+    "https://maxegon.github.io/sportviewlens/social/2026-11-05/SVL_20261105_1830_STO/story.png"
+   ],
+   "anteprima": {
+    "testo": "Stasera in TV: 10 dirette. • 18:15 Anadolu Efes – Paris · Sky Sport 259\n• 18:45 AC Milan – Ferencvarosi TC · Sky Sport Uno, Sky Sport 4K\n• 18:45 Atalanta – Kairat Almaty · Sky Sport Arena, Sky Sport 254\n• 18:45 Crystal Palace – 1899 Hoffenheim · Sky Sport Calcio, Sky Sport 255\n• 18:45 Sparta Praha – Bournemouth · Sky Sport 256\nCerca «SportViewLens» su App Store e Google Play.\nSportViewLens non è affiliata con DAZN, Sky, RAI o altri broadcaster.\n🤖 Contenuto generato in automatico con IA dai palinsesti TV ufficiali.",
+    "immagini": [
+     "https://maxegon.github.io/sportviewlens/social/2026-11-05/SVL_20261105_1830_STO/story.png"
+    ]
+   },
+   "id": "SVL_20261105_1830_STO",
+   "stato": "PRONTO",
+   "formato": "Storia",
+   "piattaforma": "Instagram / FB Stories",
+   "utm": "",
+   "pubblica_alle": "2026-11-05T18:30+01:00",
+   "testo_finale": "Stasera in TV: 10 dirette. • 18:15 Anadolu Efes – Paris · Sky Sport 259\n• 18:45 AC Milan – Ferencvarosi TC · Sky Sport Uno, Sky Sport 4K\n• 18:45 Atalanta – Kairat Almaty · Sky Sport Arena, Sky Sport 254\n• 18:45 Crystal Palace – 1899 Hoffenheim · Sky Sport Calcio, Sky Sport 255\n• 18:45 Sparta Praha – Bournemouth · Sky Sport 256\nCerca «SportViewLens» su App Store e Google Play.\nSportViewLens non è affiliata con DAZN, Sky, RAI o altri broadcaster.\n🤖 Contenuto generato in automatico con IA dai palinsesti TV ufficiali.",
+   "ig_media": [
+    {
+     "media_type": "IMAGE",
+     "image_url": "https://maxegon.github.io/sportviewlens/social/2026-11-05/SVL_20261105_1830_STO/story.png"
+    }
+   ],
+   "fb_photos": [
+    {
+     "type": "url",
+     "url": "https://maxegon.github.io/sportviewlens/social/2026-11-05/SVL_20261105_1830_STO/story.png"
+    }
+   ],
+   "slot": "SVL_20261105_1830_STO",
+   "ora_pubblicazione": "2026-11-05 18:30",
+   "immagini": [
+    "https://maxegon.github.io/sportviewlens/social/2026-11-05/SVL_20261105_1830_STO/story.png"
+   ]
+  }
+ ]
+}

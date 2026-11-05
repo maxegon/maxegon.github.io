@@ -1,0 +1,111 @@
+{
+ "data_evento": "2026-11-05",
+ "data_lunga": "Giovedì 5 novembre",
+ "categoria": "stasera_tv",
+ "eventi": [
+  {
+   "data": "2026-11-05",
+   "ora": "18:15",
+   "titolo": "Anadolu Efes – Paris",
+   "competizione": "Eurolega",
+   "sport": "basket",
+   "canali": [
+    "Sky Sport 259"
+   ]
+  },
+  {
+   "data": "2026-11-05",
+   "ora": "18:45",
+   "titolo": "AC Milan – Ferencvarosi TC",
+   "competizione": "Europa League",
+   "sport": "soccer",
+   "canali": [
+    "Sky Sport Uno",
+    "Sky Sport 4K",
+    "Sky Sport 253"
+   ]
+  },
+  {
+   "data": "2026-11-05",
+   "ora": "18:45",
+   "titolo": "Crystal Palace – 1899 Hoffenheim",
+   "competizione": "Europa League",
+   "sport": "soccer",
+   "canali": [
+    "Sky Sport Calcio",
+    "Sky Sport 255"
+   ]
+  },
+  {
+   "data": "2026-11-05",
+   "ora": "18:45",
+   "titolo": "Sparta Praha – Bournemouth",
+   "competizione": "Europa League",
+   "sport": "soccer",
+   "canali": [
+    "Sky Sport 256"
+   ]
+  },
+  {
+   "data": "2026-11-05",
+   "ora": "18:45",
+   "titolo": "Atalanta – Kairat Almaty",
+   "competizione": "Conference League",
+   "sport": "soccer",
+   "canali": [
+    "Sky Sport Arena",
+    "Sky Sport 254"
+   ]
+  },
+  {
+   "data": "2026-11-05",
+   "ora": "20:30",
+   "titolo": "Olimpia Milano – Valencia",
+   "competizione": "Eurolega",
+   "sport": "basket",
+   "canali": [
+    "Sky Sport Basket"
+   ]
+  },
+  {
+   "data": "2026-11-05",
+   "ora": "21:00",
+   "titolo": "Celtic – Beşiktaş",
+   "competizione": "Europa League",
+   "sport": "soccer",
+   "canali": [
+    "Sky Sport 256"
+   ]
+  },
+  {
+   "data": "2026-11-05",
+   "ora": "21:00",
+   "titolo": "Sunderland – Dinamo Zagreb",
+   "competizione": "Europa League",
+   "sport": "soccer",
+   "canali": [
+    "Sky Sport 257"
+   ]
+  },
+  {
+   "data": "2026-11-05",
+   "ora": "21:00",
+   "titolo": "Getafe – Brighton",
+   "competizione": "Conference League",
+   "sport": "soccer",
+   "canali": [
+    "Sky Sport 258"
+   ]
+  },
+  {
+   "data": "2026-11-05",
+   "ora": "21:00",
+   "titolo": "Racebook",
+   "competizione": "MotoGP",
+   "sport": "motogp",
+   "canali": [
+    "Sky Sport MotoGP"
+   ]
+  }
+ ]
+}
