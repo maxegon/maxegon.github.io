@@ -5,12 +5,98 @@
   "ora_pubblicazione": "2026-11-07 19:00",
   "data_evento": "2026-11-07",
   "utm": "https://maxegon.github.io/meteo-stat-privacy/landing/?utm_source=instagram&utm_medium=social&utm_campaign=s1m_2026w45&utm_content=S1M_20261107_1900_FEED",
-  "generato_il": "2026-11-05T22:58:59+01:00",
+  "generato_il": "2026-11-05T23:11:44+01:00",
   "provvisorio": true,
-  "stato": "SALTATO_VERIFICA",
-  "motivo": "verifica dei dati non superata: backend_risposta: risposta parziale o con errori: partial=False, errors=[{'provider': 'Tomorrow.io', 'error': 'circuit-open: tomorrowIo in pausa per quota esaurita (HTTP 429), riprende tra ~10",
+  "giorno": "2026-11-07",
+  "stato": "MEDIA_PRONTA",
+  "motivo": null,
+  "testo_finale": "Prima di uscire stasera: in Solo1Meteo la previsione ora per ora è la media di più servizi, con il numero di fonti accanto. Oggi a Cagliari: nuvoloso per 5 fonti su 7. Scarica Solo1Meteo gratis: link in bio. #solo1meteo #meteo #previsionimeteo #meteoitalia",
+  "concept_finale": "S1 gancio: Stasera a Cagliari: nuvoloso",
+  "immagini": [
+    "https://maxegon.github.io/solo1meteo/social/2026-11-07/S1M_20261107_1900_FEED/post.png"
+  ],
+  "video_url": null,
+  "ig_media": [
+    {
+      "media_type": "IMAGE",
+      "image_url": "https://maxegon.github.io/solo1meteo/social/2026-11-07/S1M_20261107_1900_FEED/post.png"
+    }
+  ],
+  "fb_photos": [
+    {
+      "type": "url",
+      "url": "https://maxegon.github.io/solo1meteo/social/2026-11-07/S1M_20261107_1900_FEED/post.png"
+    }
+  ],
+  "dati": {
+    "citta": "Cagliari",
+    "data_label": "sabato 7 novembre",
+    "fonti_n": 7,
+    "fonti_elencate": 7,
+    "fonti_escluse": [],
+    "tmax_media": 20,
+    "tmax_min": 20,
+    "tmax_max": 21,
+    "tmin_media": 12,
+    "pioggia_media": 9,
+    "pioggia_min": 0,
+    "pioggia_max": 21,
+    "fonti_pioggia": 4,
+    "condizione": "nuvoloso",
+    "fonti_condizione": 5,
+    "giorno_piu_incerto": "martedì",
+    "scarto_tmax": 3,
+    "tmax_scarto_fonti": 1.5,
+    "tmax_disaccordo": false,
+    "pioggia_disaccordo": false,
+    "gancio_pioggia": "pioggia 9%"
+  },
+  "fonti": [
+    {
+      "fonte": "Open-Meteo",
+      "tmax": 20.9,
+      "pioggia": 0,
+      "pioggia_metodo": "orario"
+    },
+    {
+      "fonte": "OpenWeatherMap",
+      "tmax": 20.33,
+      "pioggia": 13,
+      "pioggia_metodo": "orario"
+    },
+    {
+      "fonte": "WeatherAPI",
+      "tmax": 21.4,
+      "pioggia": 21,
+      "pioggia_metodo": "orario"
+    },
+    {
+      "fonte": "MET Norway",
+      "tmax": 19.9,
+      "pioggia": null,
+      "pioggia_metodo": null
+    },
+    {
+      "fonte": "DWD",
+      "tmax": 20.7,
+      "pioggia": null,
+      "pioggia_metodo": null
+    },
+    {
+      "fonte": "7Timer!",
+      "tmax": 20,
+      "pioggia": null,
+      "pioggia_metodo": null
+    },
+    {
+      "fonte": "Tomorrow.io",
+      "tmax": 19.91,
+      "pioggia": 5,
+      "pioggia_metodo": "orario"
+    }
+  ],
   "verifica": {
-    "esito": "dubbio",
+    "esito": "ok",
     "controlli": [
       {
         "nome": "backend",
@@ -18,14 +104,9 @@
         "dettaglio": "/health = healthy"
       },
       {
-        "nome": "backend_risposta",
-        "esito": "dubbio",
-        "dettaglio": "risposta parziale o con errori: partial=False, errors=[{'provider': 'Tomorrow.io', 'error': 'circuit-open: tomorrowIo in pausa per quota esaurita (HTTP 429), riprende tra ~10"
-      },
-      {
         "nome": "fonti",
         "esito": "ok",
-        "dettaglio": "6 fonti su 8 per 2026-11-07 (minimo 6)"
+        "dettaglio": "7 fonti su 8 per 2026-11-07 (minimo 6)"
       },
       {
         "nome": "freschezza",
@@ -70,53 +151,16 @@
       "https://www.weatherapi.com",
       "https://api.met.no",
       "https://brightsky.dev",
-      "http://www.7timer.info"
+      "http://www.7timer.info",
+      "https://www.tomorrow.io"
     ]
   },
-  "tentativi": [
-    {
-      "citta": "Cagliari",
-      "esito": "verifica",
-      "motivo": "backend_risposta: risposta parziale o con errori: partial=False, errors=[{'provider': 'Tomorrow.io', 'error': 'circuit-open: tomorrowIo in pausa per quota esaurita (HTTP 429), riprende tra ~10"
-    },
-    {
-      "citta": "Roma",
-      "esito": "verifica",
-      "motivo": "backend_risposta: risposta parziale o con errori: partial=False, errors=[{'provider': 'Tomorrow.io', 'error': 'circuit-open: tomorrowIo in pausa per quota esaurita (HTTP 429), riprende tra ~10; allerte: allerta meteo attiva (Giallo Temporali Allerta; Giallo Temporali Allerta; Giallo Temporali Allert"
-    },
-    {
-      "citta": "Milano",
-      "esito": "verifica",
-      "motivo": "backend_risposta: risposta parziale o con errori: partial=False, errors=[{'provider': 'Tomorrow.io', 'error': 'circuit-open: tomorrowIo in pausa per quota esaurita (HTTP 429), riprende tra ~10; scarto: massime in disaccordo (9-14°) ma il testo ha un numero secco; allerte: allerta meteo attiva (Giall"
-    },
-    {
-      "citta": "Torino",
-      "esito": "verifica",
-      "motivo": "backend_risposta: risposta parziale o con errori: partial=False, errors=[{'provider': 'Tomorrow.io', 'error': 'circuit-open: tomorrowIo in pausa per quota esaurita (HTTP 429), riprende tra ~10; allerte: allerta meteo attiva (Giallo Temporali Allerta; Giallo Temporali Allerta; Giallo Temporali Allert"
-    }
-  ],
-  "dati_scartati": {
-    "citta": "Cagliari",
-    "data_label": "sabato 7 novembre",
-    "fonti_n": 6,
-    "fonti_elencate": 6,
-    "fonti_escluse": [],
-    "tmax_media": 20,
-    "tmax_min": 20,
-    "tmax_max": 21,
-    "tmin_media": 12,
-    "pioggia_media": 11,
-    "pioggia_min": 0,
-    "pioggia_max": 21,
-    "fonti_pioggia": 3,
-    "condizione": "nuvoloso",
-    "fonti_condizione": 4,
-    "giorno_piu_incerto": "martedì",
-    "scarto_tmax": 2,
-    "tmax_scarto_fonti": 1.5,
-    "tmax_disaccordo": false,
-    "pioggia_disaccordo": false,
-    "gancio_pioggia": "pioggia 11%"
-  },
-  "giorno": "2026-11-07"
+  "scaricato_il": "2026-11-05T23:11:45+01:00",
+  "citta_usata": "Cagliari",
+  "anteprima": {
+    "testo": "Prima di uscire stasera: in Solo1Meteo la previsione ora per ora è la media di più servizi, con il numero di fonti accanto. Oggi a Cagliari: nuvoloso per 5 fonti su 7. Scarica Solo1Meteo gratis: link in bio. #solo1meteo #meteo #previsionimeteo #meteoitalia",
+    "immagini": [
+      "https://maxegon.github.io/solo1meteo/social/2026-11-07/S1M_20261107_1900_FEED/post.png"
+    ]
+  }
 }

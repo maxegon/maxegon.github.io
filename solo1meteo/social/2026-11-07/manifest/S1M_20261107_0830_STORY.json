@@ -5,10 +5,10 @@
   "ora_pubblicazione": "2026-11-07 08:30",
   "data_evento": "2026-11-07",
   "utm": "https://maxegon.github.io/meteo-stat-privacy/landing/?utm_source=instagram&utm_medium=social&utm_campaign=s1m_2026w45&utm_content=S1M_20261107_0830_STORY",
-  "generato_il": "2026-11-05T22:58:54+01:00",
+  "generato_il": "2026-11-05T23:11:41+01:00",
   "provvisorio": true,
   "stato": "SALTATO_VERIFICA",
-  "motivo": "verifica dei dati non superata: backend_risposta: risposta parziale o con errori: partial=False, errors=[{'provider': 'Tomorrow.io', 'error': 'Request failed with status code 429'}]; allerte: allerta meteo attiva (Giallo Temporali Allerta; Giallo Temporali Allerta; Giallo Temporali Allerta) e nessun ente citato nel post",
+  "motivo": "verifica dei dati non superata: allerte: allerta meteo attiva (Giallo Temporali Allerta; Giallo Temporali Allerta; Giallo Temporali Allerta) e nessun ente citato nel post",
   "verifica": {
     "esito": "dubbio",
     "controlli": [
@@ -18,14 +18,9 @@
         "dettaglio": "/health = healthy"
       },
       {
-        "nome": "backend_risposta",
-        "esito": "dubbio",
-        "dettaglio": "risposta parziale o con errori: partial=False, errors=[{'provider': 'Tomorrow.io', 'error': 'Request failed with status code 429'}]"
-      },
-      {
         "nome": "fonti",
         "esito": "ok",
-        "dettaglio": "6 fonti su 8 per 2026-11-07 (minimo 6)"
+        "dettaglio": "7 fonti su 8 per 2026-11-07 (minimo 6)"
       },
       {
         "nome": "freschezza",
@@ -45,7 +40,7 @@
       {
         "nome": "scarto",
         "esito": "ok",
-        "dettaglio": "massime 16-21° (scarto 5°), pioggia 33-63% (scarto 30) | disaccordo sulle massime: il gancio mostra l'intervallo"
+        "dettaglio": "massime 16-21° (scarto 5°), pioggia 15-63% (scarto 48) | disaccordo sulle massime: il gancio mostra l'intervallo; disaccordo sulla pioggia: il gancio lo dice"
       },
       {
         "nome": "giorno",
@@ -70,53 +65,54 @@
       "https://www.weatherapi.com",
       "https://api.met.no",
       "https://brightsky.dev",
-      "http://www.7timer.info"
+      "http://www.7timer.info",
+      "https://www.tomorrow.io"
     ]
   },
   "tentativi": [
     {
       "citta": "Napoli",
       "esito": "verifica",
-      "motivo": "backend_risposta: risposta parziale o con errori: partial=False, errors=[{'provider': 'Tomorrow.io', 'error': 'Request failed with status code 429'}]; allerte: allerta meteo attiva (Giallo Temporali Allerta; Giallo Temporali Allerta; Giallo Temporali Allerta) e nessun ente citato nel post"
+      "motivo": "allerte: allerta meteo attiva (Giallo Temporali Allerta; Giallo Temporali Allerta; Giallo Temporali Allerta) e nessun ente citato nel post"
     },
     {
       "citta": "Roma",
       "esito": "verifica",
-      "motivo": "backend_risposta: risposta parziale o con errori: partial=False, errors=[{'provider': 'Tomorrow.io', 'error': 'circuit-open: tomorrowIo in pausa per quota esaurita (HTTP 429), riprende tra ~10; allerte: allerta meteo attiva (Giallo Temporali Allerta; Giallo Temporali Allerta; Giallo Temporali Allert"
+      "motivo": "allerte: allerta meteo attiva (Giallo Temporali Allerta; Giallo Temporali Allerta; Giallo Temporali Allerta) e nessun ente citato nel post"
     },
     {
       "citta": "Milano",
       "esito": "verifica",
-      "motivo": "backend_risposta: risposta parziale o con errori: partial=False, errors=[{'provider': 'Tomorrow.io', 'error': 'circuit-open: tomorrowIo in pausa per quota esaurita (HTTP 429), riprende tra ~10; allerte: allerta meteo attiva (Giallo Temporali Allerta; Giallo Temporali Allerta; Giallo Temporali Allert"
+      "motivo": "allerte: allerta meteo attiva (Giallo Temporali Allerta; Giallo Temporali Allerta; Giallo Temporali Allerta) e nessun ente citato nel post"
     },
     {
       "citta": "Torino",
       "esito": "verifica",
-      "motivo": "backend_risposta: risposta parziale o con errori: partial=False, errors=[{'provider': 'Tomorrow.io', 'error': 'circuit-open: tomorrowIo in pausa per quota esaurita (HTTP 429), riprende tra ~10; allerte: allerta meteo attiva (Giallo Temporali Allerta; Giallo Temporali Allerta; Giallo Temporali Allert"
+      "motivo": "allerte: allerta meteo attiva (Giallo Temporali Allerta; Giallo Temporali Allerta; Giallo Temporali Allerta) e nessun ente citato nel post"
     }
   ],
   "dati_scartati": {
     "citta": "Napoli",
     "data_label": "sabato 7 novembre",
-    "fonti_n": 6,
-    "fonti_elencate": 6,
+    "fonti_n": 7,
+    "fonti_elencate": 7,
     "fonti_escluse": [],
     "tmax_media": 18,
     "tmax_min": 16,
     "tmax_max": 21,
     "tmin_media": 14,
-    "pioggia_media": 42,
-    "pioggia_min": 33,
+    "pioggia_media": 31,
+    "pioggia_min": 15,
     "pioggia_max": 63,
-    "fonti_pioggia": 3,
+    "fonti_pioggia": 4,
     "condizione": "nuvoloso",
     "fonti_condizione": 3,
     "giorno_piu_incerto": "sabato",
     "scarto_tmax": 5,
     "tmax_scarto_fonti": 4.6,
     "tmax_disaccordo": true,
-    "pioggia_disaccordo": false,
-    "gancio_pioggia": "pioggia 42%"
+    "pioggia_disaccordo": true,
+    "gancio_pioggia": "le fonti non sono d'accordo sulla pioggia, dal 15% al 63%"
   },
   "giorno": "2026-11-07"
 }
