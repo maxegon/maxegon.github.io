@@ -11,7 +11,7 @@
    "decisione": null,
    "alle": "",
    "correzioni": [],
-   "messaggio_id": 135,
+   "messaggio_id": 138,
    "storia_in_corso": null,
    "storia_frame": 1,
    "storia_media_id": [
@@ -35,9 +35,16 @@
     "W2_VEN_1300"
    ],
    "base": "<b>13:00 · Storia · Instagram Stories</b>\nID <code>W2_VEN_1300</code>\n✅ Verifica ok\n<pre>Storia: S1: Segui i tuoi podcast con la stella | S2: Le loro uscite entrano nel Palinsesto | S3: Cerca «PodcastViewLens» su App Store e Google Play</pre>\n\n<i>✅ OK: esce all'orario · ⏭️ Salta: non esce, torna in coda tra 7 giorni · ✏️ Correggi: mi scrivi cosa cambiare · ↩️ Annulla: torna come prima. Nessun click = esce. Leggo i pulsanti ogni 15 minuti: decidi almeno 30 minuti prima.</i>"
+  },
+  "138": {
+   "chat_id": "1614787945",
+   "righe": [
+    "W2_VEN_1300"
+   ],
+   "base": "<b>13:00 · Storia · Instagram Stories</b>\nID <code>W2_VEN_1300</code>\n✅ Verifica ok\n<pre>Storia: S1: Segui i tuoi podcast con la stella | S2: Le loro uscite entrano nel Palinsesto | S3: Cerca «PodcastViewLens» su App Store e Google Play</pre>\n\n<i>✅ OK: esce all'orario · ⏭️ Salta: non esce, torna in coda tra 7 giorni · ✏️ Correggi: mi scrivi cosa cambiare · ↩️ Annulla: torna come prima. Nessun click = esce. Leggo i pulsanti ogni 15 minuti: decidi almeno 30 minuti prima.</i>"
   }
  },
  "ultimo_update_id": null,
- "anteprima_inviata_il": "2026-11-05T23:12:22+01:00",
+ "anteprima_inviata_il": "2026-11-06T00:56:55+01:00",
  "provvisorio": false
 }
