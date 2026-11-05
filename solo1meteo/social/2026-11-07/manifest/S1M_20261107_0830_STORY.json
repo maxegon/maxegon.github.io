@@ -5,7 +5,7 @@
   "ora_pubblicazione": "2026-11-07 08:30",
   "data_evento": "2026-11-07",
   "utm": "https://maxegon.github.io/meteo-stat-privacy/landing/?utm_source=instagram&utm_medium=social&utm_campaign=s1m_2026w45&utm_content=S1M_20261107_0830_STORY",
-  "generato_il": "2026-11-05T23:11:41+01:00",
+  "generato_il": "2026-11-06T00:55:32+01:00",
   "provvisorio": true,
   "stato": "SALTATO_VERIFICA",
   "motivo": "verifica dei dati non superata: allerte: allerta meteo attiva (Giallo Temporali Allerta; Giallo Temporali Allerta; Giallo Temporali Allerta) e nessun ente citato nel post",
@@ -20,7 +20,7 @@
       {
         "nome": "fonti",
         "esito": "ok",
-        "dettaglio": "7 fonti su 8 per 2026-11-07 (minimo 6)"
+        "dettaglio": "8 fonti su 8 per 2026-11-07 (minimo 6)"
       },
       {
         "nome": "freschezza",
@@ -40,7 +40,7 @@
       {
         "nome": "scarto",
         "esito": "ok",
-        "dettaglio": "massime 16-21° (scarto 5°), pioggia 15-63% (scarto 48) | disaccordo sulle massime: il gancio mostra l'intervallo; disaccordo sulla pioggia: il gancio lo dice"
+        "dettaglio": "massime 15-21° (scarto 6°), pioggia 15-90% (scarto 75) | disaccordo sulle massime: il gancio mostra l'intervallo; disaccordo sulla pioggia: il gancio lo dice"
       },
       {
         "nome": "giorno",
@@ -65,6 +65,7 @@
       "https://www.weatherapi.com",
       "https://api.met.no",
       "https://brightsky.dev",
+      "https://www.visualcrossing.com",
       "http://www.7timer.info",
       "https://www.tomorrow.io"
     ]
@@ -94,25 +95,25 @@
   "dati_scartati": {
     "citta": "Napoli",
     "data_label": "sabato 7 novembre",
-    "fonti_n": 7,
-    "fonti_elencate": 7,
+    "fonti_n": 8,
+    "fonti_elencate": 8,
     "fonti_escluse": [],
     "tmax_media": 18,
-    "tmax_min": 16,
+    "tmax_min": 15,
     "tmax_max": 21,
     "tmin_media": 14,
-    "pioggia_media": 31,
+    "pioggia_media": 37,
     "pioggia_min": 15,
-    "pioggia_max": 63,
-    "fonti_pioggia": 4,
+    "pioggia_max": 90,
+    "fonti_pioggia": 5,
     "condizione": "nuvoloso",
     "fonti_condizione": 3,
     "giorno_piu_incerto": "sabato",
-    "scarto_tmax": 5,
-    "tmax_scarto_fonti": 4.6,
+    "scarto_tmax": 6,
+    "tmax_scarto_fonti": 5.6,
     "tmax_disaccordo": true,
     "pioggia_disaccordo": true,
-    "gancio_pioggia": "le fonti non sono d'accordo sulla pioggia, dal 15% al 63%"
+    "gancio_pioggia": "le fonti non sono d'accordo sulla pioggia, dal 15% al 90%"
   },
   "giorno": "2026-11-07"
 }
