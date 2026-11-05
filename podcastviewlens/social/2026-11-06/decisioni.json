@@ -12,11 +12,13 @@
    "alle": "",
    "correzioni": [],
    "messaggio_id": 135,
-   "storia_in_corso": "2026-11-06T13:01:00+01:00",
+   "storia_in_corso": null,
    "storia_frame": 1,
    "storia_media_id": [
     "17998645686022907"
-   ]
+   ],
+   "storia_pubblicata": "2026-11-06T13:01:00+01:00",
+   "storia_errore": null
   }
  },
  "messaggi": {
