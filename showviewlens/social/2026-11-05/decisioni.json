@@ -1,0 +1,29 @@
+{
+ "app": "ShowViewLens",
+ "data": "2026-11-05",
+ "righe": {
+  "SHV_20261105_1800_CAR": {
+   "pubblica_alle": "2026-11-05T18:00:00+01:00",
+   "formato": "Carosello",
+   "piattaforma": "Instagram / FB",
+   "sempreverde": false,
+   "chiave": "SHV_20261105_1800_CAR",
+   "decisione": null,
+   "alle": "",
+   "correzioni": [],
+   "messaggio_id": 769
+  }
+ },
+ "messaggi": {
+  "769": {
+   "chat_id": "1614787945",
+   "righe": [
+    "SHV_20261105_1800_CAR"
+   ],
+   "base": "<b>18:00 · Carosello · Instagram / FB</b>\nID <code>SHV_20261105_1800_CAR</code>\n✅ Verifica ok · 5 fonti\n<pre>🎤 Questo weekend in Italia: 162 concerti in ShowViewLens. Alcuni da segnare:\n\n1. Hamilton De Holanda &amp; Gonzalo Rubalcaba &quot;Collab&quot; · Auditorium Parco della Musica Ennio Morricone · ven 6/11 · 20:00\n2. Placebo · Unipol Forum · ven 6/11 · 20:30\n3. Laura Pausini · Nelson Mandela Forum · ven 6/11 · 21:00\n4. Emmet Cohen - Miles and Coltrane At 100 · Auditorium Unipol · ven 6/11 · 21:15\n5. Apres Minuit Duo · Palazzo Vives frisari · sab 7/11 · 20:30\n\nSalva e condividi con chi viene con te. Date, orari e biglietteria ufficiale su ShowViewLens.\n\n📲 Scarica ShowViewLens gratis: link in bio (App Store e Google Play).\n\n#ShowViewLens #ConcertiItalia #MusicaLive #SpettacoliDalVivo</pre>\n\n<i>✅ OK: esce all'orario · ⏭️ Salta: non esce, contenuto legato a quella data · ✏️ Correggi: mi scrivi cosa cambiare · ↩️ Annulla: torna come prima. Nessun click = esce. Leggo i pulsanti ogni 15 minuti: decidi almeno 30 minuti prima.</i>"
+  }
+ },
+ "ultimo_update_id": null,
+ "anteprima_inviata_il": "2026-11-05T01:14:39+01:00",
+ "provvisorio": false
+}
