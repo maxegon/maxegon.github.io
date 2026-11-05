@@ -1,0 +1,29 @@
+{
+ "app": "PodcastViewLens",
+ "data": "2026-11-06",
+ "righe": {
+  "W2_VEN_1300": {
+   "pubblica_alle": "2026-11-06T13:00:00+01:00",
+   "formato": "Storia",
+   "piattaforma": "Instagram Stories",
+   "sempreverde": true,
+   "chiave": "W2_VEN_1300",
+   "decisione": null,
+   "alle": "",
+   "correzioni": [],
+   "messaggio_id": 132
+  }
+ },
+ "messaggi": {
+  "132": {
+   "chat_id": "1614787945",
+   "righe": [
+    "W2_VEN_1300"
+   ],
+   "base": "<b>13:00 · Storia · Instagram Stories</b>\nID <code>W2_VEN_1300</code>\n✅ Verifica ok\n<pre>Storia: S1: Segui i tuoi podcast con la stella | S2: Le loro uscite entrano nel Palinsesto | S3: Cerca «PodcastViewLens» su App Store e Google Play</pre>\n\n<i>✅ OK: esce all'orario · ⏭️ Salta: non esce, torna in coda tra 7 giorni · ✏️ Correggi: mi scrivi cosa cambiare · ↩️ Annulla: torna come prima. Nessun click = esce. Leggo i pulsanti ogni 15 minuti: decidi almeno 30 minuti prima.</i>"
+  }
+ },
+ "ultimo_update_id": null,
+ "anteprima_inviata_il": "2026-11-05T22:59:43+01:00",
+ "provvisorio": false
+}
