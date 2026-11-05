@@ -1,0 +1,476 @@
+{
+  "data": "2026-11-06",
+  "generato_il": "2026-11-05T21:49:30+00:00",
+  "piano": "marketing/piano_4_settimane.csv",
+  "righe": [
+    {
+      "id": "SHV_20261106_1300_CAR",
+      "piattaforma": "Instagram / FB",
+      "formato": "Carosello",
+      "categoria": "teatro+danza+opera",
+      "pubblica_alle": "2026-11-06T13:00:00+01:00",
+      "scartati": [
+        [
+          "Black Comedy",
+          "fuori perimetro: circo/stand-up non sono categorie dell'app: usare 'cabaret e comicita a teatro'"
+        ],
+        [
+          "Fiabe a Colazione",
+          "ora 10:00 prima di 11:00"
+        ],
+        [
+          "In Sua Movenza È Fermo",
+          "ora 10:00 prima di 11:00"
+        ]
+      ],
+      "doppioni_rimossi": 8,
+      "verifica_eventi": [
+        {
+          "evento": "Angeli del Fango - gli Esseri Umani Quando Piove",
+          "data": "2026-11-06",
+          "ora": "18:30",
+          "citta": "Firenze",
+          "fonte": "vivaticket",
+          "esito": "ok",
+          "rinforzato": false,
+          "controlli": [
+            {
+              "nome": "orario",
+              "esito": "ok",
+              "dettaglio": "18:30"
+            },
+            {
+              "nome": "titolo",
+              "esito": "ok",
+              "dettaglio": "nessuna etichetta di abbonamento"
+            },
+            {
+              "nome": "biglietteria",
+              "esito": "ok",
+              "dettaglio": "Vivaticket: replica letta dall API pubblica"
+            },
+            {
+              "nome": "pagina",
+              "esito": "ok",
+              "dettaglio": "titolo, citta, data e ora coincidono (2026-11-06 18:30, FIRENZE)"
+            },
+            {
+              "nome": "serie",
+              "esito": "ok",
+              "dettaglio": "8 date della produzione, nessuna anomalia in testa alla serie"
+            }
+          ],
+          "fonti": [
+            "https://www.vivaticket.com/it/ticket/angeli-del-fango-gli-esseri-umani-quando-piove/316068"
+          ]
+        },
+        {
+          "evento": "Il Berretto a Sonagli",
+          "data": "2026-11-06",
+          "ora": "20:30",
+          "citta": "Firenze",
+          "fonte": "vivaticket",
+          "esito": "ok",
+          "rinforzato": false,
+          "controlli": [
+            {
+              "nome": "orario",
+              "esito": "ok",
+              "dettaglio": "20:30"
+            },
+            {
+              "nome": "titolo",
+              "esito": "ok",
+              "dettaglio": "nessuna etichetta di abbonamento"
+            },
+            {
+              "nome": "biglietteria",
+              "esito": "ok",
+              "dettaglio": "Vivaticket: replica letta dall API pubblica"
+            },
+            {
+              "nome": "pagina",
+              "esito": "ok",
+              "dettaglio": "titolo, citta, data e ora coincidono (2026-11-06 20:30, FIRENZE)"
+            },
+            {
+              "nome": "serie",
+              "esito": "ok",
+              "dettaglio": "4 date della produzione, nessuna anomalia in testa alla serie"
+            }
+          ],
+          "fonti": [
+            "https://shop.vivaticket.com/it/sell/?cmd=prices&pcode=14276522&tcode=vt0010630"
+          ]
+        },
+        {
+          "evento": "Voci D'Italia — An Enveloping Opera Night",
+          "data": "2026-11-06",
+          "ora": "20:30",
+          "citta": "Firenze",
+          "fonte": "vivaticket",
+          "esito": "ok",
+          "rinforzato": false,
+          "controlli": [
+            {
+              "nome": "orario",
+              "esito": "ok",
+              "dettaglio": "20:30"
+            },
+            {
+              "nome": "titolo",
+              "esito": "ok",
+              "dettaglio": "nessuna etichetta di abbonamento"
+            },
+            {
+              "nome": "biglietteria",
+              "esito": "ok",
+              "dettaglio": "Vivaticket: replica letta dall API pubblica"
+            },
+            {
+              "nome": "pagina",
+              "esito": "ok",
+              "dettaglio": "titolo, citta, data e ora coincidono (2026-11-06 20:30, FIRENZE)"
+            },
+            {
+              "nome": "serie",
+              "esito": "ok",
+              "dettaglio": "57 date della produzione, nessuna anomalia in testa alla serie"
+            }
+          ],
+          "fonti": [
+            "https://shop.vivaticket.com/it/sell/?cmd=prices&pcode=14211197&tcode=vt0021949"
+          ]
+        },
+        {
+          "evento": "Il Re Bello",
+          "data": "2026-11-06",
+          "ora": "20:45",
+          "citta": "Firenze",
+          "fonte": "ticketone",
+          "esito": "ok",
+          "rinforzato": false,
+          "controlli": [
+            {
+              "nome": "orario",
+              "esito": "ok",
+              "dettaglio": "20:45"
+            },
+            {
+              "nome": "titolo",
+              "esito": "ok",
+              "dettaglio": "nessuna etichetta di abbonamento"
+            },
+            {
+              "nome": "biglietteria",
+              "esito": "ok",
+              "dettaglio": "TicketOne (blocca i bot): URL ben formato, visto nell ultimo giro (missing_count=0, fonte aggiornata da meno di 36 h)"
+            },
+            {
+              "nome": "serie",
+              "esito": "ok",
+              "dettaglio": "1 date della produzione, nessuna anomalia in testa alla serie"
+            }
+          ],
+          "fonti": [
+            "https://www.ticketone.it/event/the-square-il-re-bello-the-square-22257747/"
+          ]
+        }
+      ],
+      "stato": "PRONTO",
+      "testo_finale": "📍 Weekend a Firenze: 13 spettacoli tra teatro, danza e opera.\n\n1. Angeli del Fango - gli Esseri Umani Quando Piove · Sala Eduardo - Teatro della Pergola · ven 6/11 · 18:30\n2. Il Berretto a Sonagli · Teatro della Pergola · ven 6/11 · 20:30\n3. Voci D'Italia — An Enveloping Opera Night · Teatro Nazionale Firenze · ven 6/11 · 20:30\n4. Il Re Bello · The Square · ven 6/11 · 20:45\n\nSu ShowViewLens trovi orari e link alla biglietteria ufficiale.\n\n📲 Scarica ShowViewLens gratis: link in bio (App Store e Google Play).\n\n#ShowViewLens #Firenze #TeatroItalia #SpettacoliDalVivo",
+      "titolo_slide": "Weekend a Firenze: 13 spettacoli",
+      "eventi": [
+        "Angeli del Fango - gli Esseri Umani Quando Piove",
+        "Il Berretto a Sonagli",
+        "Voci D'Italia — An Enveloping Opera Night",
+        "Il Re Bello"
+      ],
+      "conteggio": 13,
+      "file": [
+        "https://maxegon.github.io/showviewlens/social/2026-11-06/SHV_20261106_1300_CAR/01_gancio.jpg",
+        "https://maxegon.github.io/showviewlens/social/2026-11-06/SHV_20261106_1300_CAR/02_dati.jpg",
+        "https://maxegon.github.io/showviewlens/social/2026-11-06/SHV_20261106_1300_CAR/03_dati.jpg",
+        "https://maxegon.github.io/showviewlens/social/2026-11-06/SHV_20261106_1300_CAR/04_screenshot.jpg",
+        "https://maxegon.github.io/showviewlens/social/2026-11-06/SHV_20261106_1300_CAR/05_cta.jpg"
+      ],
+      "utm": "https://maxegon.github.io/showviewlens/download/?utm_source=instagram&utm_medium=social&utm_campaign=piano_2026_11&utm_content=SHV_20261106_1300_CAR",
+      "verifica": {
+        "esito": "ok",
+        "controlli": [
+          {
+            "nome": "eventi nel post",
+            "esito": "ok",
+            "dettaglio": "4 eventi verificati ok, 0 tolti, su 13 candidati"
+          }
+        ],
+        "fonti": [
+          "https://www.vivaticket.com/it/ticket/angeli-del-fango-gli-esseri-umani-quando-piove/316068",
+          "https://shop.vivaticket.com/it/sell/?cmd=prices&pcode=14276522&tcode=vt0010630",
+          "https://shop.vivaticket.com/it/sell/?cmd=prices&pcode=14211197&tcode=vt0021949",
+          "https://www.ticketone.it/event/the-square-il-re-bello-the-square-22257747/"
+        ]
+      },
+      "anteprima": {
+        "testo": "📍 Weekend a Firenze: 13 spettacoli tra teatro, danza e opera.\n\n1. Angeli del Fango - gli Esseri Umani Quando Piove · Sala Eduardo - Teatro della Pergola · ven 6/11 · 18:30\n2. Il Berretto a Sonagli · Teatro della Pergola · ven 6/11 · 20:30\n3. Voci D'Italia — An Enveloping Opera Night · Teatro Nazionale Firenze · ven 6/11 · 20:30\n4. Il Re Bello · The Square · ven 6/11 · 20:45\n\nSu ShowViewLens trovi orari e link alla biglietteria ufficiale.\n\n📲 Scarica ShowViewLens gratis: link in bio (App Store e Google Play).\n\n#ShowViewLens #Firenze #TeatroItalia #SpettacoliDalVivo",
+        "immagini": [
+          "https://maxegon.github.io/showviewlens/social/2026-11-06/SHV_20261106_1300_CAR/01_gancio.jpg"
+        ]
+      },
+      "ig_media": [
+        {
+          "media_type": "IMAGE",
+          "image_url": "https://maxegon.github.io/showviewlens/social/2026-11-06/SHV_20261106_1300_CAR/01_gancio.jpg"
+        },
+        {
+          "media_type": "IMAGE",
+          "image_url": "https://maxegon.github.io/showviewlens/social/2026-11-06/SHV_20261106_1300_CAR/02_dati.jpg"
+        },
+        {
+          "media_type": "IMAGE",
+          "image_url": "https://maxegon.github.io/showviewlens/social/2026-11-06/SHV_20261106_1300_CAR/03_dati.jpg"
+        },
+        {
+          "media_type": "IMAGE",
+          "image_url": "https://maxegon.github.io/showviewlens/social/2026-11-06/SHV_20261106_1300_CAR/04_screenshot.jpg"
+        },
+        {
+          "media_type": "IMAGE",
+          "image_url": "https://maxegon.github.io/showviewlens/social/2026-11-06/SHV_20261106_1300_CAR/05_cta.jpg"
+        }
+      ],
+      "fb_photos": [
+        {
+          "type": "url",
+          "url": "https://maxegon.github.io/showviewlens/social/2026-11-06/SHV_20261106_1300_CAR/01_gancio.jpg"
+        },
+        {
+          "type": "url",
+          "url": "https://maxegon.github.io/showviewlens/social/2026-11-06/SHV_20261106_1300_CAR/02_dati.jpg"
+        },
+        {
+          "type": "url",
+          "url": "https://maxegon.github.io/showviewlens/social/2026-11-06/SHV_20261106_1300_CAR/03_dati.jpg"
+        },
+        {
+          "type": "url",
+          "url": "https://maxegon.github.io/showviewlens/social/2026-11-06/SHV_20261106_1300_CAR/04_screenshot.jpg"
+        },
+        {
+          "type": "url",
+          "url": "https://maxegon.github.io/showviewlens/social/2026-11-06/SHV_20261106_1300_CAR/05_cta.jpg"
+        }
+      ],
+      "slot": "SHV_20261106_1300_CAR",
+      "ora_pubblicazione": "2026-11-06 13:00",
+      "immagini": [
+        "https://maxegon.github.io/showviewlens/social/2026-11-06/SHV_20261106_1300_CAR/01_gancio.jpg",
+        "https://maxegon.github.io/showviewlens/social/2026-11-06/SHV_20261106_1300_CAR/02_dati.jpg",
+        "https://maxegon.github.io/showviewlens/social/2026-11-06/SHV_20261106_1300_CAR/03_dati.jpg",
+        "https://maxegon.github.io/showviewlens/social/2026-11-06/SHV_20261106_1300_CAR/04_screenshot.jpg",
+        "https://maxegon.github.io/showviewlens/social/2026-11-06/SHV_20261106_1300_CAR/05_cta.jpg"
+      ]
+    },
+    {
+      "id": "SHV_20261106_1830_STORY",
+      "piattaforma": "Instagram / FB Stories",
+      "formato": "Storia",
+      "categoria": "concerti+teatro+danza+opera",
+      "pubblica_alle": "2026-11-06T18:30:00+01:00",
+      "scartati": [
+        [
+          "Alberto e Silvana,c'Era una Volta il Cinema",
+          "fuori perimetro: cinema/film/streaming/TV: fuori perimetro (o altra app)"
+        ],
+        [
+          "San Lorenzo Blues Revue — Fleurs Du Mal, Serrano e Raimondi",
+          "ora 00:00 prima di 11:00"
+        ],
+        [
+          "Campsirago Residenza - Miloemaya",
+          "ora 10:30 prima di 11:00"
+        ],
+        [
+          "Bukromance",
+          "ora 10:30 prima di 11:00"
+        ],
+        [
+          "Alberto e Silvana,c'Era una Volta il Cinema",
+          "fuori perimetro: cinema/film/streaming/TV: fuori perimetro (o altra app)"
+        ],
+        [
+          "Campsirago Residenza - Miloemaya",
+          "ora 10:30 prima di 11:00"
+        ],
+        [
+          "Campsirago Residenza - Stück: Pezzi Pazzi",
+          "ora 10:30 prima di 11:00"
+        ],
+        [
+          "Miloemaya",
+          "ora 10:30 prima di 11:00"
+        ],
+        [
+          "Alberto e Silvana,c'Era una Volta il Cinema",
+          "fuori perimetro: cinema/film/streaming/TV: fuori perimetro (o altra app)"
+        ]
+      ],
+      "doppioni_rimossi": 46,
+      "verifica_eventi": [
+        {
+          "evento": "Soddy: Poulenc, Prokofiev 5",
+          "data": "2026-11-06",
+          "ora": "20:00",
+          "citta": "Roma",
+          "fonte": "ticketone",
+          "esito": "ok",
+          "rinforzato": false,
+          "controlli": [
+            {
+              "nome": "orario",
+              "esito": "ok",
+              "dettaglio": "20:00"
+            },
+            {
+              "nome": "titolo",
+              "esito": "ok",
+              "dettaglio": "nessuna etichetta di abbonamento"
+            },
+            {
+              "nome": "biglietteria",
+              "esito": "ok",
+              "dettaglio": "TicketOne (blocca i bot): URL ben formato, visto nell ultimo giro (missing_count=0, fonte aggiornata da meno di 36 h)"
+            },
+            {
+              "nome": "serie",
+              "esito": "ok",
+              "dettaglio": "3 date della produzione, nessuna anomalia in testa alla serie"
+            }
+          ],
+          "fonti": [
+            "https://www.ticketone.it/event/accademia-nazionale-di-santa-cecilia-stagione-sinfonica-2026-2027-auditorium-parco-della-musica-ennio-morricone-21497676/"
+          ]
+        },
+        {
+          "evento": "100 Anni di M.Bortolotti e F.Evangelisti",
+          "data": "2026-11-06",
+          "ora": "20:00",
+          "citta": "Roma",
+          "fonte": "ticketone",
+          "esito": "ok",
+          "rinforzato": false,
+          "controlli": [
+            {
+              "nome": "orario",
+              "esito": "ok",
+              "dettaglio": "20:00"
+            },
+            {
+              "nome": "titolo",
+              "esito": "ok",
+              "dettaglio": "nessuna etichetta di abbonamento"
+            },
+            {
+              "nome": "biglietteria",
+              "esito": "ok",
+              "dettaglio": "TicketOne (blocca i bot): URL ben formato, visto nell ultimo giro (missing_count=0, fonte aggiornata da meno di 36 h)"
+            },
+            {
+              "nome": "serie",
+              "esito": "ok",
+              "dettaglio": "1 date della produzione, nessuna anomalia in testa alla serie"
+            }
+          ],
+          "fonti": [
+            "https://www.ticketone.it/event/nuova-consonanza-2026-auditorium-parco-della-musica-ennio-morricone-22118664/"
+          ]
+        },
+        {
+          "evento": "Hamilton De Holanda & Gonzalo Rubalcaba \"Collab\"",
+          "data": "2026-11-06",
+          "ora": "20:00",
+          "citta": "Roma",
+          "fonte": "ticketone",
+          "esito": "ok",
+          "rinforzato": false,
+          "controlli": [
+            {
+              "nome": "orario",
+              "esito": "ok",
+              "dettaglio": "20:00"
+            },
+            {
+              "nome": "titolo",
+              "esito": "ok",
+              "dettaglio": "nessuna etichetta di abbonamento"
+            },
+            {
+              "nome": "biglietteria",
+              "esito": "ok",
+              "dettaglio": "TicketOne (blocca i bot): URL ben formato, visto nell ultimo giro (missing_count=0, fonte aggiornata da meno di 36 h)"
+            },
+            {
+              "nome": "serie",
+              "esito": "ok",
+              "dettaglio": "1 date della produzione, nessuna anomalia in testa alla serie"
+            }
+          ],
+          "fonti": [
+            "https://www.ticketone.it/event/roma-jazz-festival-2026-auditorium-parco-della-musica-ennio-morricone-21710972/"
+          ]
+        }
+      ],
+      "stato": "PRONTO",
+      "testo_finale": "🗓️ Questo weekend a Roma: 44 spettacoli dal vivo.\n\n1. Soddy: Poulenc, Prokofiev 5 · Auditorium Parco della Musica Ennio Morricone · ven 6/11 · 20:00\n2. 100 Anni di M.Bortolotti e F.Evangelisti · Auditorium Parco della Musica Ennio Morricone · ven 6/11 · 20:00\n\nCerca «ShowViewLens» su App Store e Google Play.\n#ShowViewLens",
+      "titolo_slide": "Questo weekend a Roma: 44 spettacoli",
+      "eventi": [
+        "Soddy: Poulenc, Prokofiev 5",
+        "100 Anni di M.Bortolotti e F.Evangelisti",
+        "Hamilton De Holanda & Gonzalo Rubalcaba \"Collab\""
+      ],
+      "conteggio": 44,
+      "file": [
+        "https://maxegon.github.io/showviewlens/social/2026-11-06/SHV_20261106_1830_STORY/01_storia.jpg"
+      ],
+      "utm": "https://maxegon.github.io/showviewlens/download/?utm_source=instagram&utm_medium=story&utm_campaign=piano_2026_11&utm_content=SHV_20261106_1830_STORY",
+      "verifica": {
+        "esito": "ok",
+        "controlli": [
+          {
+            "nome": "eventi nel post",
+            "esito": "ok",
+            "dettaglio": "3 eventi verificati ok, 0 tolti, su 44 candidati"
+          }
+        ],
+        "fonti": [
+          "https://www.ticketone.it/event/accademia-nazionale-di-santa-cecilia-stagione-sinfonica-2026-2027-auditorium-parco-della-musica-ennio-morricone-21497676/",
+          "https://www.ticketone.it/event/nuova-consonanza-2026-auditorium-parco-della-musica-ennio-morricone-22118664/",
+          "https://www.ticketone.it/event/roma-jazz-festival-2026-auditorium-parco-della-musica-ennio-morricone-21710972/"
+        ]
+      },
+      "anteprima": {
+        "testo": "🗓️ Questo weekend a Roma: 44 spettacoli dal vivo.\n\n1. Soddy: Poulenc, Prokofiev 5 · Auditorium Parco della Musica Ennio Morricone · ven 6/11 · 20:00\n2. 100 Anni di M.Bortolotti e F.Evangelisti · Auditorium Parco della Musica Ennio Morricone · ven 6/11 · 20:00\n\nCerca «ShowViewLens» su App Store e Google Play.\n#ShowViewLens",
+        "immagini": [
+          "https://maxegon.github.io/showviewlens/social/2026-11-06/SHV_20261106_1830_STORY/01_storia.jpg"
+        ]
+      },
+      "ig_media": [
+        {
+          "media_type": "IMAGE",
+          "image_url": "https://maxegon.github.io/showviewlens/social/2026-11-06/SHV_20261106_1830_STORY/01_storia.jpg"
+        }
+      ],
+      "fb_photos": [
+        {
+          "type": "url",
+          "url": "https://maxegon.github.io/showviewlens/social/2026-11-06/SHV_20261106_1830_STORY/01_storia.jpg"
+        }
+      ],
+      "slot": "SHV_20261106_1830_STORY",
+      "ora_pubblicazione": "2026-11-06 18:30",
+      "immagini": [
+        "https://maxegon.github.io/showviewlens/social/2026-11-06/SHV_20261106_1830_STORY/01_storia.jpg"
+      ]
+    }
+  ]
+}
