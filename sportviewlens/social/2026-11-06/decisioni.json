@@ -23,7 +23,7 @@
    "alle": "",
    "correzioni": [],
    "messaggio_id": 507,
-   "storia_in_corso": null,
+   "storia_in_corso": "2026-11-06T18:31:00+01:00",
    "storia_tentativi": 1,
    "storia_errore": "HTTP 400: Only photo or video can be accepted as media type.",
    "storia_ultimo_tentativo": "2026-11-06T18:31:00+01:00"
