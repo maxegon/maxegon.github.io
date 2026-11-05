@@ -25,12 +25,13 @@
    "messaggio_id": 507,
    "storia_in_corso": null,
    "storia_tentativi": 2,
-   "storia_errore": "HTTP 400: Only photo or video can be accepted as media type.",
+   "storia_errore": null,
    "storia_ultimo_tentativo": "2026-11-06T18:31:00+01:00",
    "storia_frame": 1,
    "storia_media_id": [
     "18405477475206789"
-   ]
+   ],
+   "storia_pubblicata": "2026-11-06T18:31:00+01:00"
   }
  },
  "messaggi": {
