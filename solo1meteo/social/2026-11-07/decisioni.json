@@ -11,7 +11,7 @@
    "decisione": null,
    "alle": "",
    "correzioni": [],
-   "messaggio_id": 686
+   "messaggio_id": 690
   }
  },
  "messaggi": {
@@ -21,9 +21,16 @@
     "S1M_20261107_1900_FEED"
    ],
    "base": "<b>19:00 · Post Singolo · Instagram / FB</b>\nID <code>S1M_20261107_1900_FEED</code>\n✅ Verifica ok · 8 fonti\n<pre>Prima di uscire stasera: in Solo1Meteo la previsione ora per ora è la media di più servizi, con il numero di fonti accanto. Oggi a Cagliari: nuvoloso per 5 fonti su 7. Scarica Solo1Meteo gratis: link in bio. #solo1meteo #meteo #previsionimeteo #meteoitalia</pre>\n\n<i>✅ OK: esce all'orario · ⏭️ Salta: non esce, contenuto legato a quella data · ✏️ Correggi: mi scrivi cosa cambiare · ↩️ Annulla: torna come prima. Nessun click = esce. Leggo i pulsanti ogni 15 minuti: decidi almeno 30 minuti prima.</i>"
+  },
+  "690": {
+   "chat_id": "1614787945",
+   "righe": [
+    "S1M_20261107_1900_FEED"
+   ],
+   "base": "<b>19:00 · Post Singolo · Instagram / FB</b>\nID <code>S1M_20261107_1900_FEED</code>\n✅ Verifica ok · 9 fonti\n<pre>Prima di uscire stasera: in Solo1Meteo la previsione ora per ora è la media di più servizi, con il numero di fonti accanto. Oggi a Cagliari: nuvoloso per 5 fonti su 8. Scarica Solo1Meteo gratis: link in bio. #solo1meteo #meteo #previsionimeteo #meteoitalia</pre>\n\n<i>✅ OK: esce all'orario · ⏭️ Salta: non esce, contenuto legato a quella data · ✏️ Correggi: mi scrivi cosa cambiare · ↩️ Annulla: torna come prima. Nessun click = esce. Leggo i pulsanti ogni 15 minuti: decidi almeno 30 minuti prima.</i>"
   }
  },
  "ultimo_update_id": null,
- "anteprima_inviata_il": "2026-11-05T23:12:26+01:00",
+ "anteprima_inviata_il": "2026-11-06T00:56:15+01:00",
  "provvisorio": true
 }
