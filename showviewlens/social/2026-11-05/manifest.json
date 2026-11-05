@@ -1,0 +1,390 @@
+{
+  "data": "2026-11-05",
+  "generato_il": "2026-11-05T00:14:11+00:00",
+  "piano": "marketing/piano_4_settimane.csv",
+  "righe": [
+    {
+      "id": "SHV_20261105_1800_CAR",
+      "piattaforma": "Instagram / FB",
+      "formato": "Carosello",
+      "categoria": "concerti",
+      "pubblica_alle": "2026-11-05T18:00:00+01:00",
+      "scartati": [
+        [
+          "I Solisti Aquilani",
+          "senza biglietteria online"
+        ],
+        [
+          "Concerto Sinfonico",
+          "senza biglietteria online"
+        ],
+        [
+          "Venator + Adversor",
+          "luogo mancante"
+        ],
+        [
+          "Sotto le Stelle del Cinema",
+          "fuori perimetro: cinema/film/streaming/TV: fuori perimetro (o altra app)"
+        ],
+        [
+          "Giovane Drago",
+          "luogo mancante"
+        ],
+        [
+          "Bis!",
+          "luogo mancante"
+        ],
+        [
+          "An Evening of Dire Straits Music",
+          "luogo mancante"
+        ],
+        [
+          "San Lorenzo Blues Revue — Fleurs Du Mal, Serrano e Raimondi",
+          "ora 00:00 prima di 11:00"
+        ],
+        [
+          "Autumn in Music – Mikol Frachey in Concerto Country Live",
+          "senza biglietteria online"
+        ],
+        [
+          "Note nei Musei: Prospettive Musicali 2026",
+          "fuori perimetro: musei/gallerie/arte: fuori perimetro"
+        ],
+        [
+          "Aimez – Vous Brahms?",
+          "senza biglietteria online"
+        ],
+        [
+          "Da Casella All'Antica a Stravinsky – Orchestra Sinfonica di Matera",
+          "senza biglietteria online"
+        ],
+        [
+          "Perturbazione",
+          "luogo mancante"
+        ],
+        [
+          "Una Notte per il Bandito",
+          "luogo mancante"
+        ],
+        [
+          "Lifelover",
+          "luogo mancante"
+        ],
+        [
+          "Dalla Bacchetta al Suono",
+          "luogo mancante"
+        ],
+        [
+          "Calibro 35 Vs L.a.",
+          "luogo mancante"
+        ],
+        [
+          "Più Piano, Più Forte",
+          "ora 10:00 prima di 11:00"
+        ],
+        [
+          "Concerti Aperitivo – Koharu Tamura",
+          "senza biglietteria online"
+        ],
+        [
+          "L'orchestra delle Meraviglie - Walt Disney",
+          "fuori perimetro: cinema/film/streaming/TV: fuori perimetro (o altra app)"
+        ],
+        [
+          "Verona Calls Violence II",
+          "luogo mancante"
+        ],
+        [
+          "Cek and the Stompers",
+          "luogo mancante"
+        ],
+        [
+          "Athletes",
+          "luogo mancante"
+        ],
+        [
+          "Fantasie Notturne",
+          "luogo mancante"
+        ]
+      ],
+      "doppioni_rimossi": 55,
+      "verifica_eventi": [
+        {
+          "evento": "Hamilton De Holanda & Gonzalo Rubalcaba \"Collab\"",
+          "data": "2026-11-06",
+          "ora": "20:00",
+          "citta": "Roma",
+          "fonte": "ticketone",
+          "esito": "ok",
+          "rinforzato": false,
+          "controlli": [
+            {
+              "nome": "orario",
+              "esito": "ok",
+              "dettaglio": "20:00"
+            },
+            {
+              "nome": "titolo",
+              "esito": "ok",
+              "dettaglio": "nessuna etichetta di abbonamento"
+            },
+            {
+              "nome": "biglietteria",
+              "esito": "ok",
+              "dettaglio": "TicketOne (blocca i bot): URL ben formato, visto nell ultimo giro (missing_count=0, fonte aggiornata da meno di 36 h)"
+            },
+            {
+              "nome": "serie",
+              "esito": "ok",
+              "dettaglio": "1 date della produzione, nessuna anomalia in testa alla serie"
+            }
+          ],
+          "fonti": [
+            "https://www.ticketone.it/event/roma-jazz-festival-2026-auditorium-parco-della-musica-ennio-morricone-21710972/"
+          ]
+        },
+        {
+          "evento": "Placebo",
+          "data": "2026-11-06",
+          "ora": "20:30",
+          "citta": "Milano",
+          "fonte": "ticketone",
+          "esito": "ok",
+          "rinforzato": false,
+          "controlli": [
+            {
+              "nome": "orario",
+              "esito": "ok",
+              "dettaglio": "20:30"
+            },
+            {
+              "nome": "titolo",
+              "esito": "ok",
+              "dettaglio": "nessuna etichetta di abbonamento"
+            },
+            {
+              "nome": "biglietteria",
+              "esito": "ok",
+              "dettaglio": "TicketOne (blocca i bot): URL ben formato, visto nell ultimo giro (missing_count=0, fonte aggiornata da meno di 36 h)"
+            },
+            {
+              "nome": "serie",
+              "esito": "ok",
+              "dettaglio": "1 date della produzione, nessuna anomalia in testa alla serie"
+            }
+          ],
+          "fonti": [
+            "https://www.ticketone.it/event/placebo-unipol-forum-21475997/"
+          ]
+        },
+        {
+          "evento": "Laura Pausini",
+          "data": "2026-11-06",
+          "ora": "21:00",
+          "citta": "Firenze",
+          "fonte": "ticketone",
+          "esito": "ok",
+          "rinforzato": false,
+          "controlli": [
+            {
+              "nome": "orario",
+              "esito": "ok",
+              "dettaglio": "21:00"
+            },
+            {
+              "nome": "titolo",
+              "esito": "ok",
+              "dettaglio": "nessuna etichetta di abbonamento"
+            },
+            {
+              "nome": "biglietteria",
+              "esito": "ok",
+              "dettaglio": "TicketOne (blocca i bot): URL ben formato, visto nell ultimo giro (missing_count=0, fonte aggiornata da meno di 36 h)"
+            },
+            {
+              "nome": "serie",
+              "esito": "ok",
+              "dettaglio": "2 date della produzione, nessuna anomalia in testa alla serie"
+            }
+          ],
+          "fonti": [
+            "https://www.ticketone.it/event/laura-pausini-io-canto-world-tour-nelson-mandela-forum-20614253/"
+          ]
+        },
+        {
+          "evento": "Emmet Cohen - Miles and Coltrane At 100",
+          "data": "2026-11-06",
+          "ora": "21:15",
+          "citta": "Bologna",
+          "fonte": "vivaticket",
+          "esito": "ok",
+          "rinforzato": false,
+          "controlli": [
+            {
+              "nome": "orario",
+              "esito": "ok",
+              "dettaglio": "21:15"
+            },
+            {
+              "nome": "titolo",
+              "esito": "ok",
+              "dettaglio": "nessuna etichetta di abbonamento"
+            },
+            {
+              "nome": "biglietteria",
+              "esito": "ok",
+              "dettaglio": "Vivaticket: replica letta dall API pubblica"
+            },
+            {
+              "nome": "pagina",
+              "esito": "ok",
+              "dettaglio": "titolo, citta, data e ora coincidono (2026-11-06 21:15, BOLOGNA)"
+            },
+            {
+              "nome": "serie",
+              "esito": "ok",
+              "dettaglio": "1 date della produzione, nessuna anomalia in testa alla serie"
+            }
+          ],
+          "fonti": [
+            "https://www.vivaticket.com/it/ticket/emmet-cohen-miles-and-coltrane-at-100/304739"
+          ]
+        },
+        {
+          "evento": "Apres Minuit Duo",
+          "data": "2026-11-07",
+          "ora": "20:30",
+          "citta": "Bisceglie",
+          "fonte": "vivaticket",
+          "esito": "ok",
+          "rinforzato": false,
+          "controlli": [
+            {
+              "nome": "orario",
+              "esito": "ok",
+              "dettaglio": "20:30"
+            },
+            {
+              "nome": "titolo",
+              "esito": "ok",
+              "dettaglio": "nessuna etichetta di abbonamento"
+            },
+            {
+              "nome": "biglietteria",
+              "esito": "ok",
+              "dettaglio": "Vivaticket: replica letta dall API pubblica"
+            },
+            {
+              "nome": "pagina",
+              "esito": "ok",
+              "dettaglio": "titolo, citta, data e ora coincidono (2026-11-07 20:30, BISCEGLIE)"
+            },
+            {
+              "nome": "serie",
+              "esito": "ok",
+              "dettaglio": "1 date della produzione, nessuna anomalia in testa alla serie"
+            }
+          ],
+          "fonti": [
+            "https://www.vivaticket.com/it/ticket/apres-minuit-duo/321536"
+          ]
+        }
+      ],
+      "stato": "PRONTO",
+      "testo_finale": "🎤 Questo weekend in Italia: 162 concerti in ShowViewLens. Alcuni da segnare:\n\n1. Hamilton De Holanda & Gonzalo Rubalcaba \"Collab\" · Auditorium Parco della Musica Ennio Morricone · ven 6/11 · 20:00\n2. Placebo · Unipol Forum · ven 6/11 · 20:30\n3. Laura Pausini · Nelson Mandela Forum · ven 6/11 · 21:00\n4. Emmet Cohen - Miles and Coltrane At 100 · Auditorium Unipol · ven 6/11 · 21:15\n5. Apres Minuit Duo · Palazzo Vives frisari · sab 7/11 · 20:30\n\nSalva e condividi con chi viene con te. Date, orari e biglietteria ufficiale su ShowViewLens.\n\n📲 Scarica ShowViewLens gratis: link in bio (App Store e Google Play).\n\n#ShowViewLens #ConcertiItalia #MusicaLive #SpettacoliDalVivo",
+      "titolo_slide": "162 concerti in Italia questo weekend",
+      "eventi": [
+        "Hamilton De Holanda & Gonzalo Rubalcaba \"Collab\"",
+        "Placebo",
+        "Laura Pausini",
+        "Emmet Cohen - Miles and Coltrane At 100",
+        "Apres Minuit Duo"
+      ],
+      "conteggio": 162,
+      "file": [
+        "https://maxegon.github.io/showviewlens/social/2026-11-05/SHV_20261105_1800_CAR/01_gancio.jpg",
+        "https://maxegon.github.io/showviewlens/social/2026-11-05/SHV_20261105_1800_CAR/02_dati.jpg",
+        "https://maxegon.github.io/showviewlens/social/2026-11-05/SHV_20261105_1800_CAR/03_dati.jpg",
+        "https://maxegon.github.io/showviewlens/social/2026-11-05/SHV_20261105_1800_CAR/04_screenshot.jpg",
+        "https://maxegon.github.io/showviewlens/social/2026-11-05/SHV_20261105_1800_CAR/05_cta.jpg"
+      ],
+      "utm": "https://maxegon.github.io/showviewlens/download/?utm_source=instagram&utm_medium=social&utm_campaign=piano_2026_11&utm_content=SHV_20261105_1800_CAR",
+      "verifica": {
+        "esito": "ok",
+        "controlli": [
+          {
+            "nome": "eventi nel post",
+            "esito": "ok",
+            "dettaglio": "5 eventi verificati ok, 0 tolti, su 162 candidati"
+          }
+        ],
+        "fonti": [
+          "https://www.ticketone.it/event/roma-jazz-festival-2026-auditorium-parco-della-musica-ennio-morricone-21710972/",
+          "https://www.ticketone.it/event/placebo-unipol-forum-21475997/",
+          "https://www.ticketone.it/event/laura-pausini-io-canto-world-tour-nelson-mandela-forum-20614253/",
+          "https://www.vivaticket.com/it/ticket/emmet-cohen-miles-and-coltrane-at-100/304739",
+          "https://www.vivaticket.com/it/ticket/apres-minuit-duo/321536"
+        ]
+      },
+      "anteprima": {
+        "testo": "🎤 Questo weekend in Italia: 162 concerti in ShowViewLens. Alcuni da segnare:\n\n1. Hamilton De Holanda & Gonzalo Rubalcaba \"Collab\" · Auditorium Parco della Musica Ennio Morricone · ven 6/11 · 20:00\n2. Placebo · Unipol Forum · ven 6/11 · 20:30\n3. Laura Pausini · Nelson Mandela Forum · ven 6/11 · 21:00\n4. Emmet Cohen - Miles and Coltrane At 100 · Auditorium Unipol · ven 6/11 · 21:15\n5. Apres Minuit Duo · Palazzo Vives frisari · sab 7/11 · 20:30\n\nSalva e condividi con chi viene con te. Date, orari e biglietteria ufficiale su ShowViewLens.\n\n📲 Scarica ShowViewLens gratis: link in bio (App Store e Google Play).\n\n#ShowViewLens #ConcertiItalia #MusicaLive #SpettacoliDalVivo",
+        "immagini": [
+          "https://maxegon.github.io/showviewlens/social/2026-11-05/SHV_20261105_1800_CAR/01_gancio.jpg"
+        ]
+      },
+      "ig_media": [
+        {
+          "media_type": "IMAGE",
+          "image_url": "https://maxegon.github.io/showviewlens/social/2026-11-05/SHV_20261105_1800_CAR/01_gancio.jpg"
+        },
+        {
+          "media_type": "IMAGE",
+          "image_url": "https://maxegon.github.io/showviewlens/social/2026-11-05/SHV_20261105_1800_CAR/02_dati.jpg"
+        },
+        {
+          "media_type": "IMAGE",
+          "image_url": "https://maxegon.github.io/showviewlens/social/2026-11-05/SHV_20261105_1800_CAR/03_dati.jpg"
+        },
+        {
+          "media_type": "IMAGE",
+          "image_url": "https://maxegon.github.io/showviewlens/social/2026-11-05/SHV_20261105_1800_CAR/04_screenshot.jpg"
+        },
+        {
+          "media_type": "IMAGE",
+          "image_url": "https://maxegon.github.io/showviewlens/social/2026-11-05/SHV_20261105_1800_CAR/05_cta.jpg"
+        }
+      ],
+      "fb_photos": [
+        {
+          "type": "url",
+          "url": "https://maxegon.github.io/showviewlens/social/2026-11-05/SHV_20261105_1800_CAR/01_gancio.jpg"
+        },
+        {
+          "type": "url",
+          "url": "https://maxegon.github.io/showviewlens/social/2026-11-05/SHV_20261105_1800_CAR/02_dati.jpg"
+        },
+        {
+          "type": "url",
+          "url": "https://maxegon.github.io/showviewlens/social/2026-11-05/SHV_20261105_1800_CAR/03_dati.jpg"
+        },
+        {
+          "type": "url",
+          "url": "https://maxegon.github.io/showviewlens/social/2026-11-05/SHV_20261105_1800_CAR/04_screenshot.jpg"
+        },
+        {
+          "type": "url",
+          "url": "https://maxegon.github.io/showviewlens/social/2026-11-05/SHV_20261105_1800_CAR/05_cta.jpg"
+        }
+      ],
+      "slot": "SHV_20261105_1800_CAR",
+      "ora_pubblicazione": "2026-11-05 18:00",
+      "immagini": [
+        "https://maxegon.github.io/showviewlens/social/2026-11-05/SHV_20261105_1800_CAR/01_gancio.jpg",
+        "https://maxegon.github.io/showviewlens/social/2026-11-05/SHV_20261105_1800_CAR/02_dati.jpg",
+        "https://maxegon.github.io/showviewlens/social/2026-11-05/SHV_20261105_1800_CAR/03_dati.jpg",
+        "https://maxegon.github.io/showviewlens/social/2026-11-05/SHV_20261105_1800_CAR/04_screenshot.jpg",
+        "https://maxegon.github.io/showviewlens/social/2026-11-05/SHV_20261105_1800_CAR/05_cta.jpg"
+      ]
+    }
+  ]
+}
