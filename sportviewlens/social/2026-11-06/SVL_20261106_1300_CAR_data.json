@@ -1,0 +1,217 @@
+{
+ "data_evento": "2026-11-07",
+ "data_lunga": "Sabato 7 novembre",
+ "categoria": "weekend_sportivo",
+ "eventi": [
+  {
+   "data": "2026-11-07",
+   "ora": "13:30",
+   "titolo": "Leeds – Tottenham",
+   "competizione": "Premier League",
+   "sport": "soccer",
+   "canali": [
+    "Sky Sport Calcio",
+    "Sky Sport 4K",
+    "Sky Sport"
+   ]
+  },
+  {
+   "data": "2026-11-07",
+   "ora": "15:30",
+   "titolo": "Borussia Dortmund – SV Elversberg",
+   "competizione": "Bundesliga",
+   "sport": "soccer",
+   "canali": [
+    "Sky Sport 257",
+    "Sky Sport"
+   ]
+  },
+  {
+   "data": "2026-11-07",
+   "ora": "15:30",
+   "titolo": "FSV Mainz 05 – Bayern München",
+   "competizione": "Bundesliga",
+   "sport": "soccer",
+   "canali": [
+    "Sky Sport Mix",
+    "Sky Sport"
+   ]
+  },
+  {
+   "data": "2026-11-07",
+   "ora": "15:30",
+   "titolo": "GP San Paolo: Prove libere 3",
+   "competizione": "Formula 1",
+   "sport": "f1",
+   "canali": [
+    "Sky Sport F1"
+   ]
+  },
+  {
+   "data": "2026-11-07",
+   "ora": "16:00",
+   "titolo": "Arsenal – Hull City",
+   "competizione": "Premier League",
+   "sport": "soccer",
+   "canali": [
+    "Sky Sport Calcio",
+    "Sky Sport 4K",
+    "Sky Sport"
+   ]
+  },
+  {
+   "data": "2026-11-07",
+   "ora": "17:00",
+   "titolo": "GP Qatar — Sprint Race",
+   "competizione": "MotoGP",
+   "sport": "motogp",
+   "canali": [
+    "TV8",
+    "Sky Sport MotoGP"
+   ]
+  },
+  {
+   "data": "2026-11-07",
+   "ora": "18:30",
+   "titolo": "Nottingham Forest – Manchester City",
+   "competizione": "Premier League",
+   "sport": "soccer",
+   "canali": [
+    "Sky Sport Calcio",
+    "Sky Sport"
+   ]
+  },
+  {
+   "data": "2026-11-07",
+   "ora": "18:30",
+   "titolo": "VfB Stuttgart – Werder Bremen",
+   "competizione": "Bundesliga",
+   "sport": "soccer",
+   "canali": [
+    "Sky Sport Mix",
+    "Sky Sport"
+   ]
+  },
+  {
+   "data": "2026-11-07",
+   "ora": "19:00",
+   "titolo": "Brazilian Grand Prix — Qualifiche",
+   "competizione": "Formula 1",
+   "sport": "f1",
+   "canali": [
+    "Sky Sport F1"
+   ]
+  },
+  {
+   "data": "2026-11-07",
+   "ora": "20:45",
+   "titolo": "AS Roma – Sassuolo",
+   "competizione": "Serie A",
+   "sport": "soccer",
+   "canali": [
+    "Sky Sport Uno",
+    "Sky Sport Calcio",
+    "Sky Sport 4K",
+    "Sky Sport 251"
+   ]
+  },
+  {
+   "data": "2026-11-08",
+   "ora": "15:00",
+   "titolo": "Brighton – Brentford",
+   "competizione": "Premier League",
+   "sport": "soccer",
+   "canali": [
+    "Sky Sport 258",
+    "Sky Sport"
+   ]
+  },
+  {
+   "data": "2026-11-08",
+   "ora": "15:00",
+   "titolo": "Crystal Palace – Liverpool",
+   "competizione": "Premier League",
+   "sport": "soccer",
+   "canali": [
+    "Sky Sport 257",
+    "Sky Sport"
+   ]
+  },
+  {
+   "data": "2026-11-08",
+   "ora": "15:00",
+   "titolo": "Sunderland – Chelsea",
+   "competizione": "Premier League",
+   "sport": "soccer",
+   "canali": [
+    "Sky Sport 4K",
+    "Sky Sport Calcio",
+    "Sky Sport"
+   ]
+  },
+  {
+   "data": "2026-11-08",
+   "ora": "15:30",
+   "titolo": "1. FC Köln – Bayer Leverkusen",
+   "competizione": "Bundesliga",
+   "sport": "soccer",
+   "canali": [
+    "Sky Sport Mix",
+    "Sky Sport"
+   ]
+  },
+  {
+   "data": "2026-11-08",
+   "ora": "17:30",
+   "titolo": "Manchester United – Aston Villa",
+   "competizione": "Premier League",
+   "sport": "soccer",
+   "canali": [
+    "Sky Sport Max",
+    "Sky Sport 258",
+    "Sky Sport"
+   ]
+  },
+  {
+   "data": "2026-11-08",
+   "ora": "18:00",
+   "titolo": "Inter – Como",
+   "competizione": "Serie A",
+   "sport": "soccer",
+   "canali": [
+    "Sky Sport 251"
+   ]
+  },
+  {
+   "data": "2026-11-08",
+   "ora": "18:00",
+   "titolo": "GP San Paolo: Gara",
+   "competizione": "Formula 1",
+   "sport": "f1",
+   "canali": [
+    "Sky Sport F1"
+   ]
+  },
+  {
+   "data": "2026-11-08",
+   "ora": "19:30",
+   "titolo": "1899 Hoffenheim – FC Schalke 04",
+   "competizione": "Bundesliga",
+   "sport": "soccer",
+   "canali": [
+    "Sky Sport Arena",
+    "Sky Sport"
+   ]
+  },
+  {
+   "data": "2026-11-08",
+   "ora": "20:45",
+   "titolo": "Fiorentina – Juventus",
+   "competizione": "Serie A",
+   "sport": "soccer",
+   "canali": [
+    "DAZN"
+   ]
+  }
+ ]
+}
