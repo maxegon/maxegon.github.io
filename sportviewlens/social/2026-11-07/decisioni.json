@@ -1,0 +1,29 @@
+{
+ "app": "SportViewLens",
+ "data": "2026-11-07",
+ "righe": {
+  "SVL_20261107_1000_CAR": {
+   "pubblica_alle": "2026-11-07T10:00:00+01:00",
+   "formato": "Carosello",
+   "piattaforma": "Instagram / FB",
+   "sempreverde": false,
+   "chiave": "SVL_20261107_1000_CAR",
+   "decisione": null,
+   "alle": "",
+   "correzioni": [],
+   "messaggio_id": 526
+  }
+ },
+ "messaggi": {
+  "526": {
+   "chat_id": "1614787945",
+   "righe": [
+    "SVL_20261107_1000_CAR"
+   ],
+   "base": "<b>10:00 · Carosello · Instagram / FB</b>\nID <code>SVL_20261107_1000_CAR</code>\n⚠️ Verifica ok · 7 fonti, tolti perché incerti:\n  • tolto «WTA 250 Hong Kong: 2a Semifinale» 09:00: nessuna riga di tv_rights per tennis / «WTA 250 Hong Kong»; nessun canale con due fonti: Sky Sport Tennis (solo palinsesto); orario 09:00 no\n  • tolto «Como 1907 W – Roma W» 12:30: stagione dei diritti (2025-2026, None) non contiene il 2026-11-07; nessun canale con due fonti: DAZN (solo palinsesto); orario 12:30 non con\n  • tolto «Malaga – Racing Santander» 14:00: nessun canale con due fonti: DAZN (solo tv_rights); orario 14:00 non confrontabile col palinsesto\n  • tolto «Parigi (cemento)» 14:00: nessuna riga di tv_rights per tennis / «Masters 1000 · Singolare e doppio · ATP»; nessun canale con due fonti: Sky Sport Tennis (solo palins\n  • tolto «Cagliari – Frosinone» 15:00: nessun canale con due fonti: DAZN (solo tv_rights); orario 15:00 non confrontabile col palinsesto\n  • tolto «Torino – Lecce» 15:00: nessun canale con due fonti: DAZN (solo tv_rights); orario 15:00 non confrontabile col palinsesto\n  • … altri 6\n<pre>📺 Oggi in TV: 11 dirette sport\n\n• 13:30 Leeds – Tottenham · Sky Sport Calcio, Sky Sport 4K\n• 15:25 GP San Paolo: Prove libere 3 · Sky Sport F1\n• 15:30 Borussia Dortmund – SV Elversberg · Sky Sport 257, Sky Sport\n• 17:00 GP Qatar — Sprint Race · TV8, Sky Sport MotoGP\n• 20:45 AS Roma – Sassuolo · Sky Sport 4K, Sky Sport Uno\n\nCerca la tua squadra e scegli le tue piattaforme in SportViewLens.\n📲 Scarica gratis SportViewLens: link in bio.\n\nSportViewLens non è affiliata con DAZN, Sky, RAI o altri broadcaster.\n🤖 Contenuto generato in automatico con IA dai palinsesti TV ufficiali.\n\n#SportViewLens #SportInTV #OggiInTV</pre>\n\n<i>✅ OK: esce all'orario · ⏭️ Salta: non esce, contenuto legato a quella data · ✏️ Correggi: mi scrivi cosa cambiare · ↩️ Annulla: torna come prima. Nessun click = esce. Leggo i pulsanti ogni 15 minuti: decidi almeno 30 minuti prima.</i>"
+  }
+ },
+ "ultimo_update_id": null,
+ "anteprima_inviata_il": "2026-11-07T00:43:48+01:00",
+ "provvisorio": false
+}
