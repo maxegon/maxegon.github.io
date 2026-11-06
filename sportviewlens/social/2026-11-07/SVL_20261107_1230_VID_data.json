@@ -1,0 +1,130 @@
+{
+ "data_evento": "2026-11-07",
+ "data_lunga": "Sabato 7 novembre",
+ "categoria": "oggi_in_tv",
+ "tema": 1,
+ "eventi": [
+  {
+   "data": "2026-11-07",
+   "ora": "13:30",
+   "titolo": "Leeds – Tottenham",
+   "competizione": "Premier League",
+   "sport": "soccer",
+   "canali": [
+    "Sky Sport Calcio",
+    "Sky Sport 4K",
+    "Sky Sport"
+   ]
+  },
+  {
+   "data": "2026-11-07",
+   "ora": "15:25",
+   "titolo": "GP San Paolo: Prove libere 3",
+   "competizione": "Formula 1",
+   "sport": "f1",
+   "canali": [
+    "Sky Sport F1"
+   ]
+  },
+  {
+   "data": "2026-11-07",
+   "ora": "15:30",
+   "titolo": "Borussia Dortmund – SV Elversberg",
+   "competizione": "Bundesliga",
+   "sport": "soccer",
+   "canali": [
+    "Sky Sport 257",
+    "Sky Sport"
+   ]
+  },
+  {
+   "data": "2026-11-07",
+   "ora": "15:30",
+   "titolo": "FSV Mainz 05 – Bayern München",
+   "competizione": "Bundesliga",
+   "sport": "soccer",
+   "canali": [
+    "Sky Sport Mix",
+    "Sky Sport"
+   ]
+  },
+  {
+   "data": "2026-11-07",
+   "ora": "16:00",
+   "titolo": "Arsenal – Hull City",
+   "competizione": "Premier League",
+   "sport": "soccer",
+   "canali": [
+    "Sky Sport Calcio",
+    "Sky Sport 4K",
+    "Sky Sport"
+   ]
+  },
+  {
+   "data": "2026-11-07",
+   "ora": "17:00",
+   "titolo": "GP Qatar — Sprint Race",
+   "competizione": "MotoGP",
+   "sport": "motogp",
+   "canali": [
+    "TV8",
+    "Sky Sport MotoGP"
+   ]
+  },
+  {
+   "data": "2026-11-07",
+   "ora": "18:30",
+   "titolo": "Nottingham Forest – Manchester City",
+   "competizione": "Premier League",
+   "sport": "soccer",
+   "canali": [
+    "Sky Sport Calcio",
+    "Sky Sport"
+   ]
+  },
+  {
+   "data": "2026-11-07",
+   "ora": "18:30",
+   "titolo": "VfB Stuttgart – Werder Bremen",
+   "competizione": "Bundesliga",
+   "sport": "soccer",
+   "canali": [
+    "Sky Sport Mix",
+    "Sky Sport"
+   ]
+  },
+  {
+   "data": "2026-11-07",
+   "ora": "19:00",
+   "titolo": "Brazilian Grand Prix — Qualifiche",
+   "competizione": "Formula 1",
+   "sport": "f1",
+   "canali": [
+    "Sky Sport F1"
+   ]
+  },
+  {
+   "data": "2026-11-07",
+   "ora": "20:45",
+   "titolo": "AS Roma – Sassuolo",
+   "competizione": "Serie A",
+   "sport": "soccer",
+   "canali": [
+    "Sky Sport 4K",
+    "Sky Sport Uno",
+    "Sky Sport Calcio",
+    "Sky Sport 251"
+   ]
+  },
+  {
+   "data": "2026-11-07",
+   "ora": "21:00",
+   "titolo": "Valencia – Real Madrid",
+   "competizione": "La Liga",
+   "sport": "soccer",
+   "canali": [
+    "DAZN"
+   ]
+  }
+ ]
+}
