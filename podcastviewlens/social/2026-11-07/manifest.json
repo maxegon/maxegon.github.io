@@ -1,0 +1,99 @@
+{
+  "date": "2026-11-07",
+  "generated_at": "2026-11-07T00:37+01:00",
+  "sources_skipped": [],
+  "rimandate": [],
+  "items": [
+    {
+      "id": "W2_SAB_1100",
+      "piattaforma": "Instagram / FB",
+      "formato": "Carosello",
+      "ora": "11:00",
+      "utm": "https://podcastviewlens.vercel.app/download?utm_source=instagram&utm_medium=social&utm_campaign=pvl_2026w45&utm_content=W2_SAB_1100",
+      "stato": "PRONTO",
+      "motivo": "",
+      "caption": "Le prime voci della classifica Apple Podcasts Italia nel genere Storia, aggiornate al 7 novembre. In PodcastViewLens le trovi filtrando per genere.\n\nScarica PodcastViewLens gratis: link in bio.\n\n#PodcastViewLens #PodcastItalia #CosaAscoltare",
+      "files": [
+        "https://maxegon.github.io/podcastviewlens/social/2026-11-07/W2_SAB_1100/slide_01.jpg",
+        "https://maxegon.github.io/podcastviewlens/social/2026-11-07/W2_SAB_1100/slide_02.jpg",
+        "https://maxegon.github.io/podcastviewlens/social/2026-11-07/W2_SAB_1100/slide_03.jpg",
+        "https://maxegon.github.io/podcastviewlens/social/2026-11-07/W2_SAB_1100/slide_04.jpg"
+      ],
+      "verifica": {
+        "esito": "ok",
+        "controlli": [
+          {
+            "nome": "classifica_apple_it",
+            "esito": "ok",
+            "dettaglio": "5 voci dalla classifica Apple Podcasts Italia, la stessa fonte di Cerca/Archivio (podcastApi.js:307); solo nomi"
+          }
+        ],
+        "fonti": [
+          "https://itunes.apple.com/it/rss/toppodcasts/limit=5/genre=1487/json"
+        ]
+      },
+      "anteprima": {
+        "testo": "Le prime voci della classifica Apple Podcasts Italia nel genere Storia, aggiornate al 7 novembre. In PodcastViewLens le trovi filtrando per genere.\n\nScarica PodcastViewLens gratis: link in bio.\n\n#PodcastViewLens #PodcastItalia #CosaAscoltare",
+        "immagini": [
+          "https://maxegon.github.io/podcastviewlens/social/2026-11-07/W2_SAB_1100/slide_01.jpg"
+        ]
+      },
+      "pubblica_alle": "2026-11-07T11:00+01:00",
+      "sempreverde": false,
+      "eventi": [
+        "Il podcast di Alessandro Barbero: Lezioni e Conferenze di Storia",
+        "Alessandro Barbero Podcast - La Storia",
+        "Qui si fa l'Italia",
+        "Il Fatto delle Sabine",
+        "Disastri"
+      ],
+      "titolo_slide": "Classifica Apple Podcasts Italia: Storia",
+      "tema": "corallo",
+      "ig_media": [
+        {
+          "media_type": "IMAGE",
+          "image_url": "https://maxegon.github.io/podcastviewlens/social/2026-11-07/W2_SAB_1100/slide_01.jpg"
+        },
+        {
+          "media_type": "IMAGE",
+          "image_url": "https://maxegon.github.io/podcastviewlens/social/2026-11-07/W2_SAB_1100/slide_02.jpg"
+        },
+        {
+          "media_type": "IMAGE",
+          "image_url": "https://maxegon.github.io/podcastviewlens/social/2026-11-07/W2_SAB_1100/slide_03.jpg"
+        },
+        {
+          "media_type": "IMAGE",
+          "image_url": "https://maxegon.github.io/podcastviewlens/social/2026-11-07/W2_SAB_1100/slide_04.jpg"
+        }
+      ],
+      "fb_photos": [
+        {
+          "type": "url",
+          "url": "https://maxegon.github.io/podcastviewlens/social/2026-11-07/W2_SAB_1100/slide_01.jpg"
+        },
+        {
+          "type": "url",
+          "url": "https://maxegon.github.io/podcastviewlens/social/2026-11-07/W2_SAB_1100/slide_02.jpg"
+        },
+        {
+          "type": "url",
+          "url": "https://maxegon.github.io/podcastviewlens/social/2026-11-07/W2_SAB_1100/slide_03.jpg"
+        },
+        {
+          "type": "url",
+          "url": "https://maxegon.github.io/podcastviewlens/social/2026-11-07/W2_SAB_1100/slide_04.jpg"
+        }
+      ],
+      "slot": "W2_SAB_1100",
+      "ora_pubblicazione": "2026-11-07 11:00",
+      "testo_finale": "Le prime voci della classifica Apple Podcasts Italia nel genere Storia, aggiornate al 7 novembre. In PodcastViewLens le trovi filtrando per genere.\n\nScarica PodcastViewLens gratis: link in bio.\n\n#PodcastViewLens #PodcastItalia #CosaAscoltare",
+      "immagini": [
+        "https://maxegon.github.io/podcastviewlens/social/2026-11-07/W2_SAB_1100/slide_01.jpg",
+        "https://maxegon.github.io/podcastviewlens/social/2026-11-07/W2_SAB_1100/slide_02.jpg",
+        "https://maxegon.github.io/podcastviewlens/social/2026-11-07/W2_SAB_1100/slide_03.jpg",
+        "https://maxegon.github.io/podcastviewlens/social/2026-11-07/W2_SAB_1100/slide_04.jpg"
+      ]
+    }
+  ]
+}
