@@ -1,0 +1,29 @@
+{
+ "app": "ShowViewLens",
+ "data": "2026-11-07",
+ "righe": {
+  "SHV_20261107_1100_STORY": {
+   "pubblica_alle": "2026-11-07T11:00:00+01:00",
+   "formato": "Storia",
+   "piattaforma": "Instagram / FB Stories",
+   "sempreverde": false,
+   "chiave": "SHV_20261107_1100_STORY",
+   "decisione": null,
+   "alle": "",
+   "correzioni": [],
+   "messaggio_id": 792
+  }
+ },
+ "messaggi": {
+  "792": {
+   "chat_id": "1614787945",
+   "righe": [
+    "SHV_20261107_1100_STORY"
+   ],
+   "base": "<b>11:00 · Storia · Instagram / FB Stories</b>\nID <code>SHV_20261107_1100_STORY</code>\n✅ Verifica ok · 3 fonti\n<pre>🌙 Stasera a Firenze\n\n1. Laura Pausini · Nelson Mandela Forum · sab 7/11 · 21:00\n2. Vorrei una Voce · Nuovo Rifredi Scena Aperta · sab 7/11 · 20:30\n3. Il Berretto a Sonagli · Teatro della Pergola · sab 7/11 · 20:30\n\nCerca «ShowViewLens» su App Store e Google Play.\n#ShowViewLens</pre>\n\n<i>✅ OK: esce all'orario · ⏭️ Salta: non esce, contenuto legato a quella data · ✏️ Correggi: mi scrivi cosa cambiare · ↩️ Annulla: torna come prima. Nessun click = esce. Leggo i pulsanti ogni 15 minuti: decidi almeno 30 minuti prima.</i>"
+  }
+ },
+ "ultimo_update_id": null,
+ "anteprima_inviata_il": "2026-11-07T00:42:56+01:00",
+ "provvisorio": false
+}
