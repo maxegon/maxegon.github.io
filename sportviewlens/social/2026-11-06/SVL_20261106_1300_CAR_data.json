@@ -2,6 +2,7 @@
  "data_evento": "2026-11-07",
  "data_lunga": "Sabato 7 novembre",
  "categoria": "weekend_sportivo",
+ "tema": 1,
  "eventi": [
   {
    "data": "2026-11-07",
@@ -13,6 +14,16 @@
     "Sky Sport Calcio",
     "Sky Sport 4K",
     "Sky Sport"
+   ]
+  },
+  {
+   "data": "2026-11-07",
+   "ora": "15:25",
+   "titolo": "GP San Paolo: Prove libere 3",
+   "competizione": "Formula 1",
+   "sport": "f1",
+   "canali": [
+    "Sky Sport F1"
    ]
   },
   {
@@ -39,16 +50,6 @@
   },
   {
    "data": "2026-11-07",
-   "ora": "15:30",
-   "titolo": "GP San Paolo: Prove libere 3",
-   "competizione": "Formula 1",
-   "sport": "f1",
-   "canali": [
-    "Sky Sport F1"
-   ]
-  },
-  {
-   "data": "2026-11-07",
    "ora": "16:00",
    "titolo": "Arsenal – Hull City",
    "competizione": "Premier League",
@@ -68,6 +69,16 @@
    "canali": [
     "TV8",
     "Sky Sport MotoGP"
+   ]
+  },
+  {
+   "data": "2026-11-07",
+   "ora": "18:00",
+   "titolo": "Parma – Bologna",
+   "competizione": "Serie A",
+   "sport": "soccer",
+   "canali": [
+    "DAZN"
    ]
   },
   {
