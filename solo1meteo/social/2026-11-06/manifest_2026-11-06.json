@@ -5,7 +5,7 @@
   "backend": "healthy",
   "righe": 1,
   "stati": {
-    "SALTATO_VERIFICA": 1
+    "MEDIA_PRONTA": 1
   },
   "voci": [
     {
@@ -15,10 +15,49 @@
       "ora_pubblicazione": "2026-11-06 18:30",
       "data_evento": "2026-11-07",
       "utm": "https://maxegon.github.io/meteo-stat-privacy/landing/?utm_source=instagram&utm_medium=social&utm_campaign=s1m_2026w45&utm_content=S1M_20261106_1830_FEED",
-      "generato_il": "2026-11-05T01:05:12+01:00",
-      "provvisorio": true,
-      "stato": "SALTATO_VERIFICA",
-      "motivo": "verifica dei dati non superata: fonti_pioggia: 2 fonti con il dato di pioggia (minimo 3)",
+      "generato_il": "2026-11-06T14:07:14+01:00",
+      "provvisorio": false,
+      "giorno": "2026-11-06",
+      "stato": "MEDIA_PRONTA",
+      "motivo": null,
+      "testo_finale": "Come funziona Solo1Meteo: per ogni giorno mette accanto le previsioni di 8 fonti meteo e ne calcola la media, con il numero di fonti sempre in vista. Verde quando le fonti sono d'accordo, giallo o rosso quando divergono. Scarica Solo1Meteo gratis: link in bio. #solo1meteo #meteo #previsionimeteo #meteoitalia",
+      "concept_finale": "post di riserva (allerta meteo)",
+      "immagini": [
+        "https://maxegon.github.io/solo1meteo/social/2026-11-06/S1M_20261106_1830_FEED/1_copertina.png",
+        "https://maxegon.github.io/solo1meteo/social/2026-11-06/S1M_20261106_1830_FEED/4_screenshot.png",
+        "https://maxegon.github.io/solo1meteo/social/2026-11-06/S1M_20261106_1830_FEED/5_cta.png"
+      ],
+      "video_url": null,
+      "riserva": true,
+      "motivo_riserva": "allerte: allerta meteo attiva (Giallo Temporali Allerta; Giallo Temporali Allerta; Giallo Temporali Allerta) e nessun ente citato nel post",
+      "ig_media": [
+        {
+          "media_type": "IMAGE",
+          "image_url": "https://maxegon.github.io/solo1meteo/social/2026-11-06/S1M_20261106_1830_FEED/1_copertina.png"
+        },
+        {
+          "media_type": "IMAGE",
+          "image_url": "https://maxegon.github.io/solo1meteo/social/2026-11-06/S1M_20261106_1830_FEED/4_screenshot.png"
+        },
+        {
+          "media_type": "IMAGE",
+          "image_url": "https://maxegon.github.io/solo1meteo/social/2026-11-06/S1M_20261106_1830_FEED/5_cta.png"
+        }
+      ],
+      "fb_photos": [
+        {
+          "type": "url",
+          "url": "https://maxegon.github.io/solo1meteo/social/2026-11-06/S1M_20261106_1830_FEED/1_copertina.png"
+        },
+        {
+          "type": "url",
+          "url": "https://maxegon.github.io/solo1meteo/social/2026-11-06/S1M_20261106_1830_FEED/4_screenshot.png"
+        },
+        {
+          "type": "url",
+          "url": "https://maxegon.github.io/solo1meteo/social/2026-11-06/S1M_20261106_1830_FEED/5_cta.png"
+        }
+      ],
       "verifica": {
         "esito": "dubbio",
         "controlli": [
@@ -30,12 +69,12 @@
           {
             "nome": "fonti",
             "esito": "ok",
-            "dettaglio": "7 fonti su 8 per 2026-11-07 (minimo 6)"
+            "dettaglio": "8 fonti su 8 per 2026-11-07 (minimo 6)"
           },
           {
             "nome": "fonti_pioggia",
-            "esito": "dubbio",
-            "dettaglio": "2 fonti con il dato di pioggia (minimo 3)"
+            "esito": "ok",
+            "dettaglio": "5 fonti con il dato di pioggia (minimo 3)"
           },
           {
             "nome": "freschezza",
@@ -55,7 +94,7 @@
           {
             "nome": "scarto",
             "esito": "ok",
-            "dettaglio": "massime 11-16° (scarto 5°), pioggia 50-68% (scarto 18) | disaccordo sulle massime: il gancio mostra l'intervallo"
+            "dettaglio": "massime 9-15° (scarto 6°), pioggia 35-96% (scarto 61) | disaccordo sulle massime: il gancio mostra l'intervallo; disaccordo sulla pioggia: il gancio lo dice"
           },
           {
             "nome": "giorno",
@@ -64,8 +103,8 @@
           },
           {
             "nome": "allerte",
-            "esito": "ok",
-            "dettaglio": "nessuna allerta meteo attiva per il giorno (WeatherAPI)"
+            "esito": "dubbio",
+            "dettaglio": "allerta meteo attiva (Giallo Temporali Allerta; Giallo Temporali Allerta; Giallo Temporali Allerta) e nessun ente citato nel post"
           },
           {
             "nome": "posizione",
@@ -80,6 +119,7 @@
           "https://www.weatherapi.com",
           "https://api.met.no",
           "https://brightsky.dev",
+          "https://www.visualcrossing.com",
           "http://www.7timer.info",
           "https://www.tomorrow.io"
         ]
@@ -88,48 +128,34 @@
         {
           "citta": "Firenze",
           "esito": "verifica",
-          "motivo": "fonti_pioggia: 2 fonti con il dato di pioggia (minimo 3)"
+          "motivo": "allerte: allerta meteo attiva (Giallo Temporali Allerta; Giallo Temporali Allerta; Giallo Temporali Allerta) e nessun ente citato nel post"
         },
         {
           "citta": "Roma",
           "esito": "verifica",
-          "motivo": "fonti_pioggia: 2 fonti con il dato di pioggia (minimo 3)"
+          "motivo": "allerte: allerta meteo attiva (Giallo Temporali Allerta; Giallo Temporali Allerta; Giallo Temporali Allerta) e nessun ente citato nel post"
         },
         {
           "citta": "Milano",
           "esito": "verifica",
-          "motivo": "backend_risposta: risposta parziale o con errori: partial=False, errors=[{'provider': 'OpenWeatherMap', 'error': 'timeout of 8000ms exceeded'}]; fonti_pioggia: 2 fonti con il dato di pioggia (minimo 3)"
+          "motivo": "allerte: allerta meteo attiva (Giallo Temporali Allerta; Giallo Temporali Allerta; Giallo Temporali Allerta) e nessun ente citato nel post"
         },
         {
           "citta": "Napoli",
           "esito": "verifica",
-          "motivo": "backend_risposta: risposta parziale o con errori: partial=False, errors=[{'provider': 'MET Norway', 'error': 'Request failed with status code 503'}]; fonti_pioggia: 2 fonti con il dato di pioggia (minimo 3)"
+          "motivo": "allerte: allerta meteo attiva (Giallo Temporali Allerta; Giallo Temporali Allerta; Giallo Temporali Allerta) e nessun ente citato nel post"
         }
       ],
-      "dati_scartati": {
-        "citta": "Firenze",
-        "data_label": "sabato 7 novembre",
-        "fonti_n": 7,
-        "fonti_elencate": 7,
-        "fonti_escluse": [],
-        "tmax_media": 14,
-        "tmax_min": 11,
-        "tmax_max": 16,
-        "tmin_media": 9,
-        "pioggia_media": 50,
-        "pioggia_min": 50,
-        "pioggia_max": 68,
-        "fonti_pioggia": 2,
-        "condizione": "pioggia",
-        "fonti_condizione": 3,
-        "giorno_piu_incerto": "martedì",
-        "scarto_tmax": 10,
-        "tmax_scarto_fonti": 5.3,
-        "tmax_disaccordo": true,
-        "pioggia_disaccordo": false,
-        "gancio_pioggia": "pioggia 50%"
+      "anteprima": {
+        "testo": "Come funziona Solo1Meteo: per ogni giorno mette accanto le previsioni di 8 fonti meteo e ne calcola la media, con il numero di fonti sempre in vista. Verde quando le fonti sono d'accordo, giallo o rosso quando divergono. Scarica Solo1Meteo gratis: link in bio. #solo1meteo #meteo #previsionimeteo #meteoitalia",
+        "immagini": [
+          "https://maxegon.github.io/solo1meteo/social/2026-11-06/S1M_20261106_1830_FEED/1_copertina.png"
+        ]
       },
-      "giorno": "2026-11-06"
+      "cambio_serale": {
+        "tipo": "nuova",
+        "motivo": "la sera era SALTATO_VERIFICA"
+      }
     }
   ]
 }
