@@ -1,0 +1,29 @@
+{
+ "app": "Solo1Meteo",
+ "data": "2026-11-08",
+ "righe": {
+  "S1M_20261108_1930_FEED": {
+   "pubblica_alle": "2026-11-08T19:30:00+01:00",
+   "formato": "Carosello",
+   "piattaforma": "Instagram / FB",
+   "sempreverde": false,
+   "chiave": "S1M_20261108_1930_FEED",
+   "decisione": null,
+   "alle": "",
+   "correzioni": [],
+   "messaggio_id": 707
+  }
+ },
+ "messaggi": {
+  "707": {
+   "chat_id": "1614787945",
+   "righe": [
+    "S1M_20261108_1930_FEED"
+   ],
+   "base": "<b>19:30 · Carosello · Instagram / FB</b>\nID <code>S1M_20261108_1930_FEED</code>\n✅ Verifica ok · 9 fonti\n<pre>La settimana a Roma: il giorno su cui le fonti sono meno d&#x27;accordo è mercoledì, con 5° di differenza tra le massime. Ricontrolla la sera prima. Scarica Solo1Meteo gratis: link in bio. #solo1meteo #meteo #previsionimeteo #meteoitalia</pre>\n\n<i>✅ OK: esce all'orario · ⏭️ Salta: non esce, contenuto legato a quella data · ✏️ Correggi: mi scrivi cosa cambiare · ↩️ Annulla: torna come prima. Nessun click = esce. Leggo i pulsanti ogni 15 minuti: decidi almeno 30 minuti prima.</i>"
+  }
+ },
+ "ultimo_update_id": null,
+ "anteprima_inviata_il": "2026-11-07T00:38:04+01:00",
+ "provvisorio": true
+}
