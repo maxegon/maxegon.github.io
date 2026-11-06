@@ -1,6 +1,6 @@
 {
   "data": "2026-11-06",
-  "generato_il": "2026-11-05T21:49:30+00:00",
+  "generato_il": "2026-11-06T00:00:05+00:00",
   "piano": "marketing/piano_4_settimane.csv",
   "righe": [
     {
@@ -57,7 +57,7 @@
             {
               "nome": "serie",
               "esito": "ok",
-              "dettaglio": "8 date della produzione, nessuna anomalia in testa alla serie"
+              "dettaglio": "7 date della produzione, nessuna anomalia in testa alla serie"
             }
           ],
           "fonti": [
@@ -96,7 +96,7 @@
             {
               "nome": "serie",
               "esito": "ok",
-              "dettaglio": "4 date della produzione, nessuna anomalia in testa alla serie"
+              "dettaglio": "3 date della produzione, nessuna anomalia in testa alla serie"
             }
           ],
           "fonti": [
@@ -344,7 +344,7 @@
             {
               "nome": "serie",
               "esito": "ok",
-              "dettaglio": "3 date della produzione, nessuna anomalia in testa alla serie"
+              "dettaglio": "2 date della produzione, nessuna anomalia in testa alla serie"
             }
           ],
           "fonti": [
