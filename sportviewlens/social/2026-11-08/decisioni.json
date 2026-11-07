@@ -1,0 +1,47 @@
+{
+ "app": "SportViewLens",
+ "data": "2026-11-08",
+ "righe": {
+  "SVL_20261108_1000_CAR": {
+   "pubblica_alle": "2026-11-08T10:00:00+01:00",
+   "formato": "Carosello",
+   "piattaforma": "Instagram / FB",
+   "sempreverde": false,
+   "chiave": "SVL_20261108_1000_CAR",
+   "decisione": null,
+   "alle": "",
+   "correzioni": [],
+   "messaggio_id": 537
+  },
+  "SVL_20261108_1100_STO": {
+   "pubblica_alle": "2026-11-08T11:00:00+01:00",
+   "formato": "Storia",
+   "piattaforma": "Instagram / FB Stories",
+   "sempreverde": false,
+   "chiave": "SVL_20261108_1100_STO",
+   "decisione": null,
+   "alle": "",
+   "correzioni": [],
+   "messaggio_id": 539
+  }
+ },
+ "messaggi": {
+  "537": {
+   "chat_id": "1614787945",
+   "righe": [
+    "SVL_20261108_1000_CAR"
+   ],
+   "base": "<b>10:00 · Carosello · Instagram / FB</b>\nID <code>SVL_20261108_1000_CAR</code>\n⚠️ Verifica ok · 7 fonti, tolti perché incerti:\n  • tolto «Finale Tennis: WTA 250» 09:00: nessuna riga di tv_rights per tennis / «Tennis»; nessun canale con due fonti: Sky Sport Uno (solo palinsesto); Sky Sport Tennis (solo palins\n  • tolto «Stoccolma (cemento)» 12:00: nessuna riga di tv_rights per tennis / «ATP 250 · Singolare e doppio · ATP»; nessun canale con due fonti: Sky Sport 259 (solo palinsesto); o\n  • tolto «Heerenveen – Feyenoord» 12:15: stagione dei diritti (2025-2026) non contiene il 2026-11-08; nessun canale con due fonti: DAZN (nessuna fonte); orario 12:15 non confrontabi\n  • tolto «Napoli – Lazio» 12:30: nessun canale con due fonti: DAZN (solo tv_rights); orario 12:30 non confrontabile col palinsesto\n  • tolto «Parma W – Como W» 12:30: stagione dei diritti (2025-2026, None) non contiene il 2026-11-08; nessun canale con due fonti: DAZN (nessuna fonte); orario 12:30 non confr\n  • tolto «Stafford Rangers – Grimsby» 13:00: nessun canale con due fonti: Eurosport 4 (solo palinsesto); Discovery+ (solo tv_rights); DAZN (solo tv_rights); orario 13:00 non confrontabi\n  • … altri 6\n<pre>📺 Oggi in TV: 10 dirette sport\n\n• 09:20 Cycling: Tour de France Singapore Criterium · Eurosport 2\n• 12:00 Trieste – BC Roma · Sky Sport Basket\n• 12:35 MotoGP Warm Up · Sky Sport MotoGP\n• 15:00 Brighton – Brentford · Sky Sport 258, Sky Sport\n• 15:30 1. FC Köln – Bayer Leverkusen · Sky Sport Mix, Sky Sport\n\nCerca la tua squadra e scegli le tue piattaforme in SportViewLens.\n📲 Scarica gratis SportViewLens: link in bio.\n\nSportViewLens non è affiliata con DAZN, Sky, RAI o altri broadcaster.\n🤖 Contenuto generato in automatico con IA dai palinsesti TV ufficiali.\n\n#SportViewLens #SportInTV #OggiInTV</pre>\n\n<i>✅ OK: esce all'orario · ⏭️ Salta: non esce, contenuto legato a quella data · ✏️ Correggi: mi scrivi cosa cambiare · ↩️ Annulla: torna come prima. Nessun click = esce. Leggo i pulsanti ogni 15 minuti: decidi almeno 30 minuti prima.</i>"
+  },
+  "539": {
+   "chat_id": "1614787945",
+   "righe": [
+    "SVL_20261108_1100_STO"
+   ],
+   "base": "<b>11:00 · Storia · Instagram / FB Stories</b>\nID <code>SVL_20261108_1100_STO</code>\n⚠️ Verifica ok · 7 fonti, tolti perché incerti:\n  • tolto «Finale Tennis: WTA 250» 09:00: nessuna riga di tv_rights per tennis / «Tennis»; nessun canale con due fonti: Sky Sport Uno (solo palinsesto); Sky Sport Tennis (solo palins\n  • tolto «Stoccolma (cemento)» 12:00: nessuna riga di tv_rights per tennis / «ATP 250 · Singolare e doppio · ATP»; nessun canale con due fonti: Sky Sport 259 (solo palinsesto); o\n  • tolto «Heerenveen – Feyenoord» 12:15: stagione dei diritti (2025-2026) non contiene il 2026-11-08; nessun canale con due fonti: DAZN (nessuna fonte); orario 12:15 non confrontabi\n  • tolto «Napoli – Lazio» 12:30: nessun canale con due fonti: DAZN (solo tv_rights); orario 12:30 non confrontabile col palinsesto\n  • tolto «Parma W – Como W» 12:30: stagione dei diritti (2025-2026, None) non contiene il 2026-11-08; nessun canale con due fonti: DAZN (nessuna fonte); orario 12:30 non confr\n  • tolto «Stafford Rangers – Grimsby» 13:00: nessun canale con due fonti: Eurosport 4 (solo palinsesto); Discovery+ (solo tv_rights); DAZN (solo tv_rights); orario 13:00 non confrontabi\n  • … altri 6\n<pre>Oggi in TV: 10 dirette. • 09:20 Cycling: Tour de France Singapore Criterium · Eurosport 2\n• 12:00 Trieste – BC Roma · Sky Sport Basket\n• 12:35 MotoGP Warm Up · Sky Sport MotoGP\n• 15:00 Brighton – Brentford · Sky Sport 258, Sky Sport\n• 15:30 1. FC Köln – Bayer Leverkusen · Sky Sport Mix, Sky Sport\nCerca «SportViewLens» su App Store e Google Play.\nSportViewLens non è affiliata con DAZN, Sky, RAI o altri broadcaster.\n🤖 Contenuto generato in automatico con IA dai palinsesti TV ufficiali.</pre>\n\n<i>✅ OK: esce all'orario · ⏭️ Salta: non esce, contenuto legato a quella data · ✏️ Correggi: mi scrivi cosa cambiare · ↩️ Annulla: torna come prima. Nessun click = esce. Leggo i pulsanti ogni 15 minuti: decidi almeno 30 minuti prima.</i>"
+  }
+ },
+ "ultimo_update_id": null,
+ "anteprima_inviata_il": "2026-11-07T23:39:18+01:00",
+ "provvisorio": false
+}
