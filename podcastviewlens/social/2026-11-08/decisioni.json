@@ -1,0 +1,47 @@
+{
+ "app": "PodcastViewLens",
+ "data": "2026-11-08",
+ "righe": {
+  "W2_DOM_1800": {
+   "pubblica_alle": "2026-11-08T18:00:00+01:00",
+   "formato": "Carosello",
+   "piattaforma": "Instagram / FB",
+   "sempreverde": false,
+   "chiave": "W2_DOM_1800",
+   "decisione": null,
+   "alle": "",
+   "correzioni": [],
+   "messaggio_id": 151
+  },
+  "W2_DOM_2030": {
+   "pubblica_alle": "2026-11-08T20:30:00+01:00",
+   "formato": "Storia",
+   "piattaforma": "Instagram Stories",
+   "sempreverde": false,
+   "chiave": "W2_DOM_2030",
+   "decisione": null,
+   "alle": "",
+   "correzioni": [],
+   "messaggio_id": 153
+  }
+ },
+ "messaggi": {
+  "151": {
+   "chat_id": "1614787945",
+   "righe": [
+    "W2_DOM_1800"
+   ],
+   "base": "<b>18:00 · Carosello · Instagram / FB</b>\nID <code>W2_DOM_1800</code>\n✅ Verifica ok · 9 fonti, tolti perché incerti:\n  • fonte_feed_editore: esclusi dal post: Tintoria: editore del feed «OnePodcast - The Comedy Club» diverso dal catalogo «Daniele Tinti &amp; Stefano Rapone / Indipende\n<pre>Le puntate uscite dal 31 ottobre al 6 novembre nei podcast in palinsesto, fascia per fascia: 45 puntate da 9 podcast (Mattina 6, Pranzo 16, Pomeriggio 6, Sera 6, Notte 11). Dati dei feed pubblici, aggiornati al 6 novembre.\n\nScarica PodcastViewLens gratis: link in bio.\n\n#PodcastViewLens #PodcastItalia #CosaAscoltare</pre>\n\n<i>✅ OK: esce all'orario · ⏭️ Salta: non esce, contenuto legato a quella data · ✏️ Correggi: mi scrivi cosa cambiare · ↩️ Annulla: torna come prima. Nessun click = esce. Leggo i pulsanti ogni 15 minuti: decidi almeno 30 minuti prima.</i>"
+  },
+  "153": {
+   "chat_id": "1614787945",
+   "righe": [
+    "W2_DOM_2030"
+   ],
+   "base": "<b>20:30 · Storia · Instagram Stories</b>\nID <code>W2_DOM_2030</code>\n✅ Verifica ok · 9 fonti, tolti perché incerti:\n  • fonte_feed_editore: esclusi dal post: Tintoria: editore del feed «OnePodcast - The Comedy Club» diverso dal catalogo «Daniele Tinti &amp; Stefano Rapone / Indipende\n  • previsione_app_e_abitudine: 7 previsti dall&#x27;app e usciti di lunedì almeno 2 volte nelle ultime 3 settimane; tolti Morning\n<pre>Storia: S1: 7 podcast che di solito escono di lunedì titolo: cosa è previsto domani | S2: fino a 3 righe podcast e ora, etichetta Previsto | S3: Cerca «PodcastViewLens» su App Store e Google Play</pre>\n\n<i>✅ OK: esce all'orario · ⏭️ Salta: non esce, contenuto legato a quella data · ✏️ Correggi: mi scrivi cosa cambiare · ↩️ Annulla: torna come prima. Nessun click = esce. Leggo i pulsanti ogni 15 minuti: decidi almeno 30 minuti prima.</i>"
+  }
+ },
+ "ultimo_update_id": null,
+ "anteprima_inviata_il": "2026-11-07T23:29:43+01:00",
+ "provvisorio": false
+}
