@@ -1,0 +1,325 @@
+{
+  "data": "2026-11-08",
+  "generato_il": "2026-11-07T22:35:28+00:00",
+  "piano": "marketing/piano_4_settimane.csv",
+  "righe": [
+    {
+      "id": "SHV_20261108_1800_CAR",
+      "piattaforma": "Instagram / FB",
+      "formato": "Carosello",
+      "categoria": "opera+danza",
+      "pubblica_alle": "2026-11-08T18:00:00+01:00",
+      "tema": "chiaro",
+      "scartati": [
+        [
+          "Kaguya-Hime",
+          "ora 10:00 prima di 11:00"
+        ],
+        [
+          "Memorare ’26 – Danza e Canto per il Creato",
+          "senza biglietteria online"
+        ],
+        [
+          "Ragazzi All'Opera",
+          "ora 10:30 prima di 11:00"
+        ]
+      ],
+      "doppioni_rimossi": 39,
+      "verifica_eventi": [
+        {
+          "evento": "Italian Opera Taormina",
+          "data": "2026-11-09",
+          "ora": "21:15",
+          "citta": "Taormina",
+          "fonte": "vivaticket",
+          "esito": "ok",
+          "rinforzato": false,
+          "controlli": [
+            {
+              "nome": "orario",
+              "esito": "ok",
+              "dettaglio": "21:15"
+            },
+            {
+              "nome": "titolo",
+              "esito": "ok",
+              "dettaglio": "nessuna etichetta di abbonamento"
+            },
+            {
+              "nome": "biglietteria",
+              "esito": "ok",
+              "dettaglio": "Vivaticket: replica letta dall API pubblica"
+            },
+            {
+              "nome": "pagina",
+              "esito": "ok",
+              "dettaglio": "titolo, citta, data e ora coincidono (2026-11-09 21:15, TAORMINA)"
+            },
+            {
+              "nome": "serie",
+              "esito": "ok",
+              "dettaglio": "10 date della produzione, nessuna anomalia in testa alla serie"
+            }
+          ],
+          "fonti": [
+            "https://shop.vivaticket.com/it/sell/?cmd=prices&pcode=13298491&tcode=vt0020309"
+          ]
+        },
+        {
+          "evento": "Voci D'Italia — An Enveloping Opera Night",
+          "data": "2026-11-09",
+          "ora": "20:30",
+          "citta": "Firenze",
+          "fonte": "vivaticket",
+          "esito": "ok",
+          "rinforzato": false,
+          "controlli": [
+            {
+              "nome": "orario",
+              "esito": "ok",
+              "dettaglio": "20:30"
+            },
+            {
+              "nome": "titolo",
+              "esito": "ok",
+              "dettaglio": "nessuna etichetta di abbonamento"
+            },
+            {
+              "nome": "biglietteria",
+              "esito": "ok",
+              "dettaglio": "Vivaticket: replica letta dall API pubblica"
+            },
+            {
+              "nome": "pagina",
+              "esito": "ok",
+              "dettaglio": "titolo, citta, data e ora coincidono (2026-11-09 20:30, FIRENZE)"
+            },
+            {
+              "nome": "serie",
+              "esito": "ok",
+              "dettaglio": "56 date della produzione, nessuna anomalia in testa alla serie"
+            }
+          ],
+          "fonti": [
+            "https://shop.vivaticket.com/it/sell/?cmd=prices&pcode=14211199&tcode=vt0021949"
+          ]
+        },
+        {
+          "evento": "L'esule di Roma",
+          "data": "2026-11-10",
+          "ora": "17:00",
+          "citta": "Bergamo",
+          "fonte": "vivaticket",
+          "esito": "ok",
+          "rinforzato": false,
+          "controlli": [
+            {
+              "nome": "orario",
+              "esito": "ok",
+              "dettaglio": "17:00"
+            },
+            {
+              "nome": "titolo",
+              "esito": "ok",
+              "dettaglio": "nessuna etichetta di abbonamento"
+            },
+            {
+              "nome": "biglietteria",
+              "esito": "ok",
+              "dettaglio": "Vivaticket: replica letta dall API pubblica"
+            },
+            {
+              "nome": "pagina",
+              "esito": "ok",
+              "dettaglio": "titolo, citta, data e ora coincidono (2026-11-10 17:00, BERGAMO)"
+            },
+            {
+              "nome": "serie",
+              "esito": "ok",
+              "dettaglio": "4 date della produzione, nessuna anomalia in testa alla serie"
+            }
+          ],
+          "fonti": [
+            "https://www.vivaticket.com/it/ticket/l-esule-di-roma-anteprima-under-30/307657"
+          ]
+        },
+        {
+          "evento": "Iris",
+          "data": "2026-11-10",
+          "ora": "20:00",
+          "citta": "Torino",
+          "fonte": "vivaticket",
+          "esito": "ok",
+          "rinforzato": false,
+          "controlli": [
+            {
+              "nome": "orario",
+              "esito": "ok",
+              "dettaglio": "20:00"
+            },
+            {
+              "nome": "titolo",
+              "esito": "ok",
+              "dettaglio": "nessuna etichetta di abbonamento"
+            },
+            {
+              "nome": "biglietteria",
+              "esito": "ok",
+              "dettaglio": "Vivaticket: replica letta dall API pubblica"
+            },
+            {
+              "nome": "pagina",
+              "esito": "ok",
+              "dettaglio": "titolo, citta, data e ora coincidono (2026-11-10 20:00, TORINO)"
+            },
+            {
+              "nome": "serie",
+              "esito": "ok",
+              "dettaglio": "5 date della produzione, nessuna anomalia in testa alla serie"
+            }
+          ],
+          "fonti": [
+            "https://shop.vivaticket.com/it/sell/?cmd=prices&pcode=14095371&tcode=tl014461"
+          ]
+        },
+        {
+          "evento": "Le Lac Des Cygnes",
+          "data": "2026-11-10",
+          "ora": "19:00",
+          "citta": "Bari",
+          "fonte": "vivaticket",
+          "esito": "dubbio",
+          "rinforzato": false,
+          "controlli": [
+            {
+              "nome": "orario",
+              "esito": "ok",
+              "dettaglio": "19:00"
+            },
+            {
+              "nome": "titolo",
+              "esito": "ok",
+              "dettaglio": "nessuna etichetta di abbonamento"
+            },
+            {
+              "nome": "biglietteria",
+              "esito": "ok",
+              "dettaglio": "Vivaticket: replica letta dall API pubblica"
+            },
+            {
+              "nome": "pagina",
+              "esito": "ok",
+              "dettaglio": "titolo, citta, data e ora coincidono (2026-11-10 19:00, BARI)"
+            },
+            {
+              "nome": "serie",
+              "esito": "dubbio",
+              "dettaglio": "prima data isolata: poi 2026-11-12 dopo 2 giorni (serie fino al 2026-11-15)"
+            }
+          ],
+          "fonti": [
+            "https://www.vivaticket.com/it/ticket/conversazioni-sull-opera-le-lac-des-cygnes/323135"
+          ]
+        }
+      ],
+      "stato": "PRONTO",
+      "testo_finale": "🎼 La prossima settimana tra opera e balletto: 50 serate in ShowViewLens.\n\n1. Italian Opera Taormina · TEATRO NAZARENA · lun 9/11 · 21:15\n2. Voci D'Italia — An Enveloping Opera Night · Teatro Nazionale Firenze · lun 9/11 · 20:30\n3. L'esule di Roma · Teatro Donizetti · mar 10/11 · 17:00\n4. Iris · Teatro Regio · mar 10/11 · 20:00\n\nSalva il post e scegli la tua serata. Su ShowViewLens c’è il link alla biglietteria ufficiale.\n\n📲 Scarica ShowViewLens gratis: link in bio (App Store e Google Play).\n\n#ShowViewLens #OperaLirica #Balletto #SpettacoliDalVivo",
+      "titolo_slide": "Opera e balletto: 50 serate la prossima settimana",
+      "eventi": [
+        "Italian Opera Taormina",
+        "Voci D'Italia — An Enveloping Opera Night",
+        "L'esule di Roma",
+        "Iris"
+      ],
+      "conteggio": 50,
+      "file": [
+        "https://maxegon.github.io/showviewlens/social/2026-11-08/SHV_20261108_1800_CAR/01_gancio.jpg",
+        "https://maxegon.github.io/showviewlens/social/2026-11-08/SHV_20261108_1800_CAR/02_dati.jpg",
+        "https://maxegon.github.io/showviewlens/social/2026-11-08/SHV_20261108_1800_CAR/03_dati.jpg",
+        "https://maxegon.github.io/showviewlens/social/2026-11-08/SHV_20261108_1800_CAR/04_screenshot.jpg",
+        "https://maxegon.github.io/showviewlens/social/2026-11-08/SHV_20261108_1800_CAR/05_cta.jpg"
+      ],
+      "utm": "https://maxegon.github.io/showviewlens/download/?utm_source=instagram&utm_medium=social&utm_campaign=piano_2026_11&utm_content=SHV_20261108_1800_CAR",
+      "verifica": {
+        "esito": "dubbio",
+        "controlli": [
+          {
+            "nome": "eventi nel post",
+            "esito": "ok",
+            "dettaglio": "4 eventi verificati ok, 1 tolti, su 51 candidati"
+          },
+          {
+            "nome": "tolto «Le Lac Des Cygnes» mar 10/11",
+            "esito": "dubbio",
+            "dettaglio": "prima data isolata: poi 2026-11-12 dopo 2 giorni (serie fino al 2026-11-15)"
+          }
+        ],
+        "fonti": [
+          "https://shop.vivaticket.com/it/sell/?cmd=prices&pcode=13298491&tcode=vt0020309",
+          "https://shop.vivaticket.com/it/sell/?cmd=prices&pcode=14211199&tcode=vt0021949",
+          "https://www.vivaticket.com/it/ticket/l-esule-di-roma-anteprima-under-30/307657",
+          "https://shop.vivaticket.com/it/sell/?cmd=prices&pcode=14095371&tcode=tl014461"
+        ]
+      },
+      "anteprima": {
+        "testo": "🎼 La prossima settimana tra opera e balletto: 50 serate in ShowViewLens.\n\n1. Italian Opera Taormina · TEATRO NAZARENA · lun 9/11 · 21:15\n2. Voci D'Italia — An Enveloping Opera Night · Teatro Nazionale Firenze · lun 9/11 · 20:30\n3. L'esule di Roma · Teatro Donizetti · mar 10/11 · 17:00\n4. Iris · Teatro Regio · mar 10/11 · 20:00\n\nSalva il post e scegli la tua serata. Su ShowViewLens c’è il link alla biglietteria ufficiale.\n\n📲 Scarica ShowViewLens gratis: link in bio (App Store e Google Play).\n\n#ShowViewLens #OperaLirica #Balletto #SpettacoliDalVivo",
+        "immagini": [
+          "https://maxegon.github.io/showviewlens/social/2026-11-08/SHV_20261108_1800_CAR/01_gancio.jpg"
+        ]
+      },
+      "ig_media": [
+        {
+          "media_type": "IMAGE",
+          "image_url": "https://maxegon.github.io/showviewlens/social/2026-11-08/SHV_20261108_1800_CAR/01_gancio.jpg"
+        },
+        {
+          "media_type": "IMAGE",
+          "image_url": "https://maxegon.github.io/showviewlens/social/2026-11-08/SHV_20261108_1800_CAR/02_dati.jpg"
+        },
+        {
+          "media_type": "IMAGE",
+          "image_url": "https://maxegon.github.io/showviewlens/social/2026-11-08/SHV_20261108_1800_CAR/03_dati.jpg"
+        },
+        {
+          "media_type": "IMAGE",
+          "image_url": "https://maxegon.github.io/showviewlens/social/2026-11-08/SHV_20261108_1800_CAR/04_screenshot.jpg"
+        },
+        {
+          "media_type": "IMAGE",
+          "image_url": "https://maxegon.github.io/showviewlens/social/2026-11-08/SHV_20261108_1800_CAR/05_cta.jpg"
+        }
+      ],
+      "fb_photos": [
+        {
+          "type": "url",
+          "url": "https://maxegon.github.io/showviewlens/social/2026-11-08/SHV_20261108_1800_CAR/01_gancio.jpg"
+        },
+        {
+          "type": "url",
+          "url": "https://maxegon.github.io/showviewlens/social/2026-11-08/SHV_20261108_1800_CAR/02_dati.jpg"
+        },
+        {
+          "type": "url",
+          "url": "https://maxegon.github.io/showviewlens/social/2026-11-08/SHV_20261108_1800_CAR/03_dati.jpg"
+        },
+        {
+          "type": "url",
+          "url": "https://maxegon.github.io/showviewlens/social/2026-11-08/SHV_20261108_1800_CAR/04_screenshot.jpg"
+        },
+        {
+          "type": "url",
+          "url": "https://maxegon.github.io/showviewlens/social/2026-11-08/SHV_20261108_1800_CAR/05_cta.jpg"
+        }
+      ],
+      "slot": "SHV_20261108_1800_CAR",
+      "ora_pubblicazione": "2026-11-08 18:00",
+      "immagini": [
+        "https://maxegon.github.io/showviewlens/social/2026-11-08/SHV_20261108_1800_CAR/01_gancio.jpg",
+        "https://maxegon.github.io/showviewlens/social/2026-11-08/SHV_20261108_1800_CAR/02_dati.jpg",
+        "https://maxegon.github.io/showviewlens/social/2026-11-08/SHV_20261108_1800_CAR/03_dati.jpg",
+        "https://maxegon.github.io/showviewlens/social/2026-11-08/SHV_20261108_1800_CAR/04_screenshot.jpg",
+        "https://maxegon.github.io/showviewlens/social/2026-11-08/SHV_20261108_1800_CAR/05_cta.jpg"
+      ]
+    }
+  ]
+}
