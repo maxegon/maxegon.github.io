@@ -15,14 +15,14 @@
       "ora_pubblicazione": "2026-11-08 19:30",
       "data_evento": "2026-11-09",
       "utm": "https://maxegon.github.io/meteo-stat-privacy/landing/?utm_source=instagram&utm_medium=social&utm_campaign=s1m_2026w45&utm_content=S1M_20261108_1930_FEED",
-      "generato_il": "2026-11-07T00:37:20+01:00",
+      "generato_il": "2026-11-07T23:27:44+01:00",
       "provvisorio": true,
       "giorno": "2026-11-08",
       "tema": "cielo",
       "stato": "MEDIA_PRONTA",
       "motivo": null,
-      "testo_finale": "La settimana a Roma: il giorno su cui le fonti sono meno d'accordo è mercoledì, con 5° di differenza tra le massime. Ricontrolla la sera prima. Scarica Solo1Meteo gratis: link in bio. #solo1meteo #meteo #previsionimeteo #meteoitalia",
-      "concept_finale": "S1 gancio: La settimana a Roma: giorno più incerto mercoledì | S2 confronto: 5° di differenza tra le massime delle fonti | S3 consiglio: per quel giorno ricontrolla la sera prima | S4 screenshot: schermata Previsioni | S5 cta: Scarica gratis Solo1Meteo",
+      "testo_finale": "La settimana a Roma: il giorno su cui le fonti sono meno d'accordo è martedì, con 3° di differenza tra le massime. Ricontrolla la sera prima. Scarica Solo1Meteo gratis: link in bio. #solo1meteo #meteo #previsionimeteo #meteoitalia",
+      "concept_finale": "S1 gancio: La settimana a Roma: giorno più incerto martedì | S2 confronto: 3° di differenza tra le massime delle fonti | S3 consiglio: per quel giorno ricontrolla la sera prima | S4 screenshot: schermata Previsioni | S5 cta: Scarica gratis Solo1Meteo",
       "immagini": [
         "https://maxegon.github.io/solo1meteo/social/2026-11-08/S1M_20261108_1930_FEED/1_copertina.png",
         "https://maxegon.github.io/solo1meteo/social/2026-11-08/S1M_20261108_1930_FEED/2a_temperature.png",
@@ -87,74 +87,68 @@
       "dati": {
         "citta": "Roma",
         "data_label": "lunedì 9 novembre",
-        "fonti_n": 8,
-        "fonti_elencate": 8,
+        "fonti_n": 7,
+        "fonti_elencate": 7,
         "fonti_escluse": [],
-        "tmax_media": 17,
-        "tmax_min": 16,
+        "tmax_media": 18,
+        "tmax_min": 17,
         "tmax_max": 18,
-        "tmin_media": 9,
-        "pioggia_media": 15,
-        "pioggia_min": 19,
-        "pioggia_max": 27,
-        "fonti_pioggia": 3,
+        "tmin_media": 10,
+        "pioggia_media": 7,
+        "pioggia_min": 0,
+        "pioggia_max": 26,
+        "fonti_pioggia": 4,
         "condizione": "nuvoloso",
-        "fonti_condizione": 8,
-        "giorno_piu_incerto": "mercoledì",
-        "scarto_tmax": 5,
-        "tmax_scarto_fonti": 1.9,
+        "fonti_condizione": 7,
+        "giorno_piu_incerto": "martedì",
+        "scarto_tmax": 3,
+        "tmax_scarto_fonti": 1.8,
         "tmax_disaccordo": false,
         "pioggia_disaccordo": false,
-        "gancio_pioggia": "pioggia 15%"
+        "gancio_pioggia": "pioggia 7%"
       },
       "fonti": [
         {
           "fonte": "Open-Meteo",
           "tmax": 17.6,
-          "pioggia": 20,
+          "pioggia": 3,
           "pioggia_metodo": "orario"
         },
         {
           "fonte": "OpenWeatherMap",
-          "tmax": 16.32,
-          "pioggia": null,
-          "pioggia_metodo": null
+          "tmax": 16.61,
+          "pioggia": 15,
+          "pioggia_metodo": "orario"
         },
         {
           "fonte": "WeatherAPI",
-          "tmax": 17.9,
-          "pioggia": 27,
+          "tmax": 18.4,
+          "pioggia": 26,
           "pioggia_metodo": "orario"
         },
         {
           "fonte": "MET Norway",
-          "tmax": 17.1,
+          "tmax": 18.3,
           "pioggia": null,
           "pioggia_metodo": null
         },
         {
           "fonte": "DWD",
+          "tmax": 17.4,
+          "pioggia": null,
+          "pioggia_metodo": null
+        },
+        {
+          "fonte": "7Timer!",
           "tmax": 17,
           "pioggia": null,
           "pioggia_metodo": null
         },
         {
-          "fonte": "Visual Crossing",
-          "tmax": 17.4,
-          "pioggia": 19,
-          "pioggia_metodo": "giornaliero"
-        },
-        {
-          "fonte": "7Timer!",
-          "tmax": 16,
-          "pioggia": null,
-          "pioggia_metodo": null
-        },
-        {
           "fonte": "Tomorrow.io",
-          "tmax": 17.63,
-          "pioggia": null,
-          "pioggia_metodo": null
+          "tmax": 18.29,
+          "pioggia": 0,
+          "pioggia_metodo": "orario"
         }
       ],
       "verifica": {
@@ -168,7 +162,7 @@
           {
             "nome": "fonti",
             "esito": "ok",
-            "dettaglio": "8 fonti su 8 per 2026-11-09 (minimo 6)"
+            "dettaglio": "7 fonti su 8 per 2026-11-09 (minimo 6)"
           },
           {
             "nome": "freschezza",
@@ -188,7 +182,7 @@
           {
             "nome": "scarto",
             "esito": "ok",
-            "dettaglio": "massime 16-18° (scarto 2°), pioggia 19-27% (scarto 8)"
+            "dettaglio": "massime 17-18° (scarto 1°), pioggia 0-26% (scarto 26)"
           },
           {
             "nome": "giorno",
@@ -213,15 +207,14 @@
           "https://www.weatherapi.com",
           "https://api.met.no",
           "https://brightsky.dev",
-          "https://www.visualcrossing.com",
           "http://www.7timer.info",
           "https://www.tomorrow.io"
         ]
       },
-      "scaricato_il": "2026-11-07T00:37:22+01:00",
+      "scaricato_il": "2026-11-07T23:27:45+01:00",
       "citta_usata": "Roma",
       "anteprima": {
-        "testo": "La settimana a Roma: il giorno su cui le fonti sono meno d'accordo è mercoledì, con 5° di differenza tra le massime. Ricontrolla la sera prima. Scarica Solo1Meteo gratis: link in bio. #solo1meteo #meteo #previsionimeteo #meteoitalia",
+        "testo": "La settimana a Roma: il giorno su cui le fonti sono meno d'accordo è martedì, con 3° di differenza tra le massime. Ricontrolla la sera prima. Scarica Solo1Meteo gratis: link in bio. #solo1meteo #meteo #previsionimeteo #meteoitalia",
         "immagini": [
           "https://maxegon.github.io/solo1meteo/social/2026-11-08/S1M_20261108_1930_FEED/1_copertina.png"
         ]
