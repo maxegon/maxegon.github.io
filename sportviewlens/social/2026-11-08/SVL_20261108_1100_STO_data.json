@@ -1,0 +1,115 @@
+{
+ "data_evento": "2026-11-08",
+ "data_lunga": "Domenica 8 novembre",
+ "categoria": "oggi_in_tv",
+ "tema": 1,
+ "eventi": [
+  {
+   "data": "2026-11-08",
+   "ora": "09:20",
+   "titolo": "Cycling: Tour de France Singapore Criterium",
+   "competizione": "Tour de France",
+   "sport": "cycling",
+   "canali": [
+    "Eurosport 2"
+   ]
+  },
+  {
+   "data": "2026-11-08",
+   "ora": "12:00",
+   "titolo": "Trieste – BC Roma",
+   "competizione": "Serie A Basket",
+   "sport": "basket",
+   "canali": [
+    "Sky Sport Basket"
+   ]
+  },
+  {
+   "data": "2026-11-08",
+   "ora": "12:35",
+   "titolo": "MotoGP Warm Up",
+   "competizione": "MotoGP",
+   "sport": "motogp",
+   "canali": [
+    "Sky Sport MotoGP"
+   ]
+  },
+  {
+   "data": "2026-11-08",
+   "ora": "15:00",
+   "titolo": "Brighton – Brentford",
+   "competizione": "Premier League",
+   "sport": "soccer",
+   "canali": [
+    "Sky Sport 258",
+    "Sky Sport"
+   ]
+  },
+  {
+   "data": "2026-11-08",
+   "ora": "15:00",
+   "titolo": "Crystal Palace – Liverpool",
+   "competizione": "Premier League",
+   "sport": "soccer",
+   "canali": [
+    "Sky Sport 257",
+    "Sky Sport"
+   ]
+  },
+  {
+   "data": "2026-11-08",
+   "ora": "15:00",
+   "titolo": "Sunderland – Chelsea",
+   "competizione": "Premier League",
+   "sport": "soccer",
+   "canali": [
+    "Sky Sport Calcio",
+    "Sky Sport 4K",
+    "Sky Sport"
+   ]
+  },
+  {
+   "data": "2026-11-08",
+   "ora": "15:30",
+   "titolo": "1. FC Köln – Bayer Leverkusen",
+   "competizione": "Bundesliga",
+   "sport": "soccer",
+   "canali": [
+    "Sky Sport Mix",
+    "Sky Sport"
+   ]
+  },
+  {
+   "data": "2026-11-08",
+   "ora": "17:30",
+   "titolo": "Manchester United – Aston Villa",
+   "competizione": "Premier League",
+   "sport": "soccer",
+   "canali": [
+    "Sky Sport 258",
+    "Sky Sport"
+   ]
+  },
+  {
+   "data": "2026-11-08",
+   "ora": "17:55",
+   "titolo": "GP San Paolo: Gara F1",
+   "competizione": "Formula 1",
+   "sport": "f1",
+   "canali": [
+    "Sky Sport F1"
+   ]
+  },
+  {
+   "data": "2026-11-08",
+   "ora": "18:00",
+   "titolo": "Inter – Como",
+   "competizione": "Serie A",
+   "sport": "soccer",
+   "canali": [
+    "Sky Sport Calcio",
+    "Sky Sport 251"
+   ]
+  }
+ ]
+}
