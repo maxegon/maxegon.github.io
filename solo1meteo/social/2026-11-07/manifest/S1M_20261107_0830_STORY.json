@@ -5,8 +5,8 @@
   "ora_pubblicazione": "2026-11-07 08:30",
   "data_evento": "2026-11-07",
   "utm": "https://maxegon.github.io/meteo-stat-privacy/landing/?utm_source=instagram&utm_medium=social&utm_campaign=s1m_2026w45&utm_content=S1M_20261107_0830_STORY",
-  "generato_il": "2026-11-06T00:55:32+01:00",
-  "provvisorio": true,
+  "generato_il": "2026-11-07T12:51:44+01:00",
+  "provvisorio": false,
   "stato": "SALTATO_VERIFICA",
   "motivo": "verifica dei dati non superata: allerte: allerta meteo attiva (Giallo Temporali Allerta; Giallo Temporali Allerta; Giallo Temporali Allerta) e nessun ente citato nel post",
   "verifica": {
@@ -40,7 +40,7 @@
       {
         "nome": "scarto",
         "esito": "ok",
-        "dettaglio": "massime 15-21° (scarto 6°), pioggia 15-90% (scarto 75) | disaccordo sulle massime: il gancio mostra l'intervallo; disaccordo sulla pioggia: il gancio lo dice"
+        "dettaglio": "massime 18-20° (scarto 2°), pioggia 10-78% (scarto 68) | disaccordo sulla pioggia: il gancio lo dice"
       },
       {
         "nome": "giorno",
@@ -98,22 +98,26 @@
     "fonti_n": 8,
     "fonti_elencate": 8,
     "fonti_escluse": [],
-    "tmax_media": 18,
-    "tmax_min": 15,
-    "tmax_max": 21,
-    "tmin_media": 14,
-    "pioggia_media": 37,
-    "pioggia_min": 15,
-    "pioggia_max": 90,
+    "tmax_media": 19,
+    "tmax_min": 18,
+    "tmax_max": 20,
+    "tmin_media": 15,
+    "pioggia_media": 75,
+    "pioggia_min": 10,
+    "pioggia_max": 78,
     "fonti_pioggia": 5,
     "condizione": "nuvoloso",
-    "fonti_condizione": 3,
-    "giorno_piu_incerto": "sabato",
-    "scarto_tmax": 6,
-    "tmax_scarto_fonti": 5.6,
-    "tmax_disaccordo": true,
+    "fonti_condizione": 5,
+    "giorno_piu_incerto": "giovedì",
+    "scarto_tmax": 4,
+    "tmax_scarto_fonti": 2,
+    "tmax_disaccordo": false,
     "pioggia_disaccordo": true,
-    "gancio_pioggia": "le fonti non sono d'accordo sulla pioggia, dal 15% al 90%"
+    "gancio_pioggia": "le fonti non sono d'accordo sulla pioggia, dal 10% al 78%"
   },
-  "giorno": "2026-11-07"
+  "giorno": "2026-11-07",
+  "cambio_serale": {
+    "tipo": "invariata",
+    "motivo": ""
+  }
 }

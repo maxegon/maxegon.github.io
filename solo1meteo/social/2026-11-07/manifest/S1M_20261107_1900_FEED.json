@@ -5,12 +5,13 @@
   "ora_pubblicazione": "2026-11-07 19:00",
   "data_evento": "2026-11-07",
   "utm": "https://maxegon.github.io/meteo-stat-privacy/landing/?utm_source=instagram&utm_medium=social&utm_campaign=s1m_2026w45&utm_content=S1M_20261107_1900_FEED",
-  "generato_il": "2026-11-06T00:55:38+01:00",
-  "provvisorio": true,
+  "generato_il": "2026-11-07T12:51:50+01:00",
+  "provvisorio": false,
   "giorno": "2026-11-07",
+  "tema": "clima",
   "stato": "MEDIA_PRONTA",
   "motivo": null,
-  "testo_finale": "Prima di uscire stasera: in Solo1Meteo la previsione ora per ora è la media di più servizi, con il numero di fonti accanto. Oggi a Cagliari: nuvoloso per 5 fonti su 8. Scarica Solo1Meteo gratis: link in bio. #solo1meteo #meteo #previsionimeteo #meteoitalia",
+  "testo_finale": "Prima di uscire stasera: in Solo1Meteo la previsione ora per ora è la media di più servizi, con il numero di fonti accanto. Oggi a Cagliari: nuvoloso per 8 fonti su 8. Scarica Solo1Meteo gratis: link in bio. #solo1meteo #meteo #previsionimeteo #meteoitalia",
   "concept_finale": "S1 gancio: Stasera a Cagliari: nuvoloso",
   "immagini": [
     "https://maxegon.github.io/solo1meteo/social/2026-11-07/S1M_20261107_1900_FEED/post.png"
@@ -38,54 +39,54 @@
     "tmax_min": 20,
     "tmax_max": 21,
     "tmin_media": 12,
-    "pioggia_media": 7,
+    "pioggia_media": 4,
     "pioggia_min": 0,
-    "pioggia_max": 21,
+    "pioggia_max": 20,
     "fonti_pioggia": 5,
     "condizione": "nuvoloso",
-    "fonti_condizione": 5,
-    "giorno_piu_incerto": "lunedì",
-    "scarto_tmax": 2,
-    "tmax_scarto_fonti": 1.5,
+    "fonti_condizione": 8,
+    "giorno_piu_incerto": "martedì",
+    "scarto_tmax": 3,
+    "tmax_scarto_fonti": 1.2,
     "tmax_disaccordo": false,
     "pioggia_disaccordo": false,
-    "gancio_pioggia": "pioggia 7%"
+    "gancio_pioggia": "pioggia 4%"
   },
   "fonti": [
     {
       "fonte": "Open-Meteo",
-      "tmax": 20.4,
-      "pioggia": 0,
+      "tmax": 20.8,
+      "pioggia": 3,
       "pioggia_metodo": "orario"
     },
     {
       "fonte": "OpenWeatherMap",
-      "tmax": 20.33,
-      "pioggia": 13,
+      "tmax": 20.73,
+      "pioggia": 0,
       "pioggia_metodo": "orario"
     },
     {
       "fonte": "WeatherAPI",
-      "tmax": 21.4,
-      "pioggia": 21,
+      "tmax": 21.2,
+      "pioggia": 20,
       "pioggia_metodo": "orario"
     },
     {
       "fonte": "MET Norway",
-      "tmax": 19.9,
+      "tmax": 20,
       "pioggia": null,
       "pioggia_metodo": null
     },
     {
       "fonte": "DWD",
-      "tmax": 20.7,
+      "tmax": 21.1,
       "pioggia": null,
       "pioggia_metodo": null
     },
     {
       "fonte": "Visual Crossing",
-      "tmax": 20.2,
-      "pioggia": 3,
+      "tmax": 20.3,
+      "pioggia": 0,
       "pioggia_metodo": "orario"
     },
     {
@@ -96,8 +97,8 @@
     },
     {
       "fonte": "Tomorrow.io",
-      "tmax": 19.91,
-      "pioggia": 5,
+      "tmax": 20,
+      "pioggia": 0,
       "pioggia_metodo": "orario"
     }
   ],
@@ -132,7 +133,7 @@
       {
         "nome": "scarto",
         "esito": "ok",
-        "dettaglio": "massime 20-21° (scarto 1°), pioggia 0-21% (scarto 21)"
+        "dettaglio": "massime 20-21° (scarto 1°), pioggia 0-20% (scarto 20)"
       },
       {
         "nome": "giorno",
@@ -162,12 +163,16 @@
       "https://www.tomorrow.io"
     ]
   },
-  "scaricato_il": "2026-11-06T00:55:39+01:00",
+  "scaricato_il": "2026-11-07T12:51:51+01:00",
   "citta_usata": "Cagliari",
   "anteprima": {
-    "testo": "Prima di uscire stasera: in Solo1Meteo la previsione ora per ora è la media di più servizi, con il numero di fonti accanto. Oggi a Cagliari: nuvoloso per 5 fonti su 8. Scarica Solo1Meteo gratis: link in bio. #solo1meteo #meteo #previsionimeteo #meteoitalia",
+    "testo": "Prima di uscire stasera: in Solo1Meteo la previsione ora per ora è la media di più servizi, con il numero di fonti accanto. Oggi a Cagliari: nuvoloso per 8 fonti su 8. Scarica Solo1Meteo gratis: link in bio. #solo1meteo #meteo #previsionimeteo #meteoitalia",
     "immagini": [
       "https://maxegon.github.io/solo1meteo/social/2026-11-07/S1M_20261107_1900_FEED/post.png"
     ]
+  },
+  "cambio_serale": {
+    "tipo": "invariata",
+    "motivo": ""
   }
 }
