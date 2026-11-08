@@ -1,0 +1,144 @@
+{
+  "slot": "S1M_20261109_1900_FEED",
+  "piattaforma": "Instagram / FB",
+  "formato": "Carosello",
+  "ora_pubblicazione": "2026-11-09 19:00",
+  "data_evento": "2026-11-10",
+  "utm": "https://maxegon.github.io/meteo-stat-privacy/landing/?utm_source=instagram&utm_medium=social&utm_campaign=s1m_2026w46&utm_content=S1M_20261109_1900_FEED",
+  "generato_il": "2026-11-08T23:38:10+01:00",
+  "provvisorio": true,
+  "giorno": "2026-11-09",
+  "stato": "MEDIA_PRONTA",
+  "motivo": null,
+  "testo_finale": "Come funziona Solo1Meteo: per ogni giorno mette accanto le previsioni di 8 fonti meteo e ne calcola la media, con il numero di fonti sempre in vista. Verde quando le fonti sono d'accordo, giallo o rosso quando divergono. Scarica Solo1Meteo gratis: link in bio. #solo1meteo #meteo #previsionimeteo #meteoitalia",
+  "concept_finale": "post di riserva (allerta meteo)",
+  "immagini": [
+    "https://maxegon.github.io/solo1meteo/social/2026-11-09/S1M_20261109_1900_FEED/1_copertina.png",
+    "https://maxegon.github.io/solo1meteo/social/2026-11-09/S1M_20261109_1900_FEED/4_screenshot.png",
+    "https://maxegon.github.io/solo1meteo/social/2026-11-09/S1M_20261109_1900_FEED/5_cta.png"
+  ],
+  "video_url": null,
+  "riserva": true,
+  "motivo_riserva": "allerte: allerta meteo attiva (Giallo Nebbia Allerta) e nessun ente citato nel post",
+  "ig_media": [
+    {
+      "media_type": "IMAGE",
+      "image_url": "https://maxegon.github.io/solo1meteo/social/2026-11-09/S1M_20261109_1900_FEED/1_copertina.png"
+    },
+    {
+      "media_type": "IMAGE",
+      "image_url": "https://maxegon.github.io/solo1meteo/social/2026-11-09/S1M_20261109_1900_FEED/4_screenshot.png"
+    },
+    {
+      "media_type": "IMAGE",
+      "image_url": "https://maxegon.github.io/solo1meteo/social/2026-11-09/S1M_20261109_1900_FEED/5_cta.png"
+    }
+  ],
+  "fb_photos": [
+    {
+      "type": "url",
+      "url": "https://maxegon.github.io/solo1meteo/social/2026-11-09/S1M_20261109_1900_FEED/1_copertina.png"
+    },
+    {
+      "type": "url",
+      "url": "https://maxegon.github.io/solo1meteo/social/2026-11-09/S1M_20261109_1900_FEED/4_screenshot.png"
+    },
+    {
+      "type": "url",
+      "url": "https://maxegon.github.io/solo1meteo/social/2026-11-09/S1M_20261109_1900_FEED/5_cta.png"
+    }
+  ],
+  "verifica": {
+    "esito": "dubbio",
+    "controlli": [
+      {
+        "nome": "backend",
+        "esito": "ok",
+        "dettaglio": "/health = healthy"
+      },
+      {
+        "nome": "fonti",
+        "esito": "ok",
+        "dettaglio": "7 fonti su 8 per 2026-11-10 (minimo 6)"
+      },
+      {
+        "nome": "fonti_pioggia",
+        "esito": "ok",
+        "dettaglio": "4 fonti con il dato di pioggia (minimo 3)"
+      },
+      {
+        "nome": "freschezza",
+        "esito": "ok",
+        "dettaglio": "dato scaricato 0 minuti prima del rendering (massimo 3 ore, cache backend 10 minuti)"
+      },
+      {
+        "nome": "calcolo_app",
+        "esito": "ok",
+        "dettaglio": "copia del calcolo dell'app sha f8de55e39310 (submodule assente in CI) | codice dell'app (buildAggregateDays)"
+      },
+      {
+        "nome": "numeri_testo",
+        "esito": "ok",
+        "dettaglio": "tutti i numeri con ° o % sono quelli calcolati come nell'app"
+      },
+      {
+        "nome": "scarto",
+        "esito": "ok",
+        "dettaglio": "massime 10-15° (scarto 5°), pioggia 0-50% (scarto 50) | disaccordo sulle massime: il gancio mostra l'intervallo; disaccordo sulla pioggia: il gancio lo dice"
+      },
+      {
+        "nome": "giorno",
+        "esito": "ok",
+        "dettaglio": "giorno citato = martedì 2026-11-10"
+      },
+      {
+        "nome": "allerte",
+        "esito": "dubbio",
+        "dettaglio": "allerta meteo attiva (Giallo Nebbia Allerta) e nessun ente citato nel post"
+      },
+      {
+        "nome": "posizione",
+        "esito": "ok",
+        "dettaglio": "Torino: citta fissa del piano, nessuna posizione dell'utente"
+      }
+    ],
+    "fonti": [
+      "https://backend-eta-seven-21.vercel.app/weather?lat=45.07&lon=7.69",
+      "https://open-meteo.com",
+      "https://openweathermap.org",
+      "https://www.weatherapi.com",
+      "https://api.met.no",
+      "https://brightsky.dev",
+      "http://www.7timer.info",
+      "https://www.tomorrow.io"
+    ]
+  },
+  "tentativi": [
+    {
+      "citta": "Torino",
+      "esito": "verifica",
+      "motivo": "allerte: allerta meteo attiva (Giallo Nebbia Allerta) e nessun ente citato nel post"
+    },
+    {
+      "citta": "Roma",
+      "esito": "verifica",
+      "motivo": "allerte: allerta meteo attiva (Giallo Nebbia Allerta) e nessun ente citato nel post"
+    },
+    {
+      "citta": "Milano",
+      "esito": "verifica",
+      "motivo": "allerte: allerta meteo attiva (Giallo Nebbia Allerta) e nessun ente citato nel post"
+    },
+    {
+      "citta": "Napoli",
+      "esito": "verifica",
+      "motivo": "allerte: allerta meteo attiva (Giallo Nebbia Allerta) e nessun ente citato nel post"
+    }
+  ],
+  "anteprima": {
+    "testo": "Come funziona Solo1Meteo: per ogni giorno mette accanto le previsioni di 8 fonti meteo e ne calcola la media, con il numero di fonti sempre in vista. Verde quando le fonti sono d'accordo, giallo o rosso quando divergono. Scarica Solo1Meteo gratis: link in bio. #solo1meteo #meteo #previsionimeteo #meteoitalia",
+    "immagini": [
+      "https://maxegon.github.io/solo1meteo/social/2026-11-09/S1M_20261109_1900_FEED/1_copertina.png"
+    ]
+  }
+}
