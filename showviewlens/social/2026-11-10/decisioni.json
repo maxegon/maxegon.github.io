@@ -1,0 +1,29 @@
+{
+ "app": "ShowViewLens",
+ "data": "2026-11-10",
+ "righe": {
+  "SHV_20261110_1930_STORY": {
+   "pubblica_alle": "2026-11-10T19:30:00+01:00",
+   "formato": "Storia",
+   "piattaforma": "Instagram / FB Stories",
+   "sempreverde": false,
+   "chiave": "SHV_20261110_1930_STORY",
+   "decisione": null,
+   "alle": "",
+   "correzioni": [],
+   "messaggio_id": 812
+  }
+ },
+ "messaggi": {
+  "812": {
+   "chat_id": "1614787945",
+   "righe": [
+    "SHV_20261110_1930_STORY"
+   ],
+   "base": "<b>19:30 · Storia · Instagram / FB Stories</b>\nID <code>SHV_20261110_1930_STORY</code>\n✅ Verifica ok · 3 fonti\n<pre>🎤 Concerti in Piemonte questa settimana\n\n1. Grand Opening Show Nitto Atp Finals · Inalpi Arena · gio 12/11 · 21:00\n2. Malika Ayane · Teatro Colosseo · mer 11/11 · 20:30\n3. Steve Hackett · Teatro Colosseo · gio 12/11 · 20:30\n\nCerca «ShowViewLens» su App Store e Google Play.\n#ShowViewLens</pre>\n\n<i>✅ OK: esce all'orario · ⏭️ Salta: non esce, contenuto legato a quella data · ✏️ Correggi: mi scrivi cosa cambiare · ↩️ Annulla: torna come prima. Nessun click = esce. Leggo i pulsanti ogni 15 minuti: decidi almeno 30 minuti prima.</i>"
+  }
+ },
+ "ultimo_update_id": null,
+ "anteprima_inviata_il": "2026-11-10T02:56:55+01:00",
+ "provvisorio": false
+}
