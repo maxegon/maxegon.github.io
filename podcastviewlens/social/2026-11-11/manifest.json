@@ -1,0 +1,167 @@
+{
+  "date": "2026-11-11",
+  "generated_at": "2026-11-11T00:52+01:00",
+  "sources_skipped": [],
+  "rimandate": [],
+  "items": [
+    {
+      "id": "W3_MER_1830",
+      "piattaforma": "Instagram / FB",
+      "formato": "Carosello",
+      "ora": "18:30",
+      "utm": "https://podcastviewlens.vercel.app/download?utm_source=instagram&utm_medium=social&utm_campaign=pvl_2026w46&utm_content=W3_MER_1830",
+      "stato": "PRONTO",
+      "motivo": "",
+      "caption": "Hai trovato una puntata ma non è il momento? Dalla scheda del podcast tocca Pianifica: la ritrovi in I Miei Ascolti, nell'orario che hai scelto.\n\nScarica PodcastViewLens gratis: link in bio.\n\n#PodcastViewLens #PodcastItalia #CosaAscoltare",
+      "files": [
+        "https://maxegon.github.io/podcastviewlens/social/2026-11-11/W3_MER_1830/slide_01.jpg",
+        "https://maxegon.github.io/podcastviewlens/social/2026-11-11/W3_MER_1830/slide_02.jpg",
+        "https://maxegon.github.io/podcastviewlens/social/2026-11-11/W3_MER_1830/slide_03.jpg",
+        "https://maxegon.github.io/podcastviewlens/social/2026-11-11/W3_MER_1830/slide_04.jpg",
+        "https://maxegon.github.io/podcastviewlens/social/2026-11-11/W3_MER_1830/slide_05.jpg"
+      ],
+      "verifica": {
+        "esito": "ok",
+        "controlli": [
+          {
+            "nome": "dati_variabili",
+            "esito": "ok",
+            "dettaglio": "nessun dato variabile: testo sulle funzioni dell'app (app_features.json, guardrails.json)"
+          },
+          {
+            "nome": "funzione_in_app",
+            "esito": "ok",
+            "dettaglio": "«pianifica_ascolto» verificata il 2026-10-23 su src/screens/PodcastDetailScreen.js, src/components/ScheduleModal.js"
+          }
+        ],
+        "fonti": []
+      },
+      "anteprima": {
+        "testo": "Hai trovato una puntata ma non è il momento? Dalla scheda del podcast tocca Pianifica: la ritrovi in I Miei Ascolti, nell'orario che hai scelto.\n\nScarica PodcastViewLens gratis: link in bio.\n\n#PodcastViewLens #PodcastItalia #CosaAscoltare",
+        "immagini": [
+          "https://maxegon.github.io/podcastviewlens/social/2026-11-11/W3_MER_1830/slide_01.jpg"
+        ]
+      },
+      "pubblica_alle": "2026-11-11T18:30+01:00",
+      "sempreverde": true,
+      "eventi": [],
+      "titolo_slide": "Decidi quando ascoltare",
+      "tema": "fascia",
+      "ig_media": [
+        {
+          "media_type": "IMAGE",
+          "image_url": "https://maxegon.github.io/podcastviewlens/social/2026-11-11/W3_MER_1830/slide_01.jpg"
+        },
+        {
+          "media_type": "IMAGE",
+          "image_url": "https://maxegon.github.io/podcastviewlens/social/2026-11-11/W3_MER_1830/slide_02.jpg"
+        },
+        {
+          "media_type": "IMAGE",
+          "image_url": "https://maxegon.github.io/podcastviewlens/social/2026-11-11/W3_MER_1830/slide_03.jpg"
+        },
+        {
+          "media_type": "IMAGE",
+          "image_url": "https://maxegon.github.io/podcastviewlens/social/2026-11-11/W3_MER_1830/slide_04.jpg"
+        },
+        {
+          "media_type": "IMAGE",
+          "image_url": "https://maxegon.github.io/podcastviewlens/social/2026-11-11/W3_MER_1830/slide_05.jpg"
+        }
+      ],
+      "fb_photos": [
+        {
+          "type": "url",
+          "url": "https://maxegon.github.io/podcastviewlens/social/2026-11-11/W3_MER_1830/slide_01.jpg"
+        },
+        {
+          "type": "url",
+          "url": "https://maxegon.github.io/podcastviewlens/social/2026-11-11/W3_MER_1830/slide_02.jpg"
+        },
+        {
+          "type": "url",
+          "url": "https://maxegon.github.io/podcastviewlens/social/2026-11-11/W3_MER_1830/slide_03.jpg"
+        },
+        {
+          "type": "url",
+          "url": "https://maxegon.github.io/podcastviewlens/social/2026-11-11/W3_MER_1830/slide_04.jpg"
+        },
+        {
+          "type": "url",
+          "url": "https://maxegon.github.io/podcastviewlens/social/2026-11-11/W3_MER_1830/slide_05.jpg"
+        }
+      ],
+      "slot": "W3_MER_1830",
+      "ora_pubblicazione": "2026-11-11 18:30",
+      "testo_finale": "Hai trovato una puntata ma non è il momento? Dalla scheda del podcast tocca Pianifica: la ritrovi in I Miei Ascolti, nell'orario che hai scelto.\n\nScarica PodcastViewLens gratis: link in bio.\n\n#PodcastViewLens #PodcastItalia #CosaAscoltare",
+      "immagini": [
+        "https://maxegon.github.io/podcastviewlens/social/2026-11-11/W3_MER_1830/slide_01.jpg",
+        "https://maxegon.github.io/podcastviewlens/social/2026-11-11/W3_MER_1830/slide_02.jpg",
+        "https://maxegon.github.io/podcastviewlens/social/2026-11-11/W3_MER_1830/slide_03.jpg",
+        "https://maxegon.github.io/podcastviewlens/social/2026-11-11/W3_MER_1830/slide_04.jpg",
+        "https://maxegon.github.io/podcastviewlens/social/2026-11-11/W3_MER_1830/slide_05.jpg"
+      ]
+    },
+    {
+      "id": "W3_MER_2030",
+      "piattaforma": "Instagram Stories",
+      "formato": "Storia",
+      "ora": "20:30",
+      "utm": "-",
+      "stato": "SALTATO_VERIFICA",
+      "motivo": "0 podcast verificati con uscite il 2026-11-11 (minimo 3)",
+      "caption": "",
+      "files": [],
+      "verifica": {
+        "esito": "ko",
+        "controlli": [
+          {
+            "nome": "fonte_feed_editore",
+            "esito": "ok",
+            "dettaglio": "tutti i podcast con uscite hanno feed dell'editore"
+          },
+          {
+            "nome": "finestra_pubdate",
+            "esito": "ok",
+            "dettaglio": "pubDate reale tra 2026-11-11 e 2026-11-11 (Europe/Rome), mai oltre 2026-11-11 00:52"
+          },
+          {
+            "nome": "catalogo_app",
+            "esito": "ok",
+            "dettaglio": "solo i 15 podcast curati di src/data/curatedPodcasts.js"
+          },
+          {
+            "nome": "presente_nell_app",
+            "esito": "ok",
+            "dettaglio": "0 su 0 puntate trovate nel Palinsesto dell'app con lo stesso orario (scripts/verify_palinsesto.mjs (codice dell'app: scheduleService.getReleasesForDate))"
+          },
+          {
+            "nome": "duplicati_guid",
+            "esito": "ok",
+            "dettaglio": "nessuna guid ripetuta"
+          },
+          {
+            "nome": "link_episodio",
+            "esito": "ok",
+            "dettaglio": "0 su 0 enclosure/link rispondono"
+          },
+          {
+            "nome": "voci_sufficienti",
+            "esito": "ko",
+            "dettaglio": "0 podcast verificati con uscite il 2026-11-11 (minimo 3)"
+          }
+        ],
+        "fonti": []
+      },
+      "anteprima": {
+        "testo": "SALTATO: 0 podcast verificati con uscite il 2026-11-11 (minimo 3)",
+        "immagini": []
+      },
+      "pubblica_alle": "2026-11-11T20:30+01:00",
+      "slot": "W3_MER_2030",
+      "ora_pubblicazione": "2026-11-11 20:30",
+      "testo_finale": "",
+      "immagini": []
+    }
+  ]
+}
