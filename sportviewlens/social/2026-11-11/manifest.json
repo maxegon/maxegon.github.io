@@ -1,0 +1,103 @@
+{
+ "generato": "2026-11-10T23:58:22+00:00",
+ "data_pubblicazione": "2026-11-11",
+ "base_url": "https://maxegon.github.io/sportviewlens/social/2026-11-11",
+ "righe": [
+  {
+   "Giorno_Slot": "SVL_20261111_1830_VID",
+   "Formato": "Video",
+   "Piattaforma": "Instagram / FB + TikTok",
+   "Ora": "18:30",
+   "Categoria": "stasera_tv",
+   "Data_Evento": "2026-11-11",
+   "UTM": "https://maxegon.github.io/sportviewlens/download/?utm_source=instagram&utm_medium=reel&utm_campaign=stasera_tv&utm_content=SVL_20261111_1830_VID",
+   "note": [],
+   "verifica": {
+    "esito": "ko",
+    "controlli": [
+     {
+      "nome": "eventi nel post",
+      "esito": "ok",
+      "dettaglio": "0 eventi verificati ok, 12 tolti, su 12 candidati dell'app"
+     },
+     {
+      "nome": "tolto «WTA Finals Indian Wells 2026 - Singola» 18:00",
+      "esito": "dubbio",
+      "dettaglio": "nessuna riga di tv_rights per tennis / «WTA Finals»; nessun canale con due fonti: SuperTennis (nessuna fonte); orario 18:00 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Chemnitz – Basket Napoli» 19:00",
+      "esito": "dubbio",
+      "dettaglio": "nessuna riga di tv_rights per basket / «Eurocup Basket»; nessun canale con due fonti: Sky Sport Basket (solo palinsesto); NOW (nessuna fonte); orario 19:00 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Tortona – Hapoel Jerusalem» 19:30",
+      "esito": "dubbio",
+      "dettaglio": "nessuna riga di tv_rights per basket / «Eurocup Basket»; nessun canale con due fonti: Sky Sport Mix (nessuna fonte); NOW (nessuna fonte); orario 19:30 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Italy W – Slovenia W» 20:00",
+      "esito": "dubbio",
+      "dettaglio": "nessuna riga di tv_rights per basket / «Eurobasket Femminile»; nessun canale con due fonti: Sky Sport Uno (nessuna fonte); NOW (nessuna fonte); orario 20:00 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Macerata W – Talmassons W» 20:00",
+      "esito": "dubbio",
+      "dettaglio": "nessuna riga di tv_rights per volley / «Superlega Volley Femminile»; nessun canale con due fonti: DAZN (nessuna fonte); orario 20:00 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Consolini W – Scandicci W» 20:30",
+      "esito": "dubbio",
+      "dettaglio": "nessuna riga di tv_rights per volley / «Superlega Volley Femminile»; nessun canale con due fonti: DAZN (nessuna fonte); orario 20:30 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «UYBA Busto Arsizio W – Vallefoglia W» 20:30",
+      "esito": "dubbio",
+      "dettaglio": "nessuna riga di tv_rights per volley / «Superlega Volley Femminile»; nessun canale con due fonti: DAZN (nessuna fonte); orario 20:30 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Vero Volley W – Brescia W» 20:30",
+      "esito": "dubbio",
+      "dettaglio": "nessuna riga di tv_rights per volley / «Superlega Volley Femminile»; nessun canale con due fonti: DAZN (solo palinsesto); orario 20:30 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Novara W – Conegliano W» 20:30",
+      "esito": "dubbio",
+      "dettaglio": "nessuna riga di tv_rights per volley / «Superlega Volley Femminile»; nessun canale con due fonti: DAZN (nessuna fonte); orario 20:30 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Firenze W – Chieri '76 W» 20:30",
+      "esito": "dubbio",
+      "dettaglio": "nessuna riga di tv_rights per volley / «Superlega Volley Femminile»; nessun canale con due fonti: DAZN (nessuna fonte); orario 20:30 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «WTA Finals Indian Wells 2026 - Singola» 21:00",
+      "esito": "dubbio",
+      "dettaglio": "nessuna riga di tv_rights per tennis / «WTA Finals Indian Wells»; nessun canale con due fonti: Sky Sport Tennis (nessuna fonte); Sky Sport Uno (nessuna fonte); orario 21:00 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «WTA Finals Indian Wells 2026 - Singola» 23:00",
+      "esito": "dubbio",
+      "dettaglio": "nessuna riga di tv_rights per tennis / «WTA Finals Indian Wells»; nessun canale con due fonti: Sky Sport Tennis (nessuna fonte); Sky Sport Uno (nessuna fonte); orario 23:00 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "minimo eventi",
+      "esito": "ko",
+      "dettaglio": "0 eventi verificati, ne servono almeno 3: la riga non esce"
+     }
+    ],
+    "fonti": []
+   },
+   "Stato": "SALTATO_VERIFICA",
+   "motivo": "0 eventi verificati (minimo 3)",
+   "id": "SVL_20261111_1830_VID",
+   "stato": "SALTATO_VERIFICA",
+   "formato": "Video",
+   "piattaforma": "Instagram / FB + TikTok",
+   "utm": "https://maxegon.github.io/sportviewlens/download/?utm_source=instagram&utm_medium=reel&utm_campaign=stasera_tv&utm_content=SVL_20261111_1830_VID",
+   "pubblica_alle": "2026-11-11T18:30+01:00",
+   "slot": "SVL_20261111_1830_VID",
+   "ora_pubblicazione": "2026-11-11 18:30"
+  }
+ ]
+}
