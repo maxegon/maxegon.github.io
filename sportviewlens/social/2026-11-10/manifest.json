@@ -1,0 +1,88 @@
+{
+ "generato": "2026-11-10T01:57:40+00:00",
+ "data_pubblicazione": "2026-11-10",
+ "base_url": "https://maxegon.github.io/sportviewlens/social/2026-11-10",
+ "righe": [
+  {
+   "Giorno_Slot": "SVL_20261110_1830_CAR",
+   "Formato": "Carosello",
+   "Piattaforma": "Instagram / FB",
+   "Ora": "18:30",
+   "Categoria": "stasera_tv",
+   "Data_Evento": "2026-11-10",
+   "UTM": "https://maxegon.github.io/sportviewlens/download/?utm_source=instagram&utm_medium=carosello&utm_campaign=stasera_tv&utm_content=SVL_20261110_1830_CAR",
+   "note": [],
+   "verifica": {
+    "esito": "ko",
+    "controlli": [
+     {
+      "nome": "eventi nel post",
+      "esito": "ok",
+      "dettaglio": "0 eventi verificati ok, 9 tolti, su 9 candidati dell'app"
+     },
+     {
+      "nome": "tolto «WTA Finals Femminile (cemento)» 18:00",
+      "esito": "dubbio",
+      "dettaglio": "nessuna riga di tv_rights per tennis / «WTA Finals»; nessun canale con due fonti: SuperTennis (solo palinsesto); orario 18:00 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Anaitasuna – Alaves» 19:00",
+      "esito": "dubbio",
+      "dettaglio": "nessun canale con due fonti: DAZN (solo tv_rights); orario 19:00 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Trento – Tofas» 20:00",
+      "esito": "dubbio",
+      "dettaglio": "nessuna riga di tv_rights per basket / «Eurocup Basket»; nessun canale con due fonti: Sky Sport Mix (solo palinsesto); NOW (nessuna fonte); orario 20:00 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «London Lions – Venezia» 20:30",
+      "esito": "dubbio",
+      "dettaglio": "nessuna riga di tv_rights per basket / «Eurocup Basket»; nessun canale con due fonti: Sky Sport Basket (solo palinsesto); NOW (nessuna fonte); orario 20:30 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Tavernes – Valencia» 21:00",
+      "esito": "dubbio",
+      "dettaglio": "nessun canale con due fonti: DAZN (solo tv_rights); orario 21:00 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «WTA Finals Indian Wells 2026 - Singola» 21:00",
+      "esito": "dubbio",
+      "dettaglio": "nessuna riga di tv_rights per tennis / «WTA Finals Indian Wells»; nessun canale con due fonti: Sky Sport Tennis (nessuna fonte); Sky Sport Uno (nessuna fonte); orario 21:00 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «WTA Finals Indian Wells 2026 - Singola» 23:00",
+      "esito": "dubbio",
+      "dettaglio": "nessuna riga di tv_rights per tennis / «WTA Finals Indian Wells»; nessun canale con due fonti: Sky Sport Tennis (nessuna fonte); Sky Sport Uno (nessuna fonte); orario 23:00 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «CSM Digi Oradea - AN Brescia Pallanuot» 18:25",
+      "esito": "dubbio",
+      "dettaglio": "stagione dei diritti (2025-2026) non contiene il 2026-11-10; nessun canale con due fonti: Sky Sport Arena (solo palinsesto); orario 18:25 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «VK Radniki - Pro Recco» 20:25",
+      "esito": "dubbio",
+      "dettaglio": "stagione dei diritti (2025-2026) non contiene il 2026-11-10; nessun canale con due fonti: Sky Sport Arena (solo palinsesto); orario 20:25 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "minimo eventi",
+      "esito": "ko",
+      "dettaglio": "0 eventi verificati, ne servono almeno 3: la riga non esce"
+     }
+    ],
+    "fonti": []
+   },
+   "Stato": "SALTATO_VERIFICA",
+   "motivo": "0 eventi verificati (minimo 3)",
+   "id": "SVL_20261110_1830_CAR",
+   "stato": "SALTATO_VERIFICA",
+   "formato": "Carosello",
+   "piattaforma": "Instagram / FB",
+   "utm": "https://maxegon.github.io/sportviewlens/download/?utm_source=instagram&utm_medium=carosello&utm_campaign=stasera_tv&utm_content=SVL_20261110_1830_CAR",
+   "pubblica_alle": "2026-11-10T18:30+01:00",
+   "slot": "SVL_20261110_1830_CAR",
+   "ora_pubblicazione": "2026-11-10 18:30"
+  }
+ ]
+}
