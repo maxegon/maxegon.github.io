@@ -1,0 +1,197 @@
+{
+  "data": "2026-11-10",
+  "generato_il": "2026-11-10T01:56:17+00:00",
+  "piano": "marketing/piano_4_settimane.csv",
+  "righe": [
+    {
+      "id": "SHV_20261110_1930_STORY",
+      "piattaforma": "Instagram / FB Stories",
+      "formato": "Storia",
+      "categoria": "concerti",
+      "pubblica_alle": "2026-11-10T19:30:00+01:00",
+      "tema": "chiaro",
+      "scartati": [
+        [
+          "Steve Hackett – Best of Genesis & Solo Gems 2026 Tour",
+          "senza biglietteria online"
+        ],
+        [
+          "Dov'è Liana",
+          "luogo mancante"
+        ],
+        [
+          "Gnuquartet Paganini in Rock",
+          "luogo mancante"
+        ],
+        [
+          "Dov'è Liana",
+          "luogo mancante"
+        ],
+        [
+          "Accordi Disaccordi | Finding Orpheus",
+          "luogo mancante"
+        ],
+        [
+          "Anatomia di un Ricordo",
+          "luogo mancante"
+        ]
+      ],
+      "doppioni_rimossi": 0,
+      "verifica_eventi": [
+        {
+          "evento": "Grand Opening Show Nitto Atp Finals",
+          "data": "2026-11-12",
+          "ora": "21:00",
+          "citta": "Torino",
+          "fonte": "ticketone",
+          "esito": "ok",
+          "rinforzato": false,
+          "controlli": [
+            {
+              "nome": "orario",
+              "esito": "ok",
+              "dettaglio": "21:00"
+            },
+            {
+              "nome": "titolo",
+              "esito": "ok",
+              "dettaglio": "nessuna etichetta di abbonamento"
+            },
+            {
+              "nome": "biglietteria",
+              "esito": "ok",
+              "dettaglio": "TicketOne (blocca i bot): URL ben formato, visto nell ultimo giro (missing_count=0, fonte aggiornata da meno di 36 h)"
+            },
+            {
+              "nome": "serie",
+              "esito": "ok",
+              "dettaglio": "1 date della produzione, nessuna anomalia in testa alla serie"
+            }
+          ],
+          "fonti": [
+            "https://www.ticketone.it/event/grand-opening-show-nitto-atp-finals-achille-lauro-in-concerto-grand-opening-show-delle-nitto-atp-finals-2026-inalpi-arena-21973814/"
+          ]
+        },
+        {
+          "evento": "Malika Ayane",
+          "data": "2026-11-11",
+          "ora": "20:30",
+          "citta": "Torino",
+          "fonte": "ticketone",
+          "esito": "ok",
+          "rinforzato": false,
+          "controlli": [
+            {
+              "nome": "orario",
+              "esito": "ok",
+              "dettaglio": "20:30"
+            },
+            {
+              "nome": "titolo",
+              "esito": "ok",
+              "dettaglio": "nessuna etichetta di abbonamento"
+            },
+            {
+              "nome": "biglietteria",
+              "esito": "ok",
+              "dettaglio": "TicketOne (blocca i bot): URL ben formato, visto nell ultimo giro (missing_count=0, fonte aggiornata da meno di 36 h)"
+            },
+            {
+              "nome": "serie",
+              "esito": "ok",
+              "dettaglio": "1 date della produzione, nessuna anomalia in testa alla serie"
+            }
+          ],
+          "fonti": [
+            "https://www.ticketone.it/event/malika-ayane-teatro-colosseo-21313510/"
+          ]
+        },
+        {
+          "evento": "Steve Hackett",
+          "data": "2026-11-12",
+          "ora": "20:30",
+          "citta": "Torino",
+          "fonte": "ticketone",
+          "esito": "ok",
+          "rinforzato": false,
+          "controlli": [
+            {
+              "nome": "orario",
+              "esito": "ok",
+              "dettaglio": "20:30"
+            },
+            {
+              "nome": "titolo",
+              "esito": "ok",
+              "dettaglio": "nessuna etichetta di abbonamento"
+            },
+            {
+              "nome": "biglietteria",
+              "esito": "ok",
+              "dettaglio": "TicketOne (blocca i bot): URL ben formato, visto nell ultimo giro (missing_count=0, fonte aggiornata da meno di 36 h)"
+            },
+            {
+              "nome": "serie",
+              "esito": "ok",
+              "dettaglio": "1 date della produzione, nessuna anomalia in testa alla serie"
+            }
+          ],
+          "fonti": [
+            "https://www.ticketone.it/event/steve-hackett-best-of-genesis-solo-gems-2026-tour-teatro-colosseo-21127562/"
+          ]
+        }
+      ],
+      "stato": "PRONTO",
+      "testo_finale": "🎤 Concerti in Piemonte questa settimana\n\n1. Grand Opening Show Nitto Atp Finals · Inalpi Arena · gio 12/11 · 21:00\n2. Malika Ayane · Teatro Colosseo · mer 11/11 · 20:30\n3. Steve Hackett · Teatro Colosseo · gio 12/11 · 20:30\n\nCerca «ShowViewLens» su App Store e Google Play.\n#ShowViewLens",
+      "titolo_slide": "Concerti in Piemonte questa settimana",
+      "eventi": [
+        "Grand Opening Show Nitto Atp Finals",
+        "Malika Ayane",
+        "Steve Hackett"
+      ],
+      "conteggio": 13,
+      "file": [
+        "https://maxegon.github.io/showviewlens/social/2026-11-10/SHV_20261110_1930_STORY/01_storia.jpg"
+      ],
+      "utm": "https://maxegon.github.io/showviewlens/download/?utm_source=instagram&utm_medium=story&utm_campaign=piano_2026_11&utm_content=SHV_20261110_1930_STORY",
+      "verifica": {
+        "esito": "ok",
+        "controlli": [
+          {
+            "nome": "eventi nel post",
+            "esito": "ok",
+            "dettaglio": "3 eventi verificati ok, 0 tolti, su 13 candidati"
+          }
+        ],
+        "fonti": [
+          "https://www.ticketone.it/event/grand-opening-show-nitto-atp-finals-achille-lauro-in-concerto-grand-opening-show-delle-nitto-atp-finals-2026-inalpi-arena-21973814/",
+          "https://www.ticketone.it/event/malika-ayane-teatro-colosseo-21313510/",
+          "https://www.ticketone.it/event/steve-hackett-best-of-genesis-solo-gems-2026-tour-teatro-colosseo-21127562/"
+        ]
+      },
+      "anteprima": {
+        "testo": "🎤 Concerti in Piemonte questa settimana\n\n1. Grand Opening Show Nitto Atp Finals · Inalpi Arena · gio 12/11 · 21:00\n2. Malika Ayane · Teatro Colosseo · mer 11/11 · 20:30\n3. Steve Hackett · Teatro Colosseo · gio 12/11 · 20:30\n\nCerca «ShowViewLens» su App Store e Google Play.\n#ShowViewLens",
+        "immagini": [
+          "https://maxegon.github.io/showviewlens/social/2026-11-10/SHV_20261110_1930_STORY/01_storia.jpg"
+        ]
+      },
+      "ig_media": [
+        {
+          "media_type": "IMAGE",
+          "image_url": "https://maxegon.github.io/showviewlens/social/2026-11-10/SHV_20261110_1930_STORY/01_storia.jpg"
+        }
+      ],
+      "fb_photos": [
+        {
+          "type": "url",
+          "url": "https://maxegon.github.io/showviewlens/social/2026-11-10/SHV_20261110_1930_STORY/01_storia.jpg"
+        }
+      ],
+      "slot": "SHV_20261110_1930_STORY",
+      "ora_pubblicazione": "2026-11-10 19:30",
+      "immagini": [
+        "https://maxegon.github.io/showviewlens/social/2026-11-10/SHV_20261110_1930_STORY/01_storia.jpg"
+      ]
+    }
+  ]
+}
