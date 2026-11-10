@@ -1,0 +1,296 @@
+{
+  "data": "2026-11-11",
+  "generato_il": "2026-11-10T23:58:02+00:00",
+  "piano": "marketing/piano_4_settimane.csv",
+  "righe": [
+    {
+      "id": "SHV_20261111_1230_VID",
+      "piattaforma": "TikTok / Shorts",
+      "formato": "Video",
+      "categoria": "danza+opera",
+      "pubblica_alle": "2026-11-11T12:30:00+01:00",
+      "tema": "chiaro",
+      "scartati": [
+        [
+          "Ragazzi All'Opera",
+          "ora 10:30 prima di 11:00"
+        ],
+        [
+          "Open – Rassegna Internazionale Danza Adulti",
+          "ora 00:00 prima di 11:00"
+        ],
+        [
+          "Trio Felix – Dall'800 ai Nostri Giorni fra Canti e Danza",
+          "senza biglietteria online"
+        ],
+        [
+          "Lo Schiaccianoci - Raphael Bianco",
+          "ora 10:00 prima di 11:00"
+        ]
+      ],
+      "doppioni_rimossi": 84,
+      "verifica_eventi": [
+        {
+          "evento": "Italian Opera Taormina",
+          "data": "2026-11-11",
+          "ora": "21:15",
+          "citta": "Taormina",
+          "fonte": "vivaticket",
+          "esito": "ok",
+          "rinforzato": false,
+          "controlli": [
+            {
+              "nome": "orario",
+              "esito": "ok",
+              "dettaglio": "21:15"
+            },
+            {
+              "nome": "titolo",
+              "esito": "ok",
+              "dettaglio": "nessuna etichetta di abbonamento"
+            },
+            {
+              "nome": "biglietteria",
+              "esito": "ok",
+              "dettaglio": "Vivaticket: replica letta dall API pubblica"
+            },
+            {
+              "nome": "pagina",
+              "esito": "ok",
+              "dettaglio": "titolo, citta, data e ora coincidono (2026-11-11 21:15, TAORMINA)"
+            },
+            {
+              "nome": "serie",
+              "esito": "ok",
+              "dettaglio": "9 date della produzione, nessuna anomalia in testa alla serie"
+            }
+          ],
+          "fonti": [
+            "https://shop.vivaticket.com/it/sell/?cmd=prices&pcode=13298492&tcode=vt0020309"
+          ]
+        },
+        {
+          "evento": "Catalogo",
+          "data": "2026-11-19",
+          "ora": "19:00",
+          "citta": "Bologna",
+          "fonte": "vivaticket",
+          "esito": "ok",
+          "rinforzato": false,
+          "controlli": [
+            {
+              "nome": "orario",
+              "esito": "ok",
+              "dettaglio": "19:00"
+            },
+            {
+              "nome": "titolo",
+              "esito": "ok",
+              "dettaglio": "nessuna etichetta di abbonamento"
+            },
+            {
+              "nome": "biglietteria",
+              "esito": "ok",
+              "dettaglio": "Vivaticket: replica letta dall API pubblica"
+            },
+            {
+              "nome": "pagina",
+              "esito": "ok",
+              "dettaglio": "titolo, citta, data e ora coincidono (2026-11-19 19:00, BOLOGNA)"
+            },
+            {
+              "nome": "serie",
+              "esito": "ok",
+              "dettaglio": "4 date della produzione, nessuna anomalia in testa alla serie"
+            }
+          ],
+          "fonti": [
+            "https://shop.vivaticket.com/it/sell/?cmd=prices&pcode=14063179&tcode=vt0022110"
+          ]
+        },
+        {
+          "evento": "A Beginning #16161d",
+          "data": "2026-11-21",
+          "ora": "20:00",
+          "citta": "Bologna",
+          "fonte": "vivaticket",
+          "esito": "ok",
+          "rinforzato": false,
+          "controlli": [
+            {
+              "nome": "orario",
+              "esito": "ok",
+              "dettaglio": "20:00"
+            },
+            {
+              "nome": "titolo",
+              "esito": "ok",
+              "dettaglio": "nessuna etichetta di abbonamento"
+            },
+            {
+              "nome": "biglietteria",
+              "esito": "ok",
+              "dettaglio": "Vivaticket: replica letta dall API pubblica"
+            },
+            {
+              "nome": "pagina",
+              "esito": "ok",
+              "dettaglio": "titolo, citta, data e ora coincidono (2026-11-21 20:00, BOLOGNA)"
+            },
+            {
+              "nome": "serie",
+              "esito": "ok",
+              "dettaglio": "1 date della produzione, nessuna anomalia in testa alla serie"
+            }
+          ],
+          "fonti": [
+            "https://www.vivaticket.com/it/ticket/a-beginning-16161d/306461"
+          ]
+        },
+        {
+          "evento": "Alahor in Granata",
+          "data": "2026-11-11",
+          "ora": "17:00",
+          "citta": "Bergamo",
+          "fonte": "vivaticket",
+          "esito": "ok",
+          "rinforzato": false,
+          "controlli": [
+            {
+              "nome": "orario",
+              "esito": "ok",
+              "dettaglio": "17:00"
+            },
+            {
+              "nome": "titolo",
+              "esito": "ok",
+              "dettaglio": "nessuna etichetta di abbonamento"
+            },
+            {
+              "nome": "biglietteria",
+              "esito": "ok",
+              "dettaglio": "Vivaticket: replica letta dall API pubblica"
+            },
+            {
+              "nome": "pagina",
+              "esito": "ok",
+              "dettaglio": "titolo, citta, data e ora coincidono (2026-11-11 17:00, BERGAMO)"
+            },
+            {
+              "nome": "serie",
+              "esito": "ok",
+              "dettaglio": "4 date della produzione, nessuna anomalia in testa alla serie"
+            }
+          ],
+          "fonti": [
+            "https://www.vivaticket.com/it/ticket/alahor-in-granata-anteprima-under-30/307659"
+          ]
+        }
+      ],
+      "video": {
+        "file": "marketing/out/2026-11-11/SHV_20261111_1230_VID/video.mp4",
+        "durata_s": 12.0,
+        "video": {
+          "codec_name": "h264",
+          "width": 1080,
+          "height": 1920,
+          "pix_fmt": "yuv420p"
+        },
+        "slide": 4,
+        "ok": true
+      },
+      "stato": "PRONTO",
+      "testo_finale": "🩰 Danza e opera in arrivo in Italia: 80 serate in ShowViewLens.\n\n1. Italian Opera Taormina · TEATRO NAZARENA · mer 11/11 · 21:15\n2. Catalogo · Arena del Sole - Sala Thierry Salmon · gio 19/11 · 19:00\n3. A Beginning #16161d · Arena del Sole - Sala Leo de Berardinis · sab 21/11 · 20:00\n4. Alahor in Granata · Teatro Sociale · mer 11/11 · 17:00\n\nTrovi date e biglietteria ufficiale su ShowViewLens. Scaricala gratis: link in bio.\n\n#ShowViewLens #Danza #OperaLirica #SpettacoliDalVivo",
+      "titolo_slide": "Danza e opera: 80 serate in arrivo",
+      "eventi": [
+        "Italian Opera Taormina",
+        "Catalogo",
+        "A Beginning #16161d",
+        "Alahor in Granata"
+      ],
+      "conteggio": 80,
+      "file": [
+        "https://maxegon.github.io/showviewlens/social/2026-11-11/SHV_20261111_1230_VID/video.mp4"
+      ],
+      "utm": "https://maxegon.github.io/showviewlens/download/?utm_source=tiktok&utm_medium=video&utm_campaign=piano_2026_11&utm_content=SHV_20261111_1230_VID",
+      "verifica": {
+        "esito": "ok",
+        "controlli": [
+          {
+            "nome": "eventi nel post",
+            "esito": "ok",
+            "dettaglio": "4 eventi verificati ok, 0 tolti, su 80 candidati"
+          }
+        ],
+        "fonti": [
+          "https://shop.vivaticket.com/it/sell/?cmd=prices&pcode=13298492&tcode=vt0020309",
+          "https://shop.vivaticket.com/it/sell/?cmd=prices&pcode=14063179&tcode=vt0022110",
+          "https://www.vivaticket.com/it/ticket/a-beginning-16161d/306461",
+          "https://www.vivaticket.com/it/ticket/alahor-in-granata-anteprima-under-30/307659"
+        ]
+      },
+      "anteprima": {
+        "testo": "🩰 Danza e opera in arrivo in Italia: 80 serate in ShowViewLens.\n\n1. Italian Opera Taormina · TEATRO NAZARENA · mer 11/11 · 21:15\n2. Catalogo · Arena del Sole - Sala Thierry Salmon · gio 19/11 · 19:00\n3. A Beginning #16161d · Arena del Sole - Sala Leo de Berardinis · sab 21/11 · 20:00\n4. Alahor in Granata · Teatro Sociale · mer 11/11 · 17:00\n\nTrovi date e biglietteria ufficiale su ShowViewLens. Scaricala gratis: link in bio.\n\n#ShowViewLens #Danza #OperaLirica #SpettacoliDalVivo",
+        "immagini": [
+          "https://maxegon.github.io/showviewlens/social/2026-11-11/SHV_20261111_1230_VID/cover.jpg"
+        ]
+      },
+      "slot": "SHV_20261111_1230_VID",
+      "ora_pubblicazione": "2026-11-11 12:30",
+      "immagini": [
+        "https://maxegon.github.io/showviewlens/social/2026-11-11/SHV_20261111_1230_VID/video.mp4"
+      ]
+    },
+    {
+      "id": "SHV_20261111_1900_POST",
+      "piattaforma": "Instagram / FB",
+      "formato": "Post Singolo",
+      "categoria": "concerti+teatro+danza+opera",
+      "pubblica_alle": "2026-11-11T19:00:00+01:00",
+      "tema": "oro",
+      "stato": "PRONTO",
+      "testo_finale": "✨ Cerca un artista, un titolo o un teatro e trovi le prossime date con il link alla biglietteria ufficiale.\n\nShowViewLens: concerti, teatro, danza e opera in Italia, con il link diretto alla biglietteria ufficiale.\n\n📲 Scarica ShowViewLens gratis: link in bio (App Store e Google Play).\n\n#ShowViewLens #SpettacoliDalVivo #TeatroItalia #ConcertiItalia",
+      "titolo_slide": "Cerca artista, titolo o teatro",
+      "eventi": [],
+      "conteggio": 0,
+      "file": [
+        "https://maxegon.github.io/showviewlens/social/2026-11-11/SHV_20261111_1900_POST/01_gancio.jpg"
+      ],
+      "utm": "https://maxegon.github.io/showviewlens/download/?utm_source=instagram&utm_medium=social&utm_campaign=piano_2026_11&utm_content=SHV_20261111_1900_POST",
+      "verifica": {
+        "esito": "ok",
+        "fonti": [],
+        "controlli": [
+          {
+            "nome": "contenuto",
+            "esito": "ok",
+            "dettaglio": "testo statico da app_features.json: nessun dato esterno da controllare"
+          }
+        ]
+      },
+      "anteprima": {
+        "testo": "✨ Cerca un artista, un titolo o un teatro e trovi le prossime date con il link alla biglietteria ufficiale.\n\nShowViewLens: concerti, teatro, danza e opera in Italia, con il link diretto alla biglietteria ufficiale.\n\n📲 Scarica ShowViewLens gratis: link in bio (App Store e Google Play).\n\n#ShowViewLens #SpettacoliDalVivo #TeatroItalia #ConcertiItalia",
+        "immagini": [
+          "https://maxegon.github.io/showviewlens/social/2026-11-11/SHV_20261111_1900_POST/01_gancio.jpg"
+        ]
+      },
+      "ig_media": [
+        {
+          "media_type": "IMAGE",
+          "image_url": "https://maxegon.github.io/showviewlens/social/2026-11-11/SHV_20261111_1900_POST/01_gancio.jpg"
+        }
+      ],
+      "fb_photos": [
+        {
+          "type": "url",
+          "url": "https://maxegon.github.io/showviewlens/social/2026-11-11/SHV_20261111_1900_POST/01_gancio.jpg"
+        }
+      ],
+      "slot": "SHV_20261111_1900_POST",
+      "ora_pubblicazione": "2026-11-11 19:00",
+      "immagini": [
+        "https://maxegon.github.io/showviewlens/social/2026-11-11/SHV_20261111_1900_POST/01_gancio.jpg"
+      ]
+    }
+  ]
+}
