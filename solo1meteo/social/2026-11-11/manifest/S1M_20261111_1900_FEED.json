@@ -1,0 +1,123 @@
+{
+  "slot": "S1M_20261111_1900_FEED",
+  "piattaforma": "Instagram / FB",
+  "formato": "Carosello",
+  "ora_pubblicazione": "2026-11-11 19:00",
+  "data_evento": "2026-11-12",
+  "utm": "https://maxegon.github.io/meteo-stat-privacy/landing/?utm_source=instagram&utm_medium=social&utm_campaign=s1m_2026w46&utm_content=S1M_20261111_1900_FEED",
+  "generato_il": "2026-11-10T02:50:29+01:00",
+  "provvisorio": true,
+  "stato": "SALTATO_VERIFICA",
+  "motivo": "verifica dei dati non superata: fonti_pioggia: 2 fonti con il dato di pioggia (minimo 3)",
+  "verifica": {
+    "esito": "dubbio",
+    "controlli": [
+      {
+        "nome": "backend",
+        "esito": "ok",
+        "dettaglio": "/health = healthy"
+      },
+      {
+        "nome": "fonti",
+        "esito": "ok",
+        "dettaglio": "7 fonti su 8 per 2026-11-12 (minimo 6)"
+      },
+      {
+        "nome": "fonti_pioggia",
+        "esito": "dubbio",
+        "dettaglio": "2 fonti con il dato di pioggia (minimo 3)"
+      },
+      {
+        "nome": "freschezza",
+        "esito": "ok",
+        "dettaglio": "dato scaricato 0 minuti prima del rendering (massimo 3 ore, cache backend 10 minuti)"
+      },
+      {
+        "nome": "calcolo_app",
+        "esito": "ok",
+        "dettaglio": "copia del calcolo dell'app sha f8de55e39310 (submodule assente in CI) | codice dell'app (buildAggregateDays)"
+      },
+      {
+        "nome": "numeri_testo",
+        "esito": "ok",
+        "dettaglio": "tutti i numeri con ° o % sono quelli calcolati come nell'app"
+      },
+      {
+        "nome": "scarto",
+        "esito": "ok",
+        "dettaglio": "massime 22-26° (scarto 4°), pioggia 15-41% (scarto 26)"
+      },
+      {
+        "nome": "giorno",
+        "esito": "ok",
+        "dettaglio": "giorno citato = giovedì 2026-11-12"
+      },
+      {
+        "nome": "allerte",
+        "esito": "ok",
+        "dettaglio": "nessuna allerta meteo attiva per il giorno (WeatherAPI)"
+      },
+      {
+        "nome": "posizione",
+        "esito": "ok",
+        "dettaglio": "Palermo: citta fissa del piano, nessuna posizione dell'utente"
+      }
+    ],
+    "fonti": [
+      "https://backend-eta-seven-21.vercel.app/weather?lat=38.12&lon=13.36",
+      "https://open-meteo.com",
+      "https://openweathermap.org",
+      "https://www.weatherapi.com",
+      "https://api.met.no",
+      "https://brightsky.dev",
+      "http://www.7timer.info",
+      "https://www.tomorrow.io"
+    ]
+  },
+  "tentativi": [
+    {
+      "citta": "Palermo",
+      "esito": "verifica",
+      "motivo": "fonti_pioggia: 2 fonti con il dato di pioggia (minimo 3)"
+    },
+    {
+      "citta": "Roma",
+      "esito": "verifica",
+      "motivo": "fonti_pioggia: 2 fonti con il dato di pioggia (minimo 3)"
+    },
+    {
+      "citta": "Milano",
+      "esito": "verifica",
+      "motivo": "fonti_pioggia: 2 fonti con il dato di pioggia (minimo 3)"
+    },
+    {
+      "citta": "Napoli",
+      "esito": "verifica",
+      "motivo": "fonti_pioggia: 2 fonti con il dato di pioggia (minimo 3)"
+    }
+  ],
+  "dati_scartati": {
+    "citta": "Palermo",
+    "data_label": "giovedì 12 novembre",
+    "fonti_n": 7,
+    "fonti_elencate": 7,
+    "fonti_escluse": [],
+    "tmax_media": 25,
+    "tmax_min": 22,
+    "tmax_max": 26,
+    "tmin_media": 18,
+    "pioggia_media": 22,
+    "pioggia_min": 15,
+    "pioggia_max": 41,
+    "fonti_pioggia": 2,
+    "condizione": "nuvoloso",
+    "fonti_condizione": 6,
+    "giorno_piu_incerto": "domenica",
+    "scarto_tmax": 4,
+    "tmax_scarto_fonti": 4.2,
+    "tmax_disaccordo": true,
+    "pioggia_disaccordo": false,
+    "gancio_pioggia": "pioggia 22%"
+  },
+  "giorno": "2026-11-11"
+}
