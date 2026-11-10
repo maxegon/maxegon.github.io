@@ -1,0 +1,128 @@
+{
+  "slot": "S1M_20261110_0800_STORY",
+  "piattaforma": "Instagram / FB",
+  "formato": "Storia",
+  "ora_pubblicazione": "2026-11-10 08:00",
+  "data_evento": "2026-11-10",
+  "utm": "https://maxegon.github.io/meteo-stat-privacy/landing/?utm_source=instagram&utm_medium=social&utm_campaign=s1m_2026w46&utm_content=S1M_20261110_0800_STORY",
+  "generato_il": "2026-11-10T11:09:26+01:00",
+  "provvisorio": false,
+  "stato": "SALTATO_VERIFICA",
+  "motivo": "verifica dei dati non superata: allerte: allerta meteo attiva (Giallo Pioggia Allerta; Giallo Pioggia Allerta; Giallo Temporali Allerta) e nessun ente citato nel post",
+  "verifica": {
+    "esito": "dubbio",
+    "controlli": [
+      {
+        "nome": "backend",
+        "esito": "ok",
+        "dettaglio": "/health = healthy"
+      },
+      {
+        "nome": "fonti",
+        "esito": "ok",
+        "dettaglio": "8 fonti su 8 per 2026-11-10 (minimo 6)"
+      },
+      {
+        "nome": "fonti_pioggia",
+        "esito": "ok",
+        "dettaglio": "5 fonti con il dato di pioggia (minimo 3)"
+      },
+      {
+        "nome": "freschezza",
+        "esito": "ok",
+        "dettaglio": "dato scaricato 0 minuti prima del rendering (massimo 3 ore, cache backend 10 minuti)"
+      },
+      {
+        "nome": "calcolo_app",
+        "esito": "ok",
+        "dettaglio": "copia del calcolo dell'app sha f8de55e39310 (submodule assente in CI) | codice dell'app (buildAggregateDays)"
+      },
+      {
+        "nome": "numeri_testo",
+        "esito": "ok",
+        "dettaglio": "tutti i numeri con ° o % sono quelli calcolati come nell'app"
+      },
+      {
+        "nome": "scarto",
+        "esito": "ok",
+        "dettaglio": "massime 18-20° (scarto 2°), pioggia 33-84% (scarto 51) | disaccordo sulla pioggia: il gancio lo dice"
+      },
+      {
+        "nome": "giorno",
+        "esito": "ok",
+        "dettaglio": "giorno citato = martedì 2026-11-10"
+      },
+      {
+        "nome": "allerte",
+        "esito": "dubbio",
+        "dettaglio": "allerta meteo attiva (Giallo Pioggia Allerta; Giallo Pioggia Allerta; Giallo Temporali Allerta) e nessun ente citato nel post"
+      },
+      {
+        "nome": "posizione",
+        "esito": "ok",
+        "dettaglio": "Bari: citta fissa del piano, nessuna posizione dell'utente"
+      }
+    ],
+    "fonti": [
+      "https://backend-eta-seven-21.vercel.app/weather?lat=41.12&lon=16.87",
+      "https://open-meteo.com",
+      "https://openweathermap.org",
+      "https://www.weatherapi.com",
+      "https://api.met.no",
+      "https://brightsky.dev",
+      "https://www.visualcrossing.com",
+      "http://www.7timer.info",
+      "https://www.tomorrow.io"
+    ]
+  },
+  "tentativi": [
+    {
+      "citta": "Bari",
+      "esito": "verifica",
+      "motivo": "allerte: allerta meteo attiva (Giallo Pioggia Allerta; Giallo Pioggia Allerta; Giallo Temporali Allerta) e nessun ente citato nel post"
+    },
+    {
+      "citta": "Roma",
+      "esito": "verifica",
+      "motivo": "allerte: allerta meteo attiva (Giallo Pioggia Allerta; Giallo Pioggia Allerta; Giallo Temporali Allerta) e nessun ente citato nel post"
+    },
+    {
+      "citta": "Milano",
+      "esito": "verifica",
+      "motivo": "allerte: allerta meteo attiva (Giallo Pioggia Allerta; Giallo Pioggia Allerta; Giallo Temporali Allerta) e nessun ente citato nel post"
+    },
+    {
+      "citta": "Napoli",
+      "esito": "verifica",
+      "motivo": "allerte: allerta meteo attiva (Giallo Pioggia Allerta; Giallo Pioggia Allerta; Giallo Temporali Allerta) e nessun ente citato nel post"
+    }
+  ],
+  "dati_scartati": {
+    "citta": "Bari",
+    "data_label": "martedì 10 novembre",
+    "fonti_n": 8,
+    "fonti_elencate": 8,
+    "fonti_escluse": [],
+    "tmax_media": 19,
+    "tmax_min": 18,
+    "tmax_max": 20,
+    "tmin_media": 11,
+    "pioggia_media": 46,
+    "pioggia_min": 33,
+    "pioggia_max": 84,
+    "fonti_pioggia": 5,
+    "condizione": "nuvoloso",
+    "fonti_condizione": 6,
+    "giorno_piu_incerto": "domenica",
+    "scarto_tmax": 6,
+    "tmax_scarto_fonti": 1.5,
+    "tmax_disaccordo": false,
+    "pioggia_disaccordo": true,
+    "gancio_pioggia": "le fonti non sono d'accordo sulla pioggia, dal 33% al 84%"
+  },
+  "giorno": "2026-11-10",
+  "cambio_serale": {
+    "tipo": "nuova",
+    "motivo": "non c'era un rendering serale"
+  }
+}
