@@ -1,0 +1,57 @@
+# Ogni notte toglie da Pages le cartelle <app>/social/AAAA-MM-GG piu vecchie di 14 giorni (ora di Roma).
+# Motivo: il 10/11/2026 il deploy andava in timeout perche il sito era troppo grande (artifact ~495 MB).
+# Script: scripts/pulizia-giorni-vecchi.sh. Le immagini non citate dei giorni recenti le toglie scripts/prune-unreferenced.sh.
+# Un push col GITHUB_TOKEN non fa partire il build di Pages: dopo il push lo richiediamo noi (permesso pages: write).
+name: pulizia-social
+
+on:
+  schedule:
+    - cron: '17 3 * * *'
+  workflow_dispatch:
+    inputs:
+      giorni:
+        description: 'Quanti giorni tenere (minimo 7)'
+        required: false
+        default: '14'
+      dry_run:
+        description: 'Solo elenco, non toglie nulla'
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+  pages: write
+
+concurrency:
+  group: pulizia-social
+  cancel-in-progress: false
+
+jobs:
+  pulizia:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - name: Toglie i giorni vecchi
+        env:
+          GIORNI: ${{ inputs.giorni || '14' }}
+          DRY: ${{ inputs.dry_run && '--dry-run' || '' }}
+        run: bash scripts/pulizia-giorni-vecchi.sh "$GIORNI" $DRY
+      - name: Commit, push e build di Pages
+        if: ${{ !inputs.dry_run }}
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GIORNI: ${{ inputs.giorni || '14' }}
+        run: |
+          git add -A
+          if git diff --cached --quiet; then echo "niente da togliere"; exit 0; fi
+          git config user.name "pulizia-social-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git commit -m "chore(pages): toglie le cartelle social piu vecchie di ${GIORNI:-14} giorni"
+          for i in 1 2 3; do
+            git push origin HEAD:main && break
+            git pull --rebase origin main
+            sleep $((i * 5))
+            [ "$i" = 3 ] && { echo "push fallito 3 volte"; exit 1; }
+          done
+          gh api -X POST "repos/${{ github.repository }}/pages/builds" --jq .status
