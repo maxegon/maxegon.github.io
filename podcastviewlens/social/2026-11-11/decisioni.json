@@ -1,0 +1,29 @@
+{
+ "app": "PodcastViewLens",
+ "data": "2026-11-11",
+ "righe": {
+  "W3_MER_1830": {
+   "pubblica_alle": "2026-11-11T18:30:00+01:00",
+   "formato": "Carosello",
+   "piattaforma": "Instagram / FB",
+   "sempreverde": true,
+   "chiave": "W3_MER_1830",
+   "decisione": null,
+   "alle": "",
+   "correzioni": [],
+   "messaggio_id": 171
+  }
+ },
+ "messaggi": {
+  "171": {
+   "chat_id": "1614787945",
+   "righe": [
+    "W3_MER_1830"
+   ],
+   "base": "<b>18:30 · Carosello · Instagram / FB</b>\nID <code>W3_MER_1830</code>\n✅ Verifica ok\n<pre>Hai trovato una puntata ma non è il momento? Dalla scheda del podcast tocca Pianifica: la ritrovi in I Miei Ascolti, nell&#x27;orario che hai scelto.\n\nScarica PodcastViewLens gratis: link in bio.\n\n#PodcastViewLens #PodcastItalia #CosaAscoltare</pre>\n\n<i>✅ OK: esce all'orario · ⏭️ Salta: non esce, torna in coda tra 7 giorni · ✏️ Correggi: mi scrivi cosa cambiare · ↩️ Annulla: torna come prima. Nessun click = esce. Leggo i pulsanti ogni 15 minuti: decidi almeno 30 minuti prima.</i>"
+  }
+ },
+ "ultimo_update_id": null,
+ "anteprima_inviata_il": "2026-11-11T00:53:34+01:00",
+ "provvisorio": false
+}
