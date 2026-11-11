@@ -5,14 +5,14 @@
   "ora_pubblicazione": "2026-11-11 19:00",
   "data_evento": "2026-11-12",
   "utm": "https://maxegon.github.io/meteo-stat-privacy/landing/?utm_source=instagram&utm_medium=social&utm_campaign=s1m_2026w46&utm_content=S1M_20261111_1900_FEED",
-  "generato_il": "2026-11-11T00:51:39+01:00",
+  "generato_il": "2026-11-11T13:52:25+01:00",
   "provvisorio": false,
   "giorno": "2026-11-11",
   "tema": "cielo",
   "stato": "MEDIA_PRONTA",
   "motivo": null,
-  "testo_finale": "Avvisi con le tue soglie. Per domani a Palermo 5 fonti su 8 indicano nuvoloso. Scarica Solo1Meteo gratis: link in bio. #solo1meteo #meteo #previsionimeteo #meteoitalia",
-  "concept_finale": "S1 gancio: Domani a Palermo: nuvoloso per 5 fonti su 8 | S2 avvisi: caldo, freddo, pioggia intensa, vento e UV dentro l'app | S3 soglie: le scegli tu nelle impostazioni | S4 screenshot: schermata Radar | S5 cta: Scarica gratis Solo1Meteo",
+  "testo_finale": "Avvisi con le tue soglie. Per domani a Palermo 7 fonti su 8 indicano nuvoloso. Scarica Solo1Meteo gratis: link in bio. #solo1meteo #meteo #previsionimeteo #meteoitalia",
+  "concept_finale": "S1 gancio: Domani a Palermo: nuvoloso per 7 fonti su 8 | S2 avvisi: caldo, freddo, pioggia intensa, vento e UV dentro l'app | S3 soglie: le scegli tu nelle impostazioni | S4 screenshot: schermata Radar | S5 cta: Scarica gratis Solo1Meteo",
   "immagini": [
     "https://maxegon.github.io/solo1meteo/social/2026-11-11/S1M_20261111_1900_FEED/1_copertina.png",
     "https://maxegon.github.io/solo1meteo/social/2026-11-11/S1M_20261111_1900_FEED/2a_temperature.png",
@@ -81,57 +81,57 @@
     "fonti_elencate": 8,
     "fonti_escluse": [],
     "tmax_media": 24,
-    "tmax_min": 23,
+    "tmax_min": 22,
     "tmax_max": 26,
     "tmin_media": 20,
-    "pioggia_media": 12,
+    "pioggia_media": 4,
     "pioggia_min": 0,
-    "pioggia_max": 35,
+    "pioggia_max": 20,
     "fonti_pioggia": 5,
     "condizione": "nuvoloso",
-    "fonti_condizione": 5,
+    "fonti_condizione": 7,
     "giorno_piu_incerto": "sabato",
-    "scarto_tmax": 6,
-    "tmax_scarto_fonti": 3.6,
+    "scarto_tmax": 5,
+    "tmax_scarto_fonti": 4.0,
     "tmax_disaccordo": false,
-    "pioggia_disaccordo": true,
-    "gancio_pioggia": "le fonti non sono d'accordo sulla pioggia, dal 0% al 35%"
+    "pioggia_disaccordo": false,
+    "gancio_pioggia": "pioggia 4%"
   },
   "fonti": [
     {
       "fonte": "Open-Meteo",
-      "tmax": 26.2,
-      "pioggia": 13,
+      "tmax": 25.9,
+      "pioggia": 8,
       "pioggia_metodo": "orario"
     },
     {
       "fonte": "OpenWeatherMap",
-      "tmax": 23.59,
-      "pioggia": 0,
+      "tmax": 23.32,
+      "pioggia": 20,
       "pioggia_metodo": "orario"
     },
     {
       "fonte": "WeatherAPI",
-      "tmax": 23.6,
-      "pioggia": 35,
+      "tmax": 24,
+      "pioggia": 16,
       "pioggia_metodo": "orario"
     },
     {
       "fonte": "MET Norway",
-      "tmax": 25.1,
+      "tmax": 24.8,
       "pioggia": null,
       "pioggia_metodo": null
     },
     {
       "fonte": "DWD",
-      "tmax": 25.8,
+      "tmax": 25.7,
       "pioggia": null,
       "pioggia_metodo": null
     },
     {
       "fonte": "Visual Crossing",
-      "tmax": 23.9,
-      "pioggia": 16,
+      "tmax": 23.8,
+      "pioggia": 3,
       "pioggia_metodo": "orario"
     },
     {
@@ -142,7 +142,7 @@
     },
     {
       "fonte": "Tomorrow.io",
-      "tmax": 22.58,
+      "tmax": 21.92,
       "pioggia": 0,
       "pioggia_metodo": "orario"
     }
@@ -183,7 +183,7 @@
       {
         "nome": "scarto",
         "esito": "ok",
-        "dettaglio": "massime 23-26° (scarto 3°), pioggia 0-35% (scarto 35) | disaccordo sulla pioggia: il gancio lo dice"
+        "dettaglio": "massime 22-26° (scarto 4°), pioggia 0-20% (scarto 20)"
       },
       {
         "nome": "giorno",
@@ -213,16 +213,16 @@
       "https://www.tomorrow.io"
     ]
   },
-  "scaricato_il": "2026-11-11T00:51:41+01:00",
+  "scaricato_il": "2026-11-11T13:52:27+01:00",
   "citta_usata": "Palermo",
   "anteprima": {
-    "testo": "Avvisi con le tue soglie. Per domani a Palermo 5 fonti su 8 indicano nuvoloso. Scarica Solo1Meteo gratis: link in bio. #solo1meteo #meteo #previsionimeteo #meteoitalia",
+    "testo": "Avvisi con le tue soglie. Per domani a Palermo 7 fonti su 8 indicano nuvoloso. Scarica Solo1Meteo gratis: link in bio. #solo1meteo #meteo #previsionimeteo #meteoitalia",
     "immagini": [
       "https://maxegon.github.io/solo1meteo/social/2026-11-11/S1M_20261111_1900_FEED/1_copertina.png"
     ]
   },
   "cambio_serale": {
-    "tipo": "nuova",
-    "motivo": "la sera era SALTATO_VERIFICA"
+    "tipo": "invariata",
+    "motivo": ""
   }
 }
