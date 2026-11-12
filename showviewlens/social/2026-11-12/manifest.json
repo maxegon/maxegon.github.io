@@ -1,0 +1,286 @@
+{
+  "data": "2026-11-12",
+  "generato_il": "2026-11-12T01:24:14+00:00",
+  "piano": "marketing/piano_4_settimane.csv",
+  "righe": [
+    {
+      "id": "SHV_20261112_1800_CAR",
+      "piattaforma": "Instagram / FB",
+      "formato": "Carosello",
+      "categoria": "concerti",
+      "pubblica_alle": "2026-11-12T18:00:00+01:00",
+      "tema": "oro",
+      "scartati": [
+        [
+          "Sick Tamburo – Winter Tour",
+          "ora 00:00 prima di 11:00"
+        ],
+        [
+          "Musica Contro la Guerra Prova Generale",
+          "ora 10:00 prima di 11:00"
+        ],
+        [
+          "Accordi Disaccordi | Finding Orpheus",
+          "luogo mancante"
+        ],
+        [
+          "Anneke Van Giersbergen & Band",
+          "luogo mancante"
+        ],
+        [
+          "Speed Stroke",
+          "luogo mancante"
+        ],
+        [
+          "Gulino Canta Marta sui Tubi",
+          "luogo mancante"
+        ],
+        [
+          "Gnuquartet Paganini in Rock",
+          "luogo mancante"
+        ],
+        [
+          "Hit",
+          "luogo mancante"
+        ],
+        [
+          "Chella Ca Guarda N'Terra",
+          "luogo mancante"
+        ],
+        [
+          "Bardomagno",
+          "luogo mancante"
+        ],
+        [
+          "Dov'è Liana",
+          "luogo mancante"
+        ],
+        [
+          "Santamarea",
+          "luogo mancante"
+        ],
+        [
+          "Walt Disney Concert Part 1",
+          "fuori perimetro: cinema/film/streaming/TV: fuori perimetro (o altra app)"
+        ],
+        [
+          "Mahler, Sinfonia N. 4",
+          "senza biglietteria online"
+        ],
+        [
+          "Le-One",
+          "luogo mancante"
+        ],
+        [
+          "Malesh + Sacrestanze",
+          "luogo mancante"
+        ],
+        [
+          "Omaggio a Britten",
+          "luogo mancante"
+        ],
+        [
+          "Bardomagno",
+          "luogo mancante"
+        ],
+        [
+          "Anatomia di un Ricordo",
+          "luogo mancante"
+        ],
+        [
+          "C'era una Volta...Disney il Concerto",
+          "fuori perimetro: cinema/film/streaming/TV: fuori perimetro (o altra app)"
+        ],
+        [
+          "Ascolta il Molise",
+          "senza biglietteria online"
+        ],
+        [
+          "Chris Bergson & Ellis Hooks Band",
+          "luogo mancante"
+        ],
+        [
+          "Loud & Proud Fest",
+          "luogo mancante"
+        ]
+      ],
+      "doppioni_rimossi": 55,
+      "verifica_eventi": [
+        {
+          "evento": "Murubutu",
+          "data": "2026-11-13",
+          "ora": "20:00",
+          "citta": "Roma",
+          "fonte": "ticketone",
+          "esito": "ok",
+          "rinforzato": false,
+          "controlli": [
+            {
+              "nome": "orario",
+              "esito": "ok",
+              "dettaglio": "20:00"
+            },
+            {
+              "nome": "titolo",
+              "esito": "ok",
+              "dettaglio": "nessuna etichetta di abbonamento"
+            },
+            {
+              "nome": "biglietteria",
+              "esito": "ok",
+              "dettaglio": "TicketOne (blocca i bot): URL ben formato, visto nell ultimo giro (missing_count=0, fonte aggiornata da meno di 36 h)"
+            },
+            {
+              "nome": "serie",
+              "esito": "ok",
+              "dettaglio": "1 date della produzione, nessuna anomalia in testa alla serie"
+            }
+          ],
+          "fonti": [
+            "https://www.ticketone.it/event/murubutu-auditorium-parco-della-musica-ennio-morricone-21614875/"
+          ]
+        },
+        {
+          "evento": "Blue",
+          "data": "2026-11-13",
+          "ora": "21:00",
+          "citta": "Milano",
+          "fonte": "ticketone",
+          "esito": "ok",
+          "rinforzato": false,
+          "controlli": [
+            {
+              "nome": "orario",
+              "esito": "ok",
+              "dettaglio": "21:00"
+            },
+            {
+              "nome": "titolo",
+              "esito": "ok",
+              "dettaglio": "nessuna etichetta di abbonamento"
+            },
+            {
+              "nome": "biglietteria",
+              "esito": "ok",
+              "dettaglio": "TicketOne (blocca i bot): URL ben formato, visto nell ultimo giro (missing_count=0, fonte aggiornata da meno di 36 h)"
+            },
+            {
+              "nome": "serie",
+              "esito": "ok",
+              "dettaglio": "2 date della produzione, nessuna anomalia in testa alla serie"
+            }
+          ],
+          "fonti": [
+            "https://www.ticketone.it/event/blue-25th-anniversary-tour-unipol-forum-19496075/"
+          ]
+        },
+        {
+          "evento": "Marco Masini",
+          "data": "2026-11-13",
+          "ora": "21:00",
+          "citta": "Roma",
+          "fonte": "ticketone",
+          "esito": "ok",
+          "rinforzato": false,
+          "controlli": [
+            {
+              "nome": "orario",
+              "esito": "ok",
+              "dettaglio": "21:00"
+            },
+            {
+              "nome": "titolo",
+              "esito": "ok",
+              "dettaglio": "nessuna etichetta di abbonamento"
+            },
+            {
+              "nome": "biglietteria",
+              "esito": "ok",
+              "dettaglio": "TicketOne (blocca i bot): URL ben formato, visto nell ultimo giro (missing_count=0, fonte aggiornata da meno di 36 h)"
+            },
+            {
+              "nome": "serie",
+              "esito": "ok",
+              "dettaglio": "2 date della produzione, nessuna anomalia in testa alla serie"
+            }
+          ],
+          "fonti": [
+            "https://www.ticketone.it/event/marco-masini-live-2026-palazzo-dello-sport-21107614/"
+          ]
+        },
+        {
+          "evento": "Blue - VIP Pack",
+          "data": "2026-11-13",
+          "ora": "21:00",
+          "citta": "Milano",
+          "fonte": "ticketone",
+          "esito": "ok",
+          "rinforzato": false,
+          "controlli": [
+            {
+              "nome": "orario",
+              "esito": "ok",
+              "dettaglio": "21:00"
+            },
+            {
+              "nome": "titolo",
+              "esito": "ok",
+              "dettaglio": "nessuna etichetta di abbonamento"
+            },
+            {
+              "nome": "biglietteria",
+              "esito": "ok",
+              "dettaglio": "TicketOne (blocca i bot): URL ben formato, visto nell ultimo giro (missing_count=0, fonte aggiornata da meno di 36 h)"
+            },
+            {
+              "nome": "serie",
+              "esito": "ok",
+              "dettaglio": "2 date della produzione, nessuna anomalia in testa alla serie"
+            }
+          ],
+          "fonti": [
+            "https://www.ticketone.it/event/blue-25th-anniversary-tour-unipol-forum-19505192/"
+          ]
+        },
+        {
+          "evento": "Miguel Angel Zotto - Tango. Historias De Astor",
+          "data": "2026-11-14",
+          "ora": "20:00",
+          "citta": "Roma",
+          "fonte": "ticketone",
+          "esito": "ok",
+          "rinforzato": false,
+          "controlli": [
+            {
+              "nome": "orario",
+              "esito": "ok",
+              "dettaglio": "20:00"
+            },
+            {
+              "nome": "titolo",
+              "esito": "ok",
+              "dettaglio": "nessuna etichetta di abbonamento"
+            },
+            {
+              "nome": "biglietteria",
+              "esito": "ok",
+              "dettaglio": "TicketOne (blocca i bot): URL ben formato, visto nell ultimo giro (missing_count=0, fonte aggiornata da meno di 36 h)"
+            },
+            {
+              "nome": "serie",
+              "esito": "ok",
+              "dettaglio": "1 date della produzione, nessuna anomalia in testa alla serie"
+            }
+          ],
+          "fonti": [
+            "https://www.ticketone.it/event/miguel-angel-zotto-tango-historias-de-astor-auditorium-parco-della-musica-ennio-morricone-21975367/"
+          ]
+        }
+      ],
+      "stato": "DA_RIVEDERE",
+      "motivo": "validatore: riga 2 | Testo_Post_Completo | sport: e SportViewLens, non questa app: \"sport\" |  | KO: 1 violazioni su 1 righe.",
+      "slot": "SHV_20261112_1800_CAR",
+      "ora_pubblicazione": "2026-11-12 18:00"
+    }
+  ]
+}
