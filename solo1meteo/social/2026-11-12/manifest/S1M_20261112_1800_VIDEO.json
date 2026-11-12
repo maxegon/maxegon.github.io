@@ -5,12 +5,89 @@
   "ora_pubblicazione": "2026-11-12 18:00",
   "data_evento": "2026-11-14",
   "utm": "https://maxegon.github.io/meteo-stat-privacy/landing/?utm_source=tiktok&utm_medium=social&utm_campaign=s1m_2026w46&utm_content=S1M_20261112_1800_VIDEO",
-  "generato_il": "2026-11-12T02:14:43+01:00",
+  "generato_il": "2026-11-12T14:55:03+01:00",
   "provvisorio": false,
-  "stato": "SALTATO_VERIFICA",
-  "motivo": "verifica dei dati non superata: fonti_pioggia: 2 fonti con il dato di pioggia (minimo 3)",
+  "giorno": "2026-11-12",
+  "tema": "cielo",
+  "stato": "MEDIA_PRONTA",
+  "motivo": null,
+  "testo_finale": "Sabato a Roma: massima media 16°, pioggia tra 5% e 53% secondo 4 fonti. Per il weekend guarda quanto sono d'accordo. Scarica Solo1Meteo: link in bio. #meteo #solo1meteo #previsionimeteo #meteoitalia",
+  "concept_finale": "S1 gancio: Sabato a Roma: 16° | S2 pioggia: da 5% a 53% | S3 screenshot: schermata Confronto | S4 cta: Scarica gratis Solo1Meteo",
+  "immagini": [
+    "https://maxegon.github.io/solo1meteo/social/2026-11-12/S1M_20261112_1800_VIDEO/v1_gancio.png"
+  ],
+  "video_url": "https://maxegon.github.io/solo1meteo/social/2026-11-12/S1M_20261112_1800_VIDEO/video.mp4",
+  "ig_media": [],
+  "fb_photos": [],
+  "dati": {
+    "citta": "Roma",
+    "data_label": "sabato 14 novembre",
+    "fonti_n": 7,
+    "fonti_elencate": 7,
+    "fonti_escluse": [],
+    "tmax_media": 16,
+    "tmax_min": 15,
+    "tmax_max": 17,
+    "tmin_media": 11,
+    "pioggia_media": 57,
+    "pioggia_min": 5,
+    "pioggia_max": 53,
+    "fonti_pioggia": 4,
+    "condizione": "sereno",
+    "fonti_condizione": 3,
+    "giorno_piu_incerto": "lunedì",
+    "scarto_tmax": 3,
+    "tmax_scarto_fonti": 1.4,
+    "tmax_disaccordo": false,
+    "pioggia_disaccordo": true,
+    "gancio_pioggia": "le fonti non sono d'accordo sulla pioggia, dal 5% al 53%"
+  },
+  "fonti": [
+    {
+      "fonte": "Open-Meteo",
+      "tmax": 16.3,
+      "pioggia": 18,
+      "pioggia_metodo": "orario"
+    },
+    {
+      "fonte": "OpenWeatherMap",
+      "tmax": 15.41,
+      "pioggia": 40,
+      "pioggia_metodo": "orario"
+    },
+    {
+      "fonte": "WeatherAPI",
+      "tmax": 16.2,
+      "pioggia": 53,
+      "pioggia_metodo": "orario"
+    },
+    {
+      "fonte": "MET Norway",
+      "tmax": 16.2,
+      "pioggia": null,
+      "pioggia_metodo": null
+    },
+    {
+      "fonte": "DWD",
+      "tmax": 16.8,
+      "pioggia": null,
+      "pioggia_metodo": null
+    },
+    {
+      "fonte": "7Timer!",
+      "tmax": 16,
+      "pioggia": null,
+      "pioggia_metodo": null
+    },
+    {
+      "fonte": "Tomorrow.io",
+      "tmax": 16.24,
+      "pioggia": 5,
+      "pioggia_metodo": "orario"
+    }
+  ],
   "verifica": {
-    "esito": "dubbio",
+    "esito": "ok",
     "controlli": [
       {
         "nome": "backend",
@@ -24,8 +101,8 @@
       },
       {
         "nome": "fonti_pioggia",
-        "esito": "dubbio",
-        "dettaglio": "2 fonti con il dato di pioggia (minimo 3)"
+        "esito": "ok",
+        "dettaglio": "4 fonti con il dato di pioggia (minimo 3)"
       },
       {
         "nome": "freschezza",
@@ -45,7 +122,7 @@
       {
         "nome": "scarto",
         "esito": "ok",
-        "dettaglio": "massime 14-17° (scarto 3°), pioggia 23-29% (scarto 6)"
+        "dettaglio": "massime 15-17° (scarto 2°), pioggia 5-53% (scarto 48) | disaccordo sulla pioggia: il gancio lo dice"
       },
       {
         "nome": "giorno",
@@ -74,54 +151,16 @@
       "https://www.tomorrow.io"
     ]
   },
-  "tentativi": [
-    {
-      "citta": "Roma",
-      "esito": "verifica",
-      "motivo": "fonti_pioggia: 2 fonti con il dato di pioggia (minimo 3)"
-    },
-    {
-      "citta": "Milano",
-      "esito": "verifica",
-      "motivo": "fonti_pioggia: 2 fonti con il dato di pioggia (minimo 3)"
-    },
-    {
-      "citta": "Napoli",
-      "esito": "verifica",
-      "motivo": "fonti_pioggia: 2 fonti con il dato di pioggia (minimo 3)"
-    },
-    {
-      "citta": "Torino",
-      "esito": "verifica",
-      "motivo": "fonti_pioggia: 2 fonti con il dato di pioggia (minimo 3)"
-    }
-  ],
-  "dati_scartati": {
-    "citta": "Roma",
-    "data_label": "sabato 14 novembre",
-    "fonti_n": 7,
-    "fonti_elencate": 7,
-    "fonti_escluse": [],
-    "tmax_media": 16,
-    "tmax_min": 14,
-    "tmax_max": 17,
-    "tmin_media": 11,
-    "pioggia_media": 55,
-    "pioggia_min": 23,
-    "pioggia_max": 29,
-    "fonti_pioggia": 2,
-    "condizione": "nuvoloso",
-    "fonti_condizione": 3,
-    "giorno_piu_incerto": "martedì",
-    "scarto_tmax": 5,
-    "tmax_scarto_fonti": 3.3,
-    "tmax_disaccordo": false,
-    "pioggia_disaccordo": false,
-    "gancio_pioggia": "pioggia 55%"
+  "scaricato_il": "2026-11-12T14:55:04+01:00",
+  "citta_usata": "Roma",
+  "anteprima": {
+    "testo": "Sabato a Roma: massima media 16°, pioggia tra 5% e 53% secondo 4 fonti. Per il weekend guarda quanto sono d'accordo. Scarica Solo1Meteo: link in bio. #meteo #solo1meteo #previsionimeteo #meteoitalia",
+    "immagini": [
+      "https://maxegon.github.io/solo1meteo/social/2026-11-12/S1M_20261112_1800_VIDEO/v1_gancio.png"
+    ]
   },
-  "giorno": "2026-11-12",
   "cambio_serale": {
     "tipo": "nuova",
-    "motivo": "non c'era un rendering serale"
+    "motivo": "la sera era SALTATO_VERIFICA"
   }
 }

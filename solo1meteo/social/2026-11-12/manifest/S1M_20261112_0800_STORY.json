@@ -5,7 +5,7 @@
   "ora_pubblicazione": "2026-11-12 08:00",
   "data_evento": "2026-11-12",
   "utm": "https://maxegon.github.io/meteo-stat-privacy/landing/?utm_source=instagram&utm_medium=social&utm_campaign=s1m_2026w46&utm_content=S1M_20261112_0800_STORY",
-  "generato_il": "2026-11-12T02:14:37+01:00",
+  "generato_il": "2026-11-12T14:54:56+01:00",
   "provvisorio": false,
   "stato": "SALTATO_VERIFICA",
   "motivo": "verifica dei dati non superata: allerte: allerta meteo attiva (Arancione Vento Allerta; Arancione Vento Allerta; Giallo Vento Allerta) e nessun ente citato nel post",
@@ -40,7 +40,7 @@
       {
         "nome": "scarto",
         "esito": "ok",
-        "dettaglio": "massime 11-15° (scarto 4°), pioggia 90-100% (scarto 10)"
+        "dettaglio": "massime 11-14° (scarto 3°), pioggia 94-100% (scarto 6)"
       },
       {
         "nome": "giorno",
@@ -100,24 +100,24 @@
     "fonti_escluse": [],
     "tmax_media": 13,
     "tmax_min": 11,
-    "tmax_max": 15,
+    "tmax_max": 14,
     "tmin_media": 11,
-    "pioggia_media": 96,
-    "pioggia_min": 90,
+    "pioggia_media": 100,
+    "pioggia_min": 94,
     "pioggia_max": 100,
-    "fonti_pioggia": 5,
+    "fonti_pioggia": 3,
     "condizione": "pioggia",
     "fonti_condizione": 6,
-    "giorno_piu_incerto": "martedì",
-    "scarto_tmax": 6,
-    "tmax_scarto_fonti": 4.4,
-    "tmax_disaccordo": true,
+    "giorno_piu_incerto": "sabato",
+    "scarto_tmax": 5,
+    "tmax_scarto_fonti": 3.3,
+    "tmax_disaccordo": false,
     "pioggia_disaccordo": false,
-    "gancio_pioggia": "pioggia 96%"
+    "gancio_pioggia": "pioggia 100%"
   },
   "giorno": "2026-11-12",
   "cambio_serale": {
-    "tipo": "nuova",
-    "motivo": "non c'era un rendering serale"
+    "tipo": "invariata",
+    "motivo": ""
   }
 }
