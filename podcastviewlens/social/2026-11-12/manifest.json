@@ -1,0 +1,64 @@
+{
+  "date": "2026-11-12",
+  "generated_at": "2026-11-12T02:16+01:00",
+  "sources_skipped": [],
+  "rimandate": [],
+  "items": [
+    {
+      "id": "W3_GIO_1900",
+      "piattaforma": "TikTok / Shorts",
+      "formato": "Video",
+      "ora": "19:00",
+      "utm": "https://podcastviewlens.vercel.app/download?utm_source=tiktok&utm_medium=social&utm_campaign=pvl_2026w46&utm_content=W3_GIO_1900",
+      "stato": "PRONTO",
+      "motivo": "",
+      "caption": "Per i prossimi giorni il Palinsesto stima le uscite dagli ultimi episodi e le segna come Previsto. Per oggi e i giorni passati vedi le puntate davvero uscite.\n\nScarica PodcastViewLens gratis: link nel profilo.\n\n#PodcastViewLens #PodcastItalia #CosaAscoltare",
+      "files": [
+        "https://maxegon.github.io/podcastviewlens/social/2026-11-12/W3_GIO_1900/video.mp4",
+        "https://maxegon.github.io/podcastviewlens/social/2026-11-12/W3_GIO_1900/slide_01.png",
+        "https://maxegon.github.io/podcastviewlens/social/2026-11-12/W3_GIO_1900/slide_02.png",
+        "https://maxegon.github.io/podcastviewlens/social/2026-11-12/W3_GIO_1900/slide_03.png",
+        "https://maxegon.github.io/podcastviewlens/social/2026-11-12/W3_GIO_1900/slide_04.png",
+        "https://maxegon.github.io/podcastviewlens/social/2026-11-12/W3_GIO_1900/slide_05.png"
+      ],
+      "verifica": {
+        "esito": "ok",
+        "controlli": [
+          {
+            "nome": "dati_variabili",
+            "esito": "ok",
+            "dettaglio": "nessun dato variabile: testo sulle funzioni dell'app (app_features.json, guardrails.json)"
+          },
+          {
+            "nome": "funzione_in_app",
+            "esito": "ok",
+            "dettaglio": "«uscite_previste» verificata il 2026-10-23 su src/components/PalinsestoSlotCard.js, src/screens/HelpScreen.js"
+          }
+        ],
+        "fonti": []
+      },
+      "anteprima": {
+        "testo": "Per i prossimi giorni il Palinsesto stima le uscite dagli ultimi episodi e le segna come Previsto. Per oggi e i giorni passati vedi le puntate davvero uscite.\n\nScarica PodcastViewLens gratis: link nel profilo.\n\n#PodcastViewLens #PodcastItalia #CosaAscoltare",
+        "immagini": [
+          "https://maxegon.github.io/podcastviewlens/social/2026-11-12/W3_GIO_1900/slide_01.png"
+        ]
+      },
+      "pubblica_alle": "2026-11-12T19:00+01:00",
+      "sempreverde": true,
+      "eventi": [],
+      "titolo_slide": "Cosa esce domani?",
+      "tema": "notte",
+      "slot": "W3_GIO_1900",
+      "ora_pubblicazione": "2026-11-12 19:00",
+      "testo_finale": "Per i prossimi giorni il Palinsesto stima le uscite dagli ultimi episodi e le segna come Previsto. Per oggi e i giorni passati vedi le puntate davvero uscite.\n\nScarica PodcastViewLens gratis: link nel profilo.\n\n#PodcastViewLens #PodcastItalia #CosaAscoltare",
+      "immagini": [
+        "https://maxegon.github.io/podcastviewlens/social/2026-11-12/W3_GIO_1900/video.mp4",
+        "https://maxegon.github.io/podcastviewlens/social/2026-11-12/W3_GIO_1900/slide_01.png",
+        "https://maxegon.github.io/podcastviewlens/social/2026-11-12/W3_GIO_1900/slide_02.png",
+        "https://maxegon.github.io/podcastviewlens/social/2026-11-12/W3_GIO_1900/slide_03.png",
+        "https://maxegon.github.io/podcastviewlens/social/2026-11-12/W3_GIO_1900/slide_04.png",
+        "https://maxegon.github.io/podcastviewlens/social/2026-11-12/W3_GIO_1900/slide_05.png"
+      ]
+    }
+  ]
+}
