@@ -1,0 +1,87 @@
+{
+ "generato": "2026-11-12T01:25:20+00:00",
+ "data_pubblicazione": "2026-11-12",
+ "base_url": "https://maxegon.github.io/sportviewlens/social/2026-11-12",
+ "righe": [
+  {
+   "Giorno_Slot": "SVL_20261112_1830_STO",
+   "Formato": "Storia",
+   "Piattaforma": "Instagram / FB Stories",
+   "Ora": "18:30",
+   "Categoria": "stasera_tv",
+   "Data_Evento": "2026-11-12",
+   "UTM": "",
+   "note": [],
+   "verifica": {
+    "esito": "dubbio",
+    "controlli": [
+     {
+      "nome": "eventi nel post",
+      "esito": "ok",
+      "dettaglio": "2 eventi verificati ok, 8 tolti, su 10 candidati dell'app"
+     },
+     {
+      "nome": "tolto «WTA Finals Femminile (cemento)» 18:00",
+      "esito": "dubbio",
+      "dettaglio": "nessuna riga di tv_rights per tennis / «WTA Finals»; nessun canale con due fonti: SuperTennis (solo palinsesto); orario 18:00 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Navalcarnero – Real Betis» 19:00",
+      "esito": "dubbio",
+      "dettaglio": "nessun canale con due fonti: DAZN (solo tv_rights); orario 19:00 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Tarancón – Levante» 19:00",
+      "esito": "dubbio",
+      "dettaglio": "nessun canale con due fonti: DAZN (solo tv_rights); orario 19:00 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Frankfurt – Maxima Roma» 20:00",
+      "esito": "dubbio",
+      "dettaglio": "nessuna riga di tv_rights per basket / «Eurocup Basket»; nessun canale con due fonti: Sky Sport Arena (nessuna fonte); NOW (nessuna fonte); orario 20:00 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «UEFA Nations League: Italia - Francia» 20:30",
+      "esito": "dubbio",
+      "dettaglio": "nessuna riga di tv_rights per soccer / «UEFA Nations League»; nessun canale con due fonti: Rai 1 (solo palinsesto); orario 20:30 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Inghilterra - Croazia» 20:35",
+      "esito": "dubbio",
+      "dettaglio": "nessuna riga di tv_rights per soccer / «UEFA Nations League»; nessun canale con due fonti: Sky Sport Uno (solo palinsesto); orario 20:35 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Bergamo W – Cuneo W» 20:50",
+      "esito": "dubbio",
+      "dettaglio": "nessuna riga di tv_rights per volley / «Superlega Volley Femminile»; nessun canale con due fonti: Rai Sport (solo palinsesto); RaiPlay (streaming) (nessuna fonte); orario 20:50 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «WTA Finals Indian Wells 2026 - Singola» 23:00",
+      "esito": "dubbio",
+      "dettaglio": "nessuna riga di tv_rights per tennis / «WTA Finals Indian Wells»; nessun canale con due fonti: Sky Sport Uno (nessuna fonte); Sky Sport Tennis (nessuna fonte); Sky Sport Max (nessuna fonte); orario 23:00 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "minimo eventi",
+      "esito": "ko",
+      "dettaglio": "2 eventi verificati, ne servono almeno 3: la riga non esce"
+     }
+    ],
+    "fonti": [
+     "https://sport.sky.it/basket",
+     "supabase:tv_epg_cache?date=eq.2026-11-12",
+     "supabase:tv_rights?active=eq.true"
+    ]
+   },
+   "Stato": "SALTATO_VERIFICA",
+   "motivo": "2 eventi verificati (minimo 3)",
+   "id": "SVL_20261112_1830_STO",
+   "stato": "SALTATO_VERIFICA",
+   "formato": "Storia",
+   "piattaforma": "Instagram / FB Stories",
+   "utm": "",
+   "pubblica_alle": "2026-11-12T18:30+01:00",
+   "slot": "SVL_20261112_1830_STO",
+   "ora_pubblicazione": "2026-11-12 18:30"
+  }
+ ]
+}
