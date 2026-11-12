@@ -1,0 +1,11 @@
+{
+ "app": "Solo1Meteo",
+ "data": "2026-11-12",
+ "righe": {
+  "S1M_20261112_1800_VIDEO": {
+   "consegnato": "2026-11-12T19:29:44+01:00"
+  }
+ },
+ "messaggi": {},
+ "ultimo_update_id": null
+}
