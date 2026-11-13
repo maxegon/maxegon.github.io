@@ -15,7 +15,7 @@
       "ora_pubblicazione": "2026-11-13 18:30",
       "data_evento": "2026-11-14",
       "utm": "https://maxegon.github.io/meteo-stat-privacy/landing/?utm_source=instagram&utm_medium=social&utm_campaign=s1m_2026w46&utm_content=S1M_20261113_1830_FEED",
-      "generato_il": "2026-11-13T00:57:10+01:00",
+      "generato_il": "2026-11-13T14:19:11+01:00",
       "provvisorio": false,
       "giorno": "2026-11-13",
       "stato": "MEDIA_PRONTA",
@@ -94,7 +94,7 @@
           {
             "nome": "scarto",
             "esito": "ok",
-            "dettaglio": "massime 10-12° (scarto 2°), pioggia 0-65% (scarto 65) | disaccordo sulla pioggia: il gancio lo dice"
+            "dettaglio": "massime 11-13° (scarto 2°), pioggia 0-94% (scarto 94) | disaccordo sulla pioggia: il gancio lo dice"
           },
           {
             "nome": "giorno",
@@ -153,8 +153,8 @@
         ]
       },
       "cambio_serale": {
-        "tipo": "nuova",
-        "motivo": "non c'era un rendering serale"
+        "tipo": "invariata",
+        "motivo": ""
       }
     }
   ]
