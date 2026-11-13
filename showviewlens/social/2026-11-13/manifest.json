@@ -1,0 +1,425 @@
+{
+  "data": "2026-11-13",
+  "generato_il": "2026-11-13T00:00:30+00:00",
+  "piano": "marketing/piano_4_settimane.csv",
+  "righe": [
+    {
+      "id": "SHV_20261113_1300_CAR",
+      "piattaforma": "Instagram / FB",
+      "formato": "Carosello",
+      "categoria": "teatro+danza+opera",
+      "pubblica_alle": "2026-11-13T13:00:00+01:00",
+      "tema": "chiaro",
+      "scartati": [
+        [
+          "Musiche dai Film di Tim Burton- Tribute to Danny Elfman",
+          "fuori perimetro: cinema/film/streaming/TV: fuori perimetro (o altra app)"
+        ],
+        [
+          "Pathosmells",
+          "luogo mancante"
+        ]
+      ],
+      "doppioni_rimossi": 5,
+      "verifica_eventi": [
+        {
+          "evento": "Ci Lega un Filo",
+          "data": "2026-11-13",
+          "ora": "20:00",
+          "citta": "Genova",
+          "fonte": "ticketone",
+          "esito": "ok",
+          "rinforzato": false,
+          "controlli": [
+            {
+              "nome": "orario",
+              "esito": "ok",
+              "dettaglio": "20:00"
+            },
+            {
+              "nome": "titolo",
+              "esito": "ok",
+              "dettaglio": "nessuna etichetta di abbonamento"
+            },
+            {
+              "nome": "biglietteria",
+              "esito": "ok",
+              "dettaglio": "TicketOne (blocca i bot): URL ben formato, visto nell ultimo giro (missing_count=0, fonte aggiornata da meno di 36 h)"
+            },
+            {
+              "nome": "serie",
+              "esito": "ok",
+              "dettaglio": "1 date della produzione, nessuna anomalia in testa alla serie"
+            }
+          ],
+          "fonti": [
+            "https://www.ticketone.it/event/ci-lega-un-filo-palazzo-dello-sport-22019445/"
+          ]
+        },
+        {
+          "evento": "Madri",
+          "data": "2026-11-13",
+          "ora": "20:30",
+          "citta": "Genova",
+          "fonte": "vivaticket",
+          "esito": "ok",
+          "rinforzato": false,
+          "controlli": [
+            {
+              "nome": "orario",
+              "esito": "ok",
+              "dettaglio": "20:30"
+            },
+            {
+              "nome": "titolo",
+              "esito": "ok",
+              "dettaglio": "nessuna etichetta di abbonamento"
+            },
+            {
+              "nome": "biglietteria",
+              "esito": "ok",
+              "dettaglio": "Vivaticket: replica letta dall API pubblica"
+            },
+            {
+              "nome": "pagina",
+              "esito": "ok",
+              "dettaglio": "titolo, citta, data e ora coincidono (2026-11-13 20:30, GENOVA)"
+            },
+            {
+              "nome": "serie",
+              "esito": "ok",
+              "dettaglio": "1 date della produzione, nessuna anomalia in testa alla serie"
+            }
+          ],
+          "fonti": [
+            "https://shop.vivaticket.com/it/sell/?cmd=prices&pcode=14022260&tcode=vt0005623"
+          ]
+        },
+        {
+          "evento": "Starman",
+          "data": "2026-11-13",
+          "ora": "20:30",
+          "citta": "Genova",
+          "fonte": "vivaticket",
+          "esito": "ok",
+          "rinforzato": false,
+          "controlli": [
+            {
+              "nome": "orario",
+              "esito": "ok",
+              "dettaglio": "20:30"
+            },
+            {
+              "nome": "titolo",
+              "esito": "ok",
+              "dettaglio": "nessuna etichetta di abbonamento"
+            },
+            {
+              "nome": "biglietteria",
+              "esito": "ok",
+              "dettaglio": "Vivaticket: replica letta dall API pubblica"
+            },
+            {
+              "nome": "pagina",
+              "esito": "ok",
+              "dettaglio": "titolo, citta, data e ora coincidono (2026-11-13 20:30, GENOVA)"
+            },
+            {
+              "nome": "serie",
+              "esito": "ok",
+              "dettaglio": "3 date della produzione, nessuna anomalia in testa alla serie"
+            }
+          ],
+          "fonti": [
+            "https://shop.vivaticket.com/it/sell/?cmd=prices&pcode=14022142&tcode=vt0005621"
+          ]
+        },
+        {
+          "evento": "Scemi del Villaggio",
+          "data": "2026-11-13",
+          "ora": "20:30",
+          "citta": "Genova",
+          "fonte": "vivaticket",
+          "esito": "ok",
+          "rinforzato": false,
+          "controlli": [
+            {
+              "nome": "orario",
+              "esito": "ok",
+              "dettaglio": "20:30"
+            },
+            {
+              "nome": "titolo",
+              "esito": "ok",
+              "dettaglio": "nessuna etichetta di abbonamento"
+            },
+            {
+              "nome": "biglietteria",
+              "esito": "ok",
+              "dettaglio": "Vivaticket: replica letta dall API pubblica"
+            },
+            {
+              "nome": "pagina",
+              "esito": "ok",
+              "dettaglio": "titolo, citta, data e ora coincidono (2026-11-13 20:30, GENOVA)"
+            },
+            {
+              "nome": "serie",
+              "esito": "ok",
+              "dettaglio": "3 date della produzione, nessuna anomalia in testa alla serie"
+            }
+          ],
+          "fonti": [
+            "https://shop.vivaticket.com/it/sell/?cmd=prices&pcode=14306945&tcode=vt0019746"
+          ]
+        },
+        {
+          "evento": "Gloria - il Musical",
+          "data": "2026-11-13",
+          "ora": "20:30",
+          "citta": "Genova",
+          "fonte": "ticketone",
+          "esito": "ko",
+          "rinforzato": false,
+          "controlli": [
+            {
+              "nome": "orario",
+              "esito": "ok",
+              "dettaglio": "20:30"
+            },
+            {
+              "nome": "titolo",
+              "esito": "ok",
+              "dettaglio": "nessuna etichetta di abbonamento"
+            },
+            {
+              "nome": "biglietteria",
+              "esito": "ok",
+              "dettaglio": "TicketOne (blocca i bot): URL ben formato, visto nell ultimo giro (missing_count=0, fonte aggiornata da meno di 36 h)"
+            },
+            {
+              "nome": "biglietteria",
+              "esito": "ok",
+              "dettaglio": "Vivaticket: replica letta dall API pubblica"
+            },
+            {
+              "nome": "pagina",
+              "esito": "ko",
+              "dettaglio": "la replica del 2026-11-13 20:30 non e sulla pagina (https://shop.vivaticket.com/it/sell/?cmd=prices&pcode=14178169&tcode=vt0022553)"
+            },
+            {
+              "nome": "serie",
+              "esito": "ok",
+              "dettaglio": "1 date della produzione, nessuna anomalia in testa alla serie"
+            },
+            {
+              "nome": "conferma",
+              "esito": "ok",
+              "dettaglio": "stessa produzione e stesso giorno su due biglietterie"
+            }
+          ],
+          "fonti": [
+            "https://www.ticketone.it/event/gloria-il-musical-teatro-della-corte-21987937/",
+            "https://shop.vivaticket.com/it/sell/?cmd=prices&pcode=14178169&tcode=vt0022553"
+          ]
+        }
+      ],
+      "stato": "DA_RIVEDERE",
+      "motivo": "validatore: riga 2 | Testo_Post_Completo | sport: e SportViewLens, non questa app: \"sport\" |  | KO: 1 violazioni su 1 righe.",
+      "slot": "SHV_20261113_1300_CAR",
+      "ora_pubblicazione": "2026-11-13 13:00"
+    },
+    {
+      "id": "SHV_20261113_1830_STORY",
+      "piattaforma": "Instagram / FB Stories",
+      "formato": "Storia",
+      "categoria": "concerti+teatro+danza+opera",
+      "pubblica_alle": "2026-11-13T18:30:00+01:00",
+      "tema": "notte",
+      "scartati": [
+        [
+          "Dov'è Liana",
+          "luogo mancante"
+        ],
+        [
+          "Accordi Disaccordi | Finding Orpheus",
+          "luogo mancante"
+        ],
+        [
+          "Ri-Generazione – Atto II",
+          "senza biglietteria online"
+        ],
+        [
+          "Scena Aperta",
+          "ora 10:00 prima di 11:00"
+        ]
+      ],
+      "doppioni_rimossi": 17,
+      "verifica_eventi": [
+        {
+          "evento": "Gravity the Show Presenta Connection",
+          "data": "2026-11-13",
+          "ora": "17:30",
+          "citta": "Torino",
+          "fonte": "ticketone",
+          "esito": "ok",
+          "rinforzato": false,
+          "controlli": [
+            {
+              "nome": "orario",
+              "esito": "ok",
+              "dettaglio": "17:30"
+            },
+            {
+              "nome": "titolo",
+              "esito": "ok",
+              "dettaglio": "nessuna etichetta di abbonamento"
+            },
+            {
+              "nome": "biglietteria",
+              "esito": "ok",
+              "dettaglio": "TicketOne (blocca i bot): URL ben formato, visto nell ultimo giro (missing_count=0, fonte aggiornata da meno di 36 h)"
+            },
+            {
+              "nome": "serie",
+              "esito": "ok",
+              "dettaglio": "8 date della produzione, nessuna anomalia in testa alla serie"
+            }
+          ],
+          "fonti": [
+            "https://www.ticketone.it/event/gravity-the-show-presenta-connection-gravity-the-show-corso-principe-oddone-21991687/"
+          ]
+        },
+        {
+          "evento": "Scena Aperta",
+          "data": "2026-11-13",
+          "ora": "18:00",
+          "citta": "Torino",
+          "fonte": "vivaticket",
+          "esito": "ok",
+          "rinforzato": false,
+          "controlli": [
+            {
+              "nome": "orario",
+              "esito": "ok",
+              "dettaglio": "18:00"
+            },
+            {
+              "nome": "titolo",
+              "esito": "ok",
+              "dettaglio": "nessuna etichetta di abbonamento"
+            },
+            {
+              "nome": "biglietteria",
+              "esito": "ok",
+              "dettaglio": "Vivaticket: replica letta dall API pubblica"
+            },
+            {
+              "nome": "pagina",
+              "esito": "ok",
+              "dettaglio": "titolo, citta, data e ora coincidono (2026-11-13 18:00, TORINO)"
+            },
+            {
+              "nome": "serie",
+              "esito": "ok",
+              "dettaglio": "18 date della produzione, nessuna anomalia in testa alla serie"
+            }
+          ],
+          "fonti": [
+            "https://shop.vivaticket.com/it/sell/?cmd=prices&pcode=14494712&tcode=tl017405"
+          ]
+        },
+        {
+          "evento": "La Boheme (Di Ruggero Leoncavallo)",
+          "data": "2026-11-13",
+          "ora": "20:00",
+          "citta": "Torino",
+          "fonte": "vivaticket",
+          "esito": "ok",
+          "rinforzato": false,
+          "controlli": [
+            {
+              "nome": "orario",
+              "esito": "ok",
+              "dettaglio": "20:00"
+            },
+            {
+              "nome": "titolo",
+              "esito": "ok",
+              "dettaglio": "nessuna etichetta di abbonamento"
+            },
+            {
+              "nome": "biglietteria",
+              "esito": "ok",
+              "dettaglio": "Vivaticket: replica letta dall API pubblica"
+            },
+            {
+              "nome": "pagina",
+              "esito": "ok",
+              "dettaglio": "titolo, citta, data e ora coincidono (2026-11-13 20:00, TORINO)"
+            },
+            {
+              "nome": "serie",
+              "esito": "ok",
+              "dettaglio": "2 date della produzione, nessuna anomalia in testa alla serie"
+            }
+          ],
+          "fonti": [
+            "https://shop.vivaticket.com/it/sell/?cmd=prices&pcode=14095375&tcode=tl014461"
+          ]
+        }
+      ],
+      "stato": "PRONTO",
+      "testo_finale": "🗓️ Questo weekend a Torino: 19 spettacoli dal vivo.\n\n1. Gravity the Show Presenta Connection · GRAVITY The Show - Corso Principe Oddone · ven 13/11 · 17:30\n2. Scena Aperta · Teatro Carignano · ven 13/11 · 18:00\n\nCerca «ShowViewLens» su App Store e Google Play.\n#ShowViewLens",
+      "titolo_slide": "Questo weekend a Torino: 19 spettacoli",
+      "eventi": [
+        "Gravity the Show Presenta Connection",
+        "Scena Aperta",
+        "La Boheme (Di Ruggero Leoncavallo)"
+      ],
+      "conteggio": 19,
+      "file": [
+        "https://maxegon.github.io/showviewlens/social/2026-11-13/SHV_20261113_1830_STORY/01_storia.jpg"
+      ],
+      "utm": "https://maxegon.github.io/showviewlens/download/?utm_source=instagram&utm_medium=story&utm_campaign=piano_2026_11&utm_content=SHV_20261113_1830_STORY",
+      "verifica": {
+        "esito": "ok",
+        "controlli": [
+          {
+            "nome": "eventi nel post",
+            "esito": "ok",
+            "dettaglio": "3 eventi verificati ok, 0 tolti, su 19 candidati"
+          }
+        ],
+        "fonti": [
+          "https://www.ticketone.it/event/gravity-the-show-presenta-connection-gravity-the-show-corso-principe-oddone-21991687/",
+          "https://shop.vivaticket.com/it/sell/?cmd=prices&pcode=14494712&tcode=tl017405",
+          "https://shop.vivaticket.com/it/sell/?cmd=prices&pcode=14095375&tcode=tl014461"
+        ]
+      },
+      "anteprima": {
+        "testo": "🗓️ Questo weekend a Torino: 19 spettacoli dal vivo.\n\n1. Gravity the Show Presenta Connection · GRAVITY The Show - Corso Principe Oddone · ven 13/11 · 17:30\n2. Scena Aperta · Teatro Carignano · ven 13/11 · 18:00\n\nCerca «ShowViewLens» su App Store e Google Play.\n#ShowViewLens",
+        "immagini": [
+          "https://maxegon.github.io/showviewlens/social/2026-11-13/SHV_20261113_1830_STORY/01_storia.jpg"
+        ]
+      },
+      "ig_media": [
+        {
+          "media_type": "IMAGE",
+          "image_url": "https://maxegon.github.io/showviewlens/social/2026-11-13/SHV_20261113_1830_STORY/01_storia.jpg"
+        }
+      ],
+      "fb_photos": [
+        {
+          "type": "url",
+          "url": "https://maxegon.github.io/showviewlens/social/2026-11-13/SHV_20261113_1830_STORY/01_storia.jpg"
+        }
+      ],
+      "slot": "SHV_20261113_1830_STORY",
+      "ora_pubblicazione": "2026-11-13 18:30",
+      "immagini": [
+        "https://maxegon.github.io/showviewlens/social/2026-11-13/SHV_20261113_1830_STORY/01_storia.jpg"
+      ]
+    }
+  ]
+}
