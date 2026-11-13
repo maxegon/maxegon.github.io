@@ -1,0 +1,29 @@
+{
+ "app": "ShowViewLens",
+ "data": "2026-11-13",
+ "righe": {
+  "SHV_20261113_1830_STORY": {
+   "pubblica_alle": "2026-11-13T18:30:00+01:00",
+   "formato": "Storia",
+   "piattaforma": "Instagram / FB Stories",
+   "sempreverde": false,
+   "chiave": "SHV_20261113_1830_STORY",
+   "decisione": null,
+   "alle": "",
+   "correzioni": [],
+   "messaggio_id": 822
+  }
+ },
+ "messaggi": {
+  "822": {
+   "chat_id": "1614787945",
+   "righe": [
+    "SHV_20261113_1830_STORY"
+   ],
+   "base": "<b>18:30 · Storia · Instagram / FB Stories</b>\nID <code>SHV_20261113_1830_STORY</code>\n✅ Verifica ok · 3 fonti\n<pre>🗓️ Questo weekend a Torino: 19 spettacoli dal vivo.\n\n1. Gravity the Show Presenta Connection · GRAVITY The Show - Corso Principe Oddone · ven 13/11 · 17:30\n2. Scena Aperta · Teatro Carignano · ven 13/11 · 18:00\n\nCerca «ShowViewLens» su App Store e Google Play.\n#ShowViewLens</pre>\n\n<i>✅ OK: esce all'orario · ⏭️ Salta: non esce, contenuto legato a quella data · ✏️ Correggi: mi scrivi cosa cambiare · ↩️ Annulla: torna come prima. Nessun click = esce. Leggo i pulsanti ogni 15 minuti: decidi almeno 30 minuti prima.</i>"
+  }
+ },
+ "ultimo_update_id": null,
+ "anteprima_inviata_il": "2026-11-13T01:00:45+01:00",
+ "provvisorio": false
+}
