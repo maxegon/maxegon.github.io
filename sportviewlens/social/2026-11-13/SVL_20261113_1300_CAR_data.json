@@ -1,0 +1,93 @@
+{
+ "data_evento": "2026-11-14",
+ "data_lunga": "Sabato 14 novembre",
+ "categoria": "weekend_sportivo",
+ "tema": 2,
+ "eventi": [
+  {
+   "data": "2026-11-14",
+   "ora": "15:00",
+   "titolo": "Dubai P1: Semifinali Sessione Diurna",
+   "competizione": "Premier Padel",
+   "sport": "padel",
+   "canali": [
+    "Sky Sport Tennis"
+   ]
+  },
+  {
+   "data": "2026-11-14",
+   "ora": "17:00",
+   "titolo": "Dubai P1: Semifinali Sessione Serale",
+   "competizione": "Premier Padel",
+   "sport": "padel",
+   "canali": [
+    "Sky Sport Tennis",
+    "Sky Sport Mix"
+   ]
+  },
+  {
+   "data": "2026-11-15",
+   "ora": "11:30",
+   "titolo": "ATP Finals Doppio Maschile",
+   "competizione": "Nitto ATP Finals · Doppio",
+   "sport": "tennis",
+   "canali": [
+    "Sky Sport Tennis",
+    "Sky Sport Uno"
+   ]
+  },
+  {
+   "data": "2026-11-15",
+   "ora": "11:30",
+   "titolo": "Nitto Finals Doppio Maschile",
+   "competizione": "Nitto ATP Finals · Doppio",
+   "sport": "tennis",
+   "canali": [
+    "Sky Sport Tennis",
+    "Sky Sport Uno"
+   ]
+  },
+  {
+   "data": "2026-11-15",
+   "ora": "16:00",
+   "titolo": "NutriBullet Treviso Basket – Longobardi Scafati Basket",
+   "competizione": "Serie A Basket",
+   "sport": "basket",
+   "canali": [
+    "Sky Sport Basket",
+    "Sky Sport Uno"
+   ]
+  },
+  {
+   "data": "2026-11-15",
+   "ora": "18:15",
+   "titolo": "APU Old Wild West Udine – EA7 Emporio Armani Milano",
+   "competizione": "Serie A Basket",
+   "sport": "basket",
+   "canali": [
+    "Sky Sport Basket",
+    "Sky Sport Uno"
+   ]
+  },
+  {
+   "data": "2026-11-15",
+   "ora": "22:00",
+   "titolo": "Phoenix Suns - Los Angeles Lakers",
+   "competizione": "NBA",
+   "sport": "basket",
+   "canali": [
+    "Sky Sport Basket"
+   ]
+  },
+  {
+   "data": "2026-11-15",
+   "ora": "17:00",
+   "titolo": "Dubai P1: Finale Maschile",
+   "competizione": "Premier Padel",
+   "sport": "padel",
+   "canali": [
+    "Sky Sport Mix"
+   ]
+  }
+ ]
+}
