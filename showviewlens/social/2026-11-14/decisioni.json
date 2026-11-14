@@ -1,0 +1,29 @@
+{
+ "app": "ShowViewLens",
+ "data": "2026-11-14",
+ "righe": {
+  "SHV_20261114_1100_STORY": {
+   "pubblica_alle": "2026-11-14T11:00:00+01:00",
+   "formato": "Storia",
+   "piattaforma": "Instagram / FB Stories",
+   "sempreverde": false,
+   "chiave": "SHV_20261114_1100_STORY",
+   "decisione": null,
+   "alle": "",
+   "correzioni": [],
+   "messaggio_id": 827
+  }
+ },
+ "messaggi": {
+  "827": {
+   "chat_id": "1614787945",
+   "righe": [
+    "SHV_20261114_1100_STORY"
+   ],
+   "base": "<b>11:00 · Storia · Instagram / FB Stories</b>\nID <code>SHV_20261114_1100_STORY</code>\n✅ Verifica ok · 3 fonti\n<pre>🌙 Stasera a Genova\n\n1. Scemi del Villaggio · SALA DINO CAMPANA · sab 14/11 · 18:30\n2. Starman · Teatro Gustavo Modena · sab 14/11 · 19:30\n3. La Diva del Bataclan · Teatro Eleonora Duse · sab 14/11 · 19:30\n\nCerca «ShowViewLens» su App Store e Google Play.\n#ShowViewLens</pre>\n\n<i>✅ OK: esce all'orario · ⏭️ Salta: non esce, contenuto legato a quella data · ✏️ Correggi: mi scrivi cosa cambiare · ↩️ Annulla: torna come prima. Nessun click = esce. Leggo i pulsanti ogni 15 minuti: decidi almeno 30 minuti prima.</i>"
+  }
+ },
+ "ultimo_update_id": null,
+ "anteprima_inviata_il": "2026-11-14T01:16:40+01:00",
+ "provvisorio": false
+}
