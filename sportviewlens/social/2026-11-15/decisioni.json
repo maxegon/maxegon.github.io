@@ -1,0 +1,47 @@
+{
+ "app": "SportViewLens",
+ "data": "2026-11-15",
+ "righe": {
+  "SVL_20261115_1000_CAR": {
+   "pubblica_alle": "2026-11-15T10:00:00+01:00",
+   "formato": "Carosello",
+   "piattaforma": "Instagram / FB",
+   "sempreverde": false,
+   "chiave": "SVL_20261115_1000_CAR",
+   "decisione": null,
+   "alle": "",
+   "correzioni": [],
+   "messaggio_id": 567
+  },
+  "SVL_20261115_1100_STO": {
+   "pubblica_alle": "2026-11-15T11:00:00+01:00",
+   "formato": "Storia",
+   "piattaforma": "Instagram / FB Stories",
+   "sempreverde": false,
+   "chiave": "SVL_20261115_1100_STO",
+   "decisione": null,
+   "alle": "",
+   "correzioni": [],
+   "messaggio_id": 569
+  }
+ },
+ "messaggi": {
+  "567": {
+   "chat_id": "1614787945",
+   "righe": [
+    "SVL_20261115_1000_CAR"
+   ],
+   "base": "<b>10:00 · Carosello · Instagram / FB</b>\nID <code>SVL_20261115_1000_CAR</code>\n⚠️ Verifica ok · 11 fonti, tolti perché incerti:\n  • tolto «WTA Finals Indian Wells 2026 - Doppio» 11:30: nessun canale con due fonti: Sky Sport Tennis (solo tv_rights); Sky Sport Uno (solo tv_rights); NOW (solo tv_rights); orario 11:30 non confr\n  • tolto «WTA Finals Indian Wells 2026 - Doppio» 11:30: nessun canale con due fonti: Sky Sport Tennis (solo tv_rights); Sky Sport Uno (solo tv_rights); NOW (solo tv_rights); orario 11:30 non confr\n  • tolto «Rochefort – Juventus Papus» 14:00: nessun canale con due fonti: DAZN (nessuna fonte); orario 14:00 non confrontabile col palinsesto\n  • tolto «WTA Finals Indian Wells 2026 - Doppio» 14:00: nessuna riga di tv_rights per tennis / «ATP Finals»; nessun canale con due fonti: SuperTennis (solo palinsesto); Sky Sport (nessuna fonte); \n  • tolto «WTA Finals Indian Wells 2026 - Singola» 14:00: nessuna riga di tv_rights per tennis / «ATP Finals»; nessun canale con due fonti: Sky Sport Tennis (nessuna fonte); Sky Sport Uno (nessuna f\n  • tolto «Como 1907 W – Como W» 15:00: nessun canale con due fonti: DAZN (solo tv_rights); orario 15:00 non confrontabile col palinsesto\n  • … altri 6\n<pre>📺 Oggi in TV: 12 dirette sport\n\n• 09:45 FIS Sci alpino Coppa del Mondo: Levi, Uomini, Slalom: 1a manche · Eurosport\n• 12:30 Sassuolo W – Ternana W · DAZN\n• 16:00 Treviso – Scafati · Sky Sport Uno, Sky Sport Basket\n• 16:00 Talmassons W – Novara W · DAZN\n• 17:00 Dubai P1: Finale Maschile · Sky Sport Mix\n\nCerca la tua squadra e scegli le tue piattaforme in SportViewLens.\n📲 Scarica gratis SportViewLens: link in bio.\n\nSportViewLens non è affiliata con DAZN, Sky, RAI o altri broadcaster.\n🤖 Contenuto generato in automatico con IA dai palinsesti TV ufficiali.\n\n#SportViewLens #SportInTV #OggiInTV</pre>\n\n<i>✅ OK: esce all'orario · ⏭️ Salta: non esce, contenuto legato a quella data · ✏️ Correggi: mi scrivi cosa cambiare · ↩️ Annulla: torna come prima. Nessun click = esce. Leggo i pulsanti ogni 15 minuti: decidi almeno 30 minuti prima.</i>"
+  },
+  "569": {
+   "chat_id": "1614787945",
+   "righe": [
+    "SVL_20261115_1100_STO"
+   ],
+   "base": "<b>11:00 · Storia · Instagram / FB Stories</b>\nID <code>SVL_20261115_1100_STO</code>\n⚠️ Verifica ok · 11 fonti, tolti perché incerti:\n  • tolto «WTA Finals Indian Wells 2026 - Doppio» 11:30: nessun canale con due fonti: Sky Sport Tennis (solo tv_rights); Sky Sport Uno (solo tv_rights); NOW (solo tv_rights); orario 11:30 non confr\n  • tolto «WTA Finals Indian Wells 2026 - Doppio» 11:30: nessun canale con due fonti: Sky Sport Tennis (solo tv_rights); Sky Sport Uno (solo tv_rights); NOW (solo tv_rights); orario 11:30 non confr\n  • tolto «Rochefort – Juventus Papus» 14:00: nessun canale con due fonti: DAZN (nessuna fonte); orario 14:00 non confrontabile col palinsesto\n  • tolto «WTA Finals Indian Wells 2026 - Doppio» 14:00: nessuna riga di tv_rights per tennis / «ATP Finals»; nessun canale con due fonti: SuperTennis (solo palinsesto); Sky Sport (nessuna fonte); \n  • tolto «WTA Finals Indian Wells 2026 - Singola» 14:00: nessuna riga di tv_rights per tennis / «ATP Finals»; nessun canale con due fonti: Sky Sport Tennis (nessuna fonte); Sky Sport Uno (nessuna f\n  • tolto «Como 1907 W – Como W» 15:00: nessun canale con due fonti: DAZN (solo tv_rights); orario 15:00 non confrontabile col palinsesto\n  • … altri 6\n<pre>Oggi in TV: 12 dirette. • 09:45 FIS Sci alpino Coppa del Mondo: Levi, Uomini, Slalom: 1a manche · Eurosport\n• 12:30 Sassuolo W – Ternana W · DAZN\n• 16:00 Treviso – Scafati · Sky Sport Uno, Sky Sport Basket\n• 16:00 Talmassons W – Novara W · DAZN\n• 17:00 Dubai P1: Finale Maschile · Sky Sport Mix\nCerca «SportViewLens» su App Store e Google Play.\nSportViewLens non è affiliata con DAZN, Sky, RAI o altri broadcaster.\n🤖 Contenuto generato in automatico con IA dai palinsesti TV ufficiali.</pre>\n\n<i>✅ OK: esce all'orario · ⏭️ Salta: non esce, contenuto legato a quella data · ✏️ Correggi: mi scrivi cosa cambiare · ↩️ Annulla: torna come prima. Nessun click = esce. Leggo i pulsanti ogni 15 minuti: decidi almeno 30 minuti prima.</i>"
+  }
+ },
+ "ultimo_update_id": null,
+ "anteprima_inviata_il": "2026-11-14T23:56:32+01:00",
+ "provvisorio": false
+}
