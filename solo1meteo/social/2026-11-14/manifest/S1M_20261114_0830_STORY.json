@@ -5,7 +5,7 @@
   "ora_pubblicazione": "2026-11-14 08:30",
   "data_evento": "2026-11-14",
   "utm": "https://maxegon.github.io/meteo-stat-privacy/landing/?utm_source=instagram&utm_medium=social&utm_campaign=s1m_2026w46&utm_content=S1M_20261114_0830_STORY",
-  "generato_il": "2026-11-14T01:05:14+01:00",
+  "generato_il": "2026-11-14T11:32:09+01:00",
   "provvisorio": false,
   "stato": "SALTATO_VERIFICA",
   "motivo": "verifica dei dati non superata: allerte: allerta meteo attiva (Giallo Temporali Allerta; Giallo Pioggia Allerta; Giallo Vento Allerta) e nessun ente citato nel post",
@@ -40,7 +40,7 @@
       {
         "nome": "scarto",
         "esito": "ok",
-        "dettaglio": "massime 9-14° (scarto 5°), pioggia 30-100% (scarto 70) | disaccordo sulle massime: il gancio mostra l'intervallo; disaccordo sulla pioggia: il gancio lo dice"
+        "dettaglio": "massime 11-14° (scarto 3°), pioggia 30-100% (scarto 70) | disaccordo sulla pioggia: il gancio lo dice"
       },
       {
         "nome": "giorno",
@@ -99,25 +99,25 @@
     "fonti_elencate": 8,
     "fonti_escluse": [],
     "tmax_media": 14,
-    "tmax_min": 9,
+    "tmax_min": 11,
     "tmax_max": 14,
     "tmin_media": 9,
-    "pioggia_media": 54,
+    "pioggia_media": 69,
     "pioggia_min": 30,
     "pioggia_max": 100,
     "fonti_pioggia": 5,
     "condizione": "nuvoloso",
-    "fonti_condizione": 6,
-    "giorno_piu_incerto": "giovedì",
-    "scarto_tmax": 7,
-    "tmax_scarto_fonti": 5.1,
-    "tmax_disaccordo": true,
+    "fonti_condizione": 5,
+    "giorno_piu_incerto": "domenica",
+    "scarto_tmax": 8,
+    "tmax_scarto_fonti": 3.1,
+    "tmax_disaccordo": false,
     "pioggia_disaccordo": true,
     "gancio_pioggia": "le fonti non sono d'accordo sulla pioggia, dal 30% al 100%"
   },
   "giorno": "2026-11-14",
   "cambio_serale": {
-    "tipo": "nuova",
-    "motivo": "non c'era un rendering serale"
+    "tipo": "invariata",
+    "motivo": ""
   }
 }
