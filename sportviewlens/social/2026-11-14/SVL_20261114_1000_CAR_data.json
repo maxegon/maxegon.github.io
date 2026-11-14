@@ -6,12 +6,32 @@
  "eventi": [
   {
    "data": "2026-11-14",
+   "ora": "09:45",
+   "titolo": "FIS Sci alpino Coppa del Mondo: Levi, Donne, Slalom: 1a manche",
+   "competizione": "Coppa del Mondo",
+   "sport": "ski",
+   "canali": [
+    "Eurosport"
+   ]
+  },
+  {
+   "data": "2026-11-14",
    "ora": "12:30",
    "titolo": "Napoli W – AC Milan W",
    "competizione": "Serie A Femminile",
    "sport": "soccer",
    "canali": [
     "DAZN"
+   ]
+  },
+  {
+   "data": "2026-11-14",
+   "ora": "12:45",
+   "titolo": "FIS Sci alpino Coppa del Mondo: Levi, Donne, Slalom: 2a manche",
+   "competizione": "Coppa del Mondo",
+   "sport": "ski",
+   "canali": [
+    "Eurosport"
    ]
   },
   {
