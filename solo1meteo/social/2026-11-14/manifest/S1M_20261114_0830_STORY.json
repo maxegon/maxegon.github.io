@@ -1,0 +1,123 @@
+{
+  "slot": "S1M_20261114_0830_STORY",
+  "piattaforma": "Instagram / FB",
+  "formato": "Storia",
+  "ora_pubblicazione": "2026-11-14 08:30",
+  "data_evento": "2026-11-14",
+  "utm": "https://maxegon.github.io/meteo-stat-privacy/landing/?utm_source=instagram&utm_medium=social&utm_campaign=s1m_2026w46&utm_content=S1M_20261114_0830_STORY",
+  "generato_il": "2026-11-14T01:05:14+01:00",
+  "provvisorio": false,
+  "stato": "SALTATO_VERIFICA",
+  "motivo": "verifica dei dati non superata: allerte: allerta meteo attiva (Giallo Temporali Allerta; Giallo Pioggia Allerta; Giallo Vento Allerta) e nessun ente citato nel post",
+  "verifica": {
+    "esito": "dubbio",
+    "controlli": [
+      {
+        "nome": "backend",
+        "esito": "ok",
+        "dettaglio": "/health = healthy"
+      },
+      {
+        "nome": "fonti",
+        "esito": "ok",
+        "dettaglio": "8 fonti su 8 per 2026-11-14 (minimo 6)"
+      },
+      {
+        "nome": "freschezza",
+        "esito": "ok",
+        "dettaglio": "dato scaricato 0 minuti prima del rendering (massimo 3 ore, cache backend 10 minuti)"
+      },
+      {
+        "nome": "calcolo_app",
+        "esito": "ok",
+        "dettaglio": "copia del calcolo dell'app sha f8de55e39310 (submodule assente in CI) | codice dell'app (buildAggregateDays)"
+      },
+      {
+        "nome": "numeri_testo",
+        "esito": "ok",
+        "dettaglio": "tutti i numeri con ° o % sono quelli calcolati come nell'app"
+      },
+      {
+        "nome": "scarto",
+        "esito": "ok",
+        "dettaglio": "massime 9-14° (scarto 5°), pioggia 30-100% (scarto 70) | disaccordo sulle massime: il gancio mostra l'intervallo; disaccordo sulla pioggia: il gancio lo dice"
+      },
+      {
+        "nome": "giorno",
+        "esito": "ok",
+        "dettaglio": "giorno citato = sabato 2026-11-14"
+      },
+      {
+        "nome": "allerte",
+        "esito": "dubbio",
+        "dettaglio": "allerta meteo attiva (Giallo Temporali Allerta; Giallo Pioggia Allerta; Giallo Vento Allerta) e nessun ente citato nel post"
+      },
+      {
+        "nome": "posizione",
+        "esito": "ok",
+        "dettaglio": "Genova: citta fissa del piano, nessuna posizione dell'utente"
+      }
+    ],
+    "fonti": [
+      "https://backend-eta-seven-21.vercel.app/weather?lat=44.41&lon=8.93",
+      "https://open-meteo.com",
+      "https://openweathermap.org",
+      "https://www.weatherapi.com",
+      "https://api.met.no",
+      "https://brightsky.dev",
+      "https://www.visualcrossing.com",
+      "http://www.7timer.info",
+      "https://www.tomorrow.io"
+    ]
+  },
+  "tentativi": [
+    {
+      "citta": "Genova",
+      "esito": "verifica",
+      "motivo": "allerte: allerta meteo attiva (Giallo Temporali Allerta; Giallo Pioggia Allerta; Giallo Vento Allerta) e nessun ente citato nel post"
+    },
+    {
+      "citta": "Roma",
+      "esito": "verifica",
+      "motivo": "allerte: allerta meteo attiva (Giallo Temporali Allerta; Giallo Pioggia Allerta; Giallo Vento Allerta) e nessun ente citato nel post"
+    },
+    {
+      "citta": "Milano",
+      "esito": "verifica",
+      "motivo": "allerte: allerta meteo attiva (Giallo Temporali Allerta; Giallo Pioggia Allerta; Giallo Vento Allerta) e nessun ente citato nel post"
+    },
+    {
+      "citta": "Napoli",
+      "esito": "verifica",
+      "motivo": "allerte: allerta meteo attiva (Giallo Temporali Allerta; Giallo Pioggia Allerta; Giallo Vento Allerta) e nessun ente citato nel post"
+    }
+  ],
+  "dati_scartati": {
+    "citta": "Genova",
+    "data_label": "sabato 14 novembre",
+    "fonti_n": 8,
+    "fonti_elencate": 8,
+    "fonti_escluse": [],
+    "tmax_media": 14,
+    "tmax_min": 9,
+    "tmax_max": 14,
+    "tmin_media": 9,
+    "pioggia_media": 54,
+    "pioggia_min": 30,
+    "pioggia_max": 100,
+    "fonti_pioggia": 5,
+    "condizione": "nuvoloso",
+    "fonti_condizione": 6,
+    "giorno_piu_incerto": "giovedì",
+    "scarto_tmax": 7,
+    "tmax_scarto_fonti": 5.1,
+    "tmax_disaccordo": true,
+    "pioggia_disaccordo": true,
+    "gancio_pioggia": "le fonti non sono d'accordo sulla pioggia, dal 30% al 100%"
+  },
+  "giorno": "2026-11-14",
+  "cambio_serale": {
+    "tipo": "nuova",
+    "motivo": "non c'era un rendering serale"
+  }
+}
