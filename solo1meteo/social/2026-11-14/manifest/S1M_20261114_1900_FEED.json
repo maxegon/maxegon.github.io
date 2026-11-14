@@ -5,7 +5,7 @@
   "ora_pubblicazione": "2026-11-14 19:00",
   "data_evento": "2026-11-14",
   "utm": "https://maxegon.github.io/meteo-stat-privacy/landing/?utm_source=instagram&utm_medium=social&utm_campaign=s1m_2026w46&utm_content=S1M_20261114_1900_FEED",
-  "generato_il": "2026-11-14T11:32:14+01:00",
+  "generato_il": "2026-11-14T13:24:06+01:00",
   "provvisorio": false,
   "giorno": "2026-11-14",
   "stato": "MEDIA_PRONTA",
@@ -79,7 +79,7 @@
       {
         "nome": "scarto",
         "esito": "ok",
-        "dettaglio": "massime 10-12° (scarto 2°), pioggia 0-19% (scarto 19)"
+        "dettaglio": "massime 10-12° (scarto 2°), pioggia 0-6% (scarto 6)"
       },
       {
         "nome": "giorno",
@@ -123,7 +123,7 @@
     {
       "citta": "Milano",
       "esito": "verifica",
-      "motivo": "allerte: allerta meteo attiva (Giallo Temporali Allerta; Giallo Pioggia Allerta; Giallo Vento Allerta) e nessun ente citato nel post"
+      "motivo": "backend_risposta: risposta parziale o con errori: partial=True, errors=[]; allerte: allerta meteo attiva (Giallo Temporali Allerta; Giallo Pioggia Allerta; Giallo Vento Allerta) e nessun ente citato nel post"
     },
     {
       "citta": "Napoli",
@@ -138,7 +138,7 @@
     ]
   },
   "cambio_serale": {
-    "tipo": "nuova",
-    "motivo": "la sera era SALTATO_VERIFICA"
+    "tipo": "invariata",
+    "motivo": ""
   }
 }
