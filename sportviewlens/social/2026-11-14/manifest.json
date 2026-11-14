@@ -1,5 +1,5 @@
 {
- "generato": "2026-11-14T00:17:25+00:00",
+ "generato": "2026-11-14T09:26:48+00:00",
  "data_pubblicazione": "2026-11-14",
  "base_url": "https://maxegon.github.io/sportviewlens/social/2026-11-14",
  "righe": [
@@ -18,12 +18,7 @@
      {
       "nome": "eventi nel post",
       "esito": "ok",
-      "dettaglio": "2 eventi verificati ok, 20 tolti, su 22 candidati dell'app"
-     },
-     {
-      "nome": "tolto «FIS Sci alpino Coppa del Mondo: Levi, » 09:45",
-      "esito": "dubbio",
-      "dettaglio": "nessuna riga di tv_rights per ski / «Coppa del Mondo»; nessun canale con due fonti: Eurosport (solo palinsesto); DAZN (nessuna fonte); orario 09:45 non confrontabile col palinsesto"
+      "dettaglio": "7 eventi verificati ok, 14 tolti, su 21 candidati dell'app"
      },
      {
       "nome": "tolto «Stoccolma (cemento)» 12:00",
@@ -31,49 +26,29 @@
       "dettaglio": "nessuna riga di tv_rights per tennis / «ATP 250 · Singolare e doppio · ATP»; nessun canale con due fonti: Sky Sport Tennis (solo palinsesto); orario 12:00 non confrontabile col palinsesto"
      },
      {
-      "nome": "tolto «Napoli W – AC Milan W» 12:30",
+      "nome": "tolto «Sci Alpino: Coppa del Mondo femminile» 12:55",
       "esito": "dubbio",
-      "dettaglio": "stagione dei diritti (2025-2026, None) non contiene il 2026-11-14; nessun canale con due fonti: DAZN (solo palinsesto); orario 12:30 non confrontabile col palinsesto"
-     },
-     {
-      "nome": "tolto «FIS Sci alpino Coppa del Mondo: Levi, » 12:45",
-      "esito": "dubbio",
-      "dettaglio": "nessuna riga di tv_rights per ski / «Coppa del Mondo»; nessun canale con due fonti: Eurosport (solo palinsesto); DAZN (nessuna fonte); orario 12:45 non confrontabile col palinsesto"
-     },
-     {
-      "nome": "tolto «Roma W – Parma W» 15:00",
-      "esito": "dubbio",
-      "dettaglio": "stagione dei diritti (2025-2026, None) non contiene il 2026-11-14; nessun canale con due fonti: DAZN (solo palinsesto); orario 15:00 non confrontabile col palinsesto"
+      "dettaglio": "nessuna riga di tv_rights per ski / «Coppa del Mondo Sci»; nessun canale con due fonti: Eurosport (solo palinsesto); DAZN (nessuna fonte); orario 12:55 non confrontabile col palinsesto"
      },
      {
       "nome": "tolto «Sir Susa Scai Perugia – Itas Trentino» 15:30",
       "esito": "dubbio",
-      "dettaglio": "stagione dei diritti (2025-2026) non contiene il 2026-11-14; nessun canale con due fonti: Rai Sport (nessuna fonte); RaiPlay (streaming) (nessuna fonte); orario 15:30 non confrontabile col palinsesto"
-     },
-     {
-      "nome": "tolto «Georgia - Ungheria» 17:25",
-      "esito": "dubbio",
-      "dettaglio": "nessuna riga di tv_rights per soccer / «UEFA Nations League»; nessun canale con due fonti: Sky Sport 255 (solo palinsesto); orario 17:25 non confrontabile col palinsesto"
-     },
-     {
-      "nome": "tolto «Norvegia - Galles» 17:50",
-      "esito": "dubbio",
-      "dettaglio": "nessuna riga di tv_rights per soccer / «UEFA Nations League»; nessun canale con due fonti: Sky Sport Max (solo palinsesto); orario 17:50 non confrontabile col palinsesto"
+      "dettaglio": "nessun canale con due fonti: Rai Sport (solo tv_rights); RaiPlay (streaming) (nessuna fonte); orario 15:30 non confrontabile col palinsesto"
      },
      {
       "nome": "tolto «Austria W – Italy W» 18:00",
       "esito": "dubbio",
-      "dettaglio": "nessuna riga di tv_rights per basket / «Eurobasket Femminile»; nessun canale con due fonti: Sky Sport Basket (nessuna fonte); NOW (nessuna fonte); orario 18:00 non confrontabile col palinsesto"
+      "dettaglio": "nessuna riga di tv_rights per basket / «Eurobasket Femminile»; nessun canale con due fonti: Sky Sport Uno (nessuna fonte); NOW (nessuna fonte); orario 18:00 non confrontabile col palinsesto"
      },
      {
       "nome": "tolto «Fiorentina W – Lazio W» 18:00",
       "esito": "dubbio",
-      "dettaglio": "stagione dei diritti (2025-2026, None) non contiene il 2026-11-14; nessun canale con due fonti: DAZN (nessuna fonte); orario 18:00 non confrontabile col palinsesto"
+      "dettaglio": "nessun canale con due fonti: DAZN (solo tv_rights); orario 18:00 non confrontabile col palinsesto"
      },
      {
       "nome": "tolto «WTA Finals Indian Wells 2026 - Singola» 18:00",
       "esito": "dubbio",
-      "dettaglio": "nessuna riga di tv_rights per tennis / «WTA Finals»; nessun canale con due fonti: SuperTennis (nessuna fonte); orario 18:00 non confrontabile col palinsesto"
+      "dettaglio": "nessuna riga di tv_rights per tennis / «WTA Finals»; nessun canale con due fonti: SuperTennis (solo palinsesto); orario 18:00 non confrontabile col palinsesto"
      },
      {
       "nome": "tolto «Nuoto. Assoluti Invernali - Finali (3a» 18:00",
@@ -81,27 +56,135 @@
       "dettaglio": "nessun canale con due fonti: RaiPlay Sport 1 (solo palinsesto); orario 18:00 non confrontabile col palinsesto"
      },
      {
-      "nome": "minimo eventi",
-      "esito": "ko",
-      "dettaglio": "2 eventi verificati, ne servono almeno 3: la riga non esce"
+      "nome": "tolto «Vallefoglia W – Firenze W» 21:00",
+      "esito": "dubbio",
+      "dettaglio": "nessuna riga di tv_rights per volley / «Superlega Volley Femminile»; nessun canale con due fonti: DAZN (nessuna fonte); orario 21:00 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «WTA Finals Indian Wells 2026 - Singola» 21:00",
+      "esito": "dubbio",
+      "dettaglio": "nessuna riga di tv_rights per tennis / «WTA Finals Indian Wells»; nessun canale con due fonti: SuperTennis (solo palinsesto); Sky Sport Tennis (nessuna fonte); orario 21:00 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Mirassol – Atletico-MG» 22:30",
+      "esito": "dubbio",
+      "dettaglio": "nessun canale con due fonti: Sportitalia (solo tv_rights); orario 22:30 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «WTA Finals Indian Wells 2026 - Singola» 23:00",
+      "esito": "dubbio",
+      "dettaglio": "nessuna riga di tv_rights per tennis / «WTA Finals Indian Wells»; nessun canale con due fonti: Sky Sport Uno (nessuna fonte); Sky Sport Tennis (nessuna fonte); orario 23:00 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Italy – Argentina» 12:40",
+      "esito": "dubbio",
+      "dettaglio": "nessuna riga di tv_rights per rugby / «Nations Championship»; nessun canale con due fonti: TV8 (nessuna fonte); orario 12:40 non confrontabile col palinsesto"
      }
     ],
     "fonti": [
-     "https://sport.sky.it",
+     "https://www.dazn.com/it-IT/",
      "supabase:tv_epg_cache?date=eq.2026-11-14",
-     "supabase:tv_rights?active=eq.true"
+     "supabase:tv_rights?active=eq.true",
+     "https://sport.sky.it/calcio",
+     "https://sport.sky.it"
     ]
    },
-   "Stato": "SALTATO_VERIFICA",
-   "motivo": "2 eventi verificati (minimo 3)",
+   "tema": "ambra",
+   "Stato": "PRONTO",
+   "Testo_Post_Completo": "📺 Oggi in TV: 7 dirette sport\n\n• 12:30 Napoli W – AC Milan W · DAZN\n• 15:00 Dubai P1: Semifinali Sessione Diurna · Sky Sport Tennis\n• 15:00 Roma W – Parma W · DAZN\n• 17:00 Dubai P1: Semifinali Sessione Serale · Sky Sport Tennis, Sky Sport Mix\n• 18:00 Norvegia – Galles · Sky Sport Max\n\nCerca la tua squadra e scegli le tue piattaforme in SportViewLens.\n📲 Scarica gratis SportViewLens: link in bio.\n\nSportViewLens non è affiliata con DAZN, Sky, RAI o altri broadcaster.\n🤖 Contenuto generato in automatico con IA dai palinsesti TV ufficiali.\n\n#SportViewLens #SportInTV #OggiInTV",
+   "eventi": [
+    "Napoli W – AC Milan W",
+    "Roma W – Parma W",
+    "Norvegia – Galles",
+    "Georgia – Ungheria",
+    "Portogallo – Danimarca",
+    "Dubai P1: Semifinali Sessione Diurna",
+    "Dubai P1: Semifinali Sessione Serale"
+   ],
+   "conteggio": 7,
+   "file": [
+    "https://maxegon.github.io/sportviewlens/social/2026-11-14/SVL_20261114_1000_CAR/01_copertina.png",
+    "https://maxegon.github.io/sportviewlens/social/2026-11-14/SVL_20261114_1000_CAR/02_dati.png",
+    "https://maxegon.github.io/sportviewlens/social/2026-11-14/SVL_20261114_1000_CAR/03_dati.png",
+    "https://maxegon.github.io/sportviewlens/social/2026-11-14/SVL_20261114_1000_CAR/04_dati.png",
+    "https://maxegon.github.io/sportviewlens/social/2026-11-14/SVL_20261114_1000_CAR/05_screenshot.png",
+    "https://maxegon.github.io/sportviewlens/social/2026-11-14/SVL_20261114_1000_CAR/06_cta.png"
+   ],
+   "anteprima": {
+    "testo": "📺 Oggi in TV: 7 dirette sport\n\n• 12:30 Napoli W – AC Milan W · DAZN\n• 15:00 Dubai P1: Semifinali Sessione Diurna · Sky Sport Tennis\n• 15:00 Roma W – Parma W · DAZN\n• 17:00 Dubai P1: Semifinali Sessione Serale · Sky Sport Tennis, Sky Sport Mix\n• 18:00 Norvegia – Galles · Sky Sport Max\n\nCerca la tua squadra e scegli le tue piattaforme in SportViewLens.\n📲 Scarica gratis SportViewLens: link in bio.\n\nSportViewLens non è affiliata con DAZN, Sky, RAI o altri broadcaster.\n🤖 Contenuto generato in automatico con IA dai palinsesti TV ufficiali.\n\n#SportViewLens #SportInTV #OggiInTV",
+    "immagini": [
+     "https://maxegon.github.io/sportviewlens/social/2026-11-14/SVL_20261114_1000_CAR/01_copertina.png"
+    ]
+   },
    "id": "SVL_20261114_1000_CAR",
-   "stato": "SALTATO_VERIFICA",
+   "stato": "PRONTO",
    "formato": "Carosello",
    "piattaforma": "Instagram / FB",
    "utm": "https://maxegon.github.io/sportviewlens/download/?utm_source=instagram&utm_medium=carosello&utm_campaign=oggi_in_tv&utm_content=SVL_20261114_1000_CAR",
    "pubblica_alle": "2026-11-14T10:00+01:00",
+   "testo_finale": "📺 Oggi in TV: 7 dirette sport\n\n• 12:30 Napoli W – AC Milan W · DAZN\n• 15:00 Dubai P1: Semifinali Sessione Diurna · Sky Sport Tennis\n• 15:00 Roma W – Parma W · DAZN\n• 17:00 Dubai P1: Semifinali Sessione Serale · Sky Sport Tennis, Sky Sport Mix\n• 18:00 Norvegia – Galles · Sky Sport Max\n\nCerca la tua squadra e scegli le tue piattaforme in SportViewLens.\n📲 Scarica gratis SportViewLens: link in bio.\n\nSportViewLens non è affiliata con DAZN, Sky, RAI o altri broadcaster.\n🤖 Contenuto generato in automatico con IA dai palinsesti TV ufficiali.\n\n#SportViewLens #SportInTV #OggiInTV",
+   "ig_media": [
+    {
+     "media_type": "IMAGE",
+     "image_url": "https://maxegon.github.io/sportviewlens/social/2026-11-14/SVL_20261114_1000_CAR/01_copertina.png"
+    },
+    {
+     "media_type": "IMAGE",
+     "image_url": "https://maxegon.github.io/sportviewlens/social/2026-11-14/SVL_20261114_1000_CAR/02_dati.png"
+    },
+    {
+     "media_type": "IMAGE",
+     "image_url": "https://maxegon.github.io/sportviewlens/social/2026-11-14/SVL_20261114_1000_CAR/03_dati.png"
+    },
+    {
+     "media_type": "IMAGE",
+     "image_url": "https://maxegon.github.io/sportviewlens/social/2026-11-14/SVL_20261114_1000_CAR/04_dati.png"
+    },
+    {
+     "media_type": "IMAGE",
+     "image_url": "https://maxegon.github.io/sportviewlens/social/2026-11-14/SVL_20261114_1000_CAR/05_screenshot.png"
+    },
+    {
+     "media_type": "IMAGE",
+     "image_url": "https://maxegon.github.io/sportviewlens/social/2026-11-14/SVL_20261114_1000_CAR/06_cta.png"
+    }
+   ],
+   "fb_photos": [
+    {
+     "type": "url",
+     "url": "https://maxegon.github.io/sportviewlens/social/2026-11-14/SVL_20261114_1000_CAR/01_copertina.png"
+    },
+    {
+     "type": "url",
+     "url": "https://maxegon.github.io/sportviewlens/social/2026-11-14/SVL_20261114_1000_CAR/02_dati.png"
+    },
+    {
+     "type": "url",
+     "url": "https://maxegon.github.io/sportviewlens/social/2026-11-14/SVL_20261114_1000_CAR/03_dati.png"
+    },
+    {
+     "type": "url",
+     "url": "https://maxegon.github.io/sportviewlens/social/2026-11-14/SVL_20261114_1000_CAR/04_dati.png"
+    },
+    {
+     "type": "url",
+     "url": "https://maxegon.github.io/sportviewlens/social/2026-11-14/SVL_20261114_1000_CAR/05_screenshot.png"
+    },
+    {
+     "type": "url",
+     "url": "https://maxegon.github.io/sportviewlens/social/2026-11-14/SVL_20261114_1000_CAR/06_cta.png"
+    }
+   ],
    "slot": "SVL_20261114_1000_CAR",
-   "ora_pubblicazione": "2026-11-14 10:00"
+   "ora_pubblicazione": "2026-11-14 10:00",
+   "immagini": [
+    "https://maxegon.github.io/sportviewlens/social/2026-11-14/SVL_20261114_1000_CAR/01_copertina.png",
+    "https://maxegon.github.io/sportviewlens/social/2026-11-14/SVL_20261114_1000_CAR/02_dati.png",
+    "https://maxegon.github.io/sportviewlens/social/2026-11-14/SVL_20261114_1000_CAR/03_dati.png",
+    "https://maxegon.github.io/sportviewlens/social/2026-11-14/SVL_20261114_1000_CAR/04_dati.png",
+    "https://maxegon.github.io/sportviewlens/social/2026-11-14/SVL_20261114_1000_CAR/05_screenshot.png",
+    "https://maxegon.github.io/sportviewlens/social/2026-11-14/SVL_20261114_1000_CAR/06_cta.png"
+   ]
   },
   {
    "Giorno_Slot": "SVL_20261114_1230_VID",
@@ -118,12 +201,7 @@
      {
       "nome": "eventi nel post",
       "esito": "ok",
-      "dettaglio": "2 eventi verificati ok, 20 tolti, su 22 candidati dell'app"
-     },
-     {
-      "nome": "tolto «FIS Sci alpino Coppa del Mondo: Levi, » 09:45",
-      "esito": "dubbio",
-      "dettaglio": "nessuna riga di tv_rights per ski / «Coppa del Mondo»; nessun canale con due fonti: Eurosport (solo palinsesto); DAZN (nessuna fonte); orario 09:45 non confrontabile col palinsesto"
+      "dettaglio": "7 eventi verificati ok, 14 tolti, su 21 candidati dell'app"
      },
      {
       "nome": "tolto «Stoccolma (cemento)» 12:00",
@@ -131,49 +209,29 @@
       "dettaglio": "nessuna riga di tv_rights per tennis / «ATP 250 · Singolare e doppio · ATP»; nessun canale con due fonti: Sky Sport Tennis (solo palinsesto); orario 12:00 non confrontabile col palinsesto"
      },
      {
-      "nome": "tolto «Napoli W – AC Milan W» 12:30",
+      "nome": "tolto «Sci Alpino: Coppa del Mondo femminile» 12:55",
       "esito": "dubbio",
-      "dettaglio": "stagione dei diritti (2025-2026, None) non contiene il 2026-11-14; nessun canale con due fonti: DAZN (solo palinsesto); orario 12:30 non confrontabile col palinsesto"
-     },
-     {
-      "nome": "tolto «FIS Sci alpino Coppa del Mondo: Levi, » 12:45",
-      "esito": "dubbio",
-      "dettaglio": "nessuna riga di tv_rights per ski / «Coppa del Mondo»; nessun canale con due fonti: Eurosport (solo palinsesto); DAZN (nessuna fonte); orario 12:45 non confrontabile col palinsesto"
-     },
-     {
-      "nome": "tolto «Roma W – Parma W» 15:00",
-      "esito": "dubbio",
-      "dettaglio": "stagione dei diritti (2025-2026, None) non contiene il 2026-11-14; nessun canale con due fonti: DAZN (solo palinsesto); orario 15:00 non confrontabile col palinsesto"
+      "dettaglio": "nessuna riga di tv_rights per ski / «Coppa del Mondo Sci»; nessun canale con due fonti: Eurosport (solo palinsesto); DAZN (nessuna fonte); orario 12:55 non confrontabile col palinsesto"
      },
      {
       "nome": "tolto «Sir Susa Scai Perugia – Itas Trentino» 15:30",
       "esito": "dubbio",
-      "dettaglio": "stagione dei diritti (2025-2026) non contiene il 2026-11-14; nessun canale con due fonti: Rai Sport (nessuna fonte); RaiPlay (streaming) (nessuna fonte); orario 15:30 non confrontabile col palinsesto"
-     },
-     {
-      "nome": "tolto «Georgia - Ungheria» 17:25",
-      "esito": "dubbio",
-      "dettaglio": "nessuna riga di tv_rights per soccer / «UEFA Nations League»; nessun canale con due fonti: Sky Sport 255 (solo palinsesto); orario 17:25 non confrontabile col palinsesto"
-     },
-     {
-      "nome": "tolto «Norvegia - Galles» 17:50",
-      "esito": "dubbio",
-      "dettaglio": "nessuna riga di tv_rights per soccer / «UEFA Nations League»; nessun canale con due fonti: Sky Sport Max (solo palinsesto); orario 17:50 non confrontabile col palinsesto"
+      "dettaglio": "nessun canale con due fonti: Rai Sport (solo tv_rights); RaiPlay (streaming) (nessuna fonte); orario 15:30 non confrontabile col palinsesto"
      },
      {
       "nome": "tolto «Austria W – Italy W» 18:00",
       "esito": "dubbio",
-      "dettaglio": "nessuna riga di tv_rights per basket / «Eurobasket Femminile»; nessun canale con due fonti: Sky Sport Basket (nessuna fonte); NOW (nessuna fonte); orario 18:00 non confrontabile col palinsesto"
+      "dettaglio": "nessuna riga di tv_rights per basket / «Eurobasket Femminile»; nessun canale con due fonti: Sky Sport Uno (nessuna fonte); NOW (nessuna fonte); orario 18:00 non confrontabile col palinsesto"
      },
      {
       "nome": "tolto «Fiorentina W – Lazio W» 18:00",
       "esito": "dubbio",
-      "dettaglio": "stagione dei diritti (2025-2026, None) non contiene il 2026-11-14; nessun canale con due fonti: DAZN (nessuna fonte); orario 18:00 non confrontabile col palinsesto"
+      "dettaglio": "nessun canale con due fonti: DAZN (solo tv_rights); orario 18:00 non confrontabile col palinsesto"
      },
      {
       "nome": "tolto «WTA Finals Indian Wells 2026 - Singola» 18:00",
       "esito": "dubbio",
-      "dettaglio": "nessuna riga di tv_rights per tennis / «WTA Finals»; nessun canale con due fonti: SuperTennis (nessuna fonte); orario 18:00 non confrontabile col palinsesto"
+      "dettaglio": "nessuna riga di tv_rights per tennis / «WTA Finals»; nessun canale con due fonti: SuperTennis (solo palinsesto); orario 18:00 non confrontabile col palinsesto"
      },
      {
       "nome": "tolto «Nuoto. Assoluti Invernali - Finali (3a» 18:00",
@@ -181,27 +239,95 @@
       "dettaglio": "nessun canale con due fonti: RaiPlay Sport 1 (solo palinsesto); orario 18:00 non confrontabile col palinsesto"
      },
      {
-      "nome": "minimo eventi",
-      "esito": "ko",
-      "dettaglio": "2 eventi verificati, ne servono almeno 3: la riga non esce"
+      "nome": "tolto «Vallefoglia W – Firenze W» 21:00",
+      "esito": "dubbio",
+      "dettaglio": "nessuna riga di tv_rights per volley / «Superlega Volley Femminile»; nessun canale con due fonti: DAZN (nessuna fonte); orario 21:00 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «WTA Finals Indian Wells 2026 - Singola» 21:00",
+      "esito": "dubbio",
+      "dettaglio": "nessuna riga di tv_rights per tennis / «WTA Finals Indian Wells»; nessun canale con due fonti: SuperTennis (solo palinsesto); Sky Sport Tennis (nessuna fonte); orario 21:00 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Mirassol – Atletico-MG» 22:30",
+      "esito": "dubbio",
+      "dettaglio": "nessun canale con due fonti: Sportitalia (solo tv_rights); orario 22:30 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «WTA Finals Indian Wells 2026 - Singola» 23:00",
+      "esito": "dubbio",
+      "dettaglio": "nessuna riga di tv_rights per tennis / «WTA Finals Indian Wells»; nessun canale con due fonti: Sky Sport Uno (nessuna fonte); Sky Sport Tennis (nessuna fonte); orario 23:00 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Italy – Argentina» 12:40",
+      "esito": "dubbio",
+      "dettaglio": "nessuna riga di tv_rights per rugby / «Nations Championship»; nessun canale con due fonti: TV8 (nessuna fonte); orario 12:40 non confrontabile col palinsesto"
      }
     ],
     "fonti": [
-     "https://sport.sky.it",
+     "https://www.dazn.com/it-IT/",
      "supabase:tv_epg_cache?date=eq.2026-11-14",
-     "supabase:tv_rights?active=eq.true"
+     "supabase:tv_rights?active=eq.true",
+     "https://sport.sky.it/calcio",
+     "https://sport.sky.it"
     ]
    },
-   "Stato": "SALTATO_VERIFICA",
-   "motivo": "2 eventi verificati (minimo 3)",
+   "tema": "verde",
+   "Stato": "PRONTO",
+   "Testo_Post_Completo": "🎬 Oggi in TV: 7 dirette\n\n• 12:30 Napoli W – AC Milan W · DAZN\n• 15:00 Dubai P1: Semifinali Sessione Diurna · Sky Sport Tennis\n• 15:00 Roma W – Parma W · DAZN\n• 17:00 Dubai P1: Semifinali Sessione Serale · Sky Sport Tennis, Sky Sport Mix\n• 18:00 Norvegia – Galles · Sky Sport Max\n\n📲 Scarica gratis SportViewLens: link in bio.\n\nSportViewLens non è affiliata con DAZN, Sky, RAI o altri broadcaster.\n🤖 Contenuto generato in automatico con IA dai palinsesti TV ufficiali.\n\n#SportViewLens #SportInTV #OggiInTV",
+   "eventi": [
+    "Napoli W – AC Milan W",
+    "Roma W – Parma W",
+    "Norvegia – Galles",
+    "Georgia – Ungheria",
+    "Portogallo – Danimarca",
+    "Dubai P1: Semifinali Sessione Diurna",
+    "Dubai P1: Semifinali Sessione Serale"
+   ],
+   "conteggio": 7,
+   "file": [
+    "https://maxegon.github.io/sportviewlens/social/2026-11-14/SVL_20261114_1230_VID/video.mp4",
+    "https://maxegon.github.io/sportviewlens/social/2026-11-14/SVL_20261114_1230_VID/frames/v1_gancio.png"
+   ],
+   "anteprima": {
+    "testo": "🎬 Oggi in TV: 7 dirette\n\n• 12:30 Napoli W – AC Milan W · DAZN\n• 15:00 Dubai P1: Semifinali Sessione Diurna · Sky Sport Tennis\n• 15:00 Roma W – Parma W · DAZN\n• 17:00 Dubai P1: Semifinali Sessione Serale · Sky Sport Tennis, Sky Sport Mix\n• 18:00 Norvegia – Galles · Sky Sport Max\n\n📲 Scarica gratis SportViewLens: link in bio.\n\nSportViewLens non è affiliata con DAZN, Sky, RAI o altri broadcaster.\n🤖 Contenuto generato in automatico con IA dai palinsesti TV ufficiali.\n\n#SportViewLens #SportInTV #OggiInTV",
+    "immagini": [
+     "https://maxegon.github.io/sportviewlens/social/2026-11-14/SVL_20261114_1230_VID/frames/v1_gancio.png"
+    ]
+   },
    "id": "SVL_20261114_1230_VID",
-   "stato": "SALTATO_VERIFICA",
+   "stato": "PRONTO",
    "formato": "Video",
    "piattaforma": "Instagram / FB + TikTok",
    "utm": "https://maxegon.github.io/sportviewlens/download/?utm_source=instagram&utm_medium=reel&utm_campaign=oggi_in_tv&utm_content=SVL_20261114_1230_VID",
    "pubblica_alle": "2026-11-14T12:30+01:00",
+   "testo_finale": "🎬 Oggi in TV: 7 dirette\n\n• 12:30 Napoli W – AC Milan W · DAZN\n• 15:00 Dubai P1: Semifinali Sessione Diurna · Sky Sport Tennis\n• 15:00 Roma W – Parma W · DAZN\n• 17:00 Dubai P1: Semifinali Sessione Serale · Sky Sport Tennis, Sky Sport Mix\n• 18:00 Norvegia – Galles · Sky Sport Max\n\n📲 Scarica gratis SportViewLens: link in bio.\n\nSportViewLens non è affiliata con DAZN, Sky, RAI o altri broadcaster.\n🤖 Contenuto generato in automatico con IA dai palinsesti TV ufficiali.\n\n#SportViewLens #SportInTV #OggiInTV",
+   "ig_media": [
+    {
+     "media_type": "IMAGE",
+     "image_url": "https://maxegon.github.io/sportviewlens/social/2026-11-14/SVL_20261114_1230_VID/video.mp4"
+    },
+    {
+     "media_type": "IMAGE",
+     "image_url": "https://maxegon.github.io/sportviewlens/social/2026-11-14/SVL_20261114_1230_VID/frames/v1_gancio.png"
+    }
+   ],
+   "fb_photos": [
+    {
+     "type": "url",
+     "url": "https://maxegon.github.io/sportviewlens/social/2026-11-14/SVL_20261114_1230_VID/video.mp4"
+    },
+    {
+     "type": "url",
+     "url": "https://maxegon.github.io/sportviewlens/social/2026-11-14/SVL_20261114_1230_VID/frames/v1_gancio.png"
+    }
+   ],
    "slot": "SVL_20261114_1230_VID",
-   "ora_pubblicazione": "2026-11-14 12:30"
+   "ora_pubblicazione": "2026-11-14 12:30",
+   "immagini": [
+    "https://maxegon.github.io/sportviewlens/social/2026-11-14/SVL_20261114_1230_VID/video.mp4",
+    "https://maxegon.github.io/sportviewlens/social/2026-11-14/SVL_20261114_1230_VID/frames/v1_gancio.png"
+   ]
   },
   {
    "Giorno_Slot": "SVL_20261114_1400_BIG",
@@ -218,52 +344,32 @@
      {
       "nome": "eventi nel post",
       "esito": "ok",
-      "dettaglio": "0 eventi verificati ok, 15 tolti, su 17 candidati dell'app"
-     },
-     {
-      "nome": "tolto «Roma W – Parma W» 15:00",
-      "esito": "dubbio",
-      "dettaglio": "stagione dei diritti (2025-2026, None) non contiene il 2026-11-14; nessun canale con due fonti: DAZN (solo palinsesto); orario 15:00 non confrontabile col palinsesto"
+      "dettaglio": "0 eventi verificati ok, 11 tolti, su 17 candidati dell'app"
      },
      {
       "nome": "tolto «Sir Susa Scai Perugia – Itas Trentino» 15:30",
       "esito": "dubbio",
-      "dettaglio": "stagione dei diritti (2025-2026) non contiene il 2026-11-14; nessun canale con due fonti: Rai Sport (nessuna fonte); RaiPlay (streaming) (nessuna fonte); orario 15:30 non confrontabile col palinsesto"
-     },
-     {
-      "nome": "tolto «Georgia - Ungheria» 17:25",
-      "esito": "dubbio",
-      "dettaglio": "nessuna riga di tv_rights per soccer / «UEFA Nations League»; nessun canale con due fonti: Sky Sport 255 (solo palinsesto); orario 17:25 non confrontabile col palinsesto"
-     },
-     {
-      "nome": "tolto «Norvegia - Galles» 17:50",
-      "esito": "dubbio",
-      "dettaglio": "nessuna riga di tv_rights per soccer / «UEFA Nations League»; nessun canale con due fonti: Sky Sport Max (solo palinsesto); orario 17:50 non confrontabile col palinsesto"
+      "dettaglio": "nessun canale con due fonti: Rai Sport (solo tv_rights); RaiPlay (streaming) (nessuna fonte); orario 15:30 non confrontabile col palinsesto"
      },
      {
       "nome": "tolto «Austria W – Italy W» 18:00",
       "esito": "dubbio",
-      "dettaglio": "nessuna riga di tv_rights per basket / «Eurobasket Femminile»; nessun canale con due fonti: Sky Sport Basket (nessuna fonte); NOW (nessuna fonte); orario 18:00 non confrontabile col palinsesto"
+      "dettaglio": "nessuna riga di tv_rights per basket / «Eurobasket Femminile»; nessun canale con due fonti: Sky Sport Uno (nessuna fonte); NOW (nessuna fonte); orario 18:00 non confrontabile col palinsesto"
      },
      {
       "nome": "tolto «Fiorentina W – Lazio W» 18:00",
       "esito": "dubbio",
-      "dettaglio": "stagione dei diritti (2025-2026, None) non contiene il 2026-11-14; nessun canale con due fonti: DAZN (nessuna fonte); orario 18:00 non confrontabile col palinsesto"
+      "dettaglio": "nessun canale con due fonti: DAZN (solo tv_rights); orario 18:00 non confrontabile col palinsesto"
      },
      {
       "nome": "tolto «WTA Finals Indian Wells 2026 - Singola» 18:00",
       "esito": "dubbio",
-      "dettaglio": "nessuna riga di tv_rights per tennis / «WTA Finals»; nessun canale con due fonti: SuperTennis (nessuna fonte); orario 18:00 non confrontabile col palinsesto"
+      "dettaglio": "nessuna riga di tv_rights per tennis / «WTA Finals»; nessun canale con due fonti: SuperTennis (solo palinsesto); orario 18:00 non confrontabile col palinsesto"
      },
      {
       "nome": "tolto «Nuoto. Assoluti Invernali - Finali (3a» 18:00",
       "esito": "dubbio",
       "dettaglio": "nessun canale con due fonti: RaiPlay Sport 1 (solo palinsesto); orario 18:00 non confrontabile col palinsesto"
-     },
-     {
-      "nome": "tolto «Portogallo - Danimarca» 20:35",
-      "esito": "dubbio",
-      "dettaglio": "nessuna riga di tv_rights per soccer / «UEFA Nations League»; nessun canale con due fonti: TV8 (solo palinsesto); Sky Sport Uno (solo palinsesto); orario 20:35 non confrontabile col palinsesto"
      },
      {
       "nome": "tolto «Vallefoglia W – Firenze W» 21:00",
@@ -273,12 +379,27 @@
      {
       "nome": "tolto «WTA Finals Indian Wells 2026 - Singola» 21:00",
       "esito": "dubbio",
-      "dettaglio": "nessuna riga di tv_rights per tennis / «WTA Finals Indian Wells»; nessun canale con due fonti: Sky Sport Tennis (nessuna fonte); orario 21:00 non confrontabile col palinsesto"
+      "dettaglio": "nessuna riga di tv_rights per tennis / «WTA Finals Indian Wells»; nessun canale con due fonti: SuperTennis (solo palinsesto); Sky Sport Tennis (nessuna fonte); orario 21:00 non confrontabile col palinsesto"
      },
      {
       "nome": "tolto «Mirassol – Atletico-MG» 22:30",
       "esito": "dubbio",
       "dettaglio": "nessun canale con due fonti: Sportitalia (solo tv_rights); orario 22:30 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «WTA Finals Indian Wells 2026 - Singola» 23:00",
+      "esito": "dubbio",
+      "dettaglio": "nessuna riga di tv_rights per tennis / «WTA Finals Indian Wells»; nessun canale con due fonti: Sky Sport Uno (nessuna fonte); Sky Sport Tennis (nessuna fonte); orario 23:00 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Riley - Coupe» 20:00",
+      "esito": "dubbio",
+      "dettaglio": "nessuna riga di tv_rights per boxing / «MF Pro»; nessun canale con due fonti: DAZN (nessuna fonte); orario 20:00 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Matchroom Boxing: Pacheco vs. Fulghum:» 23:00",
+      "esito": "dubbio",
+      "dettaglio": "nessuna riga di tv_rights per boxing / «Matchroom Boxing»; nessun canale con due fonti: DAZN (nessuna fonte); orario 23:00 non confrontabile col palinsesto"
      },
      {
       "nome": "minimo eventi",

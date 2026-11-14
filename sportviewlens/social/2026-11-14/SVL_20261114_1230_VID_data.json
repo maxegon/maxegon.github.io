@@ -1,0 +1,79 @@
+{
+ "data_evento": "2026-11-14",
+ "data_lunga": "Sabato 14 novembre",
+ "categoria": "oggi_in_tv",
+ "tema": 2,
+ "eventi": [
+  {
+   "data": "2026-11-14",
+   "ora": "12:30",
+   "titolo": "Napoli W – AC Milan W",
+   "competizione": "Serie A Femminile",
+   "sport": "soccer",
+   "canali": [
+    "DAZN"
+   ]
+  },
+  {
+   "data": "2026-11-14",
+   "ora": "15:00",
+   "titolo": "Roma W – Parma W",
+   "competizione": "Serie A Femminile",
+   "sport": "soccer",
+   "canali": [
+    "DAZN"
+   ]
+  },
+  {
+   "data": "2026-11-14",
+   "ora": "18:00",
+   "titolo": "Norvegia – Galles",
+   "competizione": "Nations League",
+   "sport": "soccer",
+   "canali": [
+    "Sky Sport Max"
+   ]
+  },
+  {
+   "data": "2026-11-14",
+   "ora": "18:00",
+   "titolo": "Georgia – Ungheria",
+   "competizione": "Nations League",
+   "sport": "soccer",
+   "canali": [
+    "Sky Sport 255"
+   ]
+  },
+  {
+   "data": "2026-11-14",
+   "ora": "20:45",
+   "titolo": "Portogallo – Danimarca",
+   "competizione": "Nations League",
+   "sport": "soccer",
+   "canali": [
+    "Sky Sport Uno"
+   ]
+  },
+  {
+   "data": "2026-11-14",
+   "ora": "15:00",
+   "titolo": "Dubai P1: Semifinali Sessione Diurna",
+   "competizione": "Premier Padel",
+   "sport": "padel",
+   "canali": [
+    "Sky Sport Tennis"
+   ]
+  },
+  {
+   "data": "2026-11-14",
+   "ora": "17:00",
+   "titolo": "Dubai P1: Semifinali Sessione Serale",
+   "competizione": "Premier Padel",
+   "sport": "padel",
+   "canali": [
+    "Sky Sport Tennis",
+    "Sky Sport Mix"
+   ]
+  }
+ ]
+}
