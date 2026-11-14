@@ -1,0 +1,29 @@
+{
+ "app": "Solo1Meteo",
+ "data": "2026-11-14",
+ "righe": {
+  "S1M_20261114_1900_FEED": {
+   "pubblica_alle": "2026-11-14T19:00:00+01:00",
+   "formato": "Carosello",
+   "piattaforma": "Instagram / FB",
+   "sempreverde": false,
+   "chiave": "S1M_20261114_1900_FEED",
+   "decisione": null,
+   "alle": "",
+   "correzioni": [],
+   "messaggio_id": 770
+  }
+ },
+ "messaggi": {
+  "770": {
+   "chat_id": "1614787945",
+   "righe": [
+    "S1M_20261114_1900_FEED"
+   ],
+   "base": "<b>19:00 · Carosello · Instagram / FB</b>\nID <code>S1M_20261114_1900_FEED</code>\n⚠️ Verifica ok · 9 fonti, tolti perché incerti:\n  • allerte: allerta meteo attiva (Giallo Temporali Allerta; Giallo Pioggia Allerta; Giallo Vento Allerta) e nessun ente citato nel post\n<pre>Come funziona Solo1Meteo: per ogni giorno mette accanto le previsioni di 8 fonti meteo e ne calcola la media, con il numero di fonti sempre in vista. Verde quando le fonti sono d&#x27;accordo, giallo o rosso quando divergono. Scarica Solo1Meteo gratis: link in bio. #solo1meteo #meteo #previsionimeteo #meteoitalia</pre>\n\n<i>✅ OK: esce all'orario · ⏭️ Salta: non esce, contenuto legato a quella data · ✏️ Correggi: mi scrivi cosa cambiare · ↩️ Annulla: torna come prima. Nessun click = esce. Leggo i pulsanti ogni 15 minuti: decidi almeno 30 minuti prima.</i>"
+  }
+ },
+ "ultimo_update_id": null,
+ "anteprima_inviata_il": "2026-11-14T11:32:37+01:00",
+ "provvisorio": false
+}
