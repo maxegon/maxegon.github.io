@@ -1,0 +1,29 @@
+{
+ "app": "PodcastViewLens",
+ "data": "2026-11-16",
+ "righe": {
+  "W4_LUN_1830": {
+   "pubblica_alle": "2026-11-16T18:30:00+01:00",
+   "formato": "Carosello",
+   "piattaforma": "Instagram / FB",
+   "sempreverde": false,
+   "chiave": "W4_LUN_1830",
+   "decisione": null,
+   "alle": "",
+   "correzioni": [],
+   "messaggio_id": 201
+  }
+ },
+ "messaggi": {
+  "201": {
+   "chat_id": "1614787945",
+   "righe": [
+    "W4_LUN_1830"
+   ],
+   "base": "<b>18:30 · Carosello · Instagram / FB</b>\nID <code>W4_LUN_1830</code>\n✅ Verifica ok · 1 fonti\n<pre>Le prime voci della classifica Apple Podcasts Italia nel genere Business &amp; Soldi, aggiornate al 16 novembre. In PodcastViewLens le trovi filtrando per genere.\n\nScarica PodcastViewLens gratis: link in bio.\n\n#PodcastViewLens #PodcastItalia #CosaAscoltare</pre>\n\n<i>✅ OK: esce all'orario · ⏭️ Salta: non esce, contenuto legato a quella data · ✏️ Correggi: mi scrivi cosa cambiare · ↩️ Annulla: torna come prima. Nessun click = esce. Leggo i pulsanti ogni 15 minuti: decidi almeno 30 minuti prima.</i>"
+  }
+ },
+ "ultimo_update_id": null,
+ "anteprima_inviata_il": "2026-11-16T00:19:17+01:00",
+ "provvisorio": false
+}
