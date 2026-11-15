@@ -15,8 +15,8 @@
       "ora_pubblicazione": "2026-11-15 19:30",
       "data_evento": "2026-11-16",
       "utm": "https://maxegon.github.io/meteo-stat-privacy/landing/?utm_source=instagram&utm_medium=social&utm_campaign=s1m_2026w46&utm_content=S1M_20261115_1930_FEED",
-      "generato_il": "2026-11-14T23:50:35+01:00",
-      "provvisorio": true,
+      "generato_il": "2026-11-15T13:53:23+01:00",
+      "provvisorio": false,
       "giorno": "2026-11-15",
       "stato": "MEDIA_PRONTA",
       "motivo": null,
@@ -29,7 +29,7 @@
       ],
       "video_url": null,
       "riserva": true,
-      "motivo_riserva": "allerte: allerta meteo attiva (Giallo Temporali Allerta; Giallo Pioggia Allerta) e nessun ente citato nel post",
+      "motivo_riserva": "allerte: allerta meteo attiva (Giallo Vento Allerta; Giallo Vento Allerta; Giallo Pioggia Allerta) e nessun ente citato nel post",
       "ig_media": [
         {
           "media_type": "IMAGE",
@@ -69,7 +69,7 @@
           {
             "nome": "fonti",
             "esito": "ok",
-            "dettaglio": "7 fonti su 8 per 2026-11-16 (minimo 6)"
+            "dettaglio": "8 fonti su 8 per 2026-11-16 (minimo 6)"
           },
           {
             "nome": "freschezza",
@@ -89,7 +89,7 @@
           {
             "nome": "scarto",
             "esito": "ok",
-            "dettaglio": "massime 16-18° (scarto 2°), pioggia 50-100% (scarto 50) | disaccordo sulla pioggia: il gancio lo dice"
+            "dettaglio": "massime 16-19° (scarto 3°), pioggia 45-100% (scarto 55) | disaccordo sulla pioggia: il gancio lo dice"
           },
           {
             "nome": "giorno",
@@ -99,7 +99,7 @@
           {
             "nome": "allerte",
             "esito": "dubbio",
-            "dettaglio": "allerta meteo attiva (Giallo Temporali Allerta; Giallo Pioggia Allerta) e nessun ente citato nel post"
+            "dettaglio": "allerta meteo attiva (Giallo Vento Allerta; Giallo Vento Allerta; Giallo Pioggia Allerta) e nessun ente citato nel post"
           },
           {
             "nome": "posizione",
@@ -114,6 +114,7 @@
           "https://www.weatherapi.com",
           "https://api.met.no",
           "https://brightsky.dev",
+          "https://www.visualcrossing.com",
           "http://www.7timer.info",
           "https://www.tomorrow.io"
         ]
@@ -122,22 +123,22 @@
         {
           "citta": "Napoli",
           "esito": "verifica",
-          "motivo": "allerte: allerta meteo attiva (Giallo Temporali Allerta; Giallo Pioggia Allerta) e nessun ente citato nel post"
+          "motivo": "allerte: allerta meteo attiva (Giallo Vento Allerta; Giallo Vento Allerta; Giallo Pioggia Allerta) e nessun ente citato nel post"
         },
         {
           "citta": "Roma",
           "esito": "verifica",
-          "motivo": "allerte: allerta meteo attiva (Giallo Temporali Allerta; Giallo Pioggia Allerta) e nessun ente citato nel post"
+          "motivo": "allerte: allerta meteo attiva (Giallo Vento Allerta; Giallo Vento Allerta; Giallo Pioggia Allerta) e nessun ente citato nel post"
         },
         {
           "citta": "Milano",
           "esito": "verifica",
-          "motivo": "scarto: massime in disaccordo (10-16°) ma il testo ha un numero secco; allerte: allerta meteo attiva (Giallo Temporali Allerta; Giallo Pioggia Allerta) e nessun ente citato nel post"
+          "motivo": "scarto: massime in disaccordo (10-15°) ma il testo ha un numero secco; allerte: allerta meteo attiva (Giallo Vento Allerta; Giallo Vento Allerta; Giallo Pioggia Allerta) e nessun ente citato nel post"
         },
         {
           "citta": "Torino",
           "esito": "verifica",
-          "motivo": "allerte: allerta meteo attiva (Giallo Temporali Allerta; Giallo Pioggia Allerta) e nessun ente citato nel post"
+          "motivo": "allerte: allerta meteo attiva (Giallo Vento Allerta; Giallo Vento Allerta; Giallo Pioggia Allerta) e nessun ente citato nel post"
         }
       ],
       "anteprima": {
@@ -145,6 +146,10 @@
         "immagini": [
           "https://maxegon.github.io/solo1meteo/social/2026-11-15/S1M_20261115_1930_FEED/1_copertina.png"
         ]
+      },
+      "cambio_serale": {
+        "tipo": "invariata",
+        "motivo": ""
       }
     }
   ]
