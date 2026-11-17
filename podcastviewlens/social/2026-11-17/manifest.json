@@ -1,0 +1,88 @@
+{
+  "date": "2026-11-17",
+  "generated_at": "2026-11-17T03:15+01:00",
+  "sources_skipped": [],
+  "rimandate": [],
+  "items": [
+    {
+      "id": "W4_MAR_1900",
+      "piattaforma": "TikTok / Shorts",
+      "formato": "Video",
+      "ora": "19:00",
+      "utm": "https://podcastviewlens.vercel.app/download?utm_source=tiktok&utm_medium=social&utm_campaign=pvl_2026w47&utm_content=W4_MAR_1900",
+      "stato": "PRONTO",
+      "motivo": "",
+      "caption": "Le puntate uscite oggi nei podcast in palinsesto: 3 podcast con una nuova puntata, tra cui Start, Non hanno un amico e Giorno per giorno. Aggiornato al 17 novembre.\n\nScarica PodcastViewLens gratis: link nel profilo.\n\n#PodcastViewLens #PodcastItalia #CosaAscoltare",
+      "files": [
+        "https://maxegon.github.io/podcastviewlens/social/2026-11-17/W4_MAR_1900/video.mp4",
+        "https://maxegon.github.io/podcastviewlens/social/2026-11-17/W4_MAR_1900/slide_01.png",
+        "https://maxegon.github.io/podcastviewlens/social/2026-11-17/W4_MAR_1900/slide_02.png",
+        "https://maxegon.github.io/podcastviewlens/social/2026-11-17/W4_MAR_1900/slide_03.png"
+      ],
+      "verifica": {
+        "esito": "ok",
+        "controlli": [
+          {
+            "nome": "fonte_feed_editore",
+            "esito": "ok",
+            "dettaglio": "tutti i podcast con uscite hanno feed dell'editore"
+          },
+          {
+            "nome": "finestra_pubdate",
+            "esito": "ok",
+            "dettaglio": "pubDate reale tra 2026-11-17 e 2026-11-17 (Europe/Rome), mai oltre 2026-11-17 03:15"
+          },
+          {
+            "nome": "catalogo_app",
+            "esito": "ok",
+            "dettaglio": "solo i podcast curati di src/data/curatedPodcasts.js"
+          },
+          {
+            "nome": "presente_nell_app",
+            "esito": "ok",
+            "dettaglio": "3 su 3 puntate trovate nel Palinsesto dell'app con lo stesso orario (scripts/verify_palinsesto.mjs (codice dell'app: scheduleService.getReleasesForDate))"
+          },
+          {
+            "nome": "duplicati_guid",
+            "esito": "ok",
+            "dettaglio": "nessuna guid ripetuta"
+          },
+          {
+            "nome": "link_episodio",
+            "esito": "ok",
+            "dettaglio": "3 su 3 enclosure/link rispondono"
+          }
+        ],
+        "fonti": [
+          "https://feeds.megaphone.fm/BCS3841029693",
+          "https://feeds.megaphone.fm/ISOS3411468806",
+          "https://www.spreaker.com/show/4487282/episodes/feed"
+        ]
+      },
+      "anteprima": {
+        "testo": "Le puntate uscite oggi nei podcast in palinsesto: 3 podcast con una nuova puntata, tra cui Start, Non hanno un amico e Giorno per giorno. Aggiornato al 17 novembre.\n\nScarica PodcastViewLens gratis: link nel profilo.\n\n#PodcastViewLens #PodcastItalia #CosaAscoltare",
+        "immagini": [
+          "https://maxegon.github.io/podcastviewlens/social/2026-11-17/W4_MAR_1900/slide_01.png"
+        ]
+      },
+      "pubblica_alle": "2026-11-17T19:00+01:00",
+      "sempreverde": false,
+      "eventi": [
+        "Start - Il Sole 24 Ore",
+        "Non hanno un amico",
+        "Giorno per giorno"
+      ],
+      "titolo_slide": "podcast con una nuova puntata oggi",
+      "tema": "corallo",
+      "slot": "W4_MAR_1900",
+      "ora_pubblicazione": "2026-11-17 19:00",
+      "testo_finale": "Le puntate uscite oggi nei podcast in palinsesto: 3 podcast con una nuova puntata, tra cui Start, Non hanno un amico e Giorno per giorno. Aggiornato al 17 novembre.\n\nScarica PodcastViewLens gratis: link nel profilo.\n\n#PodcastViewLens #PodcastItalia #CosaAscoltare",
+      "immagini": [
+        "https://maxegon.github.io/podcastviewlens/social/2026-11-17/W4_MAR_1900/video.mp4",
+        "https://maxegon.github.io/podcastviewlens/social/2026-11-17/W4_MAR_1900/slide_01.png",
+        "https://maxegon.github.io/podcastviewlens/social/2026-11-17/W4_MAR_1900/slide_02.png",
+        "https://maxegon.github.io/podcastviewlens/social/2026-11-17/W4_MAR_1900/slide_03.png"
+      ]
+    }
+  ]
+}
