@@ -1,0 +1,147 @@
+{
+  "data": "2026-11-17",
+  "generato_il": "2026-11-17T02:23:20+00:00",
+  "piano": "marketing/piano_4_settimane.csv",
+  "righe": [
+    {
+      "id": "SHV_20261117_1930_STORY",
+      "piattaforma": "Instagram / FB Stories",
+      "formato": "Storia",
+      "categoria": "concerti",
+      "pubblica_alle": "2026-11-17T19:30:00+01:00",
+      "tema": "oro",
+      "scartati": [
+        [
+          "Transmission Xviii Festival",
+          "senza biglietteria online"
+        ],
+        [
+          "Chiara Galiazzo – “Nuova Luce”",
+          "senza biglietteria online"
+        ],
+        [
+          "Rats",
+          "luogo mancante"
+        ],
+        [
+          "Vincenzo Bosco 6tet",
+          "senza biglietteria online"
+        ]
+      ],
+      "doppioni_rimossi": 7,
+      "verifica_eventi": [
+        {
+          "evento": "Shiva",
+          "data": "2026-11-21",
+          "ora": "21:00",
+          "citta": "Casalecchio Di Reno",
+          "fonte": "ticketone",
+          "esito": "ok",
+          "rinforzato": false,
+          "controlli": [
+            {
+              "nome": "orario",
+              "esito": "ok",
+              "dettaglio": "21:00"
+            },
+            {
+              "nome": "titolo",
+              "esito": "ok",
+              "dettaglio": "nessuna etichetta di abbonamento"
+            },
+            {
+              "nome": "biglietteria",
+              "esito": "ok",
+              "dettaglio": "TicketOne (blocca i bot): URL ben formato, visto nell ultimo giro (missing_count=0, fonte aggiornata da meno di 36 h)"
+            },
+            {
+              "nome": "serie",
+              "esito": "ok",
+              "dettaglio": "1 date della produzione, nessuna anomalia in testa alla serie"
+            }
+          ],
+          "fonti": [
+            "https://www.ticketone.it/event/shiva-live-2026-unipol-arena-21718304/"
+          ]
+        },
+        {
+          "evento": "Per la Ricerca: la Musica Incontra il Volontariato",
+          "data": "2026-11-17",
+          "ora": "20:30",
+          "citta": "Ferrara",
+          "fonte": "vivaticket",
+          "esito": "ok",
+          "rinforzato": false,
+          "controlli": [
+            {
+              "nome": "orario",
+              "esito": "ok",
+              "dettaglio": "20:30"
+            },
+            {
+              "nome": "titolo",
+              "esito": "ok",
+              "dettaglio": "nessuna etichetta di abbonamento"
+            },
+            {
+              "nome": "biglietteria",
+              "esito": "ok",
+              "dettaglio": "Vivaticket: replica letta dall API pubblica"
+            },
+            {
+              "nome": "pagina",
+              "esito": "ok",
+              "dettaglio": "titolo, citta, data e ora coincidono (2026-11-17 20:30, FERRARA)"
+            },
+            {
+              "nome": "serie",
+              "esito": "ok",
+              "dettaglio": "1 date della produzione, nessuna anomalia in testa alla serie"
+            }
+          ],
+          "fonti": [
+            "https://www.vivaticket.com/it/ticket/per-la-ricerca-la-musica-incontra-il-volontariato/322404"
+          ]
+        },
+        {
+          "evento": "Nomadi",
+          "data": "2026-11-17",
+          "ora": "21:00",
+          "citta": "Modena",
+          "fonte": "ticketone",
+          "esito": "ok",
+          "rinforzato": false,
+          "controlli": [
+            {
+              "nome": "orario",
+              "esito": "ok",
+              "dettaglio": "21:00"
+            },
+            {
+              "nome": "titolo",
+              "esito": "ok",
+              "dettaglio": "nessuna etichetta di abbonamento"
+            },
+            {
+              "nome": "biglietteria",
+              "esito": "ok",
+              "dettaglio": "TicketOne (blocca i bot): URL ben formato, visto nell ultimo giro (missing_count=0, fonte aggiornata da meno di 36 h)"
+            },
+            {
+              "nome": "serie",
+              "esito": "ok",
+              "dettaglio": "1 date della produzione, nessuna anomalia in testa alla serie"
+            }
+          ],
+          "fonti": [
+            "https://www.ticketone.it/event/nomadi-teatro-storchi-21495234/"
+          ]
+        }
+      ],
+      "stato": "DA_RIVEDERE",
+      "motivo": "renderer: storia: 1 eventi (min 2); titolo: 3 righe (max 2) a 80px",
+      "slot": "SHV_20261117_1930_STORY",
+      "ora_pubblicazione": "2026-11-17 19:30"
+    }
+  ]
+}
