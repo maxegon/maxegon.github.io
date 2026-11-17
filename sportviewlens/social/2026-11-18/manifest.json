@@ -1,0 +1,77 @@
+{
+ "generato": "2026-11-17T09:56:31+00:00",
+ "data_pubblicazione": "2026-11-18",
+ "base_url": "https://maxegon.github.io/sportviewlens/social/2026-11-18",
+ "righe": [
+  {
+   "Giorno_Slot": "SVL_20261118_1830_VID",
+   "Formato": "Video",
+   "Piattaforma": "Instagram / FB + TikTok",
+   "Ora": "18:30",
+   "Categoria": "stasera_tv",
+   "Data_Evento": "2026-11-18",
+   "UTM": "https://maxegon.github.io/sportviewlens/download/?utm_source=instagram&utm_medium=reel&utm_campaign=stasera_tv&utm_content=SVL_20261118_1830_VID",
+   "note": [],
+   "verifica": {
+    "esito": "dubbio",
+    "controlli": [
+     {
+      "nome": "eventi nel post",
+      "esito": "ok",
+      "dettaglio": "1 eventi verificati ok, 6 tolti, su 7 candidati dell'app"
+     },
+     {
+      "nome": "tolto «Cluj-Napoca – Maxima Roma» 18:00",
+      "esito": "dubbio",
+      "dettaglio": "nessuna riga di tv_rights per basket / «Eurocup Basket»; nessun canale con due fonti: Sky Sport Basket (solo palinsesto); NOW (nessuna fonte); orario 18:00 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «JL Bourg – Basket Napoli» 19:30",
+      "esito": "dubbio",
+      "dettaglio": "nessuna riga di tv_rights per basket / «Eurocup Basket»; nessun canale con due fonti: Sky Sport Max (solo palinsesto); NOW (nessuna fonte); orario 19:30 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Frankfurt – Venezia» 19:30",
+      "esito": "dubbio",
+      "dettaglio": "nessuna riga di tv_rights per basket / «Eurocup Basket»; nessun canale con due fonti: Sky Sport Mix (solo palinsesto); NOW (nessuna fonte); orario 19:30 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Trento – Neptunas» 20:00",
+      "esito": "dubbio",
+      "dettaglio": "nessuna riga di tv_rights per basket / «Eurocup Basket»; nessun canale con due fonti: Sky Sport Basket (solo palinsesto); NOW (nessuna fonte); orario 20:00 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Coritiba – Santos» 23:30",
+      "esito": "dubbio",
+      "dettaglio": "nessun canale con due fonti: Sportitalia (solo tv_rights); orario 23:30 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Pro Recco - Brescia» 20:30",
+      "esito": "dubbio",
+      "dettaglio": "nessun canale con due fonti: Sky Sport Arena (solo palinsesto); orario 20:30 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "minimo eventi",
+      "esito": "ko",
+      "dettaglio": "1 eventi verificati, ne servono almeno 3: la riga non esce"
+     }
+    ],
+    "fonti": [
+     "https://sport.sky.it/basket",
+     "supabase:tv_epg_cache?date=eq.2026-11-18",
+     "supabase:tv_rights?active=eq.true"
+    ]
+   },
+   "Stato": "SALTATO_VERIFICA",
+   "motivo": "1 eventi verificati (minimo 3)",
+   "id": "SVL_20261118_1830_VID",
+   "stato": "SALTATO_VERIFICA",
+   "formato": "Video",
+   "piattaforma": "Instagram / FB + TikTok",
+   "utm": "https://maxegon.github.io/sportviewlens/download/?utm_source=instagram&utm_medium=reel&utm_campaign=stasera_tv&utm_content=SVL_20261118_1830_VID",
+   "pubblica_alle": "2026-11-18T18:30+01:00",
+   "slot": "SVL_20261118_1830_VID",
+   "ora_pubblicazione": "2026-11-18 18:30"
+  }
+ ]
+}
