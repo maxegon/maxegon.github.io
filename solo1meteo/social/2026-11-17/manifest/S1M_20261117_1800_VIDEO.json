@@ -5,7 +5,7 @@
   "ora_pubblicazione": "2026-11-17 18:00",
   "data_evento": "2026-11-18",
   "utm": "https://maxegon.github.io/meteo-stat-privacy/landing/?utm_source=tiktok&utm_medium=social&utm_campaign=s1m_2026w47&utm_content=S1M_20261117_1800_VIDEO",
-  "generato_il": "2026-11-17T03:15:50+01:00",
+  "generato_il": "2026-11-17T15:46:26+01:00",
   "provvisorio": false,
   "giorno": "2026-11-17",
   "stato": "MEDIA_PRONTA",
@@ -51,7 +51,7 @@
       {
         "nome": "scarto",
         "esito": "ok",
-        "dettaglio": "massime 13-17° (scarto 4°), pioggia 0-22% (scarto 22)"
+        "dettaglio": "massime 12-17° (scarto 5°), pioggia 0-22% (scarto 22) | disaccordo sulle massime: il gancio mostra l'intervallo"
       },
       {
         "nome": "giorno",
@@ -110,7 +110,7 @@
     ]
   },
   "cambio_serale": {
-    "tipo": "nuova",
-    "motivo": "non c'era un rendering serale"
+    "tipo": "invariata",
+    "motivo": ""
   }
 }

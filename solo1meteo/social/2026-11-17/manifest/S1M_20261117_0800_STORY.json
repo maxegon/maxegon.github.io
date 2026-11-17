@@ -5,7 +5,7 @@
   "ora_pubblicazione": "2026-11-17 08:00",
   "data_evento": "2026-11-17",
   "utm": "https://maxegon.github.io/meteo-stat-privacy/landing/?utm_source=instagram&utm_medium=social&utm_campaign=s1m_2026w47&utm_content=S1M_20261117_0800_STORY",
-  "generato_il": "2026-11-17T03:15:44+01:00",
+  "generato_il": "2026-11-17T15:46:21+01:00",
   "provvisorio": false,
   "stato": "SALTATO_VERIFICA",
   "motivo": "verifica dei dati non superata: allerte: allerta meteo attiva (Giallo Vento Allerta; Giallo Vento Allerta; Giallo Vento Allerta) e nessun ente citato nel post",
@@ -25,7 +25,7 @@
       {
         "nome": "fonti_pioggia",
         "esito": "ok",
-        "dettaglio": "5 fonti con il dato di pioggia (minimo 3)"
+        "dettaglio": "3 fonti con il dato di pioggia (minimo 3)"
       },
       {
         "nome": "freschezza",
@@ -45,7 +45,7 @@
       {
         "nome": "scarto",
         "esito": "ok",
-        "dettaglio": "massime 15-19° (scarto 4°), pioggia 49-100% (scarto 51) | disaccordo sulla pioggia: il gancio lo dice"
+        "dettaglio": "massime 14-19° (scarto 5°), pioggia 87-100% (scarto 13) | disaccordo sulle massime: il gancio mostra l'intervallo"
       },
       {
         "nome": "giorno",
@@ -103,26 +103,26 @@
     "fonti_n": 8,
     "fonti_elencate": 8,
     "fonti_escluse": [],
-    "tmax_media": 18,
-    "tmax_min": 15,
+    "tmax_media": 19,
+    "tmax_min": 14,
     "tmax_max": 19,
     "tmin_media": 13,
-    "pioggia_media": 80,
-    "pioggia_min": 49,
+    "pioggia_media": 83,
+    "pioggia_min": 87,
     "pioggia_max": 100,
-    "fonti_pioggia": 5,
+    "fonti_pioggia": 3,
     "condizione": "pioggia",
     "fonti_condizione": 4,
-    "giorno_piu_incerto": "domenica",
+    "giorno_piu_incerto": "giovedì",
     "scarto_tmax": 7,
-    "tmax_scarto_fonti": 4.2,
+    "tmax_scarto_fonti": 4.6,
     "tmax_disaccordo": true,
-    "pioggia_disaccordo": true,
-    "gancio_pioggia": "le fonti non sono d'accordo sulla pioggia, dal 49% al 100%"
+    "pioggia_disaccordo": false,
+    "gancio_pioggia": "pioggia 83%"
   },
   "giorno": "2026-11-17",
   "cambio_serale": {
-    "tipo": "nuova",
-    "motivo": "non c'era un rendering serale"
+    "tipo": "invariata",
+    "motivo": ""
   }
 }
