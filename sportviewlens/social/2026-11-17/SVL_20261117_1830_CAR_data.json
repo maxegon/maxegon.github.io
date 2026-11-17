@@ -1,0 +1,48 @@
+{
+ "data_evento": "2026-11-17",
+ "data_lunga": "Martedì 17 novembre",
+ "categoria": "stasera_tv",
+ "tema": 2,
+ "eventi": [
+  {
+   "data": "2026-11-17",
+   "ora": "20:30",
+   "titolo": "Olimpia Milano – Stella Rossa Belgrado",
+   "competizione": "Eurolega",
+   "sport": "basket",
+   "canali": [
+    "Sky Sport Basket"
+   ]
+  },
+  {
+   "data": "2026-11-17",
+   "ora": "20:30",
+   "titolo": "Olimpia Milano – Crvena Zvezda Meridianbet",
+   "competizione": "Eurolega",
+   "sport": "basket",
+   "canali": [
+    "Sky Sport Basket"
+   ]
+  },
+  {
+   "data": "2026-11-17",
+   "ora": "20:45",
+   "titolo": "Galles – Portogallo",
+   "competizione": "Nations League",
+   "sport": "soccer",
+   "canali": [
+    "Sky Sport 251"
+   ]
+  },
+  {
+   "data": "2026-11-17",
+   "ora": "21:00",
+   "titolo": "Virtus Bologna – Panathinaikos",
+   "competizione": "Eurolega",
+   "sport": "basket",
+   "canali": [
+    "Sky Sport Arena"
+   ]
+  }
+ ]
+}
