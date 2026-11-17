@@ -1,0 +1,257 @@
+{
+  "riferimento": "2026-11-17",
+  "selezione": "pubblicazione",
+  "piano_valido": true,
+  "backend": "healthy",
+  "righe": 2,
+  "stati": {
+    "MEDIA_PRONTA": 1,
+    "SALTATO_VERIFICA": 1
+  },
+  "voci": [
+    {
+      "slot": "S1M_20261117_0800_STORY",
+      "piattaforma": "Instagram / FB",
+      "formato": "Storia",
+      "ora_pubblicazione": "2026-11-17 08:00",
+      "data_evento": "2026-11-17",
+      "utm": "https://maxegon.github.io/meteo-stat-privacy/landing/?utm_source=instagram&utm_medium=social&utm_campaign=s1m_2026w47&utm_content=S1M_20261117_0800_STORY",
+      "generato_il": "2026-11-17T03:15:44+01:00",
+      "provvisorio": false,
+      "stato": "SALTATO_VERIFICA",
+      "motivo": "verifica dei dati non superata: allerte: allerta meteo attiva (Giallo Vento Allerta; Giallo Vento Allerta; Giallo Vento Allerta) e nessun ente citato nel post",
+      "verifica": {
+        "esito": "dubbio",
+        "controlli": [
+          {
+            "nome": "backend",
+            "esito": "ok",
+            "dettaglio": "/health = healthy"
+          },
+          {
+            "nome": "fonti",
+            "esito": "ok",
+            "dettaglio": "8 fonti su 8 per 2026-11-17 (minimo 6)"
+          },
+          {
+            "nome": "fonti_pioggia",
+            "esito": "ok",
+            "dettaglio": "5 fonti con il dato di pioggia (minimo 3)"
+          },
+          {
+            "nome": "freschezza",
+            "esito": "ok",
+            "dettaglio": "dato scaricato 0 minuti prima del rendering (massimo 3 ore, cache backend 10 minuti)"
+          },
+          {
+            "nome": "calcolo_app",
+            "esito": "ok",
+            "dettaglio": "copia del calcolo dell'app sha f8de55e39310 (submodule assente in CI) | codice dell'app (buildAggregateDays)"
+          },
+          {
+            "nome": "numeri_testo",
+            "esito": "ok",
+            "dettaglio": "tutti i numeri con ° o % sono quelli calcolati come nell'app"
+          },
+          {
+            "nome": "scarto",
+            "esito": "ok",
+            "dettaglio": "massime 15-19° (scarto 4°), pioggia 49-100% (scarto 51) | disaccordo sulla pioggia: il gancio lo dice"
+          },
+          {
+            "nome": "giorno",
+            "esito": "ok",
+            "dettaglio": "giorno citato = martedì 2026-11-17"
+          },
+          {
+            "nome": "allerte",
+            "esito": "dubbio",
+            "dettaglio": "allerta meteo attiva (Giallo Vento Allerta; Giallo Vento Allerta; Giallo Vento Allerta) e nessun ente citato nel post"
+          },
+          {
+            "nome": "posizione",
+            "esito": "ok",
+            "dettaglio": "Firenze: citta fissa del piano, nessuna posizione dell'utente"
+          }
+        ],
+        "fonti": [
+          "https://backend-eta-seven-21.vercel.app/weather?lat=43.77&lon=11.26",
+          "https://open-meteo.com",
+          "https://openweathermap.org",
+          "https://www.weatherapi.com",
+          "https://api.met.no",
+          "https://brightsky.dev",
+          "https://www.visualcrossing.com",
+          "http://www.7timer.info",
+          "https://www.tomorrow.io"
+        ]
+      },
+      "tentativi": [
+        {
+          "citta": "Firenze",
+          "esito": "verifica",
+          "motivo": "allerte: allerta meteo attiva (Giallo Vento Allerta; Giallo Vento Allerta; Giallo Vento Allerta) e nessun ente citato nel post"
+        },
+        {
+          "citta": "Roma",
+          "esito": "verifica",
+          "motivo": "allerte: allerta meteo attiva (Giallo Vento Allerta; Giallo Vento Allerta; Giallo Vento Allerta) e nessun ente citato nel post"
+        },
+        {
+          "citta": "Napoli",
+          "esito": "verifica",
+          "motivo": "allerte: allerta meteo attiva (Giallo Vento Allerta; Giallo Vento Allerta; Giallo Vento Allerta) e nessun ente citato nel post"
+        },
+        {
+          "citta": "Torino",
+          "esito": "verifica",
+          "motivo": "allerte: allerta meteo attiva (Giallo Vento Allerta; Giallo Vento Allerta; Giallo Vento Allerta) e nessun ente citato nel post"
+        }
+      ],
+      "dati_scartati": {
+        "citta": "Firenze",
+        "data_label": "martedì 17 novembre",
+        "fonti_n": 8,
+        "fonti_elencate": 8,
+        "fonti_escluse": [],
+        "tmax_media": 18,
+        "tmax_min": 15,
+        "tmax_max": 19,
+        "tmin_media": 13,
+        "pioggia_media": 80,
+        "pioggia_min": 49,
+        "pioggia_max": 100,
+        "fonti_pioggia": 5,
+        "condizione": "pioggia",
+        "fonti_condizione": 4,
+        "giorno_piu_incerto": "domenica",
+        "scarto_tmax": 7,
+        "tmax_scarto_fonti": 4.2,
+        "tmax_disaccordo": true,
+        "pioggia_disaccordo": true,
+        "gancio_pioggia": "le fonti non sono d'accordo sulla pioggia, dal 49% al 100%"
+      },
+      "giorno": "2026-11-17",
+      "cambio_serale": {
+        "tipo": "nuova",
+        "motivo": "non c'era un rendering serale"
+      }
+    },
+    {
+      "slot": "S1M_20261117_1800_VIDEO",
+      "piattaforma": "TikTok",
+      "formato": "Video",
+      "ora_pubblicazione": "2026-11-17 18:00",
+      "data_evento": "2026-11-18",
+      "utm": "https://maxegon.github.io/meteo-stat-privacy/landing/?utm_source=tiktok&utm_medium=social&utm_campaign=s1m_2026w47&utm_content=S1M_20261117_1800_VIDEO",
+      "generato_il": "2026-11-17T03:15:50+01:00",
+      "provvisorio": false,
+      "giorno": "2026-11-17",
+      "stato": "MEDIA_PRONTA",
+      "motivo": null,
+      "testo_finale": "Come funziona Solo1Meteo: per ogni giorno mette accanto le previsioni di 8 fonti meteo e ne calcola la media, con il numero di fonti sempre in vista. Verde quando le fonti sono d'accordo, giallo o rosso quando divergono. Scarica Solo1Meteo gratis: link in bio. #solo1meteo #meteo #previsionimeteo #meteoitalia",
+      "concept_finale": "video di riserva (allerta meteo)",
+      "immagini": [
+        "https://maxegon.github.io/solo1meteo/social/2026-11-17/S1M_20261117_1800_VIDEO/v1_copertina.png"
+      ],
+      "video_url": "https://maxegon.github.io/solo1meteo/social/2026-11-17/S1M_20261117_1800_VIDEO/video.mp4",
+      "riserva": true,
+      "motivo_riserva": "allerte: allerta meteo attiva (Giallo Vento Allerta; Giallo Vento Allerta; Giallo Vento Allerta) e nessun ente citato nel post",
+      "ig_media": [],
+      "fb_photos": [],
+      "verifica": {
+        "esito": "dubbio",
+        "controlli": [
+          {
+            "nome": "backend",
+            "esito": "ok",
+            "dettaglio": "/health = healthy"
+          },
+          {
+            "nome": "fonti",
+            "esito": "ok",
+            "dettaglio": "8 fonti su 8 per 2026-11-18 (minimo 6)"
+          },
+          {
+            "nome": "freschezza",
+            "esito": "ok",
+            "dettaglio": "dato scaricato 0 minuti prima del rendering (massimo 3 ore, cache backend 10 minuti)"
+          },
+          {
+            "nome": "calcolo_app",
+            "esito": "ok",
+            "dettaglio": "copia del calcolo dell'app sha f8de55e39310 (submodule assente in CI) | codice dell'app (buildAggregateDays)"
+          },
+          {
+            "nome": "numeri_testo",
+            "esito": "ok",
+            "dettaglio": "tutti i numeri con ° o % sono quelli calcolati come nell'app"
+          },
+          {
+            "nome": "scarto",
+            "esito": "ok",
+            "dettaglio": "massime 13-17° (scarto 4°), pioggia 0-22% (scarto 22)"
+          },
+          {
+            "nome": "giorno",
+            "esito": "ok",
+            "dettaglio": "giorno citato = mercoledì 2026-11-18"
+          },
+          {
+            "nome": "allerte",
+            "esito": "dubbio",
+            "dettaglio": "allerta meteo attiva (Giallo Vento Allerta; Giallo Vento Allerta; Giallo Vento Allerta) e nessun ente citato nel post"
+          },
+          {
+            "nome": "posizione",
+            "esito": "ok",
+            "dettaglio": "Milano: citta fissa del piano, nessuna posizione dell'utente"
+          }
+        ],
+        "fonti": [
+          "https://backend-eta-seven-21.vercel.app/weather?lat=45.46&lon=9.19",
+          "https://open-meteo.com",
+          "https://openweathermap.org",
+          "https://www.weatherapi.com",
+          "https://api.met.no",
+          "https://brightsky.dev",
+          "https://www.visualcrossing.com",
+          "http://www.7timer.info",
+          "https://www.tomorrow.io"
+        ]
+      },
+      "tentativi": [
+        {
+          "citta": "Milano",
+          "esito": "verifica",
+          "motivo": "allerte: allerta meteo attiva (Giallo Vento Allerta; Giallo Vento Allerta; Giallo Vento Allerta) e nessun ente citato nel post"
+        },
+        {
+          "citta": "Roma",
+          "esito": "verifica",
+          "motivo": "allerte: allerta meteo attiva (Giallo Vento Allerta; Giallo Vento Allerta; Giallo Vento Allerta) e nessun ente citato nel post"
+        },
+        {
+          "citta": "Napoli",
+          "esito": "verifica",
+          "motivo": "allerte: allerta meteo attiva (Giallo Vento Allerta; Giallo Vento Allerta; Giallo Vento Allerta) e nessun ente citato nel post"
+        },
+        {
+          "citta": "Torino",
+          "esito": "verifica",
+          "motivo": "allerte: allerta meteo attiva (Giallo Vento Allerta; Giallo Vento Allerta; Giallo Vento Allerta) e nessun ente citato nel post"
+        }
+      ],
+      "anteprima": {
+        "testo": "Come funziona Solo1Meteo: per ogni giorno mette accanto le previsioni di 8 fonti meteo e ne calcola la media, con il numero di fonti sempre in vista. Verde quando le fonti sono d'accordo, giallo o rosso quando divergono. Scarica Solo1Meteo gratis: link in bio. #solo1meteo #meteo #previsionimeteo #meteoitalia",
+        "immagini": [
+          "https://maxegon.github.io/solo1meteo/social/2026-11-17/S1M_20261117_1800_VIDEO/v1_copertina.png"
+        ]
+      },
+      "cambio_serale": {
+        "tipo": "nuova",
+        "motivo": "non c'era un rendering serale"
+      }
+    }
+  ]
+}
