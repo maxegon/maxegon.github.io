@@ -1,0 +1,258 @@
+{
+  "date": "2026-11-18",
+  "generated_at": "2026-11-18T02:28+01:00",
+  "sources_skipped": [],
+  "rimandate": [],
+  "items": [
+    {
+      "id": "W4_MER_1830",
+      "piattaforma": "Instagram / FB",
+      "formato": "Carosello",
+      "ora": "18:30",
+      "utm": "https://podcastviewlens.vercel.app/download?utm_source=instagram&utm_medium=social&utm_campaign=pvl_2026w47&utm_content=W4_MER_1830",
+      "stato": "PRONTO",
+      "motivo": "",
+      "caption": "Segui un podcast con la stella e le sue uscite compaiono nel Palinsesto, accanto ai curati. La Raccolta resta salvata sul telefono, senza account.\n\nScarica PodcastViewLens gratis: link in bio.\n\n#PodcastViewLens #PodcastItalia #CosaAscoltare",
+      "files": [
+        "https://maxegon.github.io/podcastviewlens/social/2026-11-18/W4_MER_1830/slide_01.jpg",
+        "https://maxegon.github.io/podcastviewlens/social/2026-11-18/W4_MER_1830/slide_02.jpg",
+        "https://maxegon.github.io/podcastviewlens/social/2026-11-18/W4_MER_1830/slide_03.jpg",
+        "https://maxegon.github.io/podcastviewlens/social/2026-11-18/W4_MER_1830/slide_04.jpg",
+        "https://maxegon.github.io/podcastviewlens/social/2026-11-18/W4_MER_1830/slide_05.jpg",
+        "https://maxegon.github.io/podcastviewlens/social/2026-11-18/W4_MER_1830/slide_06.jpg"
+      ],
+      "verifica": {
+        "esito": "ok",
+        "controlli": [
+          {
+            "nome": "dati_variabili",
+            "esito": "ok",
+            "dettaglio": "nessun dato variabile: testo sulle funzioni dell'app (app_features.json, guardrails.json)"
+          },
+          {
+            "nome": "funzione_in_app",
+            "esito": "ok",
+            "dettaglio": "«raccolta_coda» verificata il 2026-10-23 su src/context/FavoritesContext.js"
+          }
+        ],
+        "fonti": []
+      },
+      "anteprima": {
+        "testo": "Segui un podcast con la stella e le sue uscite compaiono nel Palinsesto, accanto ai curati. La Raccolta resta salvata sul telefono, senza account.\n\nScarica PodcastViewLens gratis: link in bio.\n\n#PodcastViewLens #PodcastItalia #CosaAscoltare",
+        "immagini": [
+          "https://maxegon.github.io/podcastviewlens/social/2026-11-18/W4_MER_1830/slide_01.jpg"
+        ]
+      },
+      "pubblica_alle": "2026-11-18T18:30+01:00",
+      "sempreverde": true,
+      "eventi": [],
+      "titolo_slide": "La tua Raccolta",
+      "tema": "corallo",
+      "ig_media": [
+        {
+          "media_type": "IMAGE",
+          "image_url": "https://maxegon.github.io/podcastviewlens/social/2026-11-18/W4_MER_1830/slide_01.jpg"
+        },
+        {
+          "media_type": "IMAGE",
+          "image_url": "https://maxegon.github.io/podcastviewlens/social/2026-11-18/W4_MER_1830/slide_02.jpg"
+        },
+        {
+          "media_type": "IMAGE",
+          "image_url": "https://maxegon.github.io/podcastviewlens/social/2026-11-18/W4_MER_1830/slide_03.jpg"
+        },
+        {
+          "media_type": "IMAGE",
+          "image_url": "https://maxegon.github.io/podcastviewlens/social/2026-11-18/W4_MER_1830/slide_04.jpg"
+        },
+        {
+          "media_type": "IMAGE",
+          "image_url": "https://maxegon.github.io/podcastviewlens/social/2026-11-18/W4_MER_1830/slide_05.jpg"
+        },
+        {
+          "media_type": "IMAGE",
+          "image_url": "https://maxegon.github.io/podcastviewlens/social/2026-11-18/W4_MER_1830/slide_06.jpg"
+        }
+      ],
+      "fb_photos": [
+        {
+          "type": "url",
+          "url": "https://maxegon.github.io/podcastviewlens/social/2026-11-18/W4_MER_1830/slide_01.jpg"
+        },
+        {
+          "type": "url",
+          "url": "https://maxegon.github.io/podcastviewlens/social/2026-11-18/W4_MER_1830/slide_02.jpg"
+        },
+        {
+          "type": "url",
+          "url": "https://maxegon.github.io/podcastviewlens/social/2026-11-18/W4_MER_1830/slide_03.jpg"
+        },
+        {
+          "type": "url",
+          "url": "https://maxegon.github.io/podcastviewlens/social/2026-11-18/W4_MER_1830/slide_04.jpg"
+        },
+        {
+          "type": "url",
+          "url": "https://maxegon.github.io/podcastviewlens/social/2026-11-18/W4_MER_1830/slide_05.jpg"
+        },
+        {
+          "type": "url",
+          "url": "https://maxegon.github.io/podcastviewlens/social/2026-11-18/W4_MER_1830/slide_06.jpg"
+        }
+      ],
+      "slot": "W4_MER_1830",
+      "ora_pubblicazione": "2026-11-18 18:30",
+      "testo_finale": "Segui un podcast con la stella e le sue uscite compaiono nel Palinsesto, accanto ai curati. La Raccolta resta salvata sul telefono, senza account.\n\nScarica PodcastViewLens gratis: link in bio.\n\n#PodcastViewLens #PodcastItalia #CosaAscoltare",
+      "immagini": [
+        "https://maxegon.github.io/podcastviewlens/social/2026-11-18/W4_MER_1830/slide_01.jpg",
+        "https://maxegon.github.io/podcastviewlens/social/2026-11-18/W4_MER_1830/slide_02.jpg",
+        "https://maxegon.github.io/podcastviewlens/social/2026-11-18/W4_MER_1830/slide_03.jpg",
+        "https://maxegon.github.io/podcastviewlens/social/2026-11-18/W4_MER_1830/slide_04.jpg",
+        "https://maxegon.github.io/podcastviewlens/social/2026-11-18/W4_MER_1830/slide_05.jpg",
+        "https://maxegon.github.io/podcastviewlens/social/2026-11-18/W4_MER_1830/slide_06.jpg"
+      ]
+    },
+    {
+      "id": "W4_MER_2030",
+      "piattaforma": "Instagram Stories",
+      "formato": "Storia",
+      "ora": "20:30",
+      "utm": "-",
+      "stato": "PRONTO",
+      "motivo": "",
+      "caption": "",
+      "files": [
+        "https://maxegon.github.io/podcastviewlens/social/2026-11-18/W4_MER_2030/storia.jpg"
+      ],
+      "verifica": {
+        "esito": "ok",
+        "controlli": [
+          {
+            "nome": "fonte_feed_editore",
+            "esito": "ok",
+            "dettaglio": "tutti i podcast con uscite hanno feed dell'editore"
+          },
+          {
+            "nome": "finestra_pubdate",
+            "esito": "ok",
+            "dettaglio": "pubDate reale tra 2026-11-18 e 2026-11-18 (Europe/Rome), mai oltre 2026-11-18 02:28"
+          },
+          {
+            "nome": "catalogo_app",
+            "esito": "ok",
+            "dettaglio": "solo i podcast curati di src/data/curatedPodcasts.js"
+          },
+          {
+            "nome": "presente_nell_app",
+            "esito": "ok",
+            "dettaglio": "3 su 3 puntate trovate nel Palinsesto dell'app con lo stesso orario (scripts/verify_palinsesto.mjs (codice dell'app: scheduleService.getReleasesForDate))"
+          },
+          {
+            "nome": "duplicati_guid",
+            "esito": "ok",
+            "dettaglio": "nessuna guid ripetuta"
+          },
+          {
+            "nome": "link_episodio",
+            "esito": "ok",
+            "dettaglio": "3 su 3 enclosure/link rispondono"
+          }
+        ],
+        "fonti": [
+          "https://feeds.megaphone.fm/BCS3841029693",
+          "https://feeds.megaphone.fm/ISOS3411468806",
+          "https://www.spreaker.com/show/4487282/episodes/feed"
+        ]
+      },
+      "anteprima": {
+        "testo": "Storia: S1: 3 podcast titolo: le uscite di oggi in fascia Sera | S2: fino a 3 righe podcast e ora | S3: Cerca «PodcastViewLens» su App Store e Google Play",
+        "immagini": [
+          "https://maxegon.github.io/podcastviewlens/social/2026-11-18/W4_MER_2030/storia.jpg"
+        ]
+      },
+      "pubblica_alle": "2026-11-18T20:30+01:00",
+      "sempreverde": false,
+      "eventi": [
+        "Start - Il Sole 24 Ore",
+        "Non hanno un amico",
+        "Giorno per giorno"
+      ],
+      "titolo_slide": "podcast con una nuova puntata oggi",
+      "tema": "fascia",
+      "ig_media": [
+        {
+          "media_type": "IMAGE",
+          "image_url": "https://maxegon.github.io/podcastviewlens/social/2026-11-18/W4_MER_2030/storia.jpg"
+        }
+      ],
+      "fb_photos": [
+        {
+          "type": "url",
+          "url": "https://maxegon.github.io/podcastviewlens/social/2026-11-18/W4_MER_2030/storia.jpg"
+        }
+      ],
+      "slot": "W4_MER_2030",
+      "ora_pubblicazione": "2026-11-18 20:30",
+      "testo_finale": "",
+      "immagini": [
+        "https://maxegon.github.io/podcastviewlens/social/2026-11-18/W4_MER_2030/storia.jpg"
+      ]
+    },
+    {
+      "id": "W4_MER_1900",
+      "piattaforma": "TikTok / Shorts",
+      "formato": "Video",
+      "ora": "19:00",
+      "utm": "https://podcastviewlens.vercel.app/download?utm_source=tiktok&utm_medium=social&utm_campaign=pvl_2026w47&utm_content=W4_MER_1900",
+      "stato": "PRONTO",
+      "motivo": "",
+      "caption": "Scegli il genere e trovi i podcast italiani che fanno per te: True Crime, Storia, Scienza & Natura, News & Attualità, Comedy & Talk, Tech & AI, Business & Soldi e altri.\n\nScarica PodcastViewLens gratis: link nel profilo.\n\n#PodcastViewLens #PodcastItalia #CosaAscoltare",
+      "files": [
+        "https://maxegon.github.io/podcastviewlens/social/2026-11-18/W4_MER_1900/video.mp4",
+        "https://maxegon.github.io/podcastviewlens/social/2026-11-18/W4_MER_1900/slide_01.png",
+        "https://maxegon.github.io/podcastviewlens/social/2026-11-18/W4_MER_1900/slide_02.png",
+        "https://maxegon.github.io/podcastviewlens/social/2026-11-18/W4_MER_1900/slide_03.png",
+        "https://maxegon.github.io/podcastviewlens/social/2026-11-18/W4_MER_1900/slide_04.png",
+        "https://maxegon.github.io/podcastviewlens/social/2026-11-18/W4_MER_1900/slide_05.png"
+      ],
+      "verifica": {
+        "esito": "ok",
+        "controlli": [
+          {
+            "nome": "dati_variabili",
+            "esito": "ok",
+            "dettaglio": "nessun dato variabile: testo sulle funzioni dell'app (app_features.json, guardrails.json)"
+          },
+          {
+            "nome": "funzione_in_app",
+            "esito": "ok",
+            "dettaglio": "«generi» verificata il 2026-10-23 su src/data/genres.js"
+          }
+        ],
+        "fonti": []
+      },
+      "anteprima": {
+        "testo": "Scegli il genere e trovi i podcast italiani che fanno per te: True Crime, Storia, Scienza & Natura, News & Attualità, Comedy & Talk, Tech & AI, Business & Soldi e altri.\n\nScarica PodcastViewLens gratis: link nel profilo.\n\n#PodcastViewLens #PodcastItalia #CosaAscoltare",
+        "immagini": [
+          "https://maxegon.github.io/podcastviewlens/social/2026-11-18/W4_MER_1900/slide_01.png"
+        ]
+      },
+      "pubblica_alle": "2026-11-18T19:00+01:00",
+      "sempreverde": true,
+      "eventi": [],
+      "titolo_slide": "Un genere per ogni ascolto",
+      "tema": "notte",
+      "slot": "W4_MER_1900",
+      "ora_pubblicazione": "2026-11-18 19:00",
+      "testo_finale": "Scegli il genere e trovi i podcast italiani che fanno per te: True Crime, Storia, Scienza & Natura, News & Attualità, Comedy & Talk, Tech & AI, Business & Soldi e altri.\n\nScarica PodcastViewLens gratis: link nel profilo.\n\n#PodcastViewLens #PodcastItalia #CosaAscoltare",
+      "immagini": [
+        "https://maxegon.github.io/podcastviewlens/social/2026-11-18/W4_MER_1900/video.mp4",
+        "https://maxegon.github.io/podcastviewlens/social/2026-11-18/W4_MER_1900/slide_01.png",
+        "https://maxegon.github.io/podcastviewlens/social/2026-11-18/W4_MER_1900/slide_02.png",
+        "https://maxegon.github.io/podcastviewlens/social/2026-11-18/W4_MER_1900/slide_03.png",
+        "https://maxegon.github.io/podcastviewlens/social/2026-11-18/W4_MER_1900/slide_04.png",
+        "https://maxegon.github.io/podcastviewlens/social/2026-11-18/W4_MER_1900/slide_05.png"
+      ]
+    }
+  ]
+}
