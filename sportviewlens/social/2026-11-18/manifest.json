@@ -1,5 +1,5 @@
 {
- "generato": "2026-11-17T09:56:31+00:00",
+ "generato": "2026-11-18T01:33:51+00:00",
  "data_pubblicazione": "2026-11-18",
  "base_url": "https://maxegon.github.io/sportviewlens/social/2026-11-18",
  "righe": [
@@ -18,7 +18,7 @@
      {
       "nome": "eventi nel post",
       "esito": "ok",
-      "dettaglio": "1 eventi verificati ok, 6 tolti, su 7 candidati dell'app"
+      "dettaglio": "1 eventi verificati ok, 7 tolti, su 8 candidati dell'app"
      },
      {
       "nome": "tolto «Cluj-Napoca – Maxima Roma» 18:00",
@@ -41,14 +41,19 @@
       "dettaglio": "nessuna riga di tv_rights per basket / «Eurocup Basket»; nessun canale con due fonti: Sky Sport Basket (solo palinsesto); NOW (nessuna fonte); orario 20:00 non confrontabile col palinsesto"
      },
      {
+      "nome": "tolto «Cobolli - Tiafoe Singolare: Sessione S» 20:30",
+      "esito": "dubbio",
+      "dettaglio": "nessuna riga di tv_rights per tennis / «ATP Finals»; nessun canale con due fonti: Sky Sport Uno (solo palinsesto); Sky Sport Tennis (solo palinsesto); orario 20:30 non confrontabile col palinsesto"
+     },
+     {
       "nome": "tolto «Coritiba – Santos» 23:30",
       "esito": "dubbio",
       "dettaglio": "nessun canale con due fonti: Sportitalia (solo tv_rights); orario 23:30 non confrontabile col palinsesto"
      },
      {
-      "nome": "tolto «Pro Recco - Brescia» 20:30",
+      "nome": "tolto «Pro Recco - Brescia» 20:25",
       "esito": "dubbio",
-      "dettaglio": "nessun canale con due fonti: Sky Sport Arena (solo palinsesto); orario 20:30 non confrontabile col palinsesto"
+      "dettaglio": "nessun canale con due fonti: Sky Sport Arena (solo palinsesto); orario 20:25 non confrontabile col palinsesto"
      },
      {
       "nome": "minimo eventi",
