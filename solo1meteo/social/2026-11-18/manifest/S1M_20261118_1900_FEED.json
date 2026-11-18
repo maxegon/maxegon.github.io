@@ -5,7 +5,7 @@
   "ora_pubblicazione": "2026-11-18 19:00",
   "data_evento": "2026-11-19",
   "utm": "https://maxegon.github.io/meteo-stat-privacy/landing/?utm_source=instagram&utm_medium=social&utm_campaign=s1m_2026w47&utm_content=S1M_20261118_1900_FEED",
-  "generato_il": "2026-11-18T02:28:57+01:00",
+  "generato_il": "2026-11-18T15:25:25+01:00",
   "provvisorio": false,
   "stato": "SALTATO_VERIFICA",
   "motivo": "verifica dei dati non superata: scarto: massime in disaccordo (9-14°) ma il testo ha un numero secco; allerte: allerta meteo attiva (Giallo Vento Allerta; Giallo Temporali Allerta; Giallo Vento Allerta) e nessun ente citato nel post",
@@ -84,7 +84,7 @@
     {
       "citta": "Milano",
       "esito": "verifica",
-      "motivo": "scarto: massime in disaccordo (9-14°) ma il testo ha un numero secco; allerte: allerta meteo attiva (Giallo Vento Allerta; Giallo Temporali Allerta; Giallo Vento Allerta) e nessun ente citato nel post"
+      "motivo": "allerte: allerta meteo attiva (Giallo Vento Allerta; Giallo Temporali Allerta; Giallo Vento Allerta) e nessun ente citato nel post"
     },
     {
       "citta": "Napoli",
@@ -102,22 +102,22 @@
     "tmax_min": 9,
     "tmax_max": 14,
     "tmin_media": 8,
-    "pioggia_media": 95,
-    "pioggia_min": 85,
+    "pioggia_media": 92,
+    "pioggia_min": 82,
     "pioggia_max": 100,
     "fonti_pioggia": 5,
     "condizione": "pioggia",
     "fonti_condizione": 4,
     "giorno_piu_incerto": "giovedì",
     "scarto_tmax": 5,
-    "tmax_scarto_fonti": 4.8,
+    "tmax_scarto_fonti": 5.4,
     "tmax_disaccordo": true,
     "pioggia_disaccordo": false,
-    "gancio_pioggia": "pioggia 95%"
+    "gancio_pioggia": "pioggia 92%"
   },
   "giorno": "2026-11-18",
   "cambio_serale": {
-    "tipo": "nuova",
-    "motivo": "non c'era un rendering serale"
+    "tipo": "invariata",
+    "motivo": ""
   }
 }
