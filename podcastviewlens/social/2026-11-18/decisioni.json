@@ -1,0 +1,47 @@
+{
+ "app": "PodcastViewLens",
+ "data": "2026-11-18",
+ "righe": {
+  "W4_MER_1830": {
+   "pubblica_alle": "2026-11-18T18:30:00+01:00",
+   "formato": "Carosello",
+   "piattaforma": "Instagram / FB",
+   "sempreverde": true,
+   "chiave": "W4_MER_1830",
+   "decisione": null,
+   "alle": "",
+   "correzioni": [],
+   "messaggio_id": 212
+  },
+  "W4_MER_2030": {
+   "pubblica_alle": "2026-11-18T20:30:00+01:00",
+   "formato": "Storia",
+   "piattaforma": "Instagram Stories",
+   "sempreverde": false,
+   "chiave": "W4_MER_2030",
+   "decisione": null,
+   "alle": "",
+   "correzioni": [],
+   "messaggio_id": 214
+  }
+ },
+ "messaggi": {
+  "212": {
+   "chat_id": "1614787945",
+   "righe": [
+    "W4_MER_1830"
+   ],
+   "base": "<b>18:30 · Carosello · Instagram / FB</b>\nID <code>W4_MER_1830</code>\n✅ Verifica ok\n<pre>Segui un podcast con la stella e le sue uscite compaiono nel Palinsesto, accanto ai curati. La Raccolta resta salvata sul telefono, senza account.\n\nScarica PodcastViewLens gratis: link in bio.\n\n#PodcastViewLens #PodcastItalia #CosaAscoltare</pre>\n\n<i>✅ OK: esce all'orario · ⏭️ Salta: non esce, torna in coda tra 7 giorni · ✏️ Correggi: mi scrivi cosa cambiare · ↩️ Annulla: torna come prima. Nessun click = esce. Leggo i pulsanti ogni 15 minuti: decidi almeno 30 minuti prima.</i>"
+  },
+  "214": {
+   "chat_id": "1614787945",
+   "righe": [
+    "W4_MER_2030"
+   ],
+   "base": "<b>20:30 · Storia · Instagram Stories</b>\nID <code>W4_MER_2030</code>\n✅ Verifica ok · 3 fonti\n<pre>Storia: S1: 3 podcast titolo: le uscite di oggi in fascia Sera | S2: fino a 3 righe podcast e ora | S3: Cerca «PodcastViewLens» su App Store e Google Play</pre>\n\n<i>✅ OK: esce all'orario · ⏭️ Salta: non esce, contenuto legato a quella data · ✏️ Correggi: mi scrivi cosa cambiare · ↩️ Annulla: torna come prima. Nessun click = esce. Leggo i pulsanti ogni 15 minuti: decidi almeno 30 minuti prima.</i>"
+  }
+ },
+ "ultimo_update_id": null,
+ "anteprima_inviata_il": "2026-11-18T02:29:46+01:00",
+ "provvisorio": false
+}
