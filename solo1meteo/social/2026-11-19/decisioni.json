@@ -12,7 +12,7 @@
    "alle": "",
    "correzioni": [],
    "messaggio_id": 802,
-   "storia_in_corso": null,
+   "storia_in_corso": "2026-11-19T08:35:45+01:00",
    "storia_tentativi": 1,
    "storia_errore": "HTTP 400: The requested resource does not exist",
    "storia_ultimo_tentativo": "2026-11-19T08:05:42+01:00"
