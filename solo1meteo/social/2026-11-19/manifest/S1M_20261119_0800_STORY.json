@@ -5,12 +5,105 @@
   "ora_pubblicazione": "2026-11-19 08:00",
   "data_evento": "2026-11-19",
   "utm": "https://maxegon.github.io/meteo-stat-privacy/landing/?utm_source=instagram&utm_medium=social&utm_campaign=s1m_2026w47&utm_content=S1M_20261119_0800_STORY",
-  "generato_il": "2026-11-19T01:55:39+01:00",
+  "generato_il": "2026-11-19T06:32:10+01:00",
   "provvisorio": false,
-  "stato": "SALTATO_VERIFICA",
-  "motivo": "verifica dei dati non superata: allerte: allerta meteo attiva (Giallo Pioggia Allerta; Giallo Temporali Allerta; Giallo Pioggia Allerta) e nessun ente citato nel post",
+  "giorno": "2026-11-19",
+  "tema": "cielo",
+  "stato": "MEDIA_PRONTA",
+  "motivo": null,
+  "testo_finale": "Roma oggi: sereno per 3 fonti su 8, massima media 19°. Cerca «Solo1Meteo» su App Store e Google Play",
+  "concept_finale": "S1 gancio: Roma oggi: sereno | S2 dato: 3 fonti su 8 d'accordo, massima 19° | S3 cta: Cerca «Solo1Meteo» su App Store e Google Play",
+  "immagini": [
+    "https://maxegon.github.io/solo1meteo/social/2026-11-19/S1M_20261119_0800_STORY/storia.jpg"
+  ],
+  "video_url": null,
+  "ig_media": [
+    {
+      "media_type": "IMAGE",
+      "image_url": "https://maxegon.github.io/solo1meteo/social/2026-11-19/S1M_20261119_0800_STORY/storia.jpg"
+    }
+  ],
+  "fb_photos": [
+    {
+      "type": "url",
+      "url": "https://maxegon.github.io/solo1meteo/social/2026-11-19/S1M_20261119_0800_STORY/storia.jpg"
+    }
+  ],
+  "dati": {
+    "citta": "Roma",
+    "data_label": "giovedì 19 novembre",
+    "fonti_n": 8,
+    "fonti_elencate": 8,
+    "fonti_escluse": [],
+    "tmax_media": 19,
+    "tmax_min": 17,
+    "tmax_max": 21,
+    "tmin_media": 14,
+    "pioggia_media": 96,
+    "pioggia_min": 91,
+    "pioggia_max": 100,
+    "fonti_pioggia": 5,
+    "condizione": "sereno",
+    "fonti_condizione": 3,
+    "giorno_piu_incerto": "martedì",
+    "scarto_tmax": 10,
+    "tmax_scarto_fonti": 3.5,
+    "tmax_disaccordo": false,
+    "pioggia_disaccordo": false,
+    "gancio_pioggia": "pioggia 96%"
+  },
+  "fonti": [
+    {
+      "fonte": "Open-Meteo",
+      "tmax": 20.7,
+      "pioggia": 100,
+      "pioggia_metodo": "orario"
+    },
+    {
+      "fonte": "OpenWeatherMap",
+      "tmax": 17.21,
+      "pioggia": 100,
+      "pioggia_metodo": "orario"
+    },
+    {
+      "fonte": "WeatherAPI",
+      "tmax": 20.4,
+      "pioggia": 91,
+      "pioggia_metodo": "orario"
+    },
+    {
+      "fonte": "MET Norway",
+      "tmax": 20.1,
+      "pioggia": null,
+      "pioggia_metodo": null
+    },
+    {
+      "fonte": "DWD",
+      "tmax": 19.4,
+      "pioggia": null,
+      "pioggia_metodo": null
+    },
+    {
+      "fonte": "Visual Crossing",
+      "tmax": 19.9,
+      "pioggia": 100,
+      "pioggia_metodo": "orario"
+    },
+    {
+      "fonte": "7Timer!",
+      "tmax": 20,
+      "pioggia": null,
+      "pioggia_metodo": null
+    },
+    {
+      "fonte": "Tomorrow.io",
+      "tmax": 20.07,
+      "pioggia": 100,
+      "pioggia_metodo": "orario"
+    }
+  ],
   "verifica": {
-    "esito": "dubbio",
+    "esito": "ok",
     "controlli": [
       {
         "nome": "backend",
@@ -40,7 +133,7 @@
       {
         "nome": "scarto",
         "esito": "ok",
-        "dettaglio": "massime 18-23° (scarto 5°), pioggia 30-100% (scarto 70) | disaccordo sulle massime: il gancio mostra l'intervallo; disaccordo sulla pioggia: il gancio lo dice"
+        "dettaglio": "massime 17-21° (scarto 4°), pioggia 91-100% (scarto 9)"
       },
       {
         "nome": "giorno",
@@ -49,17 +142,22 @@
       },
       {
         "nome": "allerte",
-        "esito": "dubbio",
-        "dettaglio": "allerta meteo attiva (Giallo Pioggia Allerta; Giallo Temporali Allerta; Giallo Pioggia Allerta) e nessun ente citato nel post"
+        "esito": "ok",
+        "dettaglio": "nessuna allerta meteo attiva per il giorno (WeatherAPI)"
       },
       {
         "nome": "posizione",
         "esito": "ok",
-        "dettaglio": "Napoli: citta fissa del piano, nessuna posizione dell'utente"
+        "dettaglio": "Roma: citta fissa del piano, nessuna posizione dell'utente"
+      },
+      {
+        "nome": "citta",
+        "esito": "ok",
+        "dettaglio": "Napoli sostituita con Roma: allerte: allerta meteo attiva (Giallo Pioggia Allerta; Giallo Temporali Allerta; Giallo Pioggia Allerta) e nessun ente citato nel post"
       }
     ],
     "fonti": [
-      "https://backend-eta-seven-21.vercel.app/weather?lat=40.85&lon=14.27",
+      "https://backend-eta-seven-21.vercel.app/weather?lat=41.9&lon=12.5",
       "https://open-meteo.com",
       "https://openweathermap.org",
       "https://www.weatherapi.com",
@@ -70,54 +168,16 @@
       "https://www.tomorrow.io"
     ]
   },
-  "tentativi": [
-    {
-      "citta": "Napoli",
-      "esito": "verifica",
-      "motivo": "allerte: allerta meteo attiva (Giallo Pioggia Allerta; Giallo Temporali Allerta; Giallo Pioggia Allerta) e nessun ente citato nel post"
-    },
-    {
-      "citta": "Roma",
-      "esito": "verifica",
-      "motivo": "allerte: allerta meteo attiva (Giallo Pioggia Allerta; Giallo Temporali Allerta; Giallo Pioggia Allerta) e nessun ente citato nel post"
-    },
-    {
-      "citta": "Milano",
-      "esito": "verifica",
-      "motivo": "allerte: allerta meteo attiva (Giallo Pioggia Allerta; Giallo Temporali Allerta; Giallo Pioggia Allerta) e nessun ente citato nel post"
-    },
-    {
-      "citta": "Bologna",
-      "esito": "verifica",
-      "motivo": "allerte: allerta meteo attiva (Giallo Pioggia Allerta; Giallo Temporali Allerta; Giallo Pioggia Allerta) e nessun ente citato nel post"
-    }
-  ],
-  "dati_scartati": {
-    "citta": "Napoli",
-    "data_label": "giovedì 19 novembre",
-    "fonti_n": 8,
-    "fonti_elencate": 8,
-    "fonti_escluse": [],
-    "tmax_media": 21,
-    "tmax_min": 18,
-    "tmax_max": 23,
-    "tmin_media": 17,
-    "pioggia_media": 66,
-    "pioggia_min": 30,
-    "pioggia_max": 100,
-    "fonti_pioggia": 5,
-    "condizione": "pioggia",
-    "fonti_condizione": 3,
-    "giorno_piu_incerto": "martedì",
-    "scarto_tmax": 6,
-    "tmax_scarto_fonti": 5.0,
-    "tmax_disaccordo": true,
-    "pioggia_disaccordo": true,
-    "gancio_pioggia": "le fonti non sono d'accordo sulla pioggia, dal 30% al 100%"
+  "scaricato_il": "2026-11-19T06:32:13+01:00",
+  "citta_usata": "Roma",
+  "anteprima": {
+    "testo": "Roma oggi: sereno per 3 fonti su 8, massima media 19°. Cerca «Solo1Meteo» su App Store e Google Play",
+    "immagini": [
+      "https://maxegon.github.io/solo1meteo/social/2026-11-19/S1M_20261119_0800_STORY/storia.jpg"
+    ]
   },
-  "giorno": "2026-11-19",
   "cambio_serale": {
     "tipo": "nuova",
-    "motivo": "non c'era un rendering serale"
+    "motivo": "la sera era SALTATO_VERIFICA"
   }
 }

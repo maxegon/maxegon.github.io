@@ -5,7 +5,7 @@
   "ora_pubblicazione": "2026-11-19 18:00",
   "data_evento": "2026-11-21",
   "utm": "https://maxegon.github.io/meteo-stat-privacy/landing/?utm_source=tiktok&utm_medium=social&utm_campaign=s1m_2026w47&utm_content=S1M_20261119_1800_VIDEO",
-  "generato_il": "2026-11-19T01:55:44+01:00",
+  "generato_il": "2026-11-19T06:32:14+01:00",
   "provvisorio": false,
   "stato": "SALTATO_VERIFICA",
   "motivo": "verifica dei dati non superata: fonti_pioggia: 2 fonti con il dato di pioggia (minimo 3)",
@@ -45,7 +45,7 @@
       {
         "nome": "scarto",
         "esito": "ok",
-        "dettaglio": "massime 12-16° (scarto 4°), pioggia 0-17% (scarto 17)"
+        "dettaglio": "massime 12-16° (scarto 4°), pioggia 0-15% (scarto 15)"
       },
       {
         "nome": "giorno",
@@ -81,17 +81,17 @@
       "motivo": "fonti_pioggia: 2 fonti con il dato di pioggia (minimo 3)"
     },
     {
-      "citta": "Roma",
-      "esito": "verifica",
-      "motivo": "fonti_pioggia: 2 fonti con il dato di pioggia (minimo 3)"
-    },
-    {
       "citta": "Milano",
       "esito": "verifica",
       "motivo": "fonti_pioggia: 2 fonti con il dato di pioggia (minimo 3)"
     },
     {
       "citta": "Bologna",
+      "esito": "verifica",
+      "motivo": "fonti_pioggia: 2 fonti con il dato di pioggia (minimo 3)"
+    },
+    {
+      "citta": "Firenze",
       "esito": "verifica",
       "motivo": "fonti_pioggia: 2 fonti con il dato di pioggia (minimo 3)"
     }
@@ -105,23 +105,23 @@
     "tmax_media": 13,
     "tmax_min": 12,
     "tmax_max": 16,
-    "tmin_media": 8,
-    "pioggia_media": 9,
+    "tmin_media": 7,
+    "pioggia_media": 7,
     "pioggia_min": 0,
-    "pioggia_max": 17,
+    "pioggia_max": 15,
     "fonti_pioggia": 2,
     "condizione": "nuvoloso",
-    "fonti_condizione": 3,
-    "giorno_piu_incerto": "lunedì",
-    "scarto_tmax": 7,
-    "tmax_scarto_fonti": 4.5,
+    "fonti_condizione": 4,
+    "giorno_piu_incerto": "martedì",
+    "scarto_tmax": 6,
+    "tmax_scarto_fonti": 4.2,
     "tmax_disaccordo": true,
     "pioggia_disaccordo": false,
-    "gancio_pioggia": "pioggia 9%"
+    "gancio_pioggia": "pioggia 7%"
   },
   "giorno": "2026-11-19",
   "cambio_serale": {
-    "tipo": "nuova",
-    "motivo": "non c'era un rendering serale"
+    "tipo": "invariata",
+    "motivo": ""
   }
 }
