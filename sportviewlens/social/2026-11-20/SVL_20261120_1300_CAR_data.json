@@ -1,0 +1,388 @@
+{
+ "data_evento": "2026-11-21",
+ "data_lunga": "Sabato 21 novembre",
+ "categoria": "weekend_sportivo",
+ "tema": 0,
+ "eventi": [
+  {
+   "data": "2026-11-21",
+   "ora": "10:15",
+   "titolo": "FIS Sci alpino Coppa del Mondo: Gurgl, Donne, Slalom: 1a manche",
+   "competizione": "Coppa del Mondo",
+   "sport": "ski",
+   "canali": [
+    "Eurosport"
+   ]
+  },
+  {
+   "data": "2026-11-21",
+   "ora": "11:45",
+   "titolo": "GP Portogallo — Qualifiche",
+   "competizione": "MotoGP",
+   "sport": "motogp",
+   "canali": [
+    "Sky Sport MotoGP",
+    "TV8"
+   ]
+  },
+  {
+   "data": "2026-11-21",
+   "ora": "12:30",
+   "titolo": "Parma W – Napoli W",
+   "competizione": "Serie A Femminile",
+   "sport": "soccer",
+   "canali": [
+    "DAZN"
+   ]
+  },
+  {
+   "data": "2026-11-21",
+   "ora": "13:15",
+   "titolo": "FIS Sci alpino Coppa del Mondo: Gurgl, Donne, Slalom: 2a manche",
+   "competizione": "Coppa del Mondo",
+   "sport": "ski",
+   "canali": [
+    "Eurosport 2",
+    "Eurosport",
+    "Rai Sport"
+   ]
+  },
+  {
+   "data": "2026-11-21",
+   "ora": "13:30",
+   "titolo": "Manchester City – Fulham",
+   "competizione": "Premier League",
+   "sport": "soccer",
+   "canali": [
+    "Sky Sport 4K",
+    "Sky Sport Calcio",
+    "Sky Sport"
+   ]
+  },
+  {
+   "data": "2026-11-21",
+   "ora": "13:45",
+   "titolo": "GP Portogallo: Qualifiche (Moto3)",
+   "competizione": "MotoGP",
+   "sport": "motogp",
+   "canali": [
+    "Sky Sport MotoGP",
+    "TV8"
+   ]
+  },
+  {
+   "data": "2026-11-21",
+   "ora": "14:30",
+   "titolo": "FIS Salto con gli sci Coppa del Mondo: Lillehammer: HS140 donne (1a giornata)",
+   "competizione": "Coppa del Mondo",
+   "sport": "ski",
+   "canali": [
+    "Eurosport 2",
+    "Eurosport",
+    "Rai Sport"
+   ]
+  },
+  {
+   "data": "2026-11-21",
+   "ora": "14:40",
+   "titolo": "GP Portogallo: Qualifiche (Moto2)",
+   "competizione": "MotoGP",
+   "sport": "motogp",
+   "canali": [
+    "Sky Sport MotoGP",
+    "TV8"
+   ]
+  },
+  {
+   "data": "2026-11-21",
+   "ora": "15:30",
+   "titolo": "Borussia Mönchengladbach – Borussia Dortmund",
+   "competizione": "Bundesliga",
+   "sport": "soccer",
+   "canali": [
+    "Sky Sport Mix",
+    "Sky Sport"
+   ]
+  },
+  {
+   "data": "2026-11-21",
+   "ora": "15:55",
+   "titolo": "GP Portogallo — Sprint Race",
+   "competizione": "MotoGP",
+   "sport": "motogp",
+   "canali": [
+    "Sky Sport MotoGP",
+    "TV8"
+   ]
+  },
+  {
+   "data": "2026-11-21",
+   "ora": "16:00",
+   "titolo": "Aston Villa – Sunderland",
+   "competizione": "Premier League",
+   "sport": "soccer",
+   "canali": [
+    "Sky Sport 258",
+    "Sky Sport"
+   ]
+  },
+  {
+   "data": "2026-11-21",
+   "ora": "16:00",
+   "titolo": "Bournemouth – Nottingham Forest",
+   "competizione": "Premier League",
+   "sport": "soccer",
+   "canali": [
+    "Sky Sport 259",
+    "Sky Sport"
+   ]
+  },
+  {
+   "data": "2026-11-21",
+   "ora": "16:00",
+   "titolo": "Chelsea – Leeds",
+   "competizione": "Premier League",
+   "sport": "soccer",
+   "canali": [
+    "Sky Sport 4K",
+    "Sky Sport Calcio",
+    "Sky Sport"
+   ]
+  },
+  {
+   "data": "2026-11-21",
+   "ora": "16:00",
+   "titolo": "Tottenham – Ipswich",
+   "competizione": "Premier League",
+   "sport": "soccer",
+   "canali": [
+    "Sky Sport 257",
+    "Sky Sport"
+   ]
+  },
+  {
+   "data": "2026-11-21",
+   "ora": "16:35",
+   "titolo": "FIS Salto con gli sci Coppa del Mondo: Lillehammer: HS140 uomini (1a giornata)",
+   "competizione": "Coppa del Mondo",
+   "sport": "ski",
+   "canali": [
+    "Eurosport"
+   ]
+  },
+  {
+   "data": "2026-11-21",
+   "ora": "18:30",
+   "titolo": "Newcastle – Arsenal",
+   "competizione": "Premier League",
+   "sport": "soccer",
+   "canali": [
+    "Sky Sport 4K",
+    "Sky Sport Calcio",
+    "Sky Sport"
+   ]
+  },
+  {
+   "data": "2026-11-21",
+   "ora": "18:30",
+   "titolo": "FC Schalke 04 – VfB Stuttgart",
+   "competizione": "Bundesliga",
+   "sport": "soccer",
+   "canali": [
+    "Sky Sport Mix",
+    "Sky Sport"
+   ]
+  },
+  {
+   "data": "2026-11-21",
+   "ora": "19:00",
+   "titolo": "Philadelphia 76ers - Milwaukee Bucks",
+   "competizione": "NBA",
+   "sport": "basket",
+   "canali": [
+    "Sky Sport Basket"
+   ]
+  },
+  {
+   "data": "2026-11-21",
+   "ora": "20:45",
+   "titolo": "Napoli – Torino",
+   "competizione": "Serie A",
+   "sport": "soccer",
+   "canali": [
+    "Sky Sport Uno",
+    "Sky Sport 4K",
+    "Sky Sport Calcio",
+    "Sky Sport 251"
+   ]
+  },
+  {
+   "data": "2026-11-21",
+   "ora": "17:00",
+   "titolo": "Jiri Prochazka - Navajo Stirling",
+   "competizione": "MMA",
+   "sport": "mma",
+   "canali": [
+    "Eurosport 3"
+   ]
+  },
+  {
+   "data": "2026-11-22",
+   "ora": "10:30",
+   "titolo": "Sci Alpino. Coppa del Mondo Gurgl: Slalom maschile - 2a manche",
+   "competizione": "Coppa del Mondo",
+   "sport": "ski",
+   "canali": [
+    "Rai 2"
+   ]
+  },
+  {
+   "data": "2026-11-22",
+   "ora": "11:00",
+   "titolo": "GP Portogallo: Gara (Moto3)",
+   "competizione": "MotoGP",
+   "sport": "motogp",
+   "canali": [
+    "Sky Sport MotoGP",
+    "TV8"
+   ]
+  },
+  {
+   "data": "2026-11-22",
+   "ora": "12:15",
+   "titolo": "GP Portogallo: Gara (Moto2)",
+   "competizione": "MotoGP",
+   "sport": "motogp",
+   "canali": [
+    "Sky Sport MotoGP",
+    "TV8"
+   ]
+  },
+  {
+   "data": "2026-11-22",
+   "ora": "12:30",
+   "titolo": "Juventus – Venezia",
+   "competizione": "Serie A",
+   "sport": "soccer",
+   "canali": [
+    "DAZN"
+   ]
+  },
+  {
+   "data": "2026-11-22",
+   "ora": "13:15",
+   "titolo": "Sci Alpino. Coppa del Mondo Gurgl: Slalom maschile - 2a manche",
+   "competizione": "Coppa del Mondo",
+   "sport": "ski",
+   "canali": [
+    "Rai Sport"
+   ]
+  },
+  {
+   "data": "2026-11-22",
+   "ora": "14:00",
+   "titolo": "GP Portogallo — Gara",
+   "competizione": "MotoGP",
+   "sport": "motogp",
+   "canali": [
+    "Sky Sport MotoGP",
+    "TV8"
+   ]
+  },
+  {
+   "data": "2026-11-22",
+   "ora": "15:00",
+   "titolo": "Bologna – Udinese",
+   "competizione": "Serie A",
+   "sport": "soccer",
+   "canali": [
+    "DAZN"
+   ]
+  },
+  {
+   "data": "2026-11-22",
+   "ora": "15:00",
+   "titolo": "Hull City – Brighton",
+   "competizione": "Premier League",
+   "sport": "soccer",
+   "canali": [
+    "Sky Sport Arena",
+    "Sky Sport 4K",
+    "Sky Sport"
+   ]
+  },
+  {
+   "data": "2026-11-22",
+   "ora": "15:00",
+   "titolo": "Fiorentina W – Como 1907 W",
+   "competizione": "Serie A Femminile",
+   "sport": "soccer",
+   "canali": [
+    "Rai 2"
+   ]
+  },
+  {
+   "data": "2026-11-22",
+   "ora": "15:30",
+   "titolo": "FC Augsburg – FSV Mainz 05",
+   "competizione": "Bundesliga",
+   "sport": "soccer",
+   "canali": [
+    "Sky Sport Max",
+    "Sky Sport"
+   ]
+  },
+  {
+   "data": "2026-11-22",
+   "ora": "17:00",
+   "titolo": "Allianz Milano – Itas Trentino",
+   "competizione": "Superlega Volley",
+   "sport": "volley",
+   "canali": [
+    "DAZN"
+   ]
+  },
+  {
+   "data": "2026-11-22",
+   "ora": "17:30",
+   "titolo": "Liverpool – Manchester United",
+   "competizione": "Premier League",
+   "sport": "soccer",
+   "canali": [
+    "Sky Sport Arena",
+    "Sky Sport"
+   ]
+  },
+  {
+   "data": "2026-11-22",
+   "ora": "18:00",
+   "titolo": "Gas Sales Bluenergy Piacenza – Sir Susa Scai Perugia",
+   "competizione": "Superlega Volley",
+   "sport": "volley",
+   "canali": [
+    "Rai Sport"
+   ]
+  },
+  {
+   "data": "2026-11-22",
+   "ora": "18:00",
+   "titolo": "AC Milan – Frosinone",
+   "competizione": "Serie A",
+   "sport": "soccer",
+   "canali": [
+    "Sky Sport 251",
+    "Sky Sport Calcio"
+   ]
+  },
+  {
+   "data": "2026-11-22",
+   "ora": "20:45",
+   "titolo": "Atalanta – Inter",
+   "competizione": "Serie A",
+   "sport": "soccer",
+   "canali": [
+    "DAZN"
+   ]
+  }
+ ]
+}

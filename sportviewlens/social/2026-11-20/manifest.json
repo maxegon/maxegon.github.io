@@ -1,0 +1,283 @@
+{
+ "generato": "2026-11-19T19:55:05+00:00",
+ "data_pubblicazione": "2026-11-20",
+ "base_url": "https://maxegon.github.io/sportviewlens/social/2026-11-20",
+ "righe": [
+  {
+   "Giorno_Slot": "SVL_20261120_1300_CAR",
+   "Formato": "Carosello",
+   "Piattaforma": "Instagram / FB",
+   "Ora": "13:00",
+   "Categoria": "weekend_sportivo",
+   "Data_Evento": "2026-11-21",
+   "UTM": "https://maxegon.github.io/sportviewlens/download/?utm_source=instagram&utm_medium=carosello&utm_campaign=weekend&utm_content=SVL_20261120_1300_CAR",
+   "note": [],
+   "verifica": {
+    "esito": "dubbio",
+    "controlli": [
+     {
+      "nome": "eventi nel post",
+      "esito": "ok",
+      "dettaglio": "35 eventi verificati ok, 69 tolti, su 104 candidati dell'app"
+     },
+     {
+      "nome": "tolto «ATP Finals Doppio Maschile (cemento)» 11:30",
+      "esito": "dubbio",
+      "dettaglio": "nessuna riga di tv_rights per tennis / «ATP Finals · Doppio»; nessun canale con due fonti: Sky Sport Tennis (solo palinsesto); NOW (nessuna fonte); orario 11:30 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «BJK CUP QUALIFICAZIONI» 13:05",
+      "esito": "dubbio",
+      "dettaglio": "nessuna riga di tv_rights per tennis / «Billie Jean King Cup»; nessun canale con due fonti: SuperTennis (solo palinsesto); orario 13:05 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Alaves – Deportivo La Coruna» 14:00",
+      "esito": "dubbio",
+      "dettaglio": "nessun canale con due fonti: DAZN (solo tv_rights); orario 14:00 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «ATP Finals Maschile (cemento)» 14:00",
+      "esito": "dubbio",
+      "dettaglio": "nessuna riga di tv_rights per tennis / «ATP Finals»; nessun canale con due fonti: Italia 1 (solo palinsesto); Sky Sport (nessuna fonte); orario 14:00 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Singolare: 1a Semifinale» 14:30",
+      "esito": "dubbio",
+      "dettaglio": "nessuna riga di tv_rights per tennis / «ATP Finals»; nessun canale con due fonti: Sky Sport Tennis (solo palinsesto); Italia 1 (solo palinsesto); orario 14:30 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Como – Cagliari» 15:00",
+      "esito": "dubbio",
+      "dettaglio": "orario 15:00 fuori dalla finestra [-5, +60] min dall'inizio trasmissione"
+     },
+     {
+      "nome": "tolto «Lazio – Lecce» 15:00",
+      "esito": "dubbio",
+      "dettaglio": "nessun canale con due fonti: DAZN (solo tv_rights); orario 15:00 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «AC Milan W – Sassuolo W» 15:00",
+      "esito": "dubbio",
+      "dettaglio": "nessun canale con due fonti: DAZN (solo tv_rights); orario 15:00 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Ascoli – Vicenza Virtus» 15:00",
+      "esito": "dubbio",
+      "dettaglio": "nessun canale con due fonti: DAZN (solo tv_rights); orario 15:00 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Carrarese – Virtus Entella» 15:00",
+      "esito": "dubbio",
+      "dettaglio": "nessun canale con due fonti: DAZN (solo tv_rights); orario 15:00 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Modena – Juve Stabia» 15:00",
+      "esito": "dubbio",
+      "dettaglio": "nessun canale con due fonti: DAZN (solo tv_rights); orario 15:00 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Sampdoria – Benevento» 15:00",
+      "esito": "dubbio",
+      "dettaglio": "nessun canale con due fonti: DAZN (solo tv_rights); orario 15:00 non confrontabile col palinsesto"
+     }
+    ],
+    "fonti": [
+     "https://www.eurosport.it/sci-alpino/",
+     "supabase:tv_epg_cache?date=eq.2026-11-21",
+     "supabase:tv_rights?active=eq.true",
+     "https://sport.sky.it/motogp",
+     "https://www.tv8.it",
+     "https://www.dazn.com/it-IT/",
+     "https://www.raiplay.it/dirette/raisport",
+     "https://sport.sky.it/calcio",
+     "https://sport.sky.it/nba",
+     "https://www.eurosport.it",
+     "supabase:tv_epg_cache?date=eq.2026-11-22",
+     "https://www.dazn.com/it-IT/home"
+    ]
+   },
+   "tema": "ambra",
+   "Stato": "DA_RIVEDERE",
+   "motivo": "renderer",
+   "errori": [
+    "nessuna slide dati valida"
+   ],
+   "id": "SVL_20261120_1300_CAR",
+   "stato": "DA_RIVEDERE",
+   "formato": "Carosello",
+   "piattaforma": "Instagram / FB",
+   "utm": "https://maxegon.github.io/sportviewlens/download/?utm_source=instagram&utm_medium=carosello&utm_campaign=weekend&utm_content=SVL_20261120_1300_CAR",
+   "pubblica_alle": "2026-11-20T13:00+01:00",
+   "slot": "SVL_20261120_1300_CAR",
+   "ora_pubblicazione": "2026-11-20 13:00"
+  },
+  {
+   "Giorno_Slot": "SVL_20261120_1830_STO",
+   "Formato": "Storia",
+   "Piattaforma": "Instagram / FB Stories",
+   "Ora": "18:30",
+   "Categoria": "weekend_sportivo",
+   "Data_Evento": "2026-11-21",
+   "UTM": "",
+   "note": [],
+   "verifica": {
+    "esito": "dubbio",
+    "controlli": [
+     {
+      "nome": "eventi nel post",
+      "esito": "ok",
+      "dettaglio": "35 eventi verificati ok, 69 tolti, su 104 candidati dell'app"
+     },
+     {
+      "nome": "tolto «ATP Finals Doppio Maschile (cemento)» 11:30",
+      "esito": "dubbio",
+      "dettaglio": "nessuna riga di tv_rights per tennis / «ATP Finals · Doppio»; nessun canale con due fonti: Sky Sport Tennis (solo palinsesto); NOW (nessuna fonte); orario 11:30 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «BJK CUP QUALIFICAZIONI» 13:05",
+      "esito": "dubbio",
+      "dettaglio": "nessuna riga di tv_rights per tennis / «Billie Jean King Cup»; nessun canale con due fonti: SuperTennis (solo palinsesto); orario 13:05 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Alaves – Deportivo La Coruna» 14:00",
+      "esito": "dubbio",
+      "dettaglio": "nessun canale con due fonti: DAZN (solo tv_rights); orario 14:00 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «ATP Finals Maschile (cemento)» 14:00",
+      "esito": "dubbio",
+      "dettaglio": "nessuna riga di tv_rights per tennis / «ATP Finals»; nessun canale con due fonti: Italia 1 (solo palinsesto); Sky Sport (nessuna fonte); orario 14:00 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Singolare: 1a Semifinale» 14:30",
+      "esito": "dubbio",
+      "dettaglio": "nessuna riga di tv_rights per tennis / «ATP Finals»; nessun canale con due fonti: Sky Sport Tennis (solo palinsesto); Italia 1 (solo palinsesto); orario 14:30 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Como – Cagliari» 15:00",
+      "esito": "dubbio",
+      "dettaglio": "orario 15:00 fuori dalla finestra [-5, +60] min dall'inizio trasmissione"
+     },
+     {
+      "nome": "tolto «Lazio – Lecce» 15:00",
+      "esito": "dubbio",
+      "dettaglio": "nessun canale con due fonti: DAZN (solo tv_rights); orario 15:00 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «AC Milan W – Sassuolo W» 15:00",
+      "esito": "dubbio",
+      "dettaglio": "nessun canale con due fonti: DAZN (solo tv_rights); orario 15:00 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Ascoli – Vicenza Virtus» 15:00",
+      "esito": "dubbio",
+      "dettaglio": "nessun canale con due fonti: DAZN (solo tv_rights); orario 15:00 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Carrarese – Virtus Entella» 15:00",
+      "esito": "dubbio",
+      "dettaglio": "nessun canale con due fonti: DAZN (solo tv_rights); orario 15:00 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Modena – Juve Stabia» 15:00",
+      "esito": "dubbio",
+      "dettaglio": "nessun canale con due fonti: DAZN (solo tv_rights); orario 15:00 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Sampdoria – Benevento» 15:00",
+      "esito": "dubbio",
+      "dettaglio": "nessun canale con due fonti: DAZN (solo tv_rights); orario 15:00 non confrontabile col palinsesto"
+     }
+    ],
+    "fonti": [
+     "https://www.eurosport.it/sci-alpino/",
+     "supabase:tv_epg_cache?date=eq.2026-11-21",
+     "supabase:tv_rights?active=eq.true",
+     "https://sport.sky.it/motogp",
+     "https://www.tv8.it",
+     "https://www.dazn.com/it-IT/",
+     "https://www.raiplay.it/dirette/raisport",
+     "https://sport.sky.it/calcio",
+     "https://sport.sky.it/nba",
+     "https://www.eurosport.it",
+     "supabase:tv_epg_cache?date=eq.2026-11-22",
+     "https://www.dazn.com/it-IT/home"
+    ]
+   },
+   "tema": "verde",
+   "Stato": "PRONTO",
+   "Testo_Post_Completo": "Il weekend sportivo in TV: 35 dirette scelte. • 10:15 FIS Sci alpino Coppa del Mondo: Gurgl, Donne, Slalom: 1a manche · Eurosport\n• 11:45 GP Portogallo — Qualifiche · Sky Sport MotoGP, TV8\n• 12:30 Parma W – Napoli W · DAZN\n• 10:30 Sci Alpino. Coppa del Mondo Gurgl: Slalom maschile - 2a manche · Rai 2\n• 11:00 GP Portogallo: Gara (Moto3) · Sky Sport MotoGP, TV8\nCerca «SportViewLens» su App Store e Google Play.\nSportViewLens non è affiliata con DAZN, Sky, RAI o altri broadcaster.\n🤖 Contenuto generato in automatico con IA dai palinsesti TV ufficiali.",
+   "eventi": [
+    "FIS Sci alpino Coppa del Mondo: Gurgl, Donne, Slalom: 1a manche",
+    "GP Portogallo — Qualifiche",
+    "Parma W – Napoli W",
+    "FIS Sci alpino Coppa del Mondo: Gurgl, Donne, Slalom: 2a manche",
+    "Manchester City – Fulham",
+    "GP Portogallo: Qualifiche (Moto3)",
+    "FIS Salto con gli sci Coppa del Mondo: Lillehammer: HS140 donne (1a giornata)",
+    "GP Portogallo: Qualifiche (Moto2)",
+    "Borussia Mönchengladbach – Borussia Dortmund",
+    "GP Portogallo — Sprint Race",
+    "Aston Villa – Sunderland",
+    "Bournemouth – Nottingham Forest",
+    "Chelsea – Leeds",
+    "Tottenham – Ipswich",
+    "FIS Salto con gli sci Coppa del Mondo: Lillehammer: HS140 uomini (1a giornata)",
+    "Newcastle – Arsenal",
+    "FC Schalke 04 – VfB Stuttgart",
+    "Philadelphia 76ers - Milwaukee Bucks",
+    "Napoli – Torino",
+    "Jiri Prochazka - Navajo Stirling",
+    "Sci Alpino. Coppa del Mondo Gurgl: Slalom maschile - 2a manche",
+    "GP Portogallo: Gara (Moto3)",
+    "GP Portogallo: Gara (Moto2)",
+    "Juventus – Venezia",
+    "Sci Alpino. Coppa del Mondo Gurgl: Slalom maschile - 2a manche",
+    "GP Portogallo — Gara",
+    "Bologna – Udinese",
+    "Hull City – Brighton",
+    "Fiorentina W – Como 1907 W",
+    "FC Augsburg – FSV Mainz 05",
+    "Allianz Milano – Itas Trentino",
+    "Liverpool – Manchester United",
+    "Gas Sales Bluenergy Piacenza – Sir Susa Scai Perugia",
+    "AC Milan – Frosinone",
+    "Atalanta – Inter"
+   ],
+   "conteggio": 35,
+   "file": [
+    "https://maxegon.github.io/sportviewlens/social/2026-11-20/SVL_20261120_1830_STO/story.jpg"
+   ],
+   "anteprima": {
+    "testo": "Il weekend sportivo in TV: 35 dirette scelte. • 10:15 FIS Sci alpino Coppa del Mondo: Gurgl, Donne, Slalom: 1a manche · Eurosport\n• 11:45 GP Portogallo — Qualifiche · Sky Sport MotoGP, TV8\n• 12:30 Parma W – Napoli W · DAZN\n• 10:30 Sci Alpino. Coppa del Mondo Gurgl: Slalom maschile - 2a manche · Rai 2\n• 11:00 GP Portogallo: Gara (Moto3) · Sky Sport MotoGP, TV8\nCerca «SportViewLens» su App Store e Google Play.\nSportViewLens non è affiliata con DAZN, Sky, RAI o altri broadcaster.\n🤖 Contenuto generato in automatico con IA dai palinsesti TV ufficiali.",
+    "immagini": [
+     "https://maxegon.github.io/sportviewlens/social/2026-11-20/SVL_20261120_1830_STO/story.jpg"
+    ]
+   },
+   "id": "SVL_20261120_1830_STO",
+   "stato": "PRONTO",
+   "formato": "Storia",
+   "piattaforma": "Instagram / FB Stories",
+   "utm": "",
+   "pubblica_alle": "2026-11-20T18:30+01:00",
+   "testo_finale": "Il weekend sportivo in TV: 35 dirette scelte. • 10:15 FIS Sci alpino Coppa del Mondo: Gurgl, Donne, Slalom: 1a manche · Eurosport\n• 11:45 GP Portogallo — Qualifiche · Sky Sport MotoGP, TV8\n• 12:30 Parma W – Napoli W · DAZN\n• 10:30 Sci Alpino. Coppa del Mondo Gurgl: Slalom maschile - 2a manche · Rai 2\n• 11:00 GP Portogallo: Gara (Moto3) · Sky Sport MotoGP, TV8\nCerca «SportViewLens» su App Store e Google Play.\nSportViewLens non è affiliata con DAZN, Sky, RAI o altri broadcaster.\n🤖 Contenuto generato in automatico con IA dai palinsesti TV ufficiali.",
+   "ig_media": [
+    {
+     "media_type": "IMAGE",
+     "image_url": "https://maxegon.github.io/sportviewlens/social/2026-11-20/SVL_20261120_1830_STO/story.jpg"
+    }
+   ],
+   "fb_photos": [
+    {
+     "type": "url",
+     "url": "https://maxegon.github.io/sportviewlens/social/2026-11-20/SVL_20261120_1830_STO/story.jpg"
+    }
+   ],
+   "slot": "SVL_20261120_1830_STO",
+   "ora_pubblicazione": "2026-11-20 18:30",
+   "immagini": [
+    "https://maxegon.github.io/sportviewlens/social/2026-11-20/SVL_20261120_1830_STO/story.jpg"
+   ]
+  }
+ ]
+}
