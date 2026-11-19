@@ -1,0 +1,62 @@
+{
+ "generato": "2026-11-19T01:02:42+00:00",
+ "data_pubblicazione": "2026-11-19",
+ "base_url": "https://maxegon.github.io/sportviewlens/social/2026-11-19",
+ "righe": [
+  {
+   "Giorno_Slot": "SVL_20261119_1830_STO",
+   "Formato": "Storia",
+   "Piattaforma": "Instagram / FB Stories",
+   "Ora": "18:30",
+   "Categoria": "stasera_tv",
+   "Data_Evento": "2026-11-19",
+   "UTM": "",
+   "note": [],
+   "verifica": {
+    "esito": "dubbio",
+    "controlli": [
+     {
+      "nome": "eventi nel post",
+      "esito": "ok",
+      "dettaglio": "2 eventi verificati ok, 3 tolti, su 5 candidati dell'app"
+     },
+     {
+      "nome": "tolto «Zverev - Fils» 20:21",
+      "esito": "dubbio",
+      "dettaglio": "orario 20:21 fuori dalla finestra [-5, +60] min dall'inizio trasmissione"
+     },
+     {
+      "nome": "tolto «Vasco DA Gama – Internacional» 23:30",
+      "esito": "dubbio",
+      "dettaglio": "nessun canale con due fonti: Sportitalia (solo tv_rights); orario 23:30 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Vitoria – RB Bragantino» 23:30",
+      "esito": "dubbio",
+      "dettaglio": "nessun canale con due fonti: Sportitalia (solo tv_rights); orario 23:30 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "minimo eventi",
+      "esito": "ko",
+      "dettaglio": "2 eventi verificati, ne servono almeno 3: la riga non esce"
+     }
+    ],
+    "fonti": [
+     "https://sport.sky.it/basket",
+     "supabase:tv_epg_cache?date=eq.2026-11-19",
+     "supabase:tv_rights?active=eq.true"
+    ]
+   },
+   "Stato": "SALTATO_VERIFICA",
+   "motivo": "2 eventi verificati (minimo 3)",
+   "id": "SVL_20261119_1830_STO",
+   "stato": "SALTATO_VERIFICA",
+   "formato": "Storia",
+   "piattaforma": "Instagram / FB Stories",
+   "utm": "",
+   "pubblica_alle": "2026-11-19T18:30+01:00",
+   "slot": "SVL_20261119_1830_STO",
+   "ora_pubblicazione": "2026-11-19 18:30"
+  }
+ ]
+}
