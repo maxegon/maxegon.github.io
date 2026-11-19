@@ -1,0 +1,127 @@
+{
+  "slot": "S1M_20261119_1800_VIDEO",
+  "piattaforma": "TikTok",
+  "formato": "Video",
+  "ora_pubblicazione": "2026-11-19 18:00",
+  "data_evento": "2026-11-21",
+  "utm": "https://maxegon.github.io/meteo-stat-privacy/landing/?utm_source=tiktok&utm_medium=social&utm_campaign=s1m_2026w47&utm_content=S1M_20261119_1800_VIDEO",
+  "generato_il": "2026-11-19T01:55:44+01:00",
+  "provvisorio": false,
+  "stato": "SALTATO_VERIFICA",
+  "motivo": "verifica dei dati non superata: fonti_pioggia: 2 fonti con il dato di pioggia (minimo 3)",
+  "verifica": {
+    "esito": "dubbio",
+    "controlli": [
+      {
+        "nome": "backend",
+        "esito": "ok",
+        "dettaglio": "/health = healthy"
+      },
+      {
+        "nome": "fonti",
+        "esito": "ok",
+        "dettaglio": "7 fonti su 8 per 2026-11-21 (minimo 5)"
+      },
+      {
+        "nome": "fonti_pioggia",
+        "esito": "dubbio",
+        "dettaglio": "2 fonti con il dato di pioggia (minimo 3)"
+      },
+      {
+        "nome": "freschezza",
+        "esito": "ok",
+        "dettaglio": "dato scaricato 0 minuti prima del rendering (massimo 3 ore, cache backend 10 minuti)"
+      },
+      {
+        "nome": "calcolo_app",
+        "esito": "ok",
+        "dettaglio": "copia del calcolo dell'app sha f8de55e39310 (submodule assente in CI) | codice dell'app (buildAggregateDays)"
+      },
+      {
+        "nome": "numeri_testo",
+        "esito": "ok",
+        "dettaglio": "tutti i numeri con ° o % sono quelli calcolati come nell'app"
+      },
+      {
+        "nome": "scarto",
+        "esito": "ok",
+        "dettaglio": "massime 12-16° (scarto 4°), pioggia 0-17% (scarto 17)"
+      },
+      {
+        "nome": "giorno",
+        "esito": "ok",
+        "dettaglio": "giorno citato = sabato 2026-11-21"
+      },
+      {
+        "nome": "allerte",
+        "esito": "ok",
+        "dettaglio": "nessuna allerta meteo attiva per il giorno (WeatherAPI)"
+      },
+      {
+        "nome": "posizione",
+        "esito": "ok",
+        "dettaglio": "Torino: citta fissa del piano, nessuna posizione dell'utente"
+      }
+    ],
+    "fonti": [
+      "https://backend-eta-seven-21.vercel.app/weather?lat=45.07&lon=7.69",
+      "https://open-meteo.com",
+      "https://openweathermap.org",
+      "https://www.weatherapi.com",
+      "https://api.met.no",
+      "https://brightsky.dev",
+      "http://www.7timer.info",
+      "https://www.tomorrow.io"
+    ]
+  },
+  "tentativi": [
+    {
+      "citta": "Torino",
+      "esito": "verifica",
+      "motivo": "fonti_pioggia: 2 fonti con il dato di pioggia (minimo 3)"
+    },
+    {
+      "citta": "Roma",
+      "esito": "verifica",
+      "motivo": "fonti_pioggia: 2 fonti con il dato di pioggia (minimo 3)"
+    },
+    {
+      "citta": "Milano",
+      "esito": "verifica",
+      "motivo": "fonti_pioggia: 2 fonti con il dato di pioggia (minimo 3)"
+    },
+    {
+      "citta": "Bologna",
+      "esito": "verifica",
+      "motivo": "fonti_pioggia: 2 fonti con il dato di pioggia (minimo 3)"
+    }
+  ],
+  "dati_scartati": {
+    "citta": "Torino",
+    "data_label": "sabato 21 novembre",
+    "fonti_n": 7,
+    "fonti_elencate": 7,
+    "fonti_escluse": [],
+    "tmax_media": 13,
+    "tmax_min": 12,
+    "tmax_max": 16,
+    "tmin_media": 8,
+    "pioggia_media": 9,
+    "pioggia_min": 0,
+    "pioggia_max": 17,
+    "fonti_pioggia": 2,
+    "condizione": "nuvoloso",
+    "fonti_condizione": 3,
+    "giorno_piu_incerto": "lunedì",
+    "scarto_tmax": 7,
+    "tmax_scarto_fonti": 4.5,
+    "tmax_disaccordo": true,
+    "pioggia_disaccordo": false,
+    "gancio_pioggia": "pioggia 9%"
+  },
+  "giorno": "2026-11-19",
+  "cambio_serale": {
+    "tipo": "nuova",
+    "motivo": "non c'era un rendering serale"
+  }
+}
