@@ -1,0 +1,29 @@
+{
+ "app": "SportViewLens",
+ "data": "2026-11-21",
+ "righe": {
+  "SVL_20261121_1000_CAR": {
+   "pubblica_alle": "2026-11-21T10:00:00+01:00",
+   "formato": "Carosello",
+   "piattaforma": "Instagram / FB",
+   "sempreverde": false,
+   "chiave": "SVL_20261121_1000_CAR",
+   "decisione": null,
+   "alle": "",
+   "correzioni": [],
+   "messaggio_id": 591
+  }
+ },
+ "messaggi": {
+  "591": {
+   "chat_id": "1614787945",
+   "righe": [
+    "SVL_20261121_1000_CAR"
+   ],
+   "base": "<b>10:00 · Carosello · Instagram / FB</b>\nID <code>SVL_20261121_1000_CAR</code>\n⚠️ Verifica ok · 10 fonti, tolti perché incerti:\n  • tolto «ATP Finals Doppio Maschile (cemento)» 11:30: nessuna riga di tv_rights per tennis / «ATP Finals · Doppio»; nessun canale con due fonti: Sky Sport Tennis (solo palinsesto); NOW (nessuna \n  • tolto «Sci Alpino. Coppa del Mondo Gurgl: Sla» 13:15: nessuna riga di tv_rights per ski / «Coppa del Mondo»; nessun canale con due fonti: Rai Sport (solo palinsesto); Eurosport (solo palinsesto)\n  • tolto «BJK CUP QUALIFICAZIONI» 13:20: nessuna riga di tv_rights per tennis / «Billie Jean King Cup»; nessun canale con due fonti: SuperTennis (solo palinsesto); orario 13:20 non \n  • tolto «Alaves – Deportivo La Coruna» 14:00: nessun canale con due fonti: DAZN (solo tv_rights); orario 14:00 non confrontabile col palinsesto\n  • tolto «ATP Finals Maschile (cemento)» 14:00: nessuna riga di tv_rights per tennis / «ATP Finals»; nessun canale con due fonti: Italia 1 (solo palinsesto); Sky Sport (nessuna fonte); ora\n  • tolto «Singolare: 1a Semifinale» 14:30: nessuna riga di tv_rights per tennis / «ATP Finals»; nessun canale con due fonti: Sky Sport Tennis (solo palinsesto); Italia 1 (solo palinse\n  • … altri 6\n<pre>📺 Oggi in TV: 20 dirette sport\n\n• 10:15 FIS Sci alpino Coppa del Mondo: Gurgl, Donne, Slalom: 1a manche · Eurosport\n• 11:45 GP Portogallo — Qualifiche · Sky Sport MotoGP, TV8\n• 12:30 Parma W – Napoli W · DAZN\n• 13:30 Manchester City – Fulham · Sky Sport Calcio, Sky Sport 4K\n• 15:30 Borussia Mönchengladbach – Borussia Dortmund · Sky Sport Mix, Sky Sport\n\nCerca la tua squadra e scegli le tue piattaforme in SportViewLens.\n📲 Scarica gratis SportViewLens: link in bio.\n\nSportViewLens non è affiliata con DAZN, Sky, RAI o altri broadcaster.\n🤖 Contenuto generato in automatico con IA dai palinsesti TV ufficiali.\n\n#SportViewLens #SportInTV #OggiInTV</pre>\n\n<i>✅ OK: esce all'orario · ⏭️ Salta: non esce, contenuto legato a quella data · ✏️ Correggi: mi scrivi cosa cambiare · ↩️ Annulla: torna come prima. Nessun click = esce. Leggo i pulsanti ogni 15 minuti: decidi almeno 30 minuti prima.</i>"
+  }
+ },
+ "ultimo_update_id": null,
+ "anteprima_inviata_il": "2026-11-20T20:03:34+01:00",
+ "provvisorio": false
+}
