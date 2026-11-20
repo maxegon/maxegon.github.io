@@ -23,11 +23,13 @@
    "alle": "",
    "correzioni": [],
    "messaggio_id": 865,
-   "storia_in_corso": "2026-11-20T18:35:41+01:00",
+   "storia_in_corso": null,
    "storia_frame": 1,
    "storia_media_id": [
     "18119891212824621"
-   ]
+   ],
+   "storia_pubblicata": "2026-11-20T18:35:41+01:00",
+   "storia_errore": null
   }
  },
  "messaggi": {
