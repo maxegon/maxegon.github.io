@@ -1,0 +1,474 @@
+{
+  "data": "2026-11-21",
+  "generato_il": "2026-11-20T19:02:13+00:00",
+  "piano": "marketing/piano_4_settimane.csv",
+  "righe": [
+    {
+      "id": "SHV_20261121_1100_STORY",
+      "piattaforma": "Instagram / FB Stories",
+      "formato": "Storia",
+      "categoria": "concerti+teatro+danza+opera",
+      "pubblica_alle": "2026-11-21T11:00:00+01:00",
+      "tema": "chiaro",
+      "scartati": [
+        [
+          "Fedora di Umberto Giordano",
+          "ora 00:00 prima di 11:00"
+        ]
+      ],
+      "doppioni_rimossi": 0,
+      "verifica_eventi": [
+        {
+          "evento": "L'importanza di Chiamarsi Ernesto",
+          "data": "2026-11-21",
+          "ora": "19:30",
+          "citta": "Venezia",
+          "fonte": "vivaticket",
+          "esito": "ok",
+          "rinforzato": false,
+          "controlli": [
+            {
+              "nome": "orario",
+              "esito": "ok",
+              "dettaglio": "19:30"
+            },
+            {
+              "nome": "titolo",
+              "esito": "ok",
+              "dettaglio": "nessuna etichetta di abbonamento"
+            },
+            {
+              "nome": "biglietteria",
+              "esito": "ok",
+              "dettaglio": "Vivaticket: replica letta dall API pubblica"
+            },
+            {
+              "nome": "pagina",
+              "esito": "ok",
+              "dettaglio": "titolo, citta, data e ora coincidono (2026-11-21 19:30, VENEZIA)"
+            },
+            {
+              "nome": "serie",
+              "esito": "ok",
+              "dettaglio": "3 date della produzione, nessuna anomalia in testa alla serie"
+            }
+          ],
+          "fonti": [
+            "https://shop.vivaticket.com/it/sell/?cmd=prices&pcode=14514759&tcode=vt0010298"
+          ]
+        },
+        {
+          "evento": "Pupo",
+          "data": "2026-11-21",
+          "ora": "21:00",
+          "citta": "Venezia",
+          "fonte": "ticketone",
+          "esito": "ok",
+          "rinforzato": false,
+          "controlli": [
+            {
+              "nome": "orario",
+              "esito": "ok",
+              "dettaglio": "21:00"
+            },
+            {
+              "nome": "titolo",
+              "esito": "ok",
+              "dettaglio": "nessuna etichetta di abbonamento"
+            },
+            {
+              "nome": "biglietteria",
+              "esito": "ok",
+              "dettaglio": "TicketOne (blocca i bot): URL ben formato, visto nell ultimo giro (missing_count=0, fonte aggiornata da meno di 36 h)"
+            },
+            {
+              "nome": "serie",
+              "esito": "ok",
+              "dettaglio": "1 date della produzione, nessuna anomalia in testa alla serie"
+            }
+          ],
+          "fonti": [
+            "https://www.ticketone.it/event/pupo-50-storia-di-un-equilibrista-teatro-corso-21488012/"
+          ]
+        },
+        {
+          "evento": "Zsigmond Gerloczy",
+          "data": "2026-11-21",
+          "ora": "19:00",
+          "citta": "Venezia",
+          "fonte": "ticketone",
+          "esito": "dubbio",
+          "rinforzato": false,
+          "controlli": [
+            {
+              "nome": "orario",
+              "esito": "ok",
+              "dettaglio": "19:00"
+            },
+            {
+              "nome": "titolo",
+              "esito": "ok",
+              "dettaglio": "nessuna etichetta di abbonamento"
+            },
+            {
+              "nome": "biglietteria",
+              "esito": "dubbio",
+              "dettaglio": "TicketOne: missing_count=0, ultimo giro della fonte None"
+            },
+            {
+              "nome": "freschezza",
+              "esito": "dubbio",
+              "dettaglio": "fonte ticketone ferma: ultimo giro None"
+            },
+            {
+              "nome": "serie",
+              "esito": "ok",
+              "dettaglio": "1 date della produzione, nessuna anomalia in testa alla serie"
+            }
+          ],
+          "fonti": [
+            "https://www.ticketone.it/event/zsigmond-gerloczy-gran-teatro-la-fenice-21719959/"
+          ]
+        }
+      ],
+      "stato": "SALTATO_VERIFICA",
+      "verifica": {
+        "esito": "dubbio",
+        "controlli": [
+          {
+            "nome": "eventi nel post",
+            "esito": "ok",
+            "dettaglio": "2 eventi verificati ok, 1 tolti, su 3 candidati"
+          },
+          {
+            "nome": "tolto «Zsigmond Gerloczy» sab 21/11",
+            "esito": "dubbio",
+            "dettaglio": "TicketOne: missing_count=0, ultimo giro della fonte None; fonte ticketone ferma: ultimo giro None"
+          },
+          {
+            "nome": "minimo eventi",
+            "esito": "ko",
+            "dettaglio": "2 eventi verificati, ne servono almeno 3: la riga non esce"
+          }
+        ],
+        "fonti": [
+          "https://shop.vivaticket.com/it/sell/?cmd=prices&pcode=14514759&tcode=vt0010298",
+          "https://www.ticketone.it/event/pupo-50-storia-di-un-equilibrista-teatro-corso-21488012/"
+        ]
+      },
+      "motivo": "solo 2 eventi verificati su 3 controllati (minimo 3)",
+      "slot": "SHV_20261121_1100_STORY",
+      "ora_pubblicazione": "2026-11-21 11:00"
+    },
+    {
+      "id": "SHV_20261121_1730_VID",
+      "piattaforma": "TikTok / Shorts",
+      "formato": "Video",
+      "categoria": "concerti+teatro",
+      "pubblica_alle": "2026-11-21T17:30:00+01:00",
+      "tema": "chiaro",
+      "scartati": [
+        [
+          "Paolo Conticini",
+          "ora 00:00 prima di 11:00"
+        ],
+        [
+          "Festival Viator – Xii Edizione",
+          "ora 00:00 prima di 11:00"
+        ],
+        [
+          "Re-, Sharing di Fine Residenza Artistica della Compagnia Rosamiranda",
+          "ora 00:00 prima di 11:00"
+        ],
+        [
+          "Concerto di Santa Cecilia",
+          "ora 00:00 prima di 11:00"
+        ],
+        [
+          "Burps On Stage",
+          "ora 00:00 prima di 11:00"
+        ],
+        [
+          "Concerto Aperitivo con Ludovica De Bernardo al Pianoforte",
+          "senza biglietteria online"
+        ],
+        [
+          "Le Vie del Buddha",
+          "senza biglietteria online"
+        ],
+        [
+          "Sci Benedette ’sti Badante",
+          "senza biglietteria online"
+        ],
+        [
+          "Viva la Vida – the Great Adventure of Miguel",
+          "senza biglietteria online"
+        ],
+        [
+          "Echi Mediterranei",
+          "senza biglietteria online"
+        ],
+        [
+          "Note di Viaggio – Saxophonia 2026",
+          "senza biglietteria online"
+        ],
+        [
+          "Musiche dai Film di Tim Burton - Tribute to Danny Elfman",
+          "fuori perimetro: cinema/film/streaming/TV: fuori perimetro (o altra app)"
+        ],
+        [
+          "Stefano Mammone in Concerto",
+          "senza biglietteria online"
+        ],
+        [
+          "Lu Santo Jullàre Françesco",
+          "senza biglietteria online"
+        ],
+        [
+          "Il Sindaco del Rione Sanità",
+          "senza biglietteria online"
+        ],
+        [
+          "Masters of Gore II",
+          "luogo mancante"
+        ],
+        [
+          "Sirlene",
+          "luogo mancante"
+        ],
+        [
+          "Folkstone a Teatro",
+          "luogo mancante"
+        ],
+        [
+          "Vi Supplico Fatemi Parlare",
+          "luogo mancante"
+        ],
+        [
+          "Sono Signor-Ina!",
+          "luogo mancante"
+        ],
+        [
+          "Ariete",
+          "luogo mancante"
+        ],
+        [
+          "Rats",
+          "luogo mancante"
+        ],
+        [
+          "Nerissima Serpe",
+          "luogo mancante"
+        ],
+        [
+          "Blaze Bayley",
+          "luogo mancante"
+        ],
+        [
+          "Retornar",
+          "luogo mancante"
+        ],
+        [
+          "Sortilegi",
+          "luogo mancante"
+        ],
+        [
+          "Emma - Paola De Crescenzo - Laboratorio Puccini",
+          "blocklist titolo: non spettacolo"
+        ]
+      ],
+      "doppioni_rimossi": 15,
+      "verifica_eventi": [
+        {
+          "evento": "Pappano: Petrassi, Cajkovskij 6",
+          "data": "2026-11-21",
+          "ora": "18:00",
+          "citta": "Roma",
+          "fonte": "ticketone",
+          "esito": "ok",
+          "rinforzato": false,
+          "controlli": [
+            {
+              "nome": "orario",
+              "esito": "ok",
+              "dettaglio": "18:00"
+            },
+            {
+              "nome": "titolo",
+              "esito": "ok",
+              "dettaglio": "nessuna etichetta di abbonamento"
+            },
+            {
+              "nome": "biglietteria",
+              "esito": "ok",
+              "dettaglio": "TicketOne (blocca i bot): URL ben formato, visto nell ultimo giro (missing_count=0, fonte aggiornata da meno di 36 h)"
+            },
+            {
+              "nome": "serie",
+              "esito": "ok",
+              "dettaglio": "2 date della produzione, nessuna anomalia in testa alla serie"
+            }
+          ],
+          "fonti": [
+            "https://www.ticketone.it/event/accademia-nazionale-di-santa-cecilia-stagione-sinfonica-2026-2027-auditorium-parco-della-musica-ennio-morricone-21497683/"
+          ]
+        },
+        {
+          "evento": "Jeremy Pelt Quintet",
+          "data": "2026-11-21",
+          "ora": "20:00",
+          "citta": "Roma",
+          "fonte": "ticketone",
+          "esito": "ok",
+          "rinforzato": false,
+          "controlli": [
+            {
+              "nome": "orario",
+              "esito": "ok",
+              "dettaglio": "20:00"
+            },
+            {
+              "nome": "titolo",
+              "esito": "ok",
+              "dettaglio": "nessuna etichetta di abbonamento"
+            },
+            {
+              "nome": "biglietteria",
+              "esito": "ok",
+              "dettaglio": "TicketOne (blocca i bot): URL ben formato, visto nell ultimo giro (missing_count=0, fonte aggiornata da meno di 36 h)"
+            },
+            {
+              "nome": "serie",
+              "esito": "ok",
+              "dettaglio": "1 date della produzione, nessuna anomalia in testa alla serie"
+            }
+          ],
+          "fonti": [
+            "https://www.ticketone.it/event/roma-jazz-festival-2026-auditorium-parco-della-musica-ennio-morricone-21883004/"
+          ]
+        },
+        {
+          "evento": "Steve Hackett Racconta i Genesis",
+          "data": "2026-11-21",
+          "ora": "20:00",
+          "citta": "Roma",
+          "fonte": "ticketone",
+          "esito": "ok",
+          "rinforzato": false,
+          "controlli": [
+            {
+              "nome": "orario",
+              "esito": "ok",
+              "dettaglio": "20:00"
+            },
+            {
+              "nome": "titolo",
+              "esito": "ok",
+              "dettaglio": "nessuna etichetta di abbonamento"
+            },
+            {
+              "nome": "biglietteria",
+              "esito": "ok",
+              "dettaglio": "TicketOne (blocca i bot): URL ben formato, visto nell ultimo giro (missing_count=0, fonte aggiornata da meno di 36 h)"
+            },
+            {
+              "nome": "serie",
+              "esito": "ok",
+              "dettaglio": "1 date della produzione, nessuna anomalia in testa alla serie"
+            }
+          ],
+          "fonti": [
+            "https://www.ticketone.it/event/steve-hackett-racconta-i-genesis-auditorium-parco-della-musica-ennio-morricone-21753303/"
+          ]
+        },
+        {
+          "evento": "Muse",
+          "data": "2026-11-21",
+          "ora": "20:30",
+          "citta": "Milano",
+          "fonte": "ticketone",
+          "esito": "ok",
+          "rinforzato": false,
+          "controlli": [
+            {
+              "nome": "orario",
+              "esito": "ok",
+              "dettaglio": "20:30"
+            },
+            {
+              "nome": "titolo",
+              "esito": "ok",
+              "dettaglio": "nessuna etichetta di abbonamento"
+            },
+            {
+              "nome": "biglietteria",
+              "esito": "ok",
+              "dettaglio": "TicketOne (blocca i bot): URL ben formato, visto nell ultimo giro (missing_count=0, fonte aggiornata da meno di 36 h)"
+            },
+            {
+              "nome": "serie",
+              "esito": "ok",
+              "dettaglio": "2 date della produzione, nessuna anomalia in testa alla serie"
+            }
+          ],
+          "fonti": [
+            "https://www.ticketone.it/event/muse-the-wow-signal-europa-tour-unipol-dome-arena-milano-21850572/"
+          ]
+        }
+      ],
+      "video": {
+        "file": "marketing/out/2026-11-21/SHV_20261121_1730_VID/video.mp4",
+        "durata_s": 12.0,
+        "video": {
+          "codec_name": "h264",
+          "width": 1080,
+          "height": 1920,
+          "pix_fmt": "yuv420p"
+        },
+        "slide": 4,
+        "ok": true
+      },
+      "stato": "PRONTO",
+      "testo_finale": "🎶 Stasera in Italia: 243 serate dal vivo in ShowViewLens.\n\n1. Pappano: Petrassi, Cajkovskij 6 · Auditorium Parco della Musica Ennio Morricone · sab 21/11 · 18:00\n2. Jeremy Pelt Quintet · Auditorium Parco della Musica Ennio Morricone · sab 21/11 · 20:00\n3. Steve Hackett Racconta i Genesis · Auditorium Parco della Musica Ennio Morricone · sab 21/11 · 20:00\n4. Muse · Unipol Dome · sab 21/11 · 20:30\n\nOrari e biglietteria ufficiale su ShowViewLens. Scaricala gratis: link in bio.\n\n#ShowViewLens #Concerti #Teatro #CosaFareStasera",
+      "titolo_slide": "Stasera in Italia: 243 serate dal vivo",
+      "eventi": [
+        "Pappano: Petrassi, Cajkovskij 6",
+        "Jeremy Pelt Quintet",
+        "Steve Hackett Racconta i Genesis",
+        "Muse"
+      ],
+      "conteggio": 243,
+      "file": [
+        "https://maxegon.github.io/showviewlens/social/2026-11-21/SHV_20261121_1730_VID/video.mp4"
+      ],
+      "utm": "https://maxegon.github.io/showviewlens/download/?utm_source=tiktok&utm_medium=video&utm_campaign=piano_2026_11&utm_content=SHV_20261121_1730_VID",
+      "verifica": {
+        "esito": "ok",
+        "controlli": [
+          {
+            "nome": "eventi nel post",
+            "esito": "ok",
+            "dettaglio": "4 eventi verificati ok, 0 tolti, su 243 candidati"
+          }
+        ],
+        "fonti": [
+          "https://www.ticketone.it/event/accademia-nazionale-di-santa-cecilia-stagione-sinfonica-2026-2027-auditorium-parco-della-musica-ennio-morricone-21497683/",
+          "https://www.ticketone.it/event/roma-jazz-festival-2026-auditorium-parco-della-musica-ennio-morricone-21883004/",
+          "https://www.ticketone.it/event/steve-hackett-racconta-i-genesis-auditorium-parco-della-musica-ennio-morricone-21753303/",
+          "https://www.ticketone.it/event/muse-the-wow-signal-europa-tour-unipol-dome-arena-milano-21850572/"
+        ]
+      },
+      "anteprima": {
+        "testo": "🎶 Stasera in Italia: 243 serate dal vivo in ShowViewLens.\n\n1. Pappano: Petrassi, Cajkovskij 6 · Auditorium Parco della Musica Ennio Morricone · sab 21/11 · 18:00\n2. Jeremy Pelt Quintet · Auditorium Parco della Musica Ennio Morricone · sab 21/11 · 20:00\n3. Steve Hackett Racconta i Genesis · Auditorium Parco della Musica Ennio Morricone · sab 21/11 · 20:00\n4. Muse · Unipol Dome · sab 21/11 · 20:30\n\nOrari e biglietteria ufficiale su ShowViewLens. Scaricala gratis: link in bio.\n\n#ShowViewLens #Concerti #Teatro #CosaFareStasera",
+        "immagini": [
+          "https://maxegon.github.io/showviewlens/social/2026-11-21/SHV_20261121_1730_VID/cover.jpg"
+        ]
+      },
+      "slot": "SHV_20261121_1730_VID",
+      "ora_pubblicazione": "2026-11-21 17:30",
+      "immagini": [
+        "https://maxegon.github.io/showviewlens/social/2026-11-21/SHV_20261121_1730_VID/video.mp4"
+      ]
+    }
+  ]
+}
