@@ -1,0 +1,228 @@
+{
+ "data_evento": "2026-11-21",
+ "data_lunga": "Sabato 21 novembre",
+ "categoria": "oggi_in_tv",
+ "tema": 1,
+ "eventi": [
+  {
+   "data": "2026-11-21",
+   "ora": "10:15",
+   "titolo": "FIS Sci alpino Coppa del Mondo: Gurgl, Donne, Slalom: 1a manche",
+   "competizione": "Coppa del Mondo",
+   "sport": "ski",
+   "canali": [
+    "Eurosport"
+   ]
+  },
+  {
+   "data": "2026-11-21",
+   "ora": "11:45",
+   "titolo": "GP Portogallo — Qualifiche",
+   "competizione": "MotoGP",
+   "sport": "motogp",
+   "canali": [
+    "Sky Sport MotoGP",
+    "TV8"
+   ]
+  },
+  {
+   "data": "2026-11-21",
+   "ora": "12:30",
+   "titolo": "Parma W – Napoli W",
+   "competizione": "Serie A Femminile",
+   "sport": "soccer",
+   "canali": [
+    "DAZN"
+   ]
+  },
+  {
+   "data": "2026-11-21",
+   "ora": "13:30",
+   "titolo": "Manchester City – Fulham",
+   "competizione": "Premier League",
+   "sport": "soccer",
+   "canali": [
+    "Sky Sport Calcio",
+    "Sky Sport 4K",
+    "Sky Sport"
+   ]
+  },
+  {
+   "data": "2026-11-21",
+   "ora": "13:45",
+   "titolo": "GP Portogallo: Qualifiche (Moto3)",
+   "competizione": "MotoGP",
+   "sport": "motogp",
+   "canali": [
+    "Sky Sport MotoGP",
+    "TV8"
+   ]
+  },
+  {
+   "data": "2026-11-21",
+   "ora": "14:30",
+   "titolo": "FIS Salto con gli sci Coppa del Mondo: Lillehammer: HS140 donne (1a giornata)",
+   "competizione": "Coppa del Mondo",
+   "sport": "ski",
+   "canali": [
+    "Eurosport 2",
+    "Rai Sport",
+    "Eurosport"
+   ]
+  },
+  {
+   "data": "2026-11-21",
+   "ora": "14:40",
+   "titolo": "GP Portogallo: Qualifiche (Moto2)",
+   "competizione": "MotoGP",
+   "sport": "motogp",
+   "canali": [
+    "Sky Sport MotoGP",
+    "TV8"
+   ]
+  },
+  {
+   "data": "2026-11-21",
+   "ora": "15:30",
+   "titolo": "Borussia Mönchengladbach – Borussia Dortmund",
+   "competizione": "Bundesliga",
+   "sport": "soccer",
+   "canali": [
+    "Sky Sport Mix",
+    "Sky Sport"
+   ]
+  },
+  {
+   "data": "2026-11-21",
+   "ora": "15:55",
+   "titolo": "GP Portogallo — Sprint Race",
+   "competizione": "MotoGP",
+   "sport": "motogp",
+   "canali": [
+    "Sky Sport MotoGP",
+    "TV8"
+   ]
+  },
+  {
+   "data": "2026-11-21",
+   "ora": "16:00",
+   "titolo": "Aston Villa – Sunderland",
+   "competizione": "Premier League",
+   "sport": "soccer",
+   "canali": [
+    "Sky Sport 258",
+    "Sky Sport"
+   ]
+  },
+  {
+   "data": "2026-11-21",
+   "ora": "16:00",
+   "titolo": "Bournemouth – Nottingham Forest",
+   "competizione": "Premier League",
+   "sport": "soccer",
+   "canali": [
+    "Sky Sport 259",
+    "Sky Sport"
+   ]
+  },
+  {
+   "data": "2026-11-21",
+   "ora": "16:00",
+   "titolo": "Chelsea – Leeds",
+   "competizione": "Premier League",
+   "sport": "soccer",
+   "canali": [
+    "Sky Sport Calcio",
+    "Sky Sport 4K",
+    "Sky Sport"
+   ]
+  },
+  {
+   "data": "2026-11-21",
+   "ora": "16:00",
+   "titolo": "Tottenham – Ipswich",
+   "competizione": "Premier League",
+   "sport": "soccer",
+   "canali": [
+    "Sky Sport 257",
+    "Sky Sport"
+   ]
+  },
+  {
+   "data": "2026-11-21",
+   "ora": "16:35",
+   "titolo": "FIS Salto con gli sci Coppa del Mondo: Lillehammer: HS140 uomini (1a giornata)",
+   "competizione": "Coppa del Mondo",
+   "sport": "ski",
+   "canali": [
+    "Eurosport"
+   ]
+  },
+  {
+   "data": "2026-11-21",
+   "ora": "18:30",
+   "titolo": "Newcastle – Arsenal",
+   "competizione": "Premier League",
+   "sport": "soccer",
+   "canali": [
+    "Sky Sport Calcio",
+    "Sky Sport 4K",
+    "Sky Sport"
+   ]
+  },
+  {
+   "data": "2026-11-21",
+   "ora": "18:30",
+   "titolo": "FC Schalke 04 – VfB Stuttgart",
+   "competizione": "Bundesliga",
+   "sport": "soccer",
+   "canali": [
+    "Sky Sport Mix",
+    "Sky Sport"
+   ]
+  },
+  {
+   "data": "2026-11-21",
+   "ora": "19:00",
+   "titolo": "Philadelphia 76ers – Milwaukee Bucks",
+   "competizione": "NBA",
+   "sport": "basket",
+   "canali": [
+    "Sky Sport Basket"
+   ]
+  },
+  {
+   "data": "2026-11-21",
+   "ora": "20:30",
+   "titolo": "Novara W – Chieri '76 W",
+   "competizione": "Superlega Volley Femminile",
+   "sport": "volley",
+   "canali": [
+    "Rai Sport"
+   ]
+  },
+  {
+   "data": "2026-11-21",
+   "ora": "20:45",
+   "titolo": "Napoli – Torino",
+   "competizione": "Serie A",
+   "sport": "soccer",
+   "canali": [
+    "Sky Sport Uno",
+    "Sky Sport Calcio",
+    "Sky Sport 251",
+    "Sky Sport 4K"
+   ]
+  },
+  {
+   "data": "2026-11-21",
+   "ora": "17:00",
+   "titolo": "Jiri Prochazka - Navajo Stirling",
+   "competizione": "MMA",
+   "sport": "mma",
+   "canali": [
+    "Eurosport 3"
+   ]
+  }
+ ]
+}
