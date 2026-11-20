@@ -15,39 +15,25 @@
       "ora_pubblicazione": "2026-11-20 18:30",
       "data_evento": "2026-11-21",
       "utm": "https://maxegon.github.io/meteo-stat-privacy/landing/?utm_source=instagram&utm_medium=social&utm_campaign=s1m_2026w47&utm_content=S1M_20261120_1830_FEED",
-      "generato_il": "2026-11-19T20:02:34+01:00",
-      "provvisorio": true,
+      "generato_il": "2026-11-20T06:32:15+01:00",
+      "provvisorio": false,
       "giorno": "2026-11-20",
-      "tema": "clima",
       "stato": "MEDIA_PRONTA",
       "motivo": null,
-      "testo_finale": "Il weekend a Bologna, fonte per fonte. Sabato massima media 14°, pioggia 13%. Quando le fonti divergono, ricontrolla sabato mattina. Scarica Solo1Meteo gratis: link in bio. #solo1meteo #meteo #previsionimeteo #meteoitalia",
-      "concept_finale": "S1 gancio: Sabato a Bologna: 14°, pioggia 13% | S2 confronto: massime da 12° a 15° tra 7 fonti | S3 pioggia: tra 0% e 28% secondo 4 fonti | S4 screenshot: schermata Previsioni | S5 cta: Scarica gratis Solo1Meteo",
+      "testo_finale": "Come funziona Solo1Meteo: per ogni giorno mette accanto le previsioni di 8 fonti meteo e ne calcola la media, con il numero di fonti sempre in vista. Verde quando le fonti sono d'accordo, giallo o rosso quando divergono. Scarica Solo1Meteo gratis: link in bio. #solo1meteo #meteo #previsionimeteo #meteoitalia",
+      "concept_finale": "post di riserva (allerta meteo)",
       "immagini": [
         "https://maxegon.github.io/solo1meteo/social/2026-11-20/S1M_20261120_1830_FEED/1_copertina.png",
-        "https://maxegon.github.io/solo1meteo/social/2026-11-20/S1M_20261120_1830_FEED/2a_temperature.png",
-        "https://maxegon.github.io/solo1meteo/social/2026-11-20/S1M_20261120_1830_FEED/2b_temperature.png",
-        "https://maxegon.github.io/solo1meteo/social/2026-11-20/S1M_20261120_1830_FEED/3_pioggia.png",
         "https://maxegon.github.io/solo1meteo/social/2026-11-20/S1M_20261120_1830_FEED/4_screenshot.png",
         "https://maxegon.github.io/solo1meteo/social/2026-11-20/S1M_20261120_1830_FEED/5_cta.png"
       ],
       "video_url": null,
+      "riserva": true,
+      "motivo_riserva": "allerte: allerta meteo attiva (Giallo Vento Allerta; Giallo Vento Allerta; Giallo Vento Allerta) e nessun ente citato nel post",
       "ig_media": [
         {
           "media_type": "IMAGE",
           "image_url": "https://maxegon.github.io/solo1meteo/social/2026-11-20/S1M_20261120_1830_FEED/1_copertina.png"
-        },
-        {
-          "media_type": "IMAGE",
-          "image_url": "https://maxegon.github.io/solo1meteo/social/2026-11-20/S1M_20261120_1830_FEED/2a_temperature.png"
-        },
-        {
-          "media_type": "IMAGE",
-          "image_url": "https://maxegon.github.io/solo1meteo/social/2026-11-20/S1M_20261120_1830_FEED/2b_temperature.png"
-        },
-        {
-          "media_type": "IMAGE",
-          "image_url": "https://maxegon.github.io/solo1meteo/social/2026-11-20/S1M_20261120_1830_FEED/3_pioggia.png"
         },
         {
           "media_type": "IMAGE",
@@ -65,18 +51,6 @@
         },
         {
           "type": "url",
-          "url": "https://maxegon.github.io/solo1meteo/social/2026-11-20/S1M_20261120_1830_FEED/2a_temperature.png"
-        },
-        {
-          "type": "url",
-          "url": "https://maxegon.github.io/solo1meteo/social/2026-11-20/S1M_20261120_1830_FEED/2b_temperature.png"
-        },
-        {
-          "type": "url",
-          "url": "https://maxegon.github.io/solo1meteo/social/2026-11-20/S1M_20261120_1830_FEED/3_pioggia.png"
-        },
-        {
-          "type": "url",
           "url": "https://maxegon.github.io/solo1meteo/social/2026-11-20/S1M_20261120_1830_FEED/4_screenshot.png"
         },
         {
@@ -84,75 +58,8 @@
           "url": "https://maxegon.github.io/solo1meteo/social/2026-11-20/S1M_20261120_1830_FEED/5_cta.png"
         }
       ],
-      "dati": {
-        "citta": "Bologna",
-        "data_label": "sabato 21 novembre",
-        "fonti_n": 7,
-        "fonti_elencate": 7,
-        "fonti_escluse": [],
-        "tmax_media": 14,
-        "tmax_min": 12,
-        "tmax_max": 15,
-        "tmin_media": 8,
-        "pioggia_media": 13,
-        "pioggia_min": 0,
-        "pioggia_max": 28,
-        "fonti_pioggia": 4,
-        "condizione": "sereno",
-        "fonti_condizione": 5,
-        "giorno_piu_incerto": "domenica",
-        "scarto_tmax": 4,
-        "tmax_scarto_fonti": 2.9,
-        "tmax_disaccordo": false,
-        "pioggia_disaccordo": false,
-        "gancio_pioggia": "pioggia 13%"
-      },
-      "fonti": [
-        {
-          "fonte": "Open-Meteo",
-          "tmax": 14.3,
-          "pioggia": 0,
-          "pioggia_metodo": "orario"
-        },
-        {
-          "fonte": "OpenWeatherMap",
-          "tmax": 14.89,
-          "pioggia": 0,
-          "pioggia_metodo": "orario"
-        },
-        {
-          "fonte": "WeatherAPI",
-          "tmax": 13.4,
-          "pioggia": 28,
-          "pioggia_metodo": "orario"
-        },
-        {
-          "fonte": "MET Norway",
-          "tmax": 14.1,
-          "pioggia": null,
-          "pioggia_metodo": null
-        },
-        {
-          "fonte": "DWD",
-          "tmax": 14.7,
-          "pioggia": null,
-          "pioggia_metodo": null
-        },
-        {
-          "fonte": "7Timer!",
-          "tmax": 12,
-          "pioggia": null,
-          "pioggia_metodo": null
-        },
-        {
-          "fonte": "Tomorrow.io",
-          "tmax": 13.8,
-          "pioggia": 0,
-          "pioggia_metodo": "orario"
-        }
-      ],
       "verifica": {
-        "esito": "ok",
+        "esito": "dubbio",
         "controlli": [
           {
             "nome": "backend",
@@ -162,12 +69,12 @@
           {
             "nome": "fonti",
             "esito": "ok",
-            "dettaglio": "7 fonti su 8 per 2026-11-21 (minimo 6)"
+            "dettaglio": "8 fonti su 8 per 2026-11-21 (minimo 6)"
           },
           {
             "nome": "fonti_pioggia",
             "esito": "ok",
-            "dettaglio": "4 fonti con il dato di pioggia (minimo 3)"
+            "dettaglio": "5 fonti con il dato di pioggia (minimo 3)"
           },
           {
             "nome": "freschezza",
@@ -187,7 +94,7 @@
           {
             "nome": "scarto",
             "esito": "ok",
-            "dettaglio": "massime 12-15° (scarto 3°), pioggia 0-28% (scarto 28)"
+            "dettaglio": "massime 12-14° (scarto 2°), pioggia 0-25% (scarto 25)"
           },
           {
             "nome": "giorno",
@@ -196,8 +103,8 @@
           },
           {
             "nome": "allerte",
-            "esito": "ok",
-            "dettaglio": "nessuna allerta meteo attiva per il giorno (WeatherAPI)"
+            "esito": "dubbio",
+            "dettaglio": "allerta meteo attiva (Giallo Vento Allerta; Giallo Vento Allerta; Giallo Vento Allerta) e nessun ente citato nel post"
           },
           {
             "nome": "posizione",
@@ -212,17 +119,42 @@
           "https://www.weatherapi.com",
           "https://api.met.no",
           "https://brightsky.dev",
+          "https://www.visualcrossing.com",
           "http://www.7timer.info",
           "https://www.tomorrow.io"
         ]
       },
-      "scaricato_il": "2026-11-19T20:02:36+01:00",
-      "citta_usata": "Bologna",
+      "tentativi": [
+        {
+          "citta": "Bologna",
+          "esito": "verifica",
+          "motivo": "allerte: allerta meteo attiva (Giallo Vento Allerta; Giallo Vento Allerta; Giallo Vento Allerta) e nessun ente citato nel post"
+        },
+        {
+          "citta": "Roma",
+          "esito": "verifica",
+          "motivo": "allerte: allerta meteo attiva (Giallo Vento Allerta; Giallo Vento Allerta; Giallo Vento Allerta) e nessun ente citato nel post"
+        },
+        {
+          "citta": "Milano",
+          "esito": "verifica",
+          "motivo": "allerte: allerta meteo attiva (Giallo Vento Allerta; Giallo Vento Allerta; Giallo Vento Allerta) e nessun ente citato nel post"
+        },
+        {
+          "citta": "Napoli",
+          "esito": "verifica",
+          "motivo": "allerte: allerta meteo attiva (Giallo Vento Allerta; Giallo Vento Allerta; Giallo Vento Allerta) e nessun ente citato nel post"
+        }
+      ],
       "anteprima": {
-        "testo": "Il weekend a Bologna, fonte per fonte. Sabato massima media 14°, pioggia 13%. Quando le fonti divergono, ricontrolla sabato mattina. Scarica Solo1Meteo gratis: link in bio. #solo1meteo #meteo #previsionimeteo #meteoitalia",
+        "testo": "Come funziona Solo1Meteo: per ogni giorno mette accanto le previsioni di 8 fonti meteo e ne calcola la media, con il numero di fonti sempre in vista. Verde quando le fonti sono d'accordo, giallo o rosso quando divergono. Scarica Solo1Meteo gratis: link in bio. #solo1meteo #meteo #previsionimeteo #meteoitalia",
         "immagini": [
           "https://maxegon.github.io/solo1meteo/social/2026-11-20/S1M_20261120_1830_FEED/1_copertina.png"
         ]
+      },
+      "cambio_serale": {
+        "tipo": "invariata",
+        "motivo": ""
       }
     }
   ]
