@@ -1,0 +1,234 @@
+{
+ "data_evento": "2026-11-22",
+ "data_lunga": "Domenica 22 novembre",
+ "categoria": "oggi_in_tv",
+ "tema": 0,
+ "eventi": [
+  {
+   "data": "2026-11-22",
+   "ora": "10:15",
+   "titolo": "FIS Sci alpino Coppa del Mondo: Gurgl, Uomini, Slalom: 1a manche",
+   "competizione": "Coppa del Mondo",
+   "sport": "ski",
+   "canali": [
+    "Eurosport",
+    "Rai 2"
+   ]
+  },
+  {
+   "data": "2026-11-22",
+   "ora": "10:55",
+   "titolo": "GP Portogallo: Gara (Moto3)",
+   "competizione": "MotoGP",
+   "sport": "motogp",
+   "canali": [
+    "TV8",
+    "Sky Sport MotoGP"
+   ]
+  },
+  {
+   "data": "2026-11-22",
+   "ora": "12:00",
+   "titolo": "FIS Salto con gli sci Coppa del Mondo: Lillehammer: HS140 donne (2a giornata)",
+   "competizione": "Coppa del Mondo",
+   "sport": "ski",
+   "canali": [
+    "Eurosport",
+    "Rai Sport"
+   ]
+  },
+  {
+   "data": "2026-11-22",
+   "ora": "12:10",
+   "titolo": "GP Portogallo: Gara (Moto2)",
+   "competizione": "MotoGP",
+   "sport": "motogp",
+   "canali": [
+    "Sky Sport MotoGP",
+    "TV8"
+   ]
+  },
+  {
+   "data": "2026-11-22",
+   "ora": "12:30",
+   "titolo": "Juventus – Venezia",
+   "competizione": "Serie A",
+   "sport": "soccer",
+   "canali": [
+    "DAZN"
+   ]
+  },
+  {
+   "data": "2026-11-22",
+   "ora": "13:30",
+   "titolo": "FIS Sci alpino Coppa del Mondo: Gurgl, Uomini, Slalom: 2a manche",
+   "competizione": "Coppa del Mondo",
+   "sport": "ski",
+   "canali": [
+    "Eurosport",
+    "Rai Sport"
+   ]
+  },
+  {
+   "data": "2026-11-22",
+   "ora": "13:55",
+   "titolo": "GP Portogallo — Gara",
+   "competizione": "MotoGP",
+   "sport": "motogp",
+   "canali": [
+    "Sky Sport MotoGP",
+    "TV8"
+   ]
+  },
+  {
+   "data": "2026-11-22",
+   "ora": "14:30",
+   "titolo": "FIS Salto con gli sci Coppa del Mondo: Lillehammer: HS140 uomini: Qualificazioni",
+   "competizione": "Coppa del Mondo",
+   "sport": "ski",
+   "canali": [
+    "Eurosport 3",
+    "Eurosport",
+    "Rai Sport"
+   ]
+  },
+  {
+   "data": "2026-11-22",
+   "ora": "15:00",
+   "titolo": "Hull City – Brighton",
+   "competizione": "Premier League",
+   "sport": "soccer",
+   "canali": [
+    "Sky Sport 4K",
+    "Sky Sport Arena",
+    "Sky Sport"
+   ]
+  },
+  {
+   "data": "2026-11-22",
+   "ora": "15:00",
+   "titolo": "Fiorentina W – Como 1907 W",
+   "competizione": "Serie A Femminile",
+   "sport": "soccer",
+   "canali": [
+    "Rai 2"
+   ]
+  },
+  {
+   "data": "2026-11-22",
+   "ora": "15:30",
+   "titolo": "FC Augsburg – FSV Mainz 05",
+   "competizione": "Bundesliga",
+   "sport": "soccer",
+   "canali": [
+    "Sky Sport Max",
+    "Sky Sport"
+   ]
+  },
+  {
+   "data": "2026-11-22",
+   "ora": "15:30",
+   "titolo": "GP Portogallo: Gara (Moto3)",
+   "competizione": "MotoGP",
+   "sport": "motogp",
+   "canali": [
+    "Sky Sport MotoGP",
+    "TV8"
+   ]
+  },
+  {
+   "data": "2026-11-22",
+   "ora": "15:45",
+   "titolo": "FIS Salto con gli sci Coppa del Mondo: Lillehammer: HS140 uomini (2a giornata)",
+   "competizione": "Coppa del Mondo",
+   "sport": "ski",
+   "canali": [
+    "Eurosport"
+   ]
+  },
+  {
+   "data": "2026-11-22",
+   "ora": "16:00",
+   "titolo": "Tortona – Olimpia Milano",
+   "competizione": "Serie A Basket",
+   "sport": "basket",
+   "canali": [
+    "Sky Sport Basket",
+    "Sky Sport Uno"
+   ]
+  },
+  {
+   "data": "2026-11-22",
+   "ora": "17:00",
+   "titolo": "Milano – Trentino",
+   "competizione": "Superlega Volley",
+   "sport": "volley",
+   "canali": [
+    "DAZN"
+   ]
+  },
+  {
+   "data": "2026-11-22",
+   "ora": "17:30",
+   "titolo": "Liverpool – Manchester United",
+   "competizione": "Premier League",
+   "sport": "soccer",
+   "canali": [
+    "Sky Sport Arena",
+    "Sky Sport"
+   ]
+  },
+  {
+   "data": "2026-11-22",
+   "ora": "18:00",
+   "titolo": "Piacenza – Perugia",
+   "competizione": "Superlega Volley",
+   "sport": "volley",
+   "canali": [
+    "Rai Sport"
+   ]
+  },
+  {
+   "data": "2026-11-22",
+   "ora": "18:00",
+   "titolo": "AC Milan – Frosinone",
+   "competizione": "Serie A",
+   "sport": "soccer",
+   "canali": [
+    "Sky Sport 251",
+    "Sky Sport Calcio"
+   ]
+  },
+  {
+   "data": "2026-11-22",
+   "ora": "18:02",
+   "titolo": "Singolare: Finale (Maschile)",
+   "competizione": "Nitto ATP Finals",
+   "sport": "tennis",
+   "canali": [
+    "Sky Sport Tennis",
+    "Sky Sport Uno"
+   ]
+  },
+  {
+   "data": "2026-11-22",
+   "ora": "18:15",
+   "titolo": "Verona – Udine",
+   "competizione": "Serie A Basket",
+   "sport": "basket",
+   "canali": [
+    "Sky Sport Basket"
+   ]
+  },
+  {
+   "data": "2026-11-22",
+   "ora": "19:00",
+   "titolo": "Modena – Cisterna",
+   "competizione": "Superlega Volley",
+   "sport": "volley",
+   "canali": [
+    "DAZN"
+   ]
+  }
+ ]
+}
