@@ -5,10 +5,10 @@
   "ora_pubblicazione": "2026-11-21 19:00",
   "data_evento": "2026-11-21",
   "utm": "https://maxegon.github.io/meteo-stat-privacy/landing/?utm_source=instagram&utm_medium=social&utm_campaign=s1m_2026w47&utm_content=S1M_20261121_1900_FEED",
-  "generato_il": "2026-11-20T20:02:30+01:00",
-  "provvisorio": true,
+  "generato_il": "2026-11-21T06:32:17+01:00",
+  "provvisorio": false,
   "stato": "SALTATO_VERIFICA",
-  "motivo": "verifica dei dati non superata: scarto: massime in disaccordo (12-19°) ma il testo ha un numero secco; allerte: allerta meteo attiva (Giallo Vento Allerta; Giallo Vento Allerta; Giallo Vento Allerta) e nessun ente citato nel post",
+  "motivo": "verifica dei dati non superata: scarto: massime in disaccordo (13-18°) ma il testo ha un numero secco; allerte: allerta meteo attiva (Giallo Vento Allerta; Giallo Vento Allerta; Giallo Vento Allerta) e nessun ente citato nel post",
   "verifica": {
     "esito": "dubbio",
     "controlli": [
@@ -45,7 +45,7 @@
       {
         "nome": "scarto",
         "esito": "dubbio",
-        "dettaglio": "massime in disaccordo (12-19°) ma il testo ha un numero secco"
+        "dettaglio": "massime in disaccordo (13-18°) ma il testo ha un numero secco"
       },
       {
         "nome": "giorno",
@@ -79,7 +79,7 @@
     {
       "citta": "Genova",
       "esito": "verifica",
-      "motivo": "scarto: massime in disaccordo (12-19°) ma il testo ha un numero secco; allerte: allerta meteo attiva (Giallo Vento Allerta; Giallo Vento Allerta; Giallo Vento Allerta) e nessun ente citato nel post"
+      "motivo": "scarto: massime in disaccordo (13-18°) ma il testo ha un numero secco; allerte: allerta meteo attiva (Giallo Vento Allerta; Giallo Vento Allerta; Giallo Vento Allerta) e nessun ente citato nel post"
     },
     {
       "citta": "Roma",
@@ -89,7 +89,7 @@
     {
       "citta": "Milano",
       "esito": "verifica",
-      "motivo": "scarto: massime in disaccordo (12-17°) ma il testo ha un numero secco; allerte: allerta meteo attiva (Giallo Vento Allerta; Giallo Vento Allerta; Giallo Vento Allerta) e nessun ente citato nel post"
+      "motivo": "allerte: allerta meteo attiva (Giallo Vento Allerta; Giallo Vento Allerta; Giallo Vento Allerta) e nessun ente citato nel post"
     },
     {
       "citta": "Napoli",
@@ -104,21 +104,25 @@
     "fonti_elencate": 8,
     "fonti_escluse": [],
     "tmax_media": 16,
-    "tmax_min": 12,
-    "tmax_max": 19,
-    "tmin_media": 10,
-    "pioggia_media": 6,
+    "tmax_min": 13,
+    "tmax_max": 18,
+    "tmin_media": 11,
+    "pioggia_media": 9,
     "pioggia_min": 0,
-    "pioggia_max": 27,
+    "pioggia_max": 38,
     "fonti_pioggia": 5,
     "condizione": "nuvoloso",
-    "fonti_condizione": 8,
-    "giorno_piu_incerto": "domenica",
-    "scarto_tmax": 8,
-    "tmax_scarto_fonti": 6.8,
+    "fonti_condizione": 7,
+    "giorno_piu_incerto": "giovedì",
+    "scarto_tmax": 10,
+    "tmax_scarto_fonti": 4.9,
     "tmax_disaccordo": true,
-    "pioggia_disaccordo": false,
-    "gancio_pioggia": "pioggia 6%"
+    "pioggia_disaccordo": true,
+    "gancio_pioggia": "le fonti non sono d'accordo sulla pioggia, dal 0% al 38%"
   },
-  "giorno": "2026-11-21"
+  "giorno": "2026-11-21",
+  "cambio_serale": {
+    "tipo": "invariata",
+    "motivo": ""
+  }
 }

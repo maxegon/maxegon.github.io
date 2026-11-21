@@ -5,8 +5,8 @@
   "ora_pubblicazione": "2026-11-21 08:30",
   "data_evento": "2026-11-21",
   "utm": "https://maxegon.github.io/meteo-stat-privacy/landing/?utm_source=instagram&utm_medium=social&utm_campaign=s1m_2026w47&utm_content=S1M_20261121_0830_STORY",
-  "generato_il": "2026-11-20T20:02:27+01:00",
-  "provvisorio": true,
+  "generato_il": "2026-11-21T06:32:14+01:00",
+  "provvisorio": false,
   "giorno": "2026-11-21",
   "tema": "clima",
   "stato": "MEDIA_PRONTA",
@@ -39,41 +39,41 @@
     "tmax_min": 18,
     "tmax_max": 21,
     "tmin_media": 15,
-    "pioggia_media": 31,
+    "pioggia_media": 5,
     "pioggia_min": 0,
-    "pioggia_max": 74,
+    "pioggia_max": 25,
     "fonti_pioggia": 5,
     "condizione": "nuvoloso",
     "fonti_condizione": 7,
-    "giorno_piu_incerto": "giovedì",
+    "giorno_piu_incerto": "mercoledì",
     "scarto_tmax": 5,
-    "tmax_scarto_fonti": 3.6,
+    "tmax_scarto_fonti": 3.2,
     "tmax_disaccordo": false,
-    "pioggia_disaccordo": true,
-    "gancio_pioggia": "le fonti non sono d'accordo sulla pioggia, dal 0% al 74%"
+    "pioggia_disaccordo": false,
+    "gancio_pioggia": "pioggia 5%"
   },
   "fonti": [
     {
       "fonte": "Open-Meteo",
-      "tmax": 21.3,
+      "tmax": 21,
       "pioggia": 0,
       "pioggia_metodo": "orario"
     },
     {
       "fonte": "OpenWeatherMap",
-      "tmax": 19.06,
-      "pioggia": 54,
+      "tmax": 18.68,
+      "pioggia": 0,
       "pioggia_metodo": "orario"
     },
     {
       "fonte": "WeatherAPI",
-      "tmax": 20.3,
-      "pioggia": 27,
+      "tmax": 20.4,
+      "pioggia": 25,
       "pioggia_metodo": "orario"
     },
     {
       "fonte": "MET Norway",
-      "tmax": 20.5,
+      "tmax": 20.6,
       "pioggia": null,
       "pioggia_metodo": null
     },
@@ -85,8 +85,8 @@
     },
     {
       "fonte": "Visual Crossing",
-      "tmax": 19.5,
-      "pioggia": 74,
+      "tmax": 19.9,
+      "pioggia": 0,
       "pioggia_metodo": "orario"
     },
     {
@@ -97,8 +97,8 @@
     },
     {
       "fonte": "Tomorrow.io",
-      "tmax": 17.66,
-      "pioggia": 5,
+      "tmax": 17.76,
+      "pioggia": 0,
       "pioggia_metodo": "orario"
     }
   ],
@@ -133,7 +133,7 @@
       {
         "nome": "scarto",
         "esito": "ok",
-        "dettaglio": "massime 18-21° (scarto 3°), pioggia 0-74% (scarto 74) | disaccordo sulla pioggia: il gancio lo dice"
+        "dettaglio": "massime 18-21° (scarto 3°), pioggia 0-25% (scarto 25)"
       },
       {
         "nome": "giorno",
@@ -163,12 +163,16 @@
       "https://www.tomorrow.io"
     ]
   },
-  "scaricato_il": "2026-11-20T20:02:29+01:00",
+  "scaricato_il": "2026-11-21T06:32:16+01:00",
   "citta_usata": "Palermo",
   "anteprima": {
     "testo": "Sabato a Palermo: massima media 19°, nuvoloso per 7 fonti su 8. Cerca «Solo1Meteo» su App Store e Google Play",
     "immagini": [
       "https://maxegon.github.io/solo1meteo/social/2026-11-21/S1M_20261121_0830_STORY/storia.jpg"
     ]
+  },
+  "cambio_serale": {
+    "tipo": "invariata",
+    "motivo": ""
   }
 }
