@@ -1,0 +1,29 @@
+{
+ "app": "SportViewLens",
+ "data": "2026-11-22",
+ "righe": {
+  "SVL_20261122_1100_STO": {
+   "pubblica_alle": "2026-11-22T11:00:00+01:00",
+   "formato": "Storia",
+   "piattaforma": "Instagram / FB Stories",
+   "sempreverde": false,
+   "chiave": "SVL_20261122_1100_STO",
+   "decisione": null,
+   "alle": "",
+   "correzioni": [],
+   "messaggio_id": 597
+  }
+ },
+ "messaggi": {
+  "597": {
+   "chat_id": "1614787945",
+   "righe": [
+    "SVL_20261122_1100_STO"
+   ],
+   "base": "<b>11:00 · Storia · Instagram / FB Stories</b>\nID <code>SVL_20261122_1100_STO</code>\n⚠️ Verifica ok · 11 fonti, tolti perché incerti:\n  • tolto «BJK Cup Play-offs Femminile (varie sup» 11:00: nessuna riga di tv_rights per tennis / «Billie Jean King Cup»; nessun canale con due fonti: SuperTennis (solo palinsesto); orario 11:00 non \n  • tolto «ATP Finals Doppio Maschile (cemento)» 11:30: nessuna riga di tv_rights per tennis / «ATP Finals · Doppio»; nessun canale con due fonti: Sky Sport Tennis (solo palinsesto); Italia 1 (sol\n  • tolto «Twente – Willem II» 12:15: nessun canale con due fonti: DAZN (solo tv_rights); orario 12:15 non confrontabile col palinsesto\n  • tolto «Como W – Roma W» 12:30: nessun canale con due fonti: DAZN (solo tv_rights); orario 12:30 non confrontabile col palinsesto\n  • tolto «Ternana W – Inter Milano W» 12:30: nessun canale con due fonti: DAZN (solo tv_rights); orario 12:30 non confrontabile col palinsesto\n  • tolto «Barcelona – Villarreal» 14:00: nessun canale con due fonti: DAZN (solo tv_rights); orario 14:00 non confrontabile col palinsesto\n  • … altri 6\n<pre>Oggi in TV: 21 dirette. • 10:15 FIS Sci alpino Coppa del Mondo: Gurgl, Uomini, Slalom: 1a manche · Eurosport, Rai 2\n• 10:55 GP Portogallo: Gara (Moto3) · TV8, Sky Sport MotoGP\n• 12:30 Juventus – Venezia · DAZN\n• 15:00 Hull City – Brighton · Sky Sport 4K, Sky Sport Arena\n• 15:00 Fiorentina W – Como 1907 W · Rai 2\nCerca «SportViewLens» su App Store e Google Play.\nSportViewLens non è affiliata con DAZN, Sky, RAI o altri broadcaster.\n🤖 Contenuto generato in automatico con IA dai palinsesti TV ufficiali.</pre>\n\n<i>✅ OK: esce all'orario · ⏭️ Salta: non esce, contenuto legato a quella data · ✏️ Correggi: mi scrivi cosa cambiare · ↩️ Annulla: torna come prima. Nessun click = esce. Leggo i pulsanti ogni 15 minuti: decidi almeno 30 minuti prima.</i>"
+  }
+ },
+ "ultimo_update_id": null,
+ "anteprima_inviata_il": "2026-11-21T20:02:16+01:00",
+ "provvisorio": false
+}
