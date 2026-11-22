@@ -1,0 +1,499 @@
+{
+  "data": "2026-11-23",
+  "generato_il": "2026-11-22T19:02:40+00:00",
+  "piano": "marketing/piano_4_settimane.csv",
+  "righe": [
+    {
+      "id": "SHV_20261123_1230_VID",
+      "piattaforma": "TikTok / Shorts",
+      "formato": "Video",
+      "categoria": "concerti+teatro",
+      "pubblica_alle": "2026-11-23T12:30:00+01:00",
+      "tema": "chiaro",
+      "scartati": [
+        [
+          " Mostre 2026 Palazzo Grassi",
+          "fuori perimetro: mostre: fuori perimetro"
+        ],
+        [
+          "Lulù",
+          "ora 10:00 prima di 11:00"
+        ],
+        [
+          "La Sirenetta Tutta da Ridere",
+          "ora 10:30 prima di 11:00"
+        ],
+        [
+          "Il Giorno del Giudizio - su Toccu Pasau",
+          "ora 10:30 prima di 11:00"
+        ],
+        [
+          "Jeff Buckley a Celebration of Grace",
+          "luogo mancante"
+        ],
+        [
+          "Motta - Piano Solo",
+          "senza biglietteria online"
+        ]
+      ],
+      "doppioni_rimossi": 5,
+      "verifica_eventi": [
+        {
+          "evento": "Kronos Quartet",
+          "data": "2026-11-23",
+          "ora": "20:00",
+          "citta": "Roma",
+          "fonte": "ticketone",
+          "esito": "ok",
+          "rinforzato": false,
+          "controlli": [
+            {
+              "nome": "orario",
+              "esito": "ok",
+              "dettaglio": "20:00"
+            },
+            {
+              "nome": "titolo",
+              "esito": "ok",
+              "dettaglio": "nessuna etichetta di abbonamento"
+            },
+            {
+              "nome": "biglietteria",
+              "esito": "ok",
+              "dettaglio": "TicketOne (blocca i bot): URL ben formato, visto nell ultimo giro (missing_count=0, fonte aggiornata da meno di 36 h)"
+            },
+            {
+              "nome": "serie",
+              "esito": "ok",
+              "dettaglio": "1 date della produzione, nessuna anomalia in testa alla serie"
+            }
+          ],
+          "fonti": [
+            "https://www.ticketone.it/event/kronos-quartet-auditorium-parco-della-musica-ennio-morricone-22125166/"
+          ]
+        },
+        {
+          "evento": "Chiara Civello e Clap! Clap! - “cccc”",
+          "data": "2026-11-23",
+          "ora": "20:00",
+          "citta": "Roma",
+          "fonte": "ticketone",
+          "esito": "ok",
+          "rinforzato": false,
+          "controlli": [
+            {
+              "nome": "orario",
+              "esito": "ok",
+              "dettaglio": "20:00"
+            },
+            {
+              "nome": "titolo",
+              "esito": "ok",
+              "dettaglio": "nessuna etichetta di abbonamento"
+            },
+            {
+              "nome": "biglietteria",
+              "esito": "ok",
+              "dettaglio": "TicketOne (blocca i bot): URL ben formato, visto nell ultimo giro (missing_count=0, fonte aggiornata da meno di 36 h)"
+            },
+            {
+              "nome": "serie",
+              "esito": "ok",
+              "dettaglio": "1 date della produzione, nessuna anomalia in testa alla serie"
+            }
+          ],
+          "fonti": [
+            "https://www.ticketone.it/event/roma-jazz-festival-2026-auditorium-parco-della-musica-ennio-morricone-21883003/"
+          ]
+        },
+        {
+          "evento": "Concerto Coro Voci Bianche Teatro alla Scala",
+          "data": "2026-11-23",
+          "ora": "20:00",
+          "citta": "Milano",
+          "fonte": "vivaticket",
+          "esito": "ok",
+          "rinforzato": false,
+          "controlli": [
+            {
+              "nome": "orario",
+              "esito": "ok",
+              "dettaglio": "20:00"
+            },
+            {
+              "nome": "titolo",
+              "esito": "ok",
+              "dettaglio": "nessuna etichetta di abbonamento"
+            },
+            {
+              "nome": "biglietteria",
+              "esito": "ok",
+              "dettaglio": "Vivaticket: replica letta dall API pubblica"
+            },
+            {
+              "nome": "pagina",
+              "esito": "ok",
+              "dettaglio": "titolo, citta, data e ora coincidono (2026-11-23 20:00, MILANO)"
+            },
+            {
+              "nome": "serie",
+              "esito": "ok",
+              "dettaglio": "1 date della produzione, nessuna anomalia in testa alla serie"
+            }
+          ],
+          "fonti": [
+            "https://www.vivaticket.com/it/ticket/concerto-coro-voci-bianche-teatro-alla-scala/308886"
+          ]
+        },
+        {
+          "evento": "Notre Dame De Paris",
+          "data": "2026-11-23",
+          "ora": "21:00",
+          "citta": "Firenze",
+          "fonte": "ticketone",
+          "esito": "ok",
+          "rinforzato": false,
+          "controlli": [
+            {
+              "nome": "orario",
+              "esito": "ok",
+              "dettaglio": "21:00"
+            },
+            {
+              "nome": "titolo",
+              "esito": "ok",
+              "dettaglio": "nessuna etichetta di abbonamento"
+            },
+            {
+              "nome": "biglietteria",
+              "esito": "ok",
+              "dettaglio": "TicketOne (blocca i bot): URL ben formato, visto nell ultimo giro (missing_count=0, fonte aggiornata da meno di 36 h)"
+            },
+            {
+              "nome": "serie",
+              "esito": "ok",
+              "dettaglio": "3 date della produzione, nessuna anomalia in testa alla serie"
+            }
+          ],
+          "fonti": [
+            "https://www.ticketone.it/event/notre-dame-de-paris-nelson-mandela-forum-21372043/"
+          ]
+        }
+      ],
+      "video": {
+        "file": "marketing/out/2026-11-23/SHV_20261123_1230_VID/video.mp4",
+        "durata_s": 12.0,
+        "video": {
+          "codec_name": "h264",
+          "width": 1080,
+          "height": 1920,
+          "pix_fmt": "yuv420p"
+        },
+        "slide": 4,
+        "ok": true
+      },
+      "stato": "PRONTO",
+      "testo_finale": "🎶 Stasera in Italia: 51 serate dal vivo in ShowViewLens.\n\n1. Kronos Quartet · Auditorium Parco della Musica Ennio Morricone · lun 23/11 · 20:00\n2. Chiara Civello e Clap! Clap! - “cccc” · Auditorium Parco della Musica Ennio Morricone · lun 23/11 · 20:00\n3. Concerto Coro Voci Bianche Teatro alla Scala · Teatro alla Scala · lun 23/11 · 20:00\n4. Notre Dame De Paris · Nelson Mandela Forum · lun 23/11 · 21:00\n\nOrari e biglietteria ufficiale su ShowViewLens. Scaricala gratis: link in bio.\n\n#ShowViewLens #Concerti #Teatro #CosaFareStasera",
+      "titolo_slide": "Stasera in Italia: 51 serate dal vivo",
+      "eventi": [
+        "Kronos Quartet",
+        "Chiara Civello e Clap! Clap! - “cccc”",
+        "Concerto Coro Voci Bianche Teatro alla Scala",
+        "Notre Dame De Paris"
+      ],
+      "conteggio": 51,
+      "file": [
+        "https://maxegon.github.io/showviewlens/social/2026-11-23/SHV_20261123_1230_VID/video.mp4"
+      ],
+      "utm": "https://maxegon.github.io/showviewlens/download/?utm_source=tiktok&utm_medium=video&utm_campaign=piano_2026_12&utm_content=SHV_20261123_1230_VID",
+      "verifica": {
+        "esito": "ok",
+        "controlli": [
+          {
+            "nome": "eventi nel post",
+            "esito": "ok",
+            "dettaglio": "4 eventi verificati ok, 0 tolti, su 51 candidati"
+          }
+        ],
+        "fonti": [
+          "https://www.ticketone.it/event/kronos-quartet-auditorium-parco-della-musica-ennio-morricone-22125166/",
+          "https://www.ticketone.it/event/roma-jazz-festival-2026-auditorium-parco-della-musica-ennio-morricone-21883003/",
+          "https://www.vivaticket.com/it/ticket/concerto-coro-voci-bianche-teatro-alla-scala/308886",
+          "https://www.ticketone.it/event/notre-dame-de-paris-nelson-mandela-forum-21372043/"
+        ]
+      },
+      "anteprima": {
+        "testo": "🎶 Stasera in Italia: 51 serate dal vivo in ShowViewLens.\n\n1. Kronos Quartet · Auditorium Parco della Musica Ennio Morricone · lun 23/11 · 20:00\n2. Chiara Civello e Clap! Clap! - “cccc” · Auditorium Parco della Musica Ennio Morricone · lun 23/11 · 20:00\n3. Concerto Coro Voci Bianche Teatro alla Scala · Teatro alla Scala · lun 23/11 · 20:00\n4. Notre Dame De Paris · Nelson Mandela Forum · lun 23/11 · 21:00\n\nOrari e biglietteria ufficiale su ShowViewLens. Scaricala gratis: link in bio.\n\n#ShowViewLens #Concerti #Teatro #CosaFareStasera",
+        "immagini": [
+          "https://maxegon.github.io/showviewlens/social/2026-11-23/SHV_20261123_1230_VID/cover.jpg"
+        ]
+      },
+      "slot": "SHV_20261123_1230_VID",
+      "ora_pubblicazione": "2026-11-23 12:30",
+      "immagini": [
+        "https://maxegon.github.io/showviewlens/social/2026-11-23/SHV_20261123_1230_VID/video.mp4"
+      ]
+    },
+    {
+      "id": "SHV_20261123_1900_CAR",
+      "piattaforma": "Instagram / FB",
+      "formato": "Carosello",
+      "categoria": "teatro",
+      "pubblica_alle": "2026-11-23T19:00:00+01:00",
+      "tema": "oro",
+      "scartati": [],
+      "doppioni_rimossi": 46,
+      "verifica_eventi": [
+        {
+          "evento": "I Babbapapa'",
+          "data": "2026-11-23",
+          "ora": "20:30",
+          "citta": "Napoli",
+          "fonte": "vivaticket",
+          "esito": "ok",
+          "rinforzato": false,
+          "controlli": [
+            {
+              "nome": "orario",
+              "esito": "ok",
+              "dettaglio": "20:30"
+            },
+            {
+              "nome": "titolo",
+              "esito": "ok",
+              "dettaglio": "nessuna etichetta di abbonamento"
+            },
+            {
+              "nome": "biglietteria",
+              "esito": "ok",
+              "dettaglio": "Vivaticket: replica letta dall API pubblica"
+            },
+            {
+              "nome": "pagina",
+              "esito": "ok",
+              "dettaglio": "titolo, citta, data e ora coincidono (2026-11-23 20:30, NAPOLI)"
+            },
+            {
+              "nome": "serie",
+              "esito": "ok",
+              "dettaglio": "6 date della produzione, nessuna anomalia in testa alla serie"
+            }
+          ],
+          "fonti": [
+            "https://www.vivaticket.com/it/ticket/i-babbapapa/320161"
+          ]
+        },
+        {
+          "evento": "L'isola",
+          "data": "2026-11-24",
+          "ora": "20:30",
+          "citta": "Napoli",
+          "fonte": "vivaticket",
+          "esito": "ok",
+          "rinforzato": false,
+          "controlli": [
+            {
+              "nome": "orario",
+              "esito": "ok",
+              "dettaglio": "20:30"
+            },
+            {
+              "nome": "titolo",
+              "esito": "ok",
+              "dettaglio": "nessuna etichetta di abbonamento"
+            },
+            {
+              "nome": "biglietteria",
+              "esito": "ok",
+              "dettaglio": "Vivaticket: replica letta dall API pubblica"
+            },
+            {
+              "nome": "pagina",
+              "esito": "ok",
+              "dettaglio": "titolo, citta, data e ora coincidono (2026-11-24 20:30, NAPOLI)"
+            },
+            {
+              "nome": "serie",
+              "esito": "ok",
+              "dettaglio": "7 date della produzione, nessuna anomalia in testa alla serie"
+            }
+          ],
+          "fonti": [
+            "https://shop.vivaticket.com/it/sell/?cmd=prices&pcode=14472522&tcode=tl015970"
+          ]
+        },
+        {
+          "evento": "Misurare il Salto delle Rane",
+          "data": "2026-11-24",
+          "ora": "20:45",
+          "citta": "Napoli",
+          "fonte": "vivaticket",
+          "esito": "ok",
+          "rinforzato": false,
+          "controlli": [
+            {
+              "nome": "orario",
+              "esito": "ok",
+              "dettaglio": "20:45"
+            },
+            {
+              "nome": "titolo",
+              "esito": "ok",
+              "dettaglio": "nessuna etichetta di abbonamento"
+            },
+            {
+              "nome": "biglietteria",
+              "esito": "ok",
+              "dettaglio": "Vivaticket: replica letta dall API pubblica"
+            },
+            {
+              "nome": "pagina",
+              "esito": "ok",
+              "dettaglio": "titolo, citta, data e ora coincidono (2026-11-24 20:45, NAPOLI)"
+            },
+            {
+              "nome": "serie",
+              "esito": "ok",
+              "dettaglio": "6 date della produzione, nessuna anomalia in testa alla serie"
+            }
+          ],
+          "fonti": [
+            "https://shop.vivaticket.com/it/sell/?cmd=prices&pcode=14471904&tcode=vt0006904"
+          ]
+        },
+        {
+          "evento": "Neanche Parenti",
+          "data": "2026-11-24",
+          "ora": "21:00",
+          "citta": "Napoli",
+          "fonte": "vivaticket",
+          "esito": "ok",
+          "rinforzato": false,
+          "controlli": [
+            {
+              "nome": "orario",
+              "esito": "ok",
+              "dettaglio": "21:00"
+            },
+            {
+              "nome": "titolo",
+              "esito": "ok",
+              "dettaglio": "nessuna etichetta di abbonamento"
+            },
+            {
+              "nome": "biglietteria",
+              "esito": "ok",
+              "dettaglio": "Vivaticket: replica letta dall API pubblica"
+            },
+            {
+              "nome": "pagina",
+              "esito": "ok",
+              "dettaglio": "titolo, citta, data e ora coincidono (2026-11-24 21:00, NAPOLI)"
+            },
+            {
+              "nome": "serie",
+              "esito": "ok",
+              "dettaglio": "13 date della produzione, nessuna anomalia in testa alla serie"
+            }
+          ],
+          "fonti": [
+            "https://shop.vivaticket.com/it/sell/?cmd=prices&pcode=13915849&tcode=vt0006905"
+          ]
+        }
+      ],
+      "stato": "PRONTO",
+      "testo_finale": "🎭 Questa settimana a teatro a Napoli: 21 spettacoli in ShowViewLens. Eccone alcuni:\n\n1. I Babbapapa' · Ridotto del Mercadante · lun 23/11 · 20:30\n2. L'isola · Teatro San Ferdinando · mar 24/11 · 20:30\n3. Misurare il Salto delle Rane · Teatro Bellini · mar 24/11 · 20:45\n4. Neanche Parenti · Teatro Piccolo Bellini · mar 24/11 · 21:00\n\nSalva il post. Su ShowViewLens trovi date, orari e il link alla biglietteria ufficiale.\n\n📲 Scarica ShowViewLens gratis: link in bio (App Store e Google Play).\n\n#ShowViewLens #TeatroMilano #TeatroItalia #SpettacoliDalVivo",
+      "titolo_slide": "21 spettacoli a teatro a Napoli questa settimana",
+      "eventi": [
+        "I Babbapapa'",
+        "L'isola",
+        "Misurare il Salto delle Rane",
+        "Neanche Parenti"
+      ],
+      "conteggio": 21,
+      "file": [
+        "https://maxegon.github.io/showviewlens/social/2026-11-23/SHV_20261123_1900_CAR/01_gancio.jpg",
+        "https://maxegon.github.io/showviewlens/social/2026-11-23/SHV_20261123_1900_CAR/02_dati.jpg",
+        "https://maxegon.github.io/showviewlens/social/2026-11-23/SHV_20261123_1900_CAR/03_dati.jpg",
+        "https://maxegon.github.io/showviewlens/social/2026-11-23/SHV_20261123_1900_CAR/04_screenshot.jpg",
+        "https://maxegon.github.io/showviewlens/social/2026-11-23/SHV_20261123_1900_CAR/05_cta.jpg"
+      ],
+      "utm": "https://maxegon.github.io/showviewlens/download/?utm_source=instagram&utm_medium=social&utm_campaign=piano_2026_12&utm_content=SHV_20261123_1900_CAR",
+      "verifica": {
+        "esito": "ok",
+        "controlli": [
+          {
+            "nome": "eventi nel post",
+            "esito": "ok",
+            "dettaglio": "4 eventi verificati ok, 0 tolti, su 21 candidati"
+          }
+        ],
+        "fonti": [
+          "https://www.vivaticket.com/it/ticket/i-babbapapa/320161",
+          "https://shop.vivaticket.com/it/sell/?cmd=prices&pcode=14472522&tcode=tl015970",
+          "https://shop.vivaticket.com/it/sell/?cmd=prices&pcode=14471904&tcode=vt0006904",
+          "https://shop.vivaticket.com/it/sell/?cmd=prices&pcode=13915849&tcode=vt0006905"
+        ]
+      },
+      "anteprima": {
+        "testo": "🎭 Questa settimana a teatro a Napoli: 21 spettacoli in ShowViewLens. Eccone alcuni:\n\n1. I Babbapapa' · Ridotto del Mercadante · lun 23/11 · 20:30\n2. L'isola · Teatro San Ferdinando · mar 24/11 · 20:30\n3. Misurare il Salto delle Rane · Teatro Bellini · mar 24/11 · 20:45\n4. Neanche Parenti · Teatro Piccolo Bellini · mar 24/11 · 21:00\n\nSalva il post. Su ShowViewLens trovi date, orari e il link alla biglietteria ufficiale.\n\n📲 Scarica ShowViewLens gratis: link in bio (App Store e Google Play).\n\n#ShowViewLens #TeatroMilano #TeatroItalia #SpettacoliDalVivo",
+        "immagini": [
+          "https://maxegon.github.io/showviewlens/social/2026-11-23/SHV_20261123_1900_CAR/01_gancio.jpg"
+        ]
+      },
+      "ig_media": [
+        {
+          "media_type": "IMAGE",
+          "image_url": "https://maxegon.github.io/showviewlens/social/2026-11-23/SHV_20261123_1900_CAR/01_gancio.jpg"
+        },
+        {
+          "media_type": "IMAGE",
+          "image_url": "https://maxegon.github.io/showviewlens/social/2026-11-23/SHV_20261123_1900_CAR/02_dati.jpg"
+        },
+        {
+          "media_type": "IMAGE",
+          "image_url": "https://maxegon.github.io/showviewlens/social/2026-11-23/SHV_20261123_1900_CAR/03_dati.jpg"
+        },
+        {
+          "media_type": "IMAGE",
+          "image_url": "https://maxegon.github.io/showviewlens/social/2026-11-23/SHV_20261123_1900_CAR/04_screenshot.jpg"
+        },
+        {
+          "media_type": "IMAGE",
+          "image_url": "https://maxegon.github.io/showviewlens/social/2026-11-23/SHV_20261123_1900_CAR/05_cta.jpg"
+        }
+      ],
+      "fb_photos": [
+        {
+          "type": "url",
+          "url": "https://maxegon.github.io/showviewlens/social/2026-11-23/SHV_20261123_1900_CAR/01_gancio.jpg"
+        },
+        {
+          "type": "url",
+          "url": "https://maxegon.github.io/showviewlens/social/2026-11-23/SHV_20261123_1900_CAR/02_dati.jpg"
+        },
+        {
+          "type": "url",
+          "url": "https://maxegon.github.io/showviewlens/social/2026-11-23/SHV_20261123_1900_CAR/03_dati.jpg"
+        },
+        {
+          "type": "url",
+          "url": "https://maxegon.github.io/showviewlens/social/2026-11-23/SHV_20261123_1900_CAR/04_screenshot.jpg"
+        },
+        {
+          "type": "url",
+          "url": "https://maxegon.github.io/showviewlens/social/2026-11-23/SHV_20261123_1900_CAR/05_cta.jpg"
+        }
+      ],
+      "slot": "SHV_20261123_1900_CAR",
+      "ora_pubblicazione": "2026-11-23 19:00",
+      "immagini": [
+        "https://maxegon.github.io/showviewlens/social/2026-11-23/SHV_20261123_1900_CAR/01_gancio.jpg",
+        "https://maxegon.github.io/showviewlens/social/2026-11-23/SHV_20261123_1900_CAR/02_dati.jpg",
+        "https://maxegon.github.io/showviewlens/social/2026-11-23/SHV_20261123_1900_CAR/03_dati.jpg",
+        "https://maxegon.github.io/showviewlens/social/2026-11-23/SHV_20261123_1900_CAR/04_screenshot.jpg",
+        "https://maxegon.github.io/showviewlens/social/2026-11-23/SHV_20261123_1900_CAR/05_cta.jpg"
+      ]
+    }
+  ]
+}
