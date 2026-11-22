@@ -1,0 +1,127 @@
+{
+  "slot": "S1M_20261123_1900_FEED",
+  "piattaforma": "Instagram / FB",
+  "formato": "Carosello",
+  "ora_pubblicazione": "2026-11-23 19:00",
+  "data_evento": "2026-11-24",
+  "utm": "https://maxegon.github.io/meteo-stat-privacy/landing/?utm_source=instagram&utm_medium=social&utm_campaign=s1m_2026w48&utm_content=S1M_20261123_1900_FEED",
+  "generato_il": "2026-11-22T20:03:09+01:00",
+  "provvisorio": true,
+  "stato": "SALTATO_VERIFICA",
+  "motivo": "verifica dei dati non superata: backend_risposta: risposta parziale o con errori: partial=True, errors=[]",
+  "verifica": {
+    "esito": "dubbio",
+    "controlli": [
+      {
+        "nome": "backend",
+        "esito": "ok",
+        "dettaglio": "/health = healthy"
+      },
+      {
+        "nome": "backend_risposta",
+        "esito": "dubbio",
+        "dettaglio": "risposta parziale o con errori: partial=True, errors=[]"
+      },
+      {
+        "nome": "fonti",
+        "esito": "ok",
+        "dettaglio": "6 fonti su 8 per 2026-11-24 (minimo 6)"
+      },
+      {
+        "nome": "fonti_pioggia",
+        "esito": "ok",
+        "dettaglio": "3 fonti con il dato di pioggia (minimo 3)"
+      },
+      {
+        "nome": "freschezza",
+        "esito": "ok",
+        "dettaglio": "dato scaricato 0 minuti prima del rendering (massimo 3 ore, cache backend 10 minuti)"
+      },
+      {
+        "nome": "calcolo_app",
+        "esito": "ok",
+        "dettaglio": "copia del calcolo dell'app sha f8de55e39310 (submodule assente in CI) | codice dell'app (buildAggregateDays)"
+      },
+      {
+        "nome": "numeri_testo",
+        "esito": "ok",
+        "dettaglio": "tutti i numeri con ° o % sono quelli calcolati come nell'app"
+      },
+      {
+        "nome": "scarto",
+        "esito": "ok",
+        "dettaglio": "massime 8-10° (scarto 2°), pioggia 0-66% (scarto 66) | disaccordo sulla pioggia: il gancio lo dice"
+      },
+      {
+        "nome": "giorno",
+        "esito": "ok",
+        "dettaglio": "giorno citato = martedì 2026-11-24"
+      },
+      {
+        "nome": "allerte",
+        "esito": "ok",
+        "dettaglio": "nessuna allerta meteo attiva per il giorno (WeatherAPI)"
+      },
+      {
+        "nome": "posizione",
+        "esito": "ok",
+        "dettaglio": "Milano: citta fissa del piano, nessuna posizione dell'utente"
+      }
+    ],
+    "fonti": [
+      "https://backend-eta-seven-21.vercel.app/weather?lat=45.46&lon=9.19",
+      "https://openweathermap.org",
+      "https://www.weatherapi.com",
+      "https://api.met.no",
+      "https://brightsky.dev",
+      "http://www.7timer.info",
+      "https://www.tomorrow.io"
+    ]
+  },
+  "tentativi": [
+    {
+      "citta": "Milano",
+      "esito": "verifica",
+      "motivo": "backend_risposta: risposta parziale o con errori: partial=True, errors=[]"
+    },
+    {
+      "citta": "Roma",
+      "esito": "verifica",
+      "motivo": "backend_risposta: risposta parziale o con errori: partial=True, errors=[]"
+    },
+    {
+      "citta": "Torino",
+      "esito": "verifica",
+      "motivo": "backend_risposta: risposta parziale o con errori: partial=True, errors=[]"
+    },
+    {
+      "citta": "Bologna",
+      "esito": "verifica",
+      "motivo": "backend_risposta: risposta parziale o con errori: partial=True, errors=[]"
+    }
+  ],
+  "dati_scartati": {
+    "citta": "Milano",
+    "data_label": "martedì 24 novembre",
+    "fonti_n": 6,
+    "fonti_elencate": 6,
+    "fonti_escluse": [],
+    "tmax_media": 9,
+    "tmax_min": 8,
+    "tmax_max": 10,
+    "tmin_media": 6,
+    "pioggia_media": 56,
+    "pioggia_min": 0,
+    "pioggia_max": 66,
+    "fonti_pioggia": 3,
+    "condizione": "nuvoloso",
+    "fonti_condizione": 4,
+    "giorno_piu_incerto": "martedì",
+    "scarto_tmax": 2,
+    "tmax_scarto_fonti": 1.8,
+    "tmax_disaccordo": false,
+    "pioggia_disaccordo": true,
+    "gancio_pioggia": "le fonti non sono d'accordo sulla pioggia, dal 0% al 66%"
+  },
+  "giorno": "2026-11-23"
+}
