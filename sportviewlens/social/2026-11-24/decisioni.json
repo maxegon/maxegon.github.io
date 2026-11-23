@@ -1,0 +1,29 @@
+{
+ "app": "SportViewLens",
+ "data": "2026-11-24",
+ "righe": {
+  "SVL_20261124_1830_CAR": {
+   "pubblica_alle": "2026-11-24T18:30:00+01:00",
+   "formato": "Carosello",
+   "piattaforma": "Instagram / FB",
+   "sempreverde": false,
+   "chiave": "SVL_20261124_1830_CAR",
+   "decisione": null,
+   "alle": "",
+   "correzioni": [],
+   "messaggio_id": 607
+  }
+ },
+ "messaggi": {
+  "607": {
+   "chat_id": "1614787945",
+   "righe": [
+    "SVL_20261124_1830_CAR"
+   ],
+   "base": "<b>18:30 · Carosello · Instagram / FB</b>\nID <code>SVL_20261124_1830_CAR</code>\n⚠️ Verifica ok · 4 fonti, tolti perché incerti:\n  • tolto «Juve Stabia – Catanzaro» 19:00: nessun canale con due fonti: DAZN (solo tv_rights); orario 19:00 non confrontabile col palinsesto\n  • tolto «Benevento – Empoli» 20:00: nessun canale con due fonti: DAZN (solo tv_rights); orario 20:00 non confrontabile col palinsesto\n  • tolto «Cesena – Ascoli» 20:00: nessun canale con due fonti: DAZN (solo tv_rights); orario 20:00 non confrontabile col palinsesto\n  • tolto «Virtus Entella – Hellas Verona» 20:00: nessun canale con due fonti: DAZN (solo tv_rights); orario 20:00 non confrontabile col palinsesto\n  • tolto «Vicenza Virtus – Carrarese» 20:00: nessun canale con due fonti: DAZN (solo tv_rights); orario 20:00 non confrontabile col palinsesto\n  • tolto «Palermo – Sudtirol» 20:00: nessun canale con due fonti: DAZN (solo tv_rights); orario 20:00 non confrontabile col palinsesto\n  • … altri 2\n<pre>📺 Cosa guardi stasera: 11 dirette sport in TV\n\n• 18:45 Bodo/Glimt – Lask Linz · Sky Sport Arena, Sky Sport 255\n• 18:45 Galatasaray – Aston Villa · Sky Sport 254, Sky Sport Calcio\n• 19:00 Crvena Zvezda Meridianbet – Virtus Bologna · Sky Sport Max\n• 20:00 Como - AEK Atene · Sky Sport 253, Sky Sport 4K\n• 20:45 Lyon-Villeurbanne – Olimpia Milano · Sky Sport Basket\n\nOrari e canali della serata, sport per sport, su SportViewLens.\n📲 Scarica gratis SportViewLens: link in bio.\n\nSportViewLens non è affiliata con DAZN, Sky, RAI o altri broadcaster.\n🤖 Contenuto generato in automatico con IA dai palinsesti TV ufficiali.\n\n#SportViewLens #SportInTV #StaseraInTV</pre>\n\n<i>✅ OK: esce all'orario · ⏭️ Salta: non esce, contenuto legato a quella data · ✏️ Correggi: mi scrivi cosa cambiare · ↩️ Annulla: torna come prima. Nessun click = esce. Leggo i pulsanti ogni 15 minuti: decidi almeno 30 minuti prima.</i>"
+  }
+ },
+ "ultimo_update_id": null,
+ "anteprima_inviata_il": "2026-11-23T20:02:46+01:00",
+ "provvisorio": false
+}
