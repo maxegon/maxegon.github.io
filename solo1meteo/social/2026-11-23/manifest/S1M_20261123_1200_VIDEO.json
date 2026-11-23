@@ -5,14 +5,14 @@
   "ora_pubblicazione": "2026-11-23 12:00",
   "data_evento": "2026-11-24",
   "utm": "https://maxegon.github.io/meteo-stat-privacy/landing/?utm_source=tiktok&utm_medium=social&utm_campaign=s1m_2026w48&utm_content=S1M_20261123_1200_VIDEO",
-  "generato_il": "2026-11-22T20:02:24+01:00",
-  "provvisorio": true,
+  "generato_il": "2026-11-23T06:31:58+01:00",
+  "provvisorio": false,
   "giorno": "2026-11-23",
   "tema": "clima",
   "stato": "MEDIA_PRONTA",
   "motivo": null,
-  "testo_finale": "Domani a Napoli: 6 fonti, massime tra 15° e 16°, media 16°. Ogni numero del video viene dai dati del giorno. Scarica Solo1Meteo: link in bio. #meteo #solo1meteo #previsionimeteo #meteoitalia",
-  "concept_finale": "S1 gancio: Domani a Napoli: 15°-16° | S2 confronto: le 6 fonti una per una | S3 screenshot: schermata Previsioni | S4 cta: Scarica gratis Solo1Meteo",
+  "testo_finale": "Domani a Firenze: 8 fonti, massime tra 11° e 17°, media 14°. Ogni numero del video viene dai dati del giorno. Scarica Solo1Meteo: link in bio. #meteo #solo1meteo #previsionimeteo #meteoitalia",
+  "concept_finale": "S1 gancio: Domani a Firenze: 11°-17° | S2 confronto: le 8 fonti una per una | S3 screenshot: schermata Previsioni | S4 cta: Scarica gratis Solo1Meteo",
   "immagini": [
     "https://maxegon.github.io/solo1meteo/social/2026-11-23/S1M_20261123_1200_VIDEO/v1_gancio.png"
   ],
@@ -20,63 +20,75 @@
   "ig_media": [],
   "fb_photos": [],
   "dati": {
-    "citta": "Napoli",
+    "citta": "Firenze",
     "data_label": "martedì 24 novembre",
-    "fonti_n": 6,
-    "fonti_elencate": 6,
+    "fonti_n": 8,
+    "fonti_elencate": 8,
     "fonti_escluse": [],
-    "tmax_media": 16,
-    "tmax_min": 15,
-    "tmax_max": 16,
-    "tmin_media": 8,
-    "pioggia_media": 22,
-    "pioggia_min": 0,
-    "pioggia_max": 25,
-    "fonti_pioggia": 3,
+    "tmax_media": 14,
+    "tmax_min": 11,
+    "tmax_max": 17,
+    "tmin_media": 6,
+    "pioggia_media": 27,
+    "pioggia_min": 3,
+    "pioggia_max": 92,
+    "fonti_pioggia": 5,
     "condizione": "nuvoloso",
-    "fonti_condizione": 4,
-    "giorno_piu_incerto": "venerdì",
-    "scarto_tmax": 5,
-    "tmax_scarto_fonti": 1.4,
-    "tmax_disaccordo": false,
-    "pioggia_disaccordo": false,
-    "gancio_pioggia": "pioggia 22%"
+    "fonti_condizione": 7,
+    "giorno_piu_incerto": "sabato",
+    "scarto_tmax": 7,
+    "tmax_scarto_fonti": 5.9,
+    "tmax_disaccordo": true,
+    "pioggia_disaccordo": true,
+    "gancio_pioggia": "le fonti non sono d'accordo sulla pioggia, dal 3% al 92%"
   },
   "fonti": [
     {
+      "fonte": "Open-Meteo",
+      "tmax": 14.6,
+      "pioggia": 8,
+      "pioggia_metodo": "orario"
+    },
+    {
       "fonte": "OpenWeatherMap",
-      "tmax": 15.68,
-      "pioggia": 0,
+      "tmax": 16.89,
+      "pioggia": 92,
       "pioggia_metodo": "orario"
     },
     {
       "fonte": "WeatherAPI",
-      "tmax": 16.3,
-      "pioggia": 25,
+      "tmax": 14,
+      "pioggia": 27,
       "pioggia_metodo": "orario"
     },
     {
       "fonte": "MET Norway",
-      "tmax": 15.7,
+      "tmax": 14.8,
       "pioggia": null,
       "pioggia_metodo": null
     },
     {
       "fonte": "DWD",
-      "tmax": 16.4,
+      "tmax": 13.6,
       "pioggia": null,
       "pioggia_metodo": null
     },
     {
+      "fonte": "Visual Crossing",
+      "tmax": 13.7,
+      "pioggia": 3,
+      "pioggia_metodo": "orario"
+    },
+    {
       "fonte": "7Timer!",
-      "tmax": 15,
+      "tmax": 11,
       "pioggia": null,
       "pioggia_metodo": null
     },
     {
       "fonte": "Tomorrow.io",
-      "tmax": 15.77,
-      "pioggia": 0,
+      "tmax": 14.02,
+      "pioggia": 25,
       "pioggia_metodo": "orario"
     }
   ],
@@ -91,7 +103,7 @@
       {
         "nome": "fonti",
         "esito": "ok",
-        "dettaglio": "6 fonti su 8 per 2026-11-24 (minimo 6)"
+        "dettaglio": "8 fonti su 8 per 2026-11-24 (minimo 6)"
       },
       {
         "nome": "freschezza",
@@ -111,7 +123,7 @@
       {
         "nome": "scarto",
         "esito": "ok",
-        "dettaglio": "massime 15-16° (scarto 1°), pioggia 0-25% (scarto 25)"
+        "dettaglio": "massime 11-17° (scarto 6°), pioggia 3-92% (scarto 89) | disaccordo sulle massime: il gancio mostra l'intervallo; disaccordo sulla pioggia: il gancio lo dice"
       },
       {
         "nome": "giorno",
@@ -126,30 +138,58 @@
       {
         "nome": "posizione",
         "esito": "ok",
-        "dettaglio": "Napoli: citta fissa del piano, nessuna posizione dell'utente"
-      },
-      {
-        "nome": "citta",
-        "esito": "ok",
-        "dettaglio": "Firenze sostituita con Napoli: backend_risposta: risposta parziale o con errori: partial=True, errors=[]"
+        "dettaglio": "Firenze: citta fissa del piano, nessuna posizione dell'utente"
       }
     ],
     "fonti": [
-      "https://backend-eta-seven-21.vercel.app/weather?lat=40.85&lon=14.27",
+      "https://backend-eta-seven-21.vercel.app/weather?lat=43.77&lon=11.26",
+      "https://open-meteo.com",
       "https://openweathermap.org",
       "https://www.weatherapi.com",
       "https://api.met.no",
       "https://brightsky.dev",
+      "https://www.visualcrossing.com",
       "http://www.7timer.info",
       "https://www.tomorrow.io"
     ]
   },
-  "scaricato_il": "2026-11-22T20:02:50+01:00",
-  "citta_usata": "Napoli",
+  "scaricato_il": "2026-11-23T06:31:59+01:00",
+  "citta_usata": "Firenze",
   "anteprima": {
-    "testo": "Domani a Napoli: 6 fonti, massime tra 15° e 16°, media 16°. Ogni numero del video viene dai dati del giorno. Scarica Solo1Meteo: link in bio. #meteo #solo1meteo #previsionimeteo #meteoitalia",
+    "testo": "Domani a Firenze: 8 fonti, massime tra 11° e 17°, media 14°. Ogni numero del video viene dai dati del giorno. Scarica Solo1Meteo: link in bio. #meteo #solo1meteo #previsionimeteo #meteoitalia",
     "immagini": [
       "https://maxegon.github.io/solo1meteo/social/2026-11-23/S1M_20261123_1200_VIDEO/v1_gancio.png"
     ]
+  },
+  "cambio_serale": {
+    "tipo": "cambiata",
+    "motivo": "citta: Napoli -> Firenze",
+    "prima": {
+      "stato": "MEDIA_PRONTA",
+      "dati": {
+        "citta": "Napoli",
+        "data_label": "martedì 24 novembre",
+        "fonti_n": 6,
+        "fonti_elencate": 6,
+        "fonti_escluse": [],
+        "tmax_media": 16,
+        "tmax_min": 15,
+        "tmax_max": 16,
+        "tmin_media": 8,
+        "pioggia_media": 22,
+        "pioggia_min": 0,
+        "pioggia_max": 25,
+        "fonti_pioggia": 3,
+        "condizione": "nuvoloso",
+        "fonti_condizione": 4,
+        "giorno_piu_incerto": "venerdì",
+        "scarto_tmax": 5,
+        "tmax_scarto_fonti": 1.4,
+        "tmax_disaccordo": false,
+        "pioggia_disaccordo": false,
+        "gancio_pioggia": "pioggia 22%"
+      },
+      "generato_il": "2026-11-22T20:02:24+01:00"
+    }
   }
 }
