@@ -1,0 +1,124 @@
+{
+ "data_evento": "2026-11-24",
+ "data_lunga": "Martedì 24 novembre",
+ "categoria": "stasera_tv",
+ "tema": 0,
+ "eventi": [
+  {
+   "data": "2026-11-24",
+   "ora": "18:45",
+   "titolo": "Bodo/Glimt – Lask Linz",
+   "competizione": "Champions League",
+   "sport": "soccer",
+   "canali": [
+    "Sky Sport Arena",
+    "Sky Sport 255"
+   ]
+  },
+  {
+   "data": "2026-11-24",
+   "ora": "18:45",
+   "titolo": "Galatasaray – Aston Villa",
+   "competizione": "Champions League",
+   "sport": "soccer",
+   "canali": [
+    "Sky Sport 254",
+    "Sky Sport Calcio"
+   ]
+  },
+  {
+   "data": "2026-11-24",
+   "ora": "19:00",
+   "titolo": "Crvena Zvezda Meridianbet – Virtus Bologna",
+   "competizione": "Eurolega",
+   "sport": "basket",
+   "canali": [
+    "Sky Sport Max"
+   ]
+  },
+  {
+   "data": "2026-11-24",
+   "ora": "20:00",
+   "titolo": "Como - AEK Atene",
+   "competizione": "UEFA Champions League",
+   "sport": "soccer",
+   "canali": [
+    "Sky Sport 253",
+    "Sky Sport 4K"
+   ]
+  },
+  {
+   "data": "2026-11-24",
+   "ora": "20:45",
+   "titolo": "Lyon-Villeurbanne – Olimpia Milano",
+   "competizione": "Eurolega",
+   "sport": "basket",
+   "canali": [
+    "Sky Sport Basket"
+   ]
+  },
+  {
+   "data": "2026-11-24",
+   "ora": "21:00",
+   "titolo": "Arsenal – Borussia Dortmund",
+   "competizione": "Champions League",
+   "sport": "soccer",
+   "canali": [
+    "Sky Sport 254",
+    "Sky Sport Calcio"
+   ]
+  },
+  {
+   "data": "2026-11-24",
+   "ora": "21:00",
+   "titolo": "Como – AEK Athens FC",
+   "competizione": "Champions League",
+   "sport": "soccer",
+   "canali": [
+    "Sky Sport"
+   ]
+  },
+  {
+   "data": "2026-11-24",
+   "ora": "21:00",
+   "titolo": "Feyenoord – FC Porto",
+   "competizione": "Champions League",
+   "sport": "soccer",
+   "canali": [
+    "Sky Sport 256"
+   ]
+  },
+  {
+   "data": "2026-11-24",
+   "ora": "21:00",
+   "titolo": "Manchester City – Napoli",
+   "competizione": "Champions League",
+   "sport": "soccer",
+   "canali": [
+    "Sky Sport 252",
+    "Sky Sport Uno"
+   ]
+  },
+  {
+   "data": "2026-11-24",
+   "ora": "21:00",
+   "titolo": "Real Madrid – PSV Eindhoven",
+   "competizione": "Champions League",
+   "sport": "soccer",
+   "canali": [
+    "Sky Sport Mix",
+    "Sky Sport 255"
+   ]
+  },
+  {
+   "data": "2026-11-24",
+   "ora": "21:00",
+   "titolo": "Slovan Bratislava – Real Betis",
+   "competizione": "Champions League",
+   "sport": "soccer",
+   "canali": [
+    "Sky Sport 258"
+   ]
+  }
+ ]
+}
