@@ -1,0 +1,182 @@
+{
+  "data": "2026-11-24",
+  "generato_il": "2026-11-23T19:01:54+00:00",
+  "piano": "marketing/piano_4_settimane.csv",
+  "righe": [
+    {
+      "id": "SHV_20261124_1930_STORY",
+      "piattaforma": "Instagram / FB Stories",
+      "formato": "Storia",
+      "categoria": "concerti",
+      "pubblica_alle": "2026-11-24T19:30:00+01:00",
+      "tema": "notte",
+      "scartati": [],
+      "doppioni_rimossi": 4,
+      "verifica_eventi": [
+        {
+          "evento": "Shiva",
+          "data": "2026-11-24",
+          "ora": "21:00",
+          "citta": "Napoli",
+          "fonte": "ticketone",
+          "esito": "ok",
+          "rinforzato": false,
+          "controlli": [
+            {
+              "nome": "orario",
+              "esito": "ok",
+              "dettaglio": "21:00"
+            },
+            {
+              "nome": "titolo",
+              "esito": "ok",
+              "dettaglio": "nessuna etichetta di abbonamento"
+            },
+            {
+              "nome": "biglietteria",
+              "esito": "ok",
+              "dettaglio": "TicketOne (blocca i bot): URL ben formato, visto nell ultimo giro (missing_count=0, fonte aggiornata da meno di 36 h)"
+            },
+            {
+              "nome": "serie",
+              "esito": "ok",
+              "dettaglio": "2 date della produzione, nessuna anomalia in testa alla serie"
+            }
+          ],
+          "fonti": [
+            "https://www.ticketone.it/event/shiva-live-2026-teatro-palapartenope-21718880/"
+          ]
+        },
+        {
+          "evento": "Ivan Granatino '80, '90 e Mo'",
+          "data": "2026-11-25",
+          "ora": "21:00",
+          "citta": "Napoli",
+          "fonte": "vivaticket",
+          "esito": "ok",
+          "rinforzato": false,
+          "controlli": [
+            {
+              "nome": "orario",
+              "esito": "ok",
+              "dettaglio": "21:00"
+            },
+            {
+              "nome": "titolo",
+              "esito": "ok",
+              "dettaglio": "nessuna etichetta di abbonamento"
+            },
+            {
+              "nome": "biglietteria",
+              "esito": "ok",
+              "dettaglio": "Vivaticket: replica letta dall API pubblica"
+            },
+            {
+              "nome": "pagina",
+              "esito": "ok",
+              "dettaglio": "titolo, citta, data e ora coincidono (2026-11-25 21:00, NAPOLI)"
+            },
+            {
+              "nome": "serie",
+              "esito": "ok",
+              "dettaglio": "2 date della produzione, nessuna anomalia in testa alla serie"
+            }
+          ],
+          "fonti": [
+            "https://shop.vivaticket.com/it/sell/?cmd=prices&pcode=14106552&tcode=vt0006268"
+          ]
+        },
+        {
+          "evento": "Volatis - del Portar la Voce al Cor - Cosimo Morleo, Max Fuschetto e Enzo Oliva",
+          "data": "2026-11-27",
+          "ora": "19:00",
+          "citta": "Napoli",
+          "fonte": "vivaticket",
+          "esito": "ok",
+          "rinforzato": false,
+          "controlli": [
+            {
+              "nome": "orario",
+              "esito": "ok",
+              "dettaglio": "19:00"
+            },
+            {
+              "nome": "titolo",
+              "esito": "ok",
+              "dettaglio": "nessuna etichetta di abbonamento"
+            },
+            {
+              "nome": "biglietteria",
+              "esito": "ok",
+              "dettaglio": "Vivaticket: replica letta dall API pubblica"
+            },
+            {
+              "nome": "pagina",
+              "esito": "ok",
+              "dettaglio": "titolo, citta, data e ora coincidono (2026-11-27 19:00, NAPOLI)"
+            },
+            {
+              "nome": "serie",
+              "esito": "ok",
+              "dettaglio": "1 date della produzione, nessuna anomalia in testa alla serie"
+            }
+          ],
+          "fonti": [
+            "https://www.vivaticket.com/it/ticket/volatis-del-portar-la-voce-al-cor-cosimo-morleo-max-fuschetto-e-enzo-oliva/325892"
+          ]
+        }
+      ],
+      "stato": "PRONTO",
+      "testo_finale": "🎤 Concerti in Campania questa settimana\n\n1. Shiva · Teatro Palapartenope · mar 24/11 · 21:00\n2. Ivan Granatino '80, '90 e Mo' · Teatro Trianon Viviani · mer 25/11 · 21:00\n3. Volatis - del Portar la Voce al Cor - Cosimo Morleo, Max Fuschetto e… · Domus Ars - Fondazione Canto di Virgilio · ven 27/11 · 19:00\n\nCerca «ShowViewLens» su App Store e Google Play.\n#ShowViewLens",
+      "titolo_slide": "Concerti in Campania questa settimana",
+      "eventi": [
+        "Shiva",
+        "Ivan Granatino '80, '90 e Mo'",
+        "Volatis - del Portar la Voce al Cor - Cosimo Morleo, Max Fuschetto e Enzo Oliva"
+      ],
+      "conteggio": 9,
+      "file": [
+        "https://maxegon.github.io/showviewlens/social/2026-11-24/SHV_20261124_1930_STORY/01_storia.jpg"
+      ],
+      "utm": "https://maxegon.github.io/showviewlens/download/?utm_source=instagram&utm_medium=story&utm_campaign=piano_2026_12&utm_content=SHV_20261124_1930_STORY",
+      "verifica": {
+        "esito": "ok",
+        "controlli": [
+          {
+            "nome": "eventi nel post",
+            "esito": "ok",
+            "dettaglio": "3 eventi verificati ok, 0 tolti, su 9 candidati"
+          }
+        ],
+        "fonti": [
+          "https://www.ticketone.it/event/shiva-live-2026-teatro-palapartenope-21718880/",
+          "https://shop.vivaticket.com/it/sell/?cmd=prices&pcode=14106552&tcode=vt0006268",
+          "https://www.vivaticket.com/it/ticket/volatis-del-portar-la-voce-al-cor-cosimo-morleo-max-fuschetto-e-enzo-oliva/325892"
+        ]
+      },
+      "anteprima": {
+        "testo": "🎤 Concerti in Campania questa settimana\n\n1. Shiva · Teatro Palapartenope · mar 24/11 · 21:00\n2. Ivan Granatino '80, '90 e Mo' · Teatro Trianon Viviani · mer 25/11 · 21:00\n3. Volatis - del Portar la Voce al Cor - Cosimo Morleo, Max Fuschetto e… · Domus Ars - Fondazione Canto di Virgilio · ven 27/11 · 19:00\n\nCerca «ShowViewLens» su App Store e Google Play.\n#ShowViewLens",
+        "immagini": [
+          "https://maxegon.github.io/showviewlens/social/2026-11-24/SHV_20261124_1930_STORY/01_storia.jpg"
+        ]
+      },
+      "ig_media": [
+        {
+          "media_type": "IMAGE",
+          "image_url": "https://maxegon.github.io/showviewlens/social/2026-11-24/SHV_20261124_1930_STORY/01_storia.jpg"
+        }
+      ],
+      "fb_photos": [
+        {
+          "type": "url",
+          "url": "https://maxegon.github.io/showviewlens/social/2026-11-24/SHV_20261124_1930_STORY/01_storia.jpg"
+        }
+      ],
+      "slot": "SHV_20261124_1930_STORY",
+      "ora_pubblicazione": "2026-11-24 19:30",
+      "immagini": [
+        "https://maxegon.github.io/showviewlens/social/2026-11-24/SHV_20261124_1930_STORY/01_storia.jpg"
+      ]
+    }
+  ]
+}
