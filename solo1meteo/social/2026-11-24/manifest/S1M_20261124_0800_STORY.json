@@ -1,0 +1,124 @@
+{
+  "slot": "S1M_20261124_0800_STORY",
+  "piattaforma": "Instagram / FB",
+  "formato": "Storia",
+  "ora_pubblicazione": "2026-11-24 08:00",
+  "data_evento": "2026-11-24",
+  "utm": "https://maxegon.github.io/meteo-stat-privacy/landing/?utm_source=instagram&utm_medium=social&utm_campaign=s1m_2026w48&utm_content=S1M_20261124_0800_STORY",
+  "generato_il": "2026-11-23T20:02:33+01:00",
+  "provvisorio": true,
+  "stato": "SALTATO_VERIFICA",
+  "motivo": "verifica dei dati non superata: allerte: allerta meteo attiva (Giallo Neve-ghiaccio Allerta; Giallo Neve-ghiaccio Allerta; Giallo Neve-ghiaccio Allerta) e nessun ente citato nel post",
+  "verifica": {
+    "esito": "dubbio",
+    "controlli": [
+      {
+        "nome": "backend",
+        "esito": "ok",
+        "dettaglio": "/health = healthy"
+      },
+      {
+        "nome": "fonti",
+        "esito": "ok",
+        "dettaglio": "8 fonti su 8 per 2026-11-24 (minimo 6)"
+      },
+      {
+        "nome": "fonti_pioggia",
+        "esito": "ok",
+        "dettaglio": "5 fonti con il dato di pioggia (minimo 3)"
+      },
+      {
+        "nome": "freschezza",
+        "esito": "ok",
+        "dettaglio": "dato scaricato 0 minuti prima del rendering (massimo 3 ore, cache backend 10 minuti)"
+      },
+      {
+        "nome": "calcolo_app",
+        "esito": "ok",
+        "dettaglio": "copia del calcolo dell'app sha f8de55e39310 (submodule assente in CI) | codice dell'app (buildAggregateDays)"
+      },
+      {
+        "nome": "numeri_testo",
+        "esito": "ok",
+        "dettaglio": "tutti i numeri con ° o % sono quelli calcolati come nell'app"
+      },
+      {
+        "nome": "scarto",
+        "esito": "ok",
+        "dettaglio": "massime 8-12° (scarto 4°), pioggia 50-100% (scarto 50) | disaccordo sulla pioggia: il gancio lo dice"
+      },
+      {
+        "nome": "giorno",
+        "esito": "ok",
+        "dettaglio": "giorno citato = martedì 2026-11-24"
+      },
+      {
+        "nome": "allerte",
+        "esito": "dubbio",
+        "dettaglio": "allerta meteo attiva (Giallo Neve-ghiaccio Allerta; Giallo Neve-ghiaccio Allerta; Giallo Neve-ghiaccio Allerta) e nessun ente citato nel post"
+      },
+      {
+        "nome": "posizione",
+        "esito": "ok",
+        "dettaglio": "Milano: citta fissa del piano, nessuna posizione dell'utente"
+      }
+    ],
+    "fonti": [
+      "https://backend-eta-seven-21.vercel.app/weather?lat=45.46&lon=9.19",
+      "https://open-meteo.com",
+      "https://openweathermap.org",
+      "https://www.weatherapi.com",
+      "https://api.met.no",
+      "https://brightsky.dev",
+      "https://www.visualcrossing.com",
+      "http://www.7timer.info",
+      "https://www.tomorrow.io"
+    ]
+  },
+  "tentativi": [
+    {
+      "citta": "Milano",
+      "esito": "verifica",
+      "motivo": "allerte: allerta meteo attiva (Giallo Neve-ghiaccio Allerta; Giallo Neve-ghiaccio Allerta; Giallo Neve-ghiaccio Allerta) e nessun ente citato nel post"
+    },
+    {
+      "citta": "Roma",
+      "esito": "verifica",
+      "motivo": "allerte: allerta meteo attiva (Giallo Neve-ghiaccio Allerta; Giallo Neve-ghiaccio Allerta; Giallo Neve-ghiaccio Allerta) e nessun ente citato nel post"
+    },
+    {
+      "citta": "Napoli",
+      "esito": "verifica",
+      "motivo": "allerte: allerta meteo attiva (Giallo Neve-ghiaccio Allerta; Giallo Neve-ghiaccio Allerta; Giallo Neve-ghiaccio Allerta) e nessun ente citato nel post"
+    },
+    {
+      "citta": "Torino",
+      "esito": "verifica",
+      "motivo": "allerte: allerta meteo attiva (Giallo Neve-ghiaccio Allerta; Giallo Neve-ghiaccio Allerta; Giallo Neve-ghiaccio Allerta) e nessun ente citato nel post"
+    }
+  ],
+  "dati_scartati": {
+    "citta": "Milano",
+    "data_label": "martedì 24 novembre",
+    "fonti_n": 8,
+    "fonti_elencate": 8,
+    "fonti_escluse": [],
+    "tmax_media": 10,
+    "tmax_min": 8,
+    "tmax_max": 12,
+    "tmin_media": 6,
+    "pioggia_media": 75,
+    "pioggia_min": 50,
+    "pioggia_max": 100,
+    "fonti_pioggia": 5,
+    "condizione": "nuvoloso",
+    "fonti_condizione": 5,
+    "giorno_piu_incerto": "mercoledì",
+    "scarto_tmax": 4,
+    "tmax_scarto_fonti": 3.7,
+    "tmax_disaccordo": false,
+    "pioggia_disaccordo": true,
+    "gancio_pioggia": "le fonti non sono d'accordo sulla pioggia, dal 50% al 100%"
+  },
+  "giorno": "2026-11-24"
+}
