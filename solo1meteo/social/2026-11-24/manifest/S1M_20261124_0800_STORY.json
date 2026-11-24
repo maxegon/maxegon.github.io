@@ -5,8 +5,8 @@
   "ora_pubblicazione": "2026-11-24 08:00",
   "data_evento": "2026-11-24",
   "utm": "https://maxegon.github.io/meteo-stat-privacy/landing/?utm_source=instagram&utm_medium=social&utm_campaign=s1m_2026w48&utm_content=S1M_20261124_0800_STORY",
-  "generato_il": "2026-11-23T20:02:33+01:00",
-  "provvisorio": true,
+  "generato_il": "2026-11-24T06:32:04+01:00",
+  "provvisorio": false,
   "stato": "SALTATO_VERIFICA",
   "motivo": "verifica dei dati non superata: allerte: allerta meteo attiva (Giallo Neve-ghiaccio Allerta; Giallo Neve-ghiaccio Allerta; Giallo Neve-ghiaccio Allerta) e nessun ente citato nel post",
   "verifica": {
@@ -45,7 +45,7 @@
       {
         "nome": "scarto",
         "esito": "ok",
-        "dettaglio": "massime 8-12° (scarto 4°), pioggia 50-100% (scarto 50) | disaccordo sulla pioggia: il gancio lo dice"
+        "dettaglio": "massime 9-12° (scarto 3°), pioggia 45-100% (scarto 55) | disaccordo sulla pioggia: il gancio lo dice"
       },
       {
         "nome": "giorno",
@@ -104,21 +104,25 @@
     "fonti_elencate": 8,
     "fonti_escluse": [],
     "tmax_media": 10,
-    "tmax_min": 8,
+    "tmax_min": 9,
     "tmax_max": 12,
-    "tmin_media": 6,
-    "pioggia_media": 75,
-    "pioggia_min": 50,
+    "tmin_media": 7,
+    "pioggia_media": 72,
+    "pioggia_min": 45,
     "pioggia_max": 100,
     "fonti_pioggia": 5,
     "condizione": "nuvoloso",
-    "fonti_condizione": 5,
-    "giorno_piu_incerto": "mercoledì",
-    "scarto_tmax": 4,
-    "tmax_scarto_fonti": 3.7,
+    "fonti_condizione": 4,
+    "giorno_piu_incerto": "domenica",
+    "scarto_tmax": 8,
+    "tmax_scarto_fonti": 3.1,
     "tmax_disaccordo": false,
     "pioggia_disaccordo": true,
-    "gancio_pioggia": "le fonti non sono d'accordo sulla pioggia, dal 50% al 100%"
+    "gancio_pioggia": "le fonti non sono d'accordo sulla pioggia, dal 45% al 100%"
   },
-  "giorno": "2026-11-24"
+  "giorno": "2026-11-24",
+  "cambio_serale": {
+    "tipo": "invariata",
+    "motivo": ""
+  }
 }

@@ -16,8 +16,8 @@
       "ora_pubblicazione": "2026-11-24 08:00",
       "data_evento": "2026-11-24",
       "utm": "https://maxegon.github.io/meteo-stat-privacy/landing/?utm_source=instagram&utm_medium=social&utm_campaign=s1m_2026w48&utm_content=S1M_20261124_0800_STORY",
-      "generato_il": "2026-11-23T20:02:33+01:00",
-      "provvisorio": true,
+      "generato_il": "2026-11-24T06:32:04+01:00",
+      "provvisorio": false,
       "stato": "SALTATO_VERIFICA",
       "motivo": "verifica dei dati non superata: allerte: allerta meteo attiva (Giallo Neve-ghiaccio Allerta; Giallo Neve-ghiaccio Allerta; Giallo Neve-ghiaccio Allerta) e nessun ente citato nel post",
       "verifica": {
@@ -56,7 +56,7 @@
           {
             "nome": "scarto",
             "esito": "ok",
-            "dettaglio": "massime 8-12° (scarto 4°), pioggia 50-100% (scarto 50) | disaccordo sulla pioggia: il gancio lo dice"
+            "dettaglio": "massime 9-12° (scarto 3°), pioggia 45-100% (scarto 55) | disaccordo sulla pioggia: il gancio lo dice"
           },
           {
             "nome": "giorno",
@@ -115,23 +115,27 @@
         "fonti_elencate": 8,
         "fonti_escluse": [],
         "tmax_media": 10,
-        "tmax_min": 8,
+        "tmax_min": 9,
         "tmax_max": 12,
-        "tmin_media": 6,
-        "pioggia_media": 75,
-        "pioggia_min": 50,
+        "tmin_media": 7,
+        "pioggia_media": 72,
+        "pioggia_min": 45,
         "pioggia_max": 100,
         "fonti_pioggia": 5,
         "condizione": "nuvoloso",
-        "fonti_condizione": 5,
-        "giorno_piu_incerto": "mercoledì",
-        "scarto_tmax": 4,
-        "tmax_scarto_fonti": 3.7,
+        "fonti_condizione": 4,
+        "giorno_piu_incerto": "domenica",
+        "scarto_tmax": 8,
+        "tmax_scarto_fonti": 3.1,
         "tmax_disaccordo": false,
         "pioggia_disaccordo": true,
-        "gancio_pioggia": "le fonti non sono d'accordo sulla pioggia, dal 50% al 100%"
+        "gancio_pioggia": "le fonti non sono d'accordo sulla pioggia, dal 45% al 100%"
       },
-      "giorno": "2026-11-24"
+      "giorno": "2026-11-24",
+      "cambio_serale": {
+        "tipo": "invariata",
+        "motivo": ""
+      }
     },
     {
       "slot": "S1M_20261124_1800_VIDEO",
@@ -140,14 +144,14 @@
       "ora_pubblicazione": "2026-11-24 18:00",
       "data_evento": "2026-11-25",
       "utm": "https://maxegon.github.io/meteo-stat-privacy/landing/?utm_source=tiktok&utm_medium=social&utm_campaign=s1m_2026w48&utm_content=S1M_20261124_1800_VIDEO",
-      "generato_il": "2026-11-23T20:02:38+01:00",
-      "provvisorio": true,
+      "generato_il": "2026-11-24T06:32:10+01:00",
+      "provvisorio": false,
       "giorno": "2026-11-24",
       "tema": "cielo",
       "stato": "MEDIA_PRONTA",
       "motivo": null,
-      "testo_finale": "Domani a Palermo: 7 fonti, massime tra 20° e 23°, media 21°. Ogni numero del video viene dai dati del giorno. Scarica Solo1Meteo: link in bio. #meteo #solo1meteo #previsionimeteo #meteoitalia",
-      "concept_finale": "S1 gancio: Domani a Palermo: 20°-23° | S2 confronto: le 7 fonti una per una | S3 screenshot: schermata Previsioni | S4 cta: Scarica gratis Solo1Meteo",
+      "testo_finale": "Domani a Palermo: 8 fonti, massime tra 20° e 24°, media 22°. Ogni numero del video viene dai dati del giorno. Scarica Solo1Meteo: link in bio. #meteo #solo1meteo #previsionimeteo #meteoitalia",
+      "concept_finale": "S1 gancio: Domani a Palermo: 20°-24° | S2 confronto: le 8 fonti una per una | S3 screenshot: schermata Previsioni | S4 cta: Scarica gratis Solo1Meteo",
       "immagini": [
         "https://maxegon.github.io/solo1meteo/social/2026-11-24/S1M_20261124_1800_VIDEO/v1_gancio.png"
       ],
@@ -157,67 +161,73 @@
       "dati": {
         "citta": "Palermo",
         "data_label": "mercoledì 25 novembre",
-        "fonti_n": 7,
-        "fonti_elencate": 7,
+        "fonti_n": 8,
+        "fonti_elencate": 8,
         "fonti_escluse": [],
-        "tmax_media": 21,
+        "tmax_media": 22,
         "tmax_min": 20,
-        "tmax_max": 23,
-        "tmin_media": 14,
-        "pioggia_media": 31,
-        "pioggia_min": 0,
-        "pioggia_max": 36,
-        "fonti_pioggia": 4,
+        "tmax_max": 24,
+        "tmin_media": 15,
+        "pioggia_media": 32,
+        "pioggia_min": 5,
+        "pioggia_max": 70,
+        "fonti_pioggia": 5,
         "condizione": "nuvoloso",
-        "fonti_condizione": 5,
-        "giorno_piu_incerto": "mercoledì",
-        "scarto_tmax": 3,
-        "tmax_scarto_fonti": 3.4,
+        "fonti_condizione": 7,
+        "giorno_piu_incerto": "domenica",
+        "scarto_tmax": 4,
+        "tmax_scarto_fonti": 3.9,
         "tmax_disaccordo": false,
         "pioggia_disaccordo": true,
-        "gancio_pioggia": "le fonti non sono d'accordo sulla pioggia, dal 0% al 36%"
+        "gancio_pioggia": "le fonti non sono d'accordo sulla pioggia, dal 5% al 70%"
       },
       "fonti": [
         {
           "fonte": "Open-Meteo",
-          "tmax": 23.4,
-          "pioggia": 36,
+          "tmax": 23.1,
+          "pioggia": 5,
           "pioggia_metodo": "orario"
         },
         {
           "fonte": "OpenWeatherMap",
-          "tmax": 20.8,
-          "pioggia": 0,
+          "tmax": 23.94,
+          "pioggia": 70,
           "pioggia_metodo": "orario"
         },
         {
           "fonte": "WeatherAPI",
-          "tmax": 20.9,
-          "pioggia": 30,
+          "tmax": 20.8,
+          "pioggia": 29,
           "pioggia_metodo": "orario"
         },
         {
           "fonte": "MET Norway",
-          "tmax": 22.8,
+          "tmax": 23.4,
           "pioggia": null,
           "pioggia_metodo": null
         },
         {
           "fonte": "DWD",
-          "tmax": 22,
+          "tmax": 22.2,
           "pioggia": null,
           "pioggia_metodo": null
         },
         {
+          "fonte": "Visual Crossing",
+          "tmax": 21.1,
+          "pioggia": 52,
+          "pioggia_metodo": "orario"
+        },
+        {
           "fonte": "7Timer!",
-          "tmax": 21,
+          "tmax": 20,
           "pioggia": null,
           "pioggia_metodo": null
         },
         {
           "fonte": "Tomorrow.io",
-          "tmax": 20.03,
-          "pioggia": 0,
+          "tmax": 20.41,
+          "pioggia": 35,
           "pioggia_metodo": "orario"
         }
       ],
@@ -232,7 +242,7 @@
           {
             "nome": "fonti",
             "esito": "ok",
-            "dettaglio": "7 fonti su 8 per 2026-11-25 (minimo 6)"
+            "dettaglio": "8 fonti su 8 per 2026-11-25 (minimo 6)"
           },
           {
             "nome": "freschezza",
@@ -252,7 +262,7 @@
           {
             "nome": "scarto",
             "esito": "ok",
-            "dettaglio": "massime 20-23° (scarto 3°), pioggia 0-36% (scarto 36) | disaccordo sulla pioggia: il gancio lo dice"
+            "dettaglio": "massime 20-24° (scarto 4°), pioggia 5-70% (scarto 65) | disaccordo sulla pioggia: il gancio lo dice"
           },
           {
             "nome": "giorno",
@@ -277,17 +287,22 @@
           "https://www.weatherapi.com",
           "https://api.met.no",
           "https://brightsky.dev",
+          "https://www.visualcrossing.com",
           "http://www.7timer.info",
           "https://www.tomorrow.io"
         ]
       },
-      "scaricato_il": "2026-11-23T20:02:40+01:00",
+      "scaricato_il": "2026-11-24T06:32:12+01:00",
       "citta_usata": "Palermo",
       "anteprima": {
-        "testo": "Domani a Palermo: 7 fonti, massime tra 20° e 23°, media 21°. Ogni numero del video viene dai dati del giorno. Scarica Solo1Meteo: link in bio. #meteo #solo1meteo #previsionimeteo #meteoitalia",
+        "testo": "Domani a Palermo: 8 fonti, massime tra 20° e 24°, media 22°. Ogni numero del video viene dai dati del giorno. Scarica Solo1Meteo: link in bio. #meteo #solo1meteo #previsionimeteo #meteoitalia",
         "immagini": [
           "https://maxegon.github.io/solo1meteo/social/2026-11-24/S1M_20261124_1800_VIDEO/v1_gancio.png"
         ]
+      },
+      "cambio_serale": {
+        "tipo": "invariata",
+        "motivo": ""
       }
     }
   ]
