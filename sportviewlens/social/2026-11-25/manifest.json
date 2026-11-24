@@ -1,0 +1,139 @@
+{
+ "generato": "2026-11-24T19:01:54+00:00",
+ "data_pubblicazione": "2026-11-25",
+ "base_url": "https://maxegon.github.io/sportviewlens/social/2026-11-25",
+ "righe": [
+  {
+   "Giorno_Slot": "SVL_20261125_1830_VID",
+   "Formato": "Video",
+   "Piattaforma": "Instagram / FB + TikTok",
+   "Ora": "18:30",
+   "Categoria": "stasera_tv",
+   "Data_Evento": "2026-11-25",
+   "UTM": "https://maxegon.github.io/sportviewlens/download/?utm_source=instagram&utm_medium=reel&utm_campaign=stasera_tv&utm_content=SVL_20261125_1830_VID",
+   "note": [],
+   "verifica": {
+    "esito": "dubbio",
+    "controlli": [
+     {
+      "nome": "eventi nel post",
+      "esito": "ok",
+      "dettaglio": "9 eventi verificati ok, 9 tolti, su 18 candidati dell'app"
+     },
+     {
+      "nome": "tolto «Scandicci W – Tovuz W» 18:30",
+      "esito": "dubbio",
+      "dettaglio": "nessuna riga di tv_rights per volley / «Champions League Volley Femminile»; nessun canale con due fonti: Sky Sport Arena (nessuna fonte); DAZN (nessuna fonte); orario 18:30 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Sabah FA – Barcelona» 18:45",
+      "esito": "dubbio",
+      "dettaglio": "nessun canale con due fonti: Sky Sport 253 (solo tv_rights); Sky Sport Calcio (solo tv_rights); NOW (solo tv_rights); orario 18:45 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Cremonese – Avellino» 19:00",
+      "esito": "dubbio",
+      "dettaglio": "nessun canale con due fonti: DAZN (solo tv_rights); orario 19:00 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Mantova – Arezzo» 20:00",
+      "esito": "dubbio",
+      "dettaglio": "nessun canale con due fonti: DAZN (solo tv_rights); orario 20:00 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Padova – Sampdoria» 20:00",
+      "esito": "dubbio",
+      "dettaglio": "nessun canale con due fonti: DAZN (solo tv_rights); orario 20:00 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Pisa – Modena» 20:00",
+      "esito": "dubbio",
+      "dettaglio": "nessun canale con due fonti: DAZN (solo tv_rights); orario 20:00 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Club Brugge KV – Liverpool» 21:00",
+      "esito": "dubbio",
+      "dettaglio": "nessun canale con due fonti: Sky Sport (solo tv_rights); orario 21:00 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Paris Saint Germain – AS Roma» 21:00",
+      "esito": "dubbio",
+      "dettaglio": "nessun canale con due fonti: Amazon Prime Video (solo tv_rights); orario 21:00 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Pallanuoto. Serie A1 maschile: Savona » 19:50",
+      "esito": "dubbio",
+      "dettaglio": "nessuna riga di tv_rights per water_polo / «Serie A1 Femminile»; nessun canale con due fonti: Rai Sport (solo palinsesto); orario 19:50 non confrontabile col palinsesto"
+     }
+    ],
+    "fonti": [
+     "https://sport.sky.it/calcio",
+     "supabase:tv_epg_cache?date=eq.2026-11-25",
+     "supabase:tv_rights?active=eq.true",
+     "https://www.raiplay.it/dirette/raisport",
+     "https://sport.sky.it/basket",
+     "https://www.tv8.it",
+     "https://sport.sky.it/nba"
+    ]
+   },
+   "tema": "notte",
+   "Stato": "PRONTO",
+   "Testo_Post_Completo": "🎬 Stasera si guarda sport: 9 dirette\n\n• 18:45 Slavia Praha – Villarreal · Sky Sport 254\n• 19:20 Salto con gli sci: Coppa del Mondo 2026/27 - Lillehammer gara 1 · Rai Sport\n• 20:15 Olympiacos – Hapoel Tel Aviv · Sky Sport Mix\n• 21:00 Atletico Madrid – Viking · Sky Sport 256\n• 21:00 Inter – VfB Stuttgart · Sky Sport 252, Sky Sport Uno\n\n📲 Scarica gratis SportViewLens: link in bio.\n\nSportViewLens non è affiliata con DAZN, Sky, RAI o altri broadcaster.\n🤖 Contenuto generato in automatico con IA dai palinsesti TV ufficiali.\n\n#SportViewLens #SportInTV #StaseraInTV",
+   "eventi": [
+    "Slavia Praha – Villarreal",
+    "Salto con gli sci: Coppa del Mondo 2026/27 - Lillehammer gara 1",
+    "Olympiacos – Hapoel Tel Aviv",
+    "Atletico Madrid – Viking",
+    "Inter – VfB Stuttgart",
+    "Lille – Bayern München",
+    "Shakhtar Donetsk – Fenerbahçe",
+    "Sporting CP – Manchester United",
+    "Philadelphia 76ers – Miami Heat"
+   ],
+   "conteggio": 9,
+   "file": [
+    "https://maxegon.github.io/sportviewlens/social/2026-11-25/SVL_20261125_1830_VID/video.mp4",
+    "https://maxegon.github.io/sportviewlens/social/2026-11-25/SVL_20261125_1830_VID/frames/v1_gancio.png"
+   ],
+   "anteprima": {
+    "testo": "🎬 Stasera si guarda sport: 9 dirette\n\n• 18:45 Slavia Praha – Villarreal · Sky Sport 254\n• 19:20 Salto con gli sci: Coppa del Mondo 2026/27 - Lillehammer gara 1 · Rai Sport\n• 20:15 Olympiacos – Hapoel Tel Aviv · Sky Sport Mix\n• 21:00 Atletico Madrid – Viking · Sky Sport 256\n• 21:00 Inter – VfB Stuttgart · Sky Sport 252, Sky Sport Uno\n\n📲 Scarica gratis SportViewLens: link in bio.\n\nSportViewLens non è affiliata con DAZN, Sky, RAI o altri broadcaster.\n🤖 Contenuto generato in automatico con IA dai palinsesti TV ufficiali.\n\n#SportViewLens #SportInTV #StaseraInTV",
+    "immagini": [
+     "https://maxegon.github.io/sportviewlens/social/2026-11-25/SVL_20261125_1830_VID/frames/v1_gancio.png"
+    ]
+   },
+   "id": "SVL_20261125_1830_VID",
+   "stato": "PRONTO",
+   "formato": "Video",
+   "piattaforma": "Instagram / FB + TikTok",
+   "utm": "https://maxegon.github.io/sportviewlens/download/?utm_source=instagram&utm_medium=reel&utm_campaign=stasera_tv&utm_content=SVL_20261125_1830_VID",
+   "pubblica_alle": "2026-11-25T18:30+01:00",
+   "testo_finale": "🎬 Stasera si guarda sport: 9 dirette\n\n• 18:45 Slavia Praha – Villarreal · Sky Sport 254\n• 19:20 Salto con gli sci: Coppa del Mondo 2026/27 - Lillehammer gara 1 · Rai Sport\n• 20:15 Olympiacos – Hapoel Tel Aviv · Sky Sport Mix\n• 21:00 Atletico Madrid – Viking · Sky Sport 256\n• 21:00 Inter – VfB Stuttgart · Sky Sport 252, Sky Sport Uno\n\n📲 Scarica gratis SportViewLens: link in bio.\n\nSportViewLens non è affiliata con DAZN, Sky, RAI o altri broadcaster.\n🤖 Contenuto generato in automatico con IA dai palinsesti TV ufficiali.\n\n#SportViewLens #SportInTV #StaseraInTV",
+   "ig_media": [
+    {
+     "media_type": "IMAGE",
+     "image_url": "https://maxegon.github.io/sportviewlens/social/2026-11-25/SVL_20261125_1830_VID/video.mp4"
+    },
+    {
+     "media_type": "IMAGE",
+     "image_url": "https://maxegon.github.io/sportviewlens/social/2026-11-25/SVL_20261125_1830_VID/frames/v1_gancio.png"
+    }
+   ],
+   "fb_photos": [
+    {
+     "type": "url",
+     "url": "https://maxegon.github.io/sportviewlens/social/2026-11-25/SVL_20261125_1830_VID/video.mp4"
+    },
+    {
+     "type": "url",
+     "url": "https://maxegon.github.io/sportviewlens/social/2026-11-25/SVL_20261125_1830_VID/frames/v1_gancio.png"
+    }
+   ],
+   "slot": "SVL_20261125_1830_VID",
+   "ora_pubblicazione": "2026-11-25 18:30",
+   "immagini": [
+    "https://maxegon.github.io/sportviewlens/social/2026-11-25/SVL_20261125_1830_VID/video.mp4",
+    "https://maxegon.github.io/sportviewlens/social/2026-11-25/SVL_20261125_1830_VID/frames/v1_gancio.png"
+   ]
+  }
+ ]
+}

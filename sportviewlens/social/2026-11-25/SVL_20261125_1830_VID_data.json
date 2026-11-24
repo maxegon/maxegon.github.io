@@ -1,0 +1,101 @@
+{
+ "data_evento": "2026-11-25",
+ "data_lunga": "Mercoledì 25 novembre",
+ "categoria": "stasera_tv",
+ "tema": 1,
+ "eventi": [
+  {
+   "data": "2026-11-25",
+   "ora": "18:45",
+   "titolo": "Slavia Praha – Villarreal",
+   "competizione": "Champions League",
+   "sport": "soccer",
+   "canali": [
+    "Sky Sport 254"
+   ]
+  },
+  {
+   "data": "2026-11-25",
+   "ora": "19:20",
+   "titolo": "Salto con gli sci: Coppa del Mondo 2026/27 - Lillehammer gara 1",
+   "competizione": "Coppa del Mondo",
+   "sport": "ski",
+   "canali": [
+    "Rai Sport"
+   ]
+  },
+  {
+   "data": "2026-11-25",
+   "ora": "20:15",
+   "titolo": "Olympiacos – Hapoel Tel Aviv",
+   "competizione": "Eurolega",
+   "sport": "basket",
+   "canali": [
+    "Sky Sport Mix"
+   ]
+  },
+  {
+   "data": "2026-11-25",
+   "ora": "21:00",
+   "titolo": "Atletico Madrid – Viking",
+   "competizione": "Champions League",
+   "sport": "soccer",
+   "canali": [
+    "Sky Sport 256"
+   ]
+  },
+  {
+   "data": "2026-11-25",
+   "ora": "21:00",
+   "titolo": "Inter – VfB Stuttgart",
+   "competizione": "Champions League",
+   "sport": "soccer",
+   "canali": [
+    "Sky Sport 252",
+    "Sky Sport Uno"
+   ]
+  },
+  {
+   "data": "2026-11-25",
+   "ora": "21:00",
+   "titolo": "Lille – Bayern München",
+   "competizione": "Champions League",
+   "sport": "soccer",
+   "canali": [
+    "TV8",
+    "Sky Sport 253",
+    "Sky Sport Calcio"
+   ]
+  },
+  {
+   "data": "2026-11-25",
+   "ora": "21:00",
+   "titolo": "Shakhtar Donetsk – Fenerbahçe",
+   "competizione": "Champions League",
+   "sport": "soccer",
+   "canali": [
+    "Sky Sport 257"
+   ]
+  },
+  {
+   "data": "2026-11-25",
+   "ora": "21:00",
+   "titolo": "Sporting CP – Manchester United",
+   "competizione": "Champions League",
+   "sport": "soccer",
+   "canali": [
+    "Sky Sport 255"
+   ]
+  },
+  {
+   "data": "2026-11-25",
+   "ora": "23:00",
+   "titolo": "Philadelphia 76ers – Miami Heat",
+   "competizione": "NBA",
+   "sport": "basket",
+   "canali": [
+    "Sky Sport Basket"
+   ]
+  }
+ ]
+}
