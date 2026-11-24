@@ -1,0 +1,303 @@
+{
+  "data": "2026-11-25",
+  "generato_il": "2026-11-24T19:02:39+00:00",
+  "piano": "marketing/piano_4_settimane.csv",
+  "righe": [
+    {
+      "id": "SHV_20261125_1230_VID",
+      "piattaforma": "TikTok / Shorts",
+      "formato": "Video",
+      "categoria": "danza+opera",
+      "pubblica_alle": "2026-11-25T12:30:00+01:00",
+      "tema": "notte",
+      "scartati": [
+        [
+          "Arnoldo Mondadori e gli Strumenti della Liuteria del Carcere di Opera: il Viaggio Dell'Orchestra del Mare",
+          "ora 10:00 prima di 11:00"
+        ],
+        [
+          "La Traviata – Musica a Palazzo",
+          "senza biglietteria online"
+        ],
+        [
+          "Histoire Du Soldat – L'Opera di un Profugo",
+          "senza biglietteria online"
+        ],
+        [
+          "Da Vittorio Grigòlo a Tosca",
+          "ora 00:00 prima di 11:00"
+        ],
+        [
+          "La Traviata",
+          "senza biglietteria online"
+        ],
+        [
+          "Talent for Dance - 1 Tempo",
+          "ora 10:00 prima di 11:00"
+        ],
+        [
+          "Lo Schiaccianoci",
+          "ora 10:30 prima di 11:00"
+        ]
+      ],
+      "doppioni_rimossi": 125,
+      "verifica_eventi": [
+        {
+          "evento": "Italian Opera Taormina",
+          "data": "2026-11-25",
+          "ora": "21:15",
+          "citta": "Taormina",
+          "fonte": "vivaticket",
+          "esito": "ok",
+          "rinforzato": false,
+          "controlli": [
+            {
+              "nome": "orario",
+              "esito": "ok",
+              "dettaglio": "21:15"
+            },
+            {
+              "nome": "titolo",
+              "esito": "ok",
+              "dettaglio": "nessuna etichetta di abbonamento"
+            },
+            {
+              "nome": "biglietteria",
+              "esito": "ok",
+              "dettaglio": "Vivaticket: replica letta dall API pubblica"
+            },
+            {
+              "nome": "pagina",
+              "esito": "ok",
+              "dettaglio": "titolo, citta, data e ora coincidono (2026-11-25 21:15, TAORMINA)"
+            },
+            {
+              "nome": "serie",
+              "esito": "ok",
+              "dettaglio": "3 date della produzione, nessuna anomalia in testa alla serie"
+            }
+          ],
+          "fonti": [
+            "https://shop.vivaticket.com/it/sell/?cmd=prices&pcode=13298498&tcode=vt0020309"
+          ]
+        },
+        {
+          "evento": "Cassandra 2084 - Balletto",
+          "data": "2026-11-27",
+          "ora": "20:30",
+          "citta": "Messina",
+          "fonte": "ticketone",
+          "esito": "ok",
+          "rinforzato": false,
+          "controlli": [
+            {
+              "nome": "orario",
+              "esito": "ok",
+              "dettaglio": "20:30"
+            },
+            {
+              "nome": "titolo",
+              "esito": "ok",
+              "dettaglio": "nessuna etichetta di abbonamento"
+            },
+            {
+              "nome": "biglietteria",
+              "esito": "ok",
+              "dettaglio": "TicketOne (blocca i bot): URL ben formato, visto nell ultimo giro (missing_count=0, fonte aggiornata da meno di 36 h)"
+            },
+            {
+              "nome": "serie",
+              "esito": "ok",
+              "dettaglio": "1 date della produzione, nessuna anomalia in testa alla serie"
+            }
+          ],
+          "fonti": [
+            "https://www.ticketone.it/event/cassandra-2084-balletto-palacultura-22103646/"
+          ]
+        },
+        {
+          "evento": "Le Palestriti",
+          "data": "2026-11-28",
+          "ora": "21:00",
+          "citta": "Bologna",
+          "fonte": "vivaticket",
+          "esito": "ok",
+          "rinforzato": false,
+          "controlli": [
+            {
+              "nome": "orario",
+              "esito": "ok",
+              "dettaglio": "21:00"
+            },
+            {
+              "nome": "titolo",
+              "esito": "ok",
+              "dettaglio": "nessuna etichetta di abbonamento"
+            },
+            {
+              "nome": "biglietteria",
+              "esito": "ok",
+              "dettaglio": "Vivaticket: replica letta dall API pubblica"
+            },
+            {
+              "nome": "pagina",
+              "esito": "ok",
+              "dettaglio": "titolo, citta, data e ora coincidono (2026-11-28 21:00, BOLOGNA)"
+            },
+            {
+              "nome": "serie",
+              "esito": "ok",
+              "dettaglio": "2 date della produzione, nessuna anomalia in testa alla serie"
+            }
+          ],
+          "fonti": [
+            "https://www.vivaticket.com/it/ticket/le-palestriti/306866"
+          ]
+        },
+        {
+          "evento": "Falling Into Dance, with Isadora",
+          "data": "2026-11-28",
+          "ora": "22:00",
+          "citta": "Bologna",
+          "fonte": "vivaticket",
+          "esito": "ok",
+          "rinforzato": false,
+          "controlli": [
+            {
+              "nome": "orario",
+              "esito": "ok",
+              "dettaglio": "22:00"
+            },
+            {
+              "nome": "titolo",
+              "esito": "ok",
+              "dettaglio": "nessuna etichetta di abbonamento"
+            },
+            {
+              "nome": "biglietteria",
+              "esito": "ok",
+              "dettaglio": "Vivaticket: replica letta dall API pubblica"
+            },
+            {
+              "nome": "pagina",
+              "esito": "ok",
+              "dettaglio": "titolo, citta, data e ora coincidono (2026-11-28 22:00, BOLOGNA)"
+            },
+            {
+              "nome": "serie",
+              "esito": "ok",
+              "dettaglio": "2 date della produzione, nessuna anomalia in testa alla serie"
+            }
+          ],
+          "fonti": [
+            "https://shop.vivaticket.com/it/sell/?cmd=prices&pcode=14073879&tcode=vt0022110"
+          ]
+        }
+      ],
+      "video": {
+        "file": "marketing/out/2026-11-25/SHV_20261125_1230_VID/video.mp4",
+        "durata_s": 12.0,
+        "video": {
+          "codec_name": "h264",
+          "width": 1080,
+          "height": 1920,
+          "pix_fmt": "yuv420p"
+        },
+        "slide": 4,
+        "ok": true
+      },
+      "stato": "PRONTO",
+      "testo_finale": "🩰 Danza e opera in arrivo in Italia: 86 serate in ShowViewLens.\n\n1. Italian Opera Taormina · TEATRO NAZARENA · mer 25/11 · 21:15\n2. Cassandra 2084 - Balletto · PalaCultura · ven 27/11 · 20:30\n3. Le Palestriti · Arena del Sole - Sala Thierry Salmon · sab 28/11 · 21:00\n4. Falling Into Dance, with Isadora · Arena del Sole - Sala Thierry Salmon · sab 28/11 · 22:00\n\nTrovi date e biglietteria ufficiale su ShowViewLens. Scaricala gratis: link in bio.\n\n#ShowViewLens #Danza #OperaLirica #SpettacoliDalVivo",
+      "titolo_slide": "Danza e opera: 86 serate in arrivo",
+      "eventi": [
+        "Italian Opera Taormina",
+        "Cassandra 2084 - Balletto",
+        "Le Palestriti",
+        "Falling Into Dance, with Isadora"
+      ],
+      "conteggio": 86,
+      "file": [
+        "https://maxegon.github.io/showviewlens/social/2026-11-25/SHV_20261125_1230_VID/video.mp4"
+      ],
+      "utm": "https://maxegon.github.io/showviewlens/download/?utm_source=tiktok&utm_medium=video&utm_campaign=piano_2026_12&utm_content=SHV_20261125_1230_VID",
+      "verifica": {
+        "esito": "ok",
+        "controlli": [
+          {
+            "nome": "eventi nel post",
+            "esito": "ok",
+            "dettaglio": "4 eventi verificati ok, 0 tolti, su 86 candidati"
+          }
+        ],
+        "fonti": [
+          "https://shop.vivaticket.com/it/sell/?cmd=prices&pcode=13298498&tcode=vt0020309",
+          "https://www.ticketone.it/event/cassandra-2084-balletto-palacultura-22103646/",
+          "https://www.vivaticket.com/it/ticket/le-palestriti/306866",
+          "https://shop.vivaticket.com/it/sell/?cmd=prices&pcode=14073879&tcode=vt0022110"
+        ]
+      },
+      "anteprima": {
+        "testo": "🩰 Danza e opera in arrivo in Italia: 86 serate in ShowViewLens.\n\n1. Italian Opera Taormina · TEATRO NAZARENA · mer 25/11 · 21:15\n2. Cassandra 2084 - Balletto · PalaCultura · ven 27/11 · 20:30\n3. Le Palestriti · Arena del Sole - Sala Thierry Salmon · sab 28/11 · 21:00\n4. Falling Into Dance, with Isadora · Arena del Sole - Sala Thierry Salmon · sab 28/11 · 22:00\n\nTrovi date e biglietteria ufficiale su ShowViewLens. Scaricala gratis: link in bio.\n\n#ShowViewLens #Danza #OperaLirica #SpettacoliDalVivo",
+        "immagini": [
+          "https://maxegon.github.io/showviewlens/social/2026-11-25/SHV_20261125_1230_VID/cover.jpg"
+        ]
+      },
+      "slot": "SHV_20261125_1230_VID",
+      "ora_pubblicazione": "2026-11-25 12:30",
+      "immagini": [
+        "https://maxegon.github.io/showviewlens/social/2026-11-25/SHV_20261125_1230_VID/video.mp4"
+      ]
+    },
+    {
+      "id": "SHV_20261125_1900_POST",
+      "piattaforma": "Instagram / FB",
+      "formato": "Post Singolo",
+      "categoria": "concerti+teatro+danza+opera",
+      "pubblica_alle": "2026-11-25T19:00:00+01:00",
+      "tema": "chiaro",
+      "stato": "PRONTO",
+      "testo_finale": "✨ Aggiungi lo spettacolo al calendario del telefono con un tocco: la serata resta segnata.\n\nShowViewLens: concerti, teatro, danza e opera in Italia, con il link diretto alla biglietteria ufficiale.\n\n📲 Scarica ShowViewLens gratis: link in bio (App Store e Google Play).\n\n#ShowViewLens #SpettacoliDalVivo #TeatroItalia #ConcertiItalia",
+      "titolo_slide": "Aggiungi la serata al calendario",
+      "eventi": [],
+      "conteggio": 0,
+      "file": [
+        "https://maxegon.github.io/showviewlens/social/2026-11-25/SHV_20261125_1900_POST/01_gancio.jpg"
+      ],
+      "utm": "https://maxegon.github.io/showviewlens/download/?utm_source=instagram&utm_medium=social&utm_campaign=piano_2026_12&utm_content=SHV_20261125_1900_POST",
+      "verifica": {
+        "esito": "ok",
+        "fonti": [],
+        "controlli": [
+          {
+            "nome": "contenuto",
+            "esito": "ok",
+            "dettaglio": "testo statico da app_features.json: nessun dato esterno da controllare"
+          }
+        ]
+      },
+      "anteprima": {
+        "testo": "✨ Aggiungi lo spettacolo al calendario del telefono con un tocco: la serata resta segnata.\n\nShowViewLens: concerti, teatro, danza e opera in Italia, con il link diretto alla biglietteria ufficiale.\n\n📲 Scarica ShowViewLens gratis: link in bio (App Store e Google Play).\n\n#ShowViewLens #SpettacoliDalVivo #TeatroItalia #ConcertiItalia",
+        "immagini": [
+          "https://maxegon.github.io/showviewlens/social/2026-11-25/SHV_20261125_1900_POST/01_gancio.jpg"
+        ]
+      },
+      "ig_media": [
+        {
+          "media_type": "IMAGE",
+          "image_url": "https://maxegon.github.io/showviewlens/social/2026-11-25/SHV_20261125_1900_POST/01_gancio.jpg"
+        }
+      ],
+      "fb_photos": [
+        {
+          "type": "url",
+          "url": "https://maxegon.github.io/showviewlens/social/2026-11-25/SHV_20261125_1900_POST/01_gancio.jpg"
+        }
+      ],
+      "slot": "SHV_20261125_1900_POST",
+      "ora_pubblicazione": "2026-11-25 19:00",
+      "immagini": [
+        "https://maxegon.github.io/showviewlens/social/2026-11-25/SHV_20261125_1900_POST/01_gancio.jpg"
+      ]
+    }
+  ]
+}
