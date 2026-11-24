@@ -1,0 +1,174 @@
+{
+  "date": "2026-11-25",
+  "generated_at": "2026-11-24T20:01+01:00",
+  "sources_skipped": [],
+  "rimandate": [
+    "W5_MER_2030"
+  ],
+  "items": [
+    {
+      "id": "W5_MER_1830",
+      "piattaforma": "Instagram / FB",
+      "formato": "Carosello",
+      "ora": "18:30",
+      "utm": "https://podcastviewlens.vercel.app/download?utm_source=instagram&utm_medium=social&utm_campaign=pvl_2026w48&utm_content=W5_MER_1830",
+      "stato": "PRONTO",
+      "motivo": "",
+      "caption": "Tre filtri di durata per scegliere in fretta: Caffè sotto i 20 minuti, Pendolare tra 20 e 45, Relax oltre i 45. Li trovi in Cerca.\n\nScarica PodcastViewLens gratis: link in bio.\n\n#PodcastViewLens #PodcastItalia #CosaAscoltare",
+      "files": [
+        "https://maxegon.github.io/podcastviewlens/social/2026-11-25/W5_MER_1830/slide_01.jpg",
+        "https://maxegon.github.io/podcastviewlens/social/2026-11-25/W5_MER_1830/slide_02.jpg",
+        "https://maxegon.github.io/podcastviewlens/social/2026-11-25/W5_MER_1830/slide_03.jpg",
+        "https://maxegon.github.io/podcastviewlens/social/2026-11-25/W5_MER_1830/slide_04.jpg",
+        "https://maxegon.github.io/podcastviewlens/social/2026-11-25/W5_MER_1830/slide_05.jpg",
+        "https://maxegon.github.io/podcastviewlens/social/2026-11-25/W5_MER_1830/slide_06.jpg"
+      ],
+      "verifica": {
+        "esito": "ok",
+        "controlli": [
+          {
+            "nome": "dati_variabili",
+            "esito": "ok",
+            "dettaglio": "nessun dato variabile: testo sulle funzioni dell'app (app_features.json, guardrails.json)"
+          },
+          {
+            "nome": "funzione_in_app",
+            "esito": "ok",
+            "dettaglio": "«durate_3_fasce» verificata il 2026-10-23 su src/data/genres.js, src/screens/SearchScreen.js"
+          }
+        ],
+        "fonti": []
+      },
+      "anteprima": {
+        "testo": "Tre filtri di durata per scegliere in fretta: Caffè sotto i 20 minuti, Pendolare tra 20 e 45, Relax oltre i 45. Li trovi in Cerca.\n\nScarica PodcastViewLens gratis: link in bio.\n\n#PodcastViewLens #PodcastItalia #CosaAscoltare",
+        "immagini": [
+          "https://maxegon.github.io/podcastviewlens/social/2026-11-25/W5_MER_1830/slide_01.jpg"
+        ]
+      },
+      "pubblica_alle": "2026-11-25T18:30+01:00",
+      "sempreverde": true,
+      "eventi": [],
+      "titolo_slide": "Quanto tempo hai?",
+      "tema": "notte",
+      "ig_media": [
+        {
+          "media_type": "IMAGE",
+          "image_url": "https://maxegon.github.io/podcastviewlens/social/2026-11-25/W5_MER_1830/slide_01.jpg"
+        },
+        {
+          "media_type": "IMAGE",
+          "image_url": "https://maxegon.github.io/podcastviewlens/social/2026-11-25/W5_MER_1830/slide_02.jpg"
+        },
+        {
+          "media_type": "IMAGE",
+          "image_url": "https://maxegon.github.io/podcastviewlens/social/2026-11-25/W5_MER_1830/slide_03.jpg"
+        },
+        {
+          "media_type": "IMAGE",
+          "image_url": "https://maxegon.github.io/podcastviewlens/social/2026-11-25/W5_MER_1830/slide_04.jpg"
+        },
+        {
+          "media_type": "IMAGE",
+          "image_url": "https://maxegon.github.io/podcastviewlens/social/2026-11-25/W5_MER_1830/slide_05.jpg"
+        },
+        {
+          "media_type": "IMAGE",
+          "image_url": "https://maxegon.github.io/podcastviewlens/social/2026-11-25/W5_MER_1830/slide_06.jpg"
+        }
+      ],
+      "fb_photos": [
+        {
+          "type": "url",
+          "url": "https://maxegon.github.io/podcastviewlens/social/2026-11-25/W5_MER_1830/slide_01.jpg"
+        },
+        {
+          "type": "url",
+          "url": "https://maxegon.github.io/podcastviewlens/social/2026-11-25/W5_MER_1830/slide_02.jpg"
+        },
+        {
+          "type": "url",
+          "url": "https://maxegon.github.io/podcastviewlens/social/2026-11-25/W5_MER_1830/slide_03.jpg"
+        },
+        {
+          "type": "url",
+          "url": "https://maxegon.github.io/podcastviewlens/social/2026-11-25/W5_MER_1830/slide_04.jpg"
+        },
+        {
+          "type": "url",
+          "url": "https://maxegon.github.io/podcastviewlens/social/2026-11-25/W5_MER_1830/slide_05.jpg"
+        },
+        {
+          "type": "url",
+          "url": "https://maxegon.github.io/podcastviewlens/social/2026-11-25/W5_MER_1830/slide_06.jpg"
+        }
+      ],
+      "slot": "W5_MER_1830",
+      "ora_pubblicazione": "2026-11-25 18:30",
+      "testo_finale": "Tre filtri di durata per scegliere in fretta: Caffè sotto i 20 minuti, Pendolare tra 20 e 45, Relax oltre i 45. Li trovi in Cerca.\n\nScarica PodcastViewLens gratis: link in bio.\n\n#PodcastViewLens #PodcastItalia #CosaAscoltare",
+      "immagini": [
+        "https://maxegon.github.io/podcastviewlens/social/2026-11-25/W5_MER_1830/slide_01.jpg",
+        "https://maxegon.github.io/podcastviewlens/social/2026-11-25/W5_MER_1830/slide_02.jpg",
+        "https://maxegon.github.io/podcastviewlens/social/2026-11-25/W5_MER_1830/slide_03.jpg",
+        "https://maxegon.github.io/podcastviewlens/social/2026-11-25/W5_MER_1830/slide_04.jpg",
+        "https://maxegon.github.io/podcastviewlens/social/2026-11-25/W5_MER_1830/slide_05.jpg",
+        "https://maxegon.github.io/podcastviewlens/social/2026-11-25/W5_MER_1830/slide_06.jpg"
+      ]
+    },
+    {
+      "id": "W5_MER_1900",
+      "piattaforma": "TikTok / Shorts",
+      "formato": "Video",
+      "ora": "19:00",
+      "utm": "https://podcastviewlens.vercel.app/download?utm_source=tiktok&utm_medium=social&utm_campaign=pvl_2026w48&utm_content=W5_MER_1900",
+      "stato": "PRONTO",
+      "motivo": "",
+      "caption": "Segui i podcast che ami e mettili in coda di ascolto nella Raccolta: tutto resta salvato sul tuo telefono, senza account.\n\nScarica PodcastViewLens gratis: link nel profilo.\n\n#PodcastViewLens #PodcastItalia #CosaAscoltare",
+      "files": [
+        "https://maxegon.github.io/podcastviewlens/social/2026-11-25/W5_MER_1900/video.mp4",
+        "https://maxegon.github.io/podcastviewlens/social/2026-11-25/W5_MER_1900/slide_01.png",
+        "https://maxegon.github.io/podcastviewlens/social/2026-11-25/W5_MER_1900/slide_02.png",
+        "https://maxegon.github.io/podcastviewlens/social/2026-11-25/W5_MER_1900/slide_03.png",
+        "https://maxegon.github.io/podcastviewlens/social/2026-11-25/W5_MER_1900/slide_04.png",
+        "https://maxegon.github.io/podcastviewlens/social/2026-11-25/W5_MER_1900/slide_05.png"
+      ],
+      "verifica": {
+        "esito": "ok",
+        "controlli": [
+          {
+            "nome": "dati_variabili",
+            "esito": "ok",
+            "dettaglio": "nessun dato variabile: testo sulle funzioni dell'app (app_features.json, guardrails.json)"
+          },
+          {
+            "nome": "funzione_in_app",
+            "esito": "ok",
+            "dettaglio": "«raccolta_coda» verificata il 2026-10-23 su src/context/FavoritesContext.js"
+          }
+        ],
+        "fonti": []
+      },
+      "anteprima": {
+        "testo": "Segui i podcast che ami e mettili in coda di ascolto nella Raccolta: tutto resta salvato sul tuo telefono, senza account.\n\nScarica PodcastViewLens gratis: link nel profilo.\n\n#PodcastViewLens #PodcastItalia #CosaAscoltare",
+        "immagini": [
+          "https://maxegon.github.io/podcastviewlens/social/2026-11-25/W5_MER_1900/slide_01.png"
+        ]
+      },
+      "pubblica_alle": "2026-11-25T19:00+01:00",
+      "sempreverde": true,
+      "eventi": [],
+      "titolo_slide": "I tuoi podcast, in un posto",
+      "tema": "fascia",
+      "slot": "W5_MER_1900",
+      "ora_pubblicazione": "2026-11-25 19:00",
+      "testo_finale": "Segui i podcast che ami e mettili in coda di ascolto nella Raccolta: tutto resta salvato sul tuo telefono, senza account.\n\nScarica PodcastViewLens gratis: link nel profilo.\n\n#PodcastViewLens #PodcastItalia #CosaAscoltare",
+      "immagini": [
+        "https://maxegon.github.io/podcastviewlens/social/2026-11-25/W5_MER_1900/video.mp4",
+        "https://maxegon.github.io/podcastviewlens/social/2026-11-25/W5_MER_1900/slide_01.png",
+        "https://maxegon.github.io/podcastviewlens/social/2026-11-25/W5_MER_1900/slide_02.png",
+        "https://maxegon.github.io/podcastviewlens/social/2026-11-25/W5_MER_1900/slide_03.png",
+        "https://maxegon.github.io/podcastviewlens/social/2026-11-25/W5_MER_1900/slide_04.png",
+        "https://maxegon.github.io/podcastviewlens/social/2026-11-25/W5_MER_1900/slide_05.png"
+      ]
+    }
+  ]
+}
