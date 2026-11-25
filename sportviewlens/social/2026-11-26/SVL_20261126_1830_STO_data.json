@@ -1,0 +1,114 @@
+{
+ "data_evento": "2026-11-26",
+ "data_lunga": "Giovedì 26 novembre",
+ "categoria": "stasera_tv",
+ "tema": 2,
+ "eventi": [
+  {
+   "data": "2026-11-26",
+   "ora": "18:45",
+   "titolo": "Beşiktaş – Hapoel Beer Sheva",
+   "competizione": "Europa League",
+   "sport": "soccer",
+   "canali": [
+    "Sky Sport 257"
+   ]
+  },
+  {
+   "data": "2026-11-26",
+   "ora": "18:45",
+   "titolo": "Celta Vigo – Bournemouth",
+   "competizione": "Europa League",
+   "sport": "soccer",
+   "canali": [
+    "Sky Sport 256",
+    "Sky Sport Mix"
+   ]
+  },
+  {
+   "data": "2026-11-26",
+   "ora": "18:45",
+   "titolo": "Dinamo Zagreb – Bayer Leverkusen",
+   "competizione": "Europa League",
+   "sport": "soccer",
+   "canali": [
+    "Sky Sport Calcio",
+    "Sky Sport 255"
+   ]
+  },
+  {
+   "data": "2026-11-26",
+   "ora": "18:45",
+   "titolo": "Olympiakos Piraeus – AC Milan",
+   "competizione": "Europa League",
+   "sport": "soccer",
+   "canali": [
+    "Sky Sport 253"
+   ]
+  },
+  {
+   "data": "2026-11-26",
+   "ora": "20:30",
+   "titolo": "Perugia – Lube Civitanova",
+   "competizione": "Superlega Volley",
+   "sport": "volley",
+   "canali": [
+    "Rai Sport"
+   ]
+  },
+  {
+   "data": "2026-11-26",
+   "ora": "21:00",
+   "titolo": "Crystal Palace – Real Sociedad",
+   "competizione": "Europa League",
+   "sport": "soccer",
+   "canali": [
+    "Sky Sport Calcio",
+    "Sky Sport 255"
+   ]
+  },
+  {
+   "data": "2026-11-26",
+   "ora": "21:00",
+   "titolo": "1899 Hoffenheim – Sturm Graz",
+   "competizione": "Europa League",
+   "sport": "soccer",
+   "canali": [
+    "Sky Sport 256",
+    "Sky Sport Mix"
+   ]
+  },
+  {
+   "data": "2026-11-26",
+   "ora": "21:00",
+   "titolo": "Juventus – Omonia Nicosia",
+   "competizione": "Europa League",
+   "sport": "soccer",
+   "canali": [
+    "Sky Sport 252",
+    "Sky Sport 4K"
+   ]
+  },
+  {
+   "data": "2026-11-26",
+   "ora": "21:00",
+   "titolo": "Sunderland – Jagiellonia",
+   "competizione": "Europa League",
+   "sport": "soccer",
+   "canali": [
+    "Sky Sport 257"
+   ]
+  },
+  {
+   "data": "2026-11-26",
+   "ora": "21:00",
+   "titolo": "Borac Banja Luka – Atalanta",
+   "competizione": "Conference League",
+   "sport": "soccer",
+   "canali": [
+    "Sky Sport 254",
+    "Sky Sport Max"
+   ]
+  }
+ ]
+}

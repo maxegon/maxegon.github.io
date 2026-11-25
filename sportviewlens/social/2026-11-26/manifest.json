@@ -1,0 +1,142 @@
+{
+ "generato": "2026-11-25T19:01:58+00:00",
+ "data_pubblicazione": "2026-11-26",
+ "base_url": "https://maxegon.github.io/sportviewlens/social/2026-11-26",
+ "righe": [
+  {
+   "Giorno_Slot": "SVL_20261126_1830_STO",
+   "Formato": "Storia",
+   "Piattaforma": "Instagram / FB Stories",
+   "Ora": "18:30",
+   "Categoria": "stasera_tv",
+   "Data_Evento": "2026-11-26",
+   "UTM": "",
+   "note": [],
+   "verifica": {
+    "esito": "dubbio",
+    "controlli": [
+     {
+      "nome": "eventi nel post",
+      "esito": "ok",
+      "dettaglio": "10 eventi verificati ok, 34 tolti, su 44 candidati dell'app"
+     },
+     {
+      "nome": "tolto «Marseille – Levski Sofia» 18:45",
+      "esito": "dubbio",
+      "dettaglio": "nessun canale con due fonti: Sky Sport (solo tv_rights); orario 18:45 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Plzen – Benfica» 18:45",
+      "esito": "dubbio",
+      "dettaglio": "nessun canale con due fonti: Sky Sport (solo tv_rights); orario 18:45 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Union St. Gilloise – Lech Poznan» 18:45",
+      "esito": "dubbio",
+      "dettaglio": "nessun canale con due fonti: Sky Sport (solo tv_rights); orario 18:45 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Red Bull Salzburg – Ararat-Armenia» 18:45",
+      "esito": "dubbio",
+      "dettaglio": "nessun canale con due fonti: Sky Sport (solo tv_rights); orario 18:45 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Ajax – FC Thun» 18:45",
+      "esito": "dubbio",
+      "dettaglio": "nessun canale con due fonti: Sky Sport (solo tv_rights); orario 18:45 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Brann – Aarhus» 18:45",
+      "esito": "dubbio",
+      "dettaglio": "nessun canale con due fonti: Sky Sport (solo tv_rights); orario 18:45 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Brighton – Universitatea Craiova» 18:45",
+      "esito": "dubbio",
+      "dettaglio": "nessun canale con due fonti: Sky Sport (solo tv_rights); orario 18:45 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Egnatia Rrogozhinë – Lincoln Red Imps » 18:45",
+      "esito": "dubbio",
+      "dettaglio": "nessun canale con due fonti: Sky Sport (solo tv_rights); orario 18:45 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Heart Of Midlothian – Monaco» 18:45",
+      "esito": "dubbio",
+      "dettaglio": "nessun canale con due fonti: Sky Sport (solo tv_rights); orario 18:45 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «FC Iberia 1999 – Getafe» 18:45",
+      "esito": "dubbio",
+      "dettaglio": "nessun canale con due fonti: Sky Sport (solo tv_rights); orario 18:45 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «FK Jablonec – FC Lugano» 18:45",
+      "esito": "dubbio",
+      "dettaglio": "nessun canale con due fonti: Sky Sport (solo tv_rights); orario 18:45 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Kauno Žalgiris – Riga» 18:45",
+      "esito": "dubbio",
+      "dettaglio": "nessun canale con due fonti: Sky Sport (solo tv_rights); orario 18:45 non confrontabile col palinsesto"
+     }
+    ],
+    "fonti": [
+     "https://sport.sky.it/calcio",
+     "supabase:tv_epg_cache?date=eq.2026-11-26",
+     "supabase:tv_rights?active=eq.true",
+     "https://www.raiplay.it/dirette/raisport"
+    ]
+   },
+   "tema": "verde",
+   "Stato": "PRONTO",
+   "Testo_Post_Completo": "Cosa guardi stasera: 10 dirette. • 18:45 Beşiktaş – Hapoel Beer Sheva · Sky Sport 257\n• 18:45 Celta Vigo – Bournemouth · Sky Sport 256, Sky Sport Mix\n• 18:45 Dinamo Zagreb – Bayer Leverkusen · Sky Sport Calcio, Sky Sport 255\n• 18:45 Olympiakos Piraeus – AC Milan · Sky Sport 253\n• 20:30 Perugia – Lube Civitanova · Rai Sport\nCerca «SportViewLens» su App Store e Google Play.\nSportViewLens non è affiliata con DAZN, Sky, RAI o altri broadcaster.\n🤖 Contenuto generato in automatico con IA dai palinsesti TV ufficiali.",
+   "eventi": [
+    "Beşiktaş – Hapoel Beer Sheva",
+    "Celta Vigo – Bournemouth",
+    "Dinamo Zagreb – Bayer Leverkusen",
+    "Olympiakos Piraeus – AC Milan",
+    "Perugia – Lube Civitanova",
+    "Crystal Palace – Real Sociedad",
+    "1899 Hoffenheim – Sturm Graz",
+    "Juventus – Omonia Nicosia",
+    "Sunderland – Jagiellonia",
+    "Borac Banja Luka – Atalanta"
+   ],
+   "conteggio": 10,
+   "file": [
+    "https://maxegon.github.io/sportviewlens/social/2026-11-26/SVL_20261126_1830_STO/story.jpg"
+   ],
+   "anteprima": {
+    "testo": "Cosa guardi stasera: 10 dirette. • 18:45 Beşiktaş – Hapoel Beer Sheva · Sky Sport 257\n• 18:45 Celta Vigo – Bournemouth · Sky Sport 256, Sky Sport Mix\n• 18:45 Dinamo Zagreb – Bayer Leverkusen · Sky Sport Calcio, Sky Sport 255\n• 18:45 Olympiakos Piraeus – AC Milan · Sky Sport 253\n• 20:30 Perugia – Lube Civitanova · Rai Sport\nCerca «SportViewLens» su App Store e Google Play.\nSportViewLens non è affiliata con DAZN, Sky, RAI o altri broadcaster.\n🤖 Contenuto generato in automatico con IA dai palinsesti TV ufficiali.",
+    "immagini": [
+     "https://maxegon.github.io/sportviewlens/social/2026-11-26/SVL_20261126_1830_STO/story.jpg"
+    ]
+   },
+   "id": "SVL_20261126_1830_STO",
+   "stato": "PRONTO",
+   "formato": "Storia",
+   "piattaforma": "Instagram / FB Stories",
+   "utm": "",
+   "pubblica_alle": "2026-11-26T18:30+01:00",
+   "testo_finale": "Cosa guardi stasera: 10 dirette. • 18:45 Beşiktaş – Hapoel Beer Sheva · Sky Sport 257\n• 18:45 Celta Vigo – Bournemouth · Sky Sport 256, Sky Sport Mix\n• 18:45 Dinamo Zagreb – Bayer Leverkusen · Sky Sport Calcio, Sky Sport 255\n• 18:45 Olympiakos Piraeus – AC Milan · Sky Sport 253\n• 20:30 Perugia – Lube Civitanova · Rai Sport\nCerca «SportViewLens» su App Store e Google Play.\nSportViewLens non è affiliata con DAZN, Sky, RAI o altri broadcaster.\n🤖 Contenuto generato in automatico con IA dai palinsesti TV ufficiali.",
+   "ig_media": [
+    {
+     "media_type": "IMAGE",
+     "image_url": "https://maxegon.github.io/sportviewlens/social/2026-11-26/SVL_20261126_1830_STO/story.jpg"
+    }
+   ],
+   "fb_photos": [
+    {
+     "type": "url",
+     "url": "https://maxegon.github.io/sportviewlens/social/2026-11-26/SVL_20261126_1830_STO/story.jpg"
+    }
+   ],
+   "slot": "SVL_20261126_1830_STO",
+   "ora_pubblicazione": "2026-11-26 18:30",
+   "immagini": [
+    "https://maxegon.github.io/sportviewlens/social/2026-11-26/SVL_20261126_1830_STO/story.jpg"
+   ]
+  }
+ ]
+}
