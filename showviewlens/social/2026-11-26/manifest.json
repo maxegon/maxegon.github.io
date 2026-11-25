@@ -1,0 +1,404 @@
+{
+  "data": "2026-11-26",
+  "generato_il": "2026-11-25T19:02:04+00:00",
+  "piano": "marketing/piano_4_settimane.csv",
+  "righe": [
+    {
+      "id": "SHV_20261126_1800_CAR",
+      "piattaforma": "Instagram / FB",
+      "formato": "Carosello",
+      "categoria": "concerti",
+      "pubblica_alle": "2026-11-26T18:00:00+01:00",
+      "tema": "chiaro",
+      "scartati": [
+        [
+          "Nusantara Beat",
+          "ora 00:00 prima di 11:00"
+        ],
+        [
+          "Alex Fernet",
+          "ora 00:00 prima di 11:00"
+        ],
+        [
+          "Abigail Lapell",
+          "ora 00:00 prima di 11:00"
+        ],
+        [
+          "Sven Väth",
+          "ora 00:00 prima di 11:00"
+        ],
+        [
+          "Alice in ChristmasLand",
+          "senza biglietteria online"
+        ],
+        [
+          "Santamarea + Lamante",
+          "luogo mancante"
+        ],
+        [
+          "Louis Lortie",
+          "senza biglietteria online"
+        ],
+        [
+          "Gaia Banfi",
+          "luogo mancante"
+        ],
+        [
+          "Lina Sastri",
+          "ora 00:00 prima di 11:00"
+        ],
+        [
+          "King Ayisoba",
+          "ora 00:00 prima di 11:00"
+        ],
+        [
+          "Superqueens Feat. Kandy Muse and Kyran Thrax",
+          "ora 00:00 prima di 11:00"
+        ],
+        [
+          "Filippo Graziani",
+          "luogo mancante"
+        ],
+        [
+          "Nex Quartet Live Session",
+          "luogo mancante"
+        ],
+        [
+          "Warm Up Bwf - Impaled Nazarene",
+          "luogo mancante"
+        ],
+        [
+          "Candlelight: Ennio Morricone e Colonne Sonore in Concerto",
+          "senza biglietteria online"
+        ],
+        [
+          "Benedetto Lupo – Fantasie di R. Schumann",
+          "senza biglietteria online"
+        ],
+        [
+          "Sawa Sawa – the Black Blues Brothers",
+          "senza biglietteria online"
+        ],
+        [
+          "Savana Funk",
+          "luogo mancante"
+        ],
+        [
+          "Mozart: il Divino Ribelle",
+          "senza biglietteria online"
+        ],
+        [
+          "Tra Mistero e Incanto",
+          "luogo mancante"
+        ]
+      ],
+      "doppioni_rimossi": 49,
+      "verifica_eventi": [
+        {
+          "evento": "Battiti da Oscar",
+          "data": "2026-11-27",
+          "ora": "19:30",
+          "citta": "Roma",
+          "fonte": "ticketone",
+          "esito": "ok",
+          "rinforzato": false,
+          "controlli": [
+            {
+              "nome": "orario",
+              "esito": "ok",
+              "dettaglio": "19:30"
+            },
+            {
+              "nome": "titolo",
+              "esito": "ok",
+              "dettaglio": "nessuna etichetta di abbonamento"
+            },
+            {
+              "nome": "biglietteria",
+              "esito": "ok",
+              "dettaglio": "TicketOne (blocca i bot): URL ben formato, visto nell ultimo giro (missing_count=0, fonte aggiornata da meno di 36 h)"
+            },
+            {
+              "nome": "serie",
+              "esito": "ok",
+              "dettaglio": "1 date della produzione, nessuna anomalia in testa alla serie"
+            }
+          ],
+          "fonti": [
+            "https://www.ticketone.it/event/battiti-da-oscar-forum-music-village-22392175/"
+          ]
+        },
+        {
+          "evento": "Big! - Premio Francesco di Giacomo (Seconda Serata)",
+          "data": "2026-11-27",
+          "ora": "20:00",
+          "citta": "Roma",
+          "fonte": "ticketone",
+          "esito": "ok",
+          "rinforzato": false,
+          "controlli": [
+            {
+              "nome": "orario",
+              "esito": "ok",
+              "dettaglio": "20:00"
+            },
+            {
+              "nome": "titolo",
+              "esito": "ok",
+              "dettaglio": "nessuna etichetta di abbonamento"
+            },
+            {
+              "nome": "biglietteria",
+              "esito": "ok",
+              "dettaglio": "TicketOne (blocca i bot): URL ben formato, visto nell ultimo giro (missing_count=0, fonte aggiornata da meno di 36 h)"
+            },
+            {
+              "nome": "serie",
+              "esito": "ok",
+              "dettaglio": "1 date della produzione, nessuna anomalia in testa alla serie"
+            }
+          ],
+          "fonti": [
+            "https://www.ticketone.it/event/big-premio-francesco-di-giacomo-auditorium-parco-della-musica-ennio-morricone-21872108/"
+          ]
+        },
+        {
+          "evento": "Lucio Corsi",
+          "data": "2026-11-27",
+          "ora": "21:00",
+          "citta": "Firenze",
+          "fonte": "ticketone",
+          "esito": "ok",
+          "rinforzato": false,
+          "controlli": [
+            {
+              "nome": "orario",
+              "esito": "ok",
+              "dettaglio": "21:00"
+            },
+            {
+              "nome": "titolo",
+              "esito": "ok",
+              "dettaglio": "nessuna etichetta di abbonamento"
+            },
+            {
+              "nome": "biglietteria",
+              "esito": "ok",
+              "dettaglio": "TicketOne (blocca i bot): URL ben formato, visto nell ultimo giro (missing_count=0, fonte aggiornata da meno di 36 h)"
+            },
+            {
+              "nome": "serie",
+              "esito": "ok",
+              "dettaglio": "1 date della produzione, nessuna anomalia in testa alla serie"
+            }
+          ],
+          "fonti": [
+            "https://www.ticketone.it/event/lucio-corsi-palasport-2026-nelson-mandela-forum-20594916/"
+          ]
+        },
+        {
+          "evento": "Gigi D'Alessio",
+          "data": "2026-11-27",
+          "ora": "21:00",
+          "citta": "Padova",
+          "fonte": "ticketone",
+          "esito": "ok",
+          "rinforzato": false,
+          "controlli": [
+            {
+              "nome": "orario",
+              "esito": "ok",
+              "dettaglio": "21:00"
+            },
+            {
+              "nome": "titolo",
+              "esito": "ok",
+              "dettaglio": "nessuna etichetta di abbonamento"
+            },
+            {
+              "nome": "biglietteria",
+              "esito": "ok",
+              "dettaglio": "TicketOne (blocca i bot): URL ben formato, visto nell ultimo giro (missing_count=0, fonte aggiornata da meno di 36 h)"
+            },
+            {
+              "nome": "serie",
+              "esito": "ok",
+              "dettaglio": "1 date della produzione, nessuna anomalia in testa alla serie"
+            }
+          ],
+          "fonti": [
+            "https://www.ticketone.it/event/gigi-dalessio-palasport-2026-kioene-arena-21436280/"
+          ]
+        },
+        {
+          "evento": "Cesare Cremonini",
+          "data": "2026-11-27",
+          "ora": "21:00",
+          "citta": "Casalecchio Di Reno",
+          "fonte": "ticketone",
+          "esito": "ok",
+          "rinforzato": false,
+          "controlli": [
+            {
+              "nome": "orario",
+              "esito": "ok",
+              "dettaglio": "21:00"
+            },
+            {
+              "nome": "titolo",
+              "esito": "ok",
+              "dettaglio": "nessuna etichetta di abbonamento"
+            },
+            {
+              "nome": "biglietteria",
+              "esito": "ok",
+              "dettaglio": "TicketOne (blocca i bot): URL ben formato, visto nell ultimo giro (missing_count=0, fonte aggiornata da meno di 36 h)"
+            },
+            {
+              "nome": "serie",
+              "esito": "ok",
+              "dettaglio": "7 date della produzione, nessuna anomalia in testa alla serie"
+            }
+          ],
+          "fonti": [
+            "https://www.ticketone.it/event/cesare-cremonini-amatour-unipol-arena-21989432/"
+          ]
+        },
+        {
+          "evento": "Shiva - Tour Palasport Autunno 2026",
+          "data": "2026-11-27",
+          "ora": "21:00",
+          "citta": "Roma",
+          "fonte": "Ticketmaster",
+          "esito": "dubbio",
+          "rinforzato": false,
+          "controlli": [
+            {
+              "nome": "orario",
+              "esito": "ok",
+              "dettaglio": "21:00"
+            },
+            {
+              "nome": "titolo",
+              "esito": "ok",
+              "dettaglio": "nessuna etichetta di abbonamento"
+            },
+            {
+              "nome": "biglietteria",
+              "esito": "dubbio",
+              "dettaglio": "Ticketmaster: pagina non leggibile (HTTP 403)"
+            },
+            {
+              "nome": "serie",
+              "esito": "ok",
+              "dettaglio": "2 date della produzione, nessuna anomalia in testa alla serie"
+            }
+          ],
+          "fonti": [
+            "https://www.ticketmaster.it/biglietti/shiva-tour-palasport-autunno-2026-roma-27-11-2026/event/s5qck4flhpid"
+          ]
+        }
+      ],
+      "stato": "PRONTO",
+      "testo_finale": "🎤 Questo weekend in Italia: 191 concerti in ShowViewLens. Alcuni da segnare:\n\n1. Battiti da Oscar · Forum Music Village · ven 27/11 · 19:30\n2. Big! - Premio Francesco di Giacomo (Seconda Serata) · Auditorium Parco della Musica Ennio Morricone · ven 27/11 · 20:00\n3. Lucio Corsi · Nelson Mandela Forum · ven 27/11 · 21:00\n4. Gigi D'Alessio · Kioene Arena · ven 27/11 · 21:00\n5. Cesare Cremonini · Unipol Arena · ven 27/11 · 21:00\n\nSalva e condividi con chi viene con te. Date, orari e biglietteria ufficiale su ShowViewLens.\n\n📲 Scarica ShowViewLens gratis: link in bio (App Store e Google Play).\n\n#ShowViewLens #ConcertiItalia #MusicaLive #SpettacoliDalVivo",
+      "titolo_slide": "191 concerti in Italia questo weekend",
+      "eventi": [
+        "Battiti da Oscar",
+        "Big! - Premio Francesco di Giacomo (Seconda Serata)",
+        "Lucio Corsi",
+        "Gigi D'Alessio",
+        "Cesare Cremonini"
+      ],
+      "conteggio": 191,
+      "file": [
+        "https://maxegon.github.io/showviewlens/social/2026-11-26/SHV_20261126_1800_CAR/01_gancio.jpg",
+        "https://maxegon.github.io/showviewlens/social/2026-11-26/SHV_20261126_1800_CAR/02_dati.jpg",
+        "https://maxegon.github.io/showviewlens/social/2026-11-26/SHV_20261126_1800_CAR/03_dati.jpg",
+        "https://maxegon.github.io/showviewlens/social/2026-11-26/SHV_20261126_1800_CAR/04_screenshot.jpg",
+        "https://maxegon.github.io/showviewlens/social/2026-11-26/SHV_20261126_1800_CAR/05_cta.jpg"
+      ],
+      "utm": "https://maxegon.github.io/showviewlens/download/?utm_source=instagram&utm_medium=social&utm_campaign=piano_2026_12&utm_content=SHV_20261126_1800_CAR",
+      "verifica": {
+        "esito": "dubbio",
+        "controlli": [
+          {
+            "nome": "eventi nel post",
+            "esito": "ok",
+            "dettaglio": "5 eventi verificati ok, 1 tolti, su 192 candidati"
+          },
+          {
+            "nome": "tolto «Shiva» ven 27/11",
+            "esito": "dubbio",
+            "dettaglio": "Ticketmaster: pagina non leggibile (HTTP 403)"
+          }
+        ],
+        "fonti": [
+          "https://www.ticketone.it/event/battiti-da-oscar-forum-music-village-22392175/",
+          "https://www.ticketone.it/event/big-premio-francesco-di-giacomo-auditorium-parco-della-musica-ennio-morricone-21872108/",
+          "https://www.ticketone.it/event/lucio-corsi-palasport-2026-nelson-mandela-forum-20594916/",
+          "https://www.ticketone.it/event/gigi-dalessio-palasport-2026-kioene-arena-21436280/",
+          "https://www.ticketone.it/event/cesare-cremonini-amatour-unipol-arena-21989432/"
+        ]
+      },
+      "anteprima": {
+        "testo": "🎤 Questo weekend in Italia: 191 concerti in ShowViewLens. Alcuni da segnare:\n\n1. Battiti da Oscar · Forum Music Village · ven 27/11 · 19:30\n2. Big! - Premio Francesco di Giacomo (Seconda Serata) · Auditorium Parco della Musica Ennio Morricone · ven 27/11 · 20:00\n3. Lucio Corsi · Nelson Mandela Forum · ven 27/11 · 21:00\n4. Gigi D'Alessio · Kioene Arena · ven 27/11 · 21:00\n5. Cesare Cremonini · Unipol Arena · ven 27/11 · 21:00\n\nSalva e condividi con chi viene con te. Date, orari e biglietteria ufficiale su ShowViewLens.\n\n📲 Scarica ShowViewLens gratis: link in bio (App Store e Google Play).\n\n#ShowViewLens #ConcertiItalia #MusicaLive #SpettacoliDalVivo",
+        "immagini": [
+          "https://maxegon.github.io/showviewlens/social/2026-11-26/SHV_20261126_1800_CAR/01_gancio.jpg"
+        ]
+      },
+      "ig_media": [
+        {
+          "media_type": "IMAGE",
+          "image_url": "https://maxegon.github.io/showviewlens/social/2026-11-26/SHV_20261126_1800_CAR/01_gancio.jpg"
+        },
+        {
+          "media_type": "IMAGE",
+          "image_url": "https://maxegon.github.io/showviewlens/social/2026-11-26/SHV_20261126_1800_CAR/02_dati.jpg"
+        },
+        {
+          "media_type": "IMAGE",
+          "image_url": "https://maxegon.github.io/showviewlens/social/2026-11-26/SHV_20261126_1800_CAR/03_dati.jpg"
+        },
+        {
+          "media_type": "IMAGE",
+          "image_url": "https://maxegon.github.io/showviewlens/social/2026-11-26/SHV_20261126_1800_CAR/04_screenshot.jpg"
+        },
+        {
+          "media_type": "IMAGE",
+          "image_url": "https://maxegon.github.io/showviewlens/social/2026-11-26/SHV_20261126_1800_CAR/05_cta.jpg"
+        }
+      ],
+      "fb_photos": [
+        {
+          "type": "url",
+          "url": "https://maxegon.github.io/showviewlens/social/2026-11-26/SHV_20261126_1800_CAR/01_gancio.jpg"
+        },
+        {
+          "type": "url",
+          "url": "https://maxegon.github.io/showviewlens/social/2026-11-26/SHV_20261126_1800_CAR/02_dati.jpg"
+        },
+        {
+          "type": "url",
+          "url": "https://maxegon.github.io/showviewlens/social/2026-11-26/SHV_20261126_1800_CAR/03_dati.jpg"
+        },
+        {
+          "type": "url",
+          "url": "https://maxegon.github.io/showviewlens/social/2026-11-26/SHV_20261126_1800_CAR/04_screenshot.jpg"
+        },
+        {
+          "type": "url",
+          "url": "https://maxegon.github.io/showviewlens/social/2026-11-26/SHV_20261126_1800_CAR/05_cta.jpg"
+        }
+      ],
+      "slot": "SHV_20261126_1800_CAR",
+      "ora_pubblicazione": "2026-11-26 18:00",
+      "immagini": [
+        "https://maxegon.github.io/showviewlens/social/2026-11-26/SHV_20261126_1800_CAR/01_gancio.jpg",
+        "https://maxegon.github.io/showviewlens/social/2026-11-26/SHV_20261126_1800_CAR/02_dati.jpg",
+        "https://maxegon.github.io/showviewlens/social/2026-11-26/SHV_20261126_1800_CAR/03_dati.jpg",
+        "https://maxegon.github.io/showviewlens/social/2026-11-26/SHV_20261126_1800_CAR/04_screenshot.jpg",
+        "https://maxegon.github.io/showviewlens/social/2026-11-26/SHV_20261126_1800_CAR/05_cta.jpg"
+      ]
+    }
+  ]
+}
