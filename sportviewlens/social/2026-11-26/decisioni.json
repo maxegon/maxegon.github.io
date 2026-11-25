@@ -1,0 +1,29 @@
+{
+ "app": "SportViewLens",
+ "data": "2026-11-26",
+ "righe": {
+  "SVL_20261126_1830_STO": {
+   "pubblica_alle": "2026-11-26T18:30:00+01:00",
+   "formato": "Storia",
+   "piattaforma": "Instagram / FB Stories",
+   "sempreverde": false,
+   "chiave": "SVL_20261126_1830_STO",
+   "decisione": null,
+   "alle": "",
+   "correzioni": [],
+   "messaggio_id": 613
+  }
+ },
+ "messaggi": {
+  "613": {
+   "chat_id": "1614787945",
+   "righe": [
+    "SVL_20261126_1830_STO"
+   ],
+   "base": "<b>18:30 · Storia · Instagram / FB Stories</b>\nID <code>SVL_20261126_1830_STO</code>\n⚠️ Verifica ok · 4 fonti, tolti perché incerti:\n  • tolto «Marseille – Levski Sofia» 18:45: nessun canale con due fonti: Sky Sport (solo tv_rights); orario 18:45 non confrontabile col palinsesto\n  • tolto «Plzen – Benfica» 18:45: nessun canale con due fonti: Sky Sport (solo tv_rights); orario 18:45 non confrontabile col palinsesto\n  • tolto «Union St. Gilloise – Lech Poznan» 18:45: nessun canale con due fonti: Sky Sport (solo tv_rights); orario 18:45 non confrontabile col palinsesto\n  • tolto «Red Bull Salzburg – Ararat-Armenia» 18:45: nessun canale con due fonti: Sky Sport (solo tv_rights); orario 18:45 non confrontabile col palinsesto\n  • tolto «Ajax – FC Thun» 18:45: nessun canale con due fonti: Sky Sport (solo tv_rights); orario 18:45 non confrontabile col palinsesto\n  • tolto «Brann – Aarhus» 18:45: nessun canale con due fonti: Sky Sport (solo tv_rights); orario 18:45 non confrontabile col palinsesto\n  • … altri 6\n<pre>Cosa guardi stasera: 10 dirette. • 18:45 Beşiktaş – Hapoel Beer Sheva · Sky Sport 257\n• 18:45 Celta Vigo – Bournemouth · Sky Sport 256, Sky Sport Mix\n• 18:45 Dinamo Zagreb – Bayer Leverkusen · Sky Sport Calcio, Sky Sport 255\n• 18:45 Olympiakos Piraeus – AC Milan · Sky Sport 253\n• 20:30 Perugia – Lube Civitanova · Rai Sport\nCerca «SportViewLens» su App Store e Google Play.\nSportViewLens non è affiliata con DAZN, Sky, RAI o altri broadcaster.\n🤖 Contenuto generato in automatico con IA dai palinsesti TV ufficiali.</pre>\n\n<i>✅ OK: esce all'orario · ⏭️ Salta: non esce, contenuto legato a quella data · ✏️ Correggi: mi scrivi cosa cambiare · ↩️ Annulla: torna come prima. Nessun click = esce. Leggo i pulsanti ogni 15 minuti: decidi almeno 30 minuti prima.</i>"
+  }
+ },
+ "ultimo_update_id": null,
+ "anteprima_inviata_il": "2026-11-25T20:02:34+01:00",
+ "provvisorio": false
+}
