@@ -1,0 +1,492 @@
+{
+  "data": "2026-11-27",
+  "generato_il": "2026-11-26T19:01:55+00:00",
+  "piano": "marketing/piano_4_settimane.csv",
+  "righe": [
+    {
+      "id": "SHV_20261127_1300_CAR",
+      "piattaforma": "Instagram / FB",
+      "formato": "Carosello",
+      "categoria": "teatro+danza+opera",
+      "pubblica_alle": "2026-11-27T13:00:00+01:00",
+      "tema": "notte",
+      "scartati": [
+        [
+          "Vale Todo - Stand Up, Quiz, Impro",
+          "fuori perimetro: circo/stand-up non sono categorie dell'app: usare 'cabaret e comicita a teatro'"
+        ],
+        [
+          "Forum Demografia",
+          "luogo mancante"
+        ]
+      ],
+      "doppioni_rimossi": 27,
+      "verifica_eventi": [
+        {
+          "evento": "Fratelli di Crozza",
+          "data": "2026-11-27",
+          "ora": "19:00",
+          "citta": "Milano",
+          "fonte": "ticketone",
+          "esito": "ok",
+          "rinforzato": false,
+          "controlli": [
+            {
+              "nome": "orario",
+              "esito": "ok",
+              "dettaglio": "19:00"
+            },
+            {
+              "nome": "titolo",
+              "esito": "ok",
+              "dettaglio": "nessuna etichetta di abbonamento"
+            },
+            {
+              "nome": "biglietteria",
+              "esito": "ok",
+              "dettaglio": "TicketOne (blocca i bot): URL ben formato, visto nell ultimo giro (missing_count=0, fonte aggiornata da meno di 36 h)"
+            },
+            {
+              "nome": "serie",
+              "esito": "ok",
+              "dettaglio": "3 date della produzione, nessuna anomalia in testa alla serie"
+            }
+          ],
+          "fonti": [
+            "https://www.ticketone.it/event/maurizio-crozza-fratelli-di-crozza-soul-movie-studios-22063165/"
+          ]
+        },
+        {
+          "evento": "Bravissime",
+          "data": "2026-11-27",
+          "ora": "20:00",
+          "citta": "Milano",
+          "fonte": "vivaticket",
+          "esito": "ok",
+          "rinforzato": false,
+          "controlli": [
+            {
+              "nome": "orario",
+              "esito": "ok",
+              "dettaglio": "20:00"
+            },
+            {
+              "nome": "titolo",
+              "esito": "ok",
+              "dettaglio": "nessuna etichetta di abbonamento"
+            },
+            {
+              "nome": "biglietteria",
+              "esito": "ok",
+              "dettaglio": "Vivaticket: replica letta dall API pubblica"
+            },
+            {
+              "nome": "pagina",
+              "esito": "ok",
+              "dettaglio": "titolo, citta, data e ora coincidono (2026-11-27 20:00, MILANO)"
+            },
+            {
+              "nome": "serie",
+              "esito": "ok",
+              "dettaglio": "4 date della produzione, nessuna anomalia in testa alla serie"
+            }
+          ],
+          "fonti": [
+            "https://shop.vivaticket.com/it/sell/?cmd=prices&pcode=14273358&tcode=vt0001548"
+          ]
+        },
+        {
+          "evento": "Bobby",
+          "data": "2026-11-27",
+          "ora": "20:30",
+          "citta": "Milano",
+          "fonte": "vivaticket",
+          "esito": "ok",
+          "rinforzato": false,
+          "controlli": [
+            {
+              "nome": "orario",
+              "esito": "ok",
+              "dettaglio": "20:30"
+            },
+            {
+              "nome": "titolo",
+              "esito": "ok",
+              "dettaglio": "nessuna etichetta di abbonamento"
+            },
+            {
+              "nome": "biglietteria",
+              "esito": "ok",
+              "dettaglio": "Vivaticket: replica letta dall API pubblica"
+            },
+            {
+              "nome": "pagina",
+              "esito": "ok",
+              "dettaglio": "titolo, citta, data e ora coincidono (2026-11-27 20:30, MILANO)"
+            },
+            {
+              "nome": "serie",
+              "esito": "ok",
+              "dettaglio": "4 date della produzione, nessuna anomalia in testa alla serie"
+            }
+          ],
+          "fonti": [
+            "https://shop.vivaticket.com/it/sell/?cmd=prices&pcode=14097712&tcode=vt0007621"
+          ]
+        },
+        {
+          "evento": "L'amante",
+          "data": "2026-11-27",
+          "ora": "20:30",
+          "citta": "Milano",
+          "fonte": "vivaticket",
+          "esito": "ok",
+          "rinforzato": false,
+          "controlli": [
+            {
+              "nome": "orario",
+              "esito": "ok",
+              "dettaglio": "20:30"
+            },
+            {
+              "nome": "titolo",
+              "esito": "ok",
+              "dettaglio": "nessuna etichetta di abbonamento"
+            },
+            {
+              "nome": "biglietteria",
+              "esito": "ok",
+              "dettaglio": "Vivaticket: replica letta dall API pubblica"
+            },
+            {
+              "nome": "pagina",
+              "esito": "ok",
+              "dettaglio": "titolo, citta, data e ora coincidono (2026-11-27 20:30, MILANO)"
+            },
+            {
+              "nome": "serie",
+              "esito": "ok",
+              "dettaglio": "4 date della produzione, nessuna anomalia in testa alla serie"
+            }
+          ],
+          "fonti": [
+            "https://shop.vivaticket.com/it/sell/?cmd=prices&pcode=13784836&tcode=tl015257"
+          ]
+        },
+        {
+          "evento": "Ludovico Einaudi",
+          "data": "2026-11-27",
+          "ora": "20:00",
+          "citta": "Milano",
+          "fonte": "ticketone",
+          "esito": "dubbio",
+          "rinforzato": false,
+          "controlli": [
+            {
+              "nome": "orario",
+              "esito": "ok",
+              "dettaglio": "20:00"
+            },
+            {
+              "nome": "titolo",
+              "esito": "ok",
+              "dettaglio": "nessuna etichetta di abbonamento"
+            },
+            {
+              "nome": "biglietteria",
+              "esito": "ok",
+              "dettaglio": "TicketOne (blocca i bot): URL ben formato, visto nell ultimo giro (missing_count=0, fonte aggiornata da meno di 36 h)"
+            },
+            {
+              "nome": "biglietteria",
+              "esito": "dubbio",
+              "dettaglio": "Ticketmaster: pagina non leggibile (HTTP 403)"
+            },
+            {
+              "nome": "serie",
+              "esito": "ok",
+              "dettaglio": "17 date della produzione, nessuna anomalia in testa alla serie"
+            },
+            {
+              "nome": "conferma",
+              "esito": "ok",
+              "dettaglio": "stessa produzione e stesso giorno su due biglietterie"
+            }
+          ],
+          "fonti": [
+            "https://www.ticketone.it/event/ludovico-einaudi-teatro-dal-verme-teatro-dal-verme-21289792/",
+            "https://www.ticketmaster.it/biglietti/ludovico-einaudi-milano-27-11-2026/event/if8y6kesyfcz"
+          ]
+        }
+      ],
+      "stato": "PRONTO",
+      "testo_finale": "📍 Weekend a Milano: 25 spettacoli tra teatro, danza e opera.\n\n1. Fratelli di Crozza · Soul Movie Studios · ven 27/11 · 19:00\n2. Bravissime · Teatro della Cooperativa · ven 27/11 · 20:00\n3. Bobby · deSidera Teatro Oscar · ven 27/11 · 20:30\n4. L'amante · Teatro Fontana · ven 27/11 · 20:30\n\nSu ShowViewLens trovi orari e link alla biglietteria ufficiale.\n\n📲 Scarica ShowViewLens gratis: link in bio (App Store e Google Play).\n\n#ShowViewLens #Milano #TeatroItalia #SpettacoliDalVivo",
+      "titolo_slide": "Weekend a Milano: 25 spettacoli",
+      "eventi": [
+        "Fratelli di Crozza",
+        "Bravissime",
+        "Bobby",
+        "L'amante"
+      ],
+      "conteggio": 25,
+      "file": [
+        "https://maxegon.github.io/showviewlens/social/2026-11-27/SHV_20261127_1300_CAR/01_gancio.jpg",
+        "https://maxegon.github.io/showviewlens/social/2026-11-27/SHV_20261127_1300_CAR/02_dati.jpg",
+        "https://maxegon.github.io/showviewlens/social/2026-11-27/SHV_20261127_1300_CAR/03_screenshot.jpg",
+        "https://maxegon.github.io/showviewlens/social/2026-11-27/SHV_20261127_1300_CAR/04_cta.jpg"
+      ],
+      "utm": "https://maxegon.github.io/showviewlens/download/?utm_source=instagram&utm_medium=social&utm_campaign=piano_2026_12&utm_content=SHV_20261127_1300_CAR",
+      "verifica": {
+        "esito": "dubbio",
+        "controlli": [
+          {
+            "nome": "eventi nel post",
+            "esito": "ok",
+            "dettaglio": "4 eventi verificati ok, 1 tolti, su 26 candidati"
+          },
+          {
+            "nome": "tolto «Ludovico Einaudi» ven 27/11",
+            "esito": "dubbio",
+            "dettaglio": "Ticketmaster: pagina non leggibile (HTTP 403)"
+          }
+        ],
+        "fonti": [
+          "https://www.ticketone.it/event/maurizio-crozza-fratelli-di-crozza-soul-movie-studios-22063165/",
+          "https://shop.vivaticket.com/it/sell/?cmd=prices&pcode=14273358&tcode=vt0001548",
+          "https://shop.vivaticket.com/it/sell/?cmd=prices&pcode=14097712&tcode=vt0007621",
+          "https://shop.vivaticket.com/it/sell/?cmd=prices&pcode=13784836&tcode=tl015257"
+        ]
+      },
+      "anteprima": {
+        "testo": "📍 Weekend a Milano: 25 spettacoli tra teatro, danza e opera.\n\n1. Fratelli di Crozza · Soul Movie Studios · ven 27/11 · 19:00\n2. Bravissime · Teatro della Cooperativa · ven 27/11 · 20:00\n3. Bobby · deSidera Teatro Oscar · ven 27/11 · 20:30\n4. L'amante · Teatro Fontana · ven 27/11 · 20:30\n\nSu ShowViewLens trovi orari e link alla biglietteria ufficiale.\n\n📲 Scarica ShowViewLens gratis: link in bio (App Store e Google Play).\n\n#ShowViewLens #Milano #TeatroItalia #SpettacoliDalVivo",
+        "immagini": [
+          "https://maxegon.github.io/showviewlens/social/2026-11-27/SHV_20261127_1300_CAR/01_gancio.jpg"
+        ]
+      },
+      "ig_media": [
+        {
+          "media_type": "IMAGE",
+          "image_url": "https://maxegon.github.io/showviewlens/social/2026-11-27/SHV_20261127_1300_CAR/01_gancio.jpg"
+        },
+        {
+          "media_type": "IMAGE",
+          "image_url": "https://maxegon.github.io/showviewlens/social/2026-11-27/SHV_20261127_1300_CAR/02_dati.jpg"
+        },
+        {
+          "media_type": "IMAGE",
+          "image_url": "https://maxegon.github.io/showviewlens/social/2026-11-27/SHV_20261127_1300_CAR/03_screenshot.jpg"
+        },
+        {
+          "media_type": "IMAGE",
+          "image_url": "https://maxegon.github.io/showviewlens/social/2026-11-27/SHV_20261127_1300_CAR/04_cta.jpg"
+        }
+      ],
+      "fb_photos": [
+        {
+          "type": "url",
+          "url": "https://maxegon.github.io/showviewlens/social/2026-11-27/SHV_20261127_1300_CAR/01_gancio.jpg"
+        },
+        {
+          "type": "url",
+          "url": "https://maxegon.github.io/showviewlens/social/2026-11-27/SHV_20261127_1300_CAR/02_dati.jpg"
+        },
+        {
+          "type": "url",
+          "url": "https://maxegon.github.io/showviewlens/social/2026-11-27/SHV_20261127_1300_CAR/03_screenshot.jpg"
+        },
+        {
+          "type": "url",
+          "url": "https://maxegon.github.io/showviewlens/social/2026-11-27/SHV_20261127_1300_CAR/04_cta.jpg"
+        }
+      ],
+      "slot": "SHV_20261127_1300_CAR",
+      "ora_pubblicazione": "2026-11-27 13:00",
+      "immagini": [
+        "https://maxegon.github.io/showviewlens/social/2026-11-27/SHV_20261127_1300_CAR/01_gancio.jpg",
+        "https://maxegon.github.io/showviewlens/social/2026-11-27/SHV_20261127_1300_CAR/02_dati.jpg",
+        "https://maxegon.github.io/showviewlens/social/2026-11-27/SHV_20261127_1300_CAR/03_screenshot.jpg",
+        "https://maxegon.github.io/showviewlens/social/2026-11-27/SHV_20261127_1300_CAR/04_cta.jpg"
+      ]
+    },
+    {
+      "id": "SHV_20261127_1830_STORY",
+      "piattaforma": "Instagram / FB Stories",
+      "formato": "Storia",
+      "categoria": "concerti+teatro+danza+opera",
+      "pubblica_alle": "2026-11-27T18:30:00+01:00",
+      "tema": "oro",
+      "scartati": [],
+      "doppioni_rimossi": 26,
+      "verifica_eventi": [
+        {
+          "evento": "Figli",
+          "data": "2026-11-27",
+          "ora": "18:30",
+          "citta": "Napoli",
+          "fonte": "vivaticket",
+          "esito": "ok",
+          "rinforzato": false,
+          "controlli": [
+            {
+              "nome": "orario",
+              "esito": "ok",
+              "dettaglio": "18:30"
+            },
+            {
+              "nome": "titolo",
+              "esito": "ok",
+              "dettaglio": "nessuna etichetta di abbonamento"
+            },
+            {
+              "nome": "biglietteria",
+              "esito": "ok",
+              "dettaglio": "Vivaticket: replica letta dall API pubblica"
+            },
+            {
+              "nome": "pagina",
+              "esito": "ok",
+              "dettaglio": "titolo, citta, data e ora coincidono (2026-11-27 18:30, NAPOLI)"
+            },
+            {
+              "nome": "serie",
+              "esito": "ok",
+              "dettaglio": "4 date della produzione, nessuna anomalia in testa alla serie"
+            }
+          ],
+          "fonti": [
+            "https://shop.vivaticket.com/it/sell/?cmd=prices&pcode=14520876&tcode=tl016393"
+          ]
+        },
+        {
+          "evento": "Volatis - del Portar la Voce al Cor - Cosimo Morleo, Max Fuschetto e Enzo Oliva",
+          "data": "2026-11-27",
+          "ora": "19:00",
+          "citta": "Napoli",
+          "fonte": "vivaticket",
+          "esito": "ok",
+          "rinforzato": false,
+          "controlli": [
+            {
+              "nome": "orario",
+              "esito": "ok",
+              "dettaglio": "19:00"
+            },
+            {
+              "nome": "titolo",
+              "esito": "ok",
+              "dettaglio": "nessuna etichetta di abbonamento"
+            },
+            {
+              "nome": "biglietteria",
+              "esito": "ok",
+              "dettaglio": "Vivaticket: replica letta dall API pubblica"
+            },
+            {
+              "nome": "pagina",
+              "esito": "ok",
+              "dettaglio": "titolo, citta, data e ora coincidono (2026-11-27 19:00, NAPOLI)"
+            },
+            {
+              "nome": "serie",
+              "esito": "ok",
+              "dettaglio": "1 date della produzione, nessuna anomalia in testa alla serie"
+            }
+          ],
+          "fonti": [
+            "https://www.vivaticket.com/it/ticket/volatis-del-portar-la-voce-al-cor-cosimo-morleo-max-fuschetto-e-enzo-oliva/325892"
+          ]
+        },
+        {
+          "evento": "L'isola",
+          "data": "2026-11-27",
+          "ora": "20:30",
+          "citta": "Napoli",
+          "fonte": "vivaticket",
+          "esito": "ok",
+          "rinforzato": false,
+          "controlli": [
+            {
+              "nome": "orario",
+              "esito": "ok",
+              "dettaglio": "20:30"
+            },
+            {
+              "nome": "titolo",
+              "esito": "ok",
+              "dettaglio": "nessuna etichetta di abbonamento"
+            },
+            {
+              "nome": "biglietteria",
+              "esito": "ok",
+              "dettaglio": "Vivaticket: replica letta dall API pubblica"
+            },
+            {
+              "nome": "pagina",
+              "esito": "ok",
+              "dettaglio": "titolo, citta, data e ora coincidono (2026-11-27 20:30, NAPOLI)"
+            },
+            {
+              "nome": "serie",
+              "esito": "ok",
+              "dettaglio": "4 date della produzione, nessuna anomalia in testa alla serie"
+            }
+          ],
+          "fonti": [
+            "https://shop.vivaticket.com/it/sell/?cmd=prices&pcode=14472528&tcode=tl015970"
+          ]
+        }
+      ],
+      "stato": "PRONTO",
+      "testo_finale": "🗓️ Questo weekend a Napoli: 24 spettacoli dal vivo.\n\n1. Figli · Teatro Nuovo · ven 27/11 · 18:30\n2. Volatis - del Portar la Voce al Cor - Cosimo Morleo, Max Fuschetto e… · Domus Ars - Fondazione Canto di Virgilio · ven 27/11 · 19:00\n\nCerca «ShowViewLens» su App Store e Google Play.\n#ShowViewLens",
+      "titolo_slide": "Questo weekend a Napoli: 24 spettacoli",
+      "eventi": [
+        "Figli",
+        "Volatis - del Portar la Voce al Cor - Cosimo Morleo, Max Fuschetto e Enzo Oliva",
+        "L'isola"
+      ],
+      "conteggio": 24,
+      "file": [
+        "https://maxegon.github.io/showviewlens/social/2026-11-27/SHV_20261127_1830_STORY/01_storia.jpg"
+      ],
+      "utm": "https://maxegon.github.io/showviewlens/download/?utm_source=instagram&utm_medium=story&utm_campaign=piano_2026_12&utm_content=SHV_20261127_1830_STORY",
+      "verifica": {
+        "esito": "ok",
+        "controlli": [
+          {
+            "nome": "eventi nel post",
+            "esito": "ok",
+            "dettaglio": "3 eventi verificati ok, 0 tolti, su 24 candidati"
+          }
+        ],
+        "fonti": [
+          "https://shop.vivaticket.com/it/sell/?cmd=prices&pcode=14520876&tcode=tl016393",
+          "https://www.vivaticket.com/it/ticket/volatis-del-portar-la-voce-al-cor-cosimo-morleo-max-fuschetto-e-enzo-oliva/325892",
+          "https://shop.vivaticket.com/it/sell/?cmd=prices&pcode=14472528&tcode=tl015970"
+        ]
+      },
+      "anteprima": {
+        "testo": "🗓️ Questo weekend a Napoli: 24 spettacoli dal vivo.\n\n1. Figli · Teatro Nuovo · ven 27/11 · 18:30\n2. Volatis - del Portar la Voce al Cor - Cosimo Morleo, Max Fuschetto e… · Domus Ars - Fondazione Canto di Virgilio · ven 27/11 · 19:00\n\nCerca «ShowViewLens» su App Store e Google Play.\n#ShowViewLens",
+        "immagini": [
+          "https://maxegon.github.io/showviewlens/social/2026-11-27/SHV_20261127_1830_STORY/01_storia.jpg"
+        ]
+      },
+      "ig_media": [
+        {
+          "media_type": "IMAGE",
+          "image_url": "https://maxegon.github.io/showviewlens/social/2026-11-27/SHV_20261127_1830_STORY/01_storia.jpg"
+        }
+      ],
+      "fb_photos": [
+        {
+          "type": "url",
+          "url": "https://maxegon.github.io/showviewlens/social/2026-11-27/SHV_20261127_1830_STORY/01_storia.jpg"
+        }
+      ],
+      "slot": "SHV_20261127_1830_STORY",
+      "ora_pubblicazione": "2026-11-27 18:30",
+      "immagini": [
+        "https://maxegon.github.io/showviewlens/social/2026-11-27/SHV_20261127_1830_STORY/01_storia.jpg"
+      ]
+    }
+  ]
+}
