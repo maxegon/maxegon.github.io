@@ -116,7 +116,7 @@
   {
    "data": "2026-11-28",
    "ora": "19:00",
-   "titolo": "Qatar Grand Prix — Qualifiche",
+   "titolo": "F1 GP Qatar — Qualifiche",
    "competizione": "Formula 1",
    "sport": "f1",
    "canali": [
@@ -223,21 +223,21 @@
   {
    "data": "2026-11-29",
    "ora": "17:00",
-   "titolo": "Cucine Lube Civitanova – Gas Sales Bluenergy Piacenza",
-   "competizione": "Superlega Volley",
-   "sport": "volley",
+   "titolo": "F1 GP Qatar — Gara",
+   "competizione": "Formula 1",
+   "sport": "f1",
    "canali": [
-    "DAZN"
+    "Sky Sport F1"
    ]
   },
   {
    "data": "2026-11-29",
    "ora": "17:00",
-   "titolo": "Qatar Grand Prix — Gran Premio",
-   "competizione": "Formula 1",
-   "sport": "f1",
+   "titolo": "Cucine Lube Civitanova – Gas Sales Bluenergy Piacenza",
+   "competizione": "Superlega Volley",
+   "sport": "volley",
    "canali": [
-    "Sky Sport F1"
+    "DAZN"
    ]
   },
   {
