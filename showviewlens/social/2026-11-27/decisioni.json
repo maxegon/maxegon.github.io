@@ -1,0 +1,47 @@
+{
+ "app": "ShowViewLens",
+ "data": "2026-11-27",
+ "righe": {
+  "SHV_20261127_1300_CAR": {
+   "pubblica_alle": "2026-11-27T13:00:00+01:00",
+   "formato": "Carosello",
+   "piattaforma": "Instagram / FB",
+   "sempreverde": false,
+   "chiave": "SHV_20261127_1300_CAR",
+   "decisione": null,
+   "alle": "",
+   "correzioni": [],
+   "messaggio_id": 911
+  },
+  "SHV_20261127_1830_STORY": {
+   "pubblica_alle": "2026-11-27T18:30:00+01:00",
+   "formato": "Storia",
+   "piattaforma": "Instagram / FB Stories",
+   "sempreverde": false,
+   "chiave": "SHV_20261127_1830_STORY",
+   "decisione": null,
+   "alle": "",
+   "correzioni": [],
+   "messaggio_id": 913
+  }
+ },
+ "messaggi": {
+  "911": {
+   "chat_id": "1614787945",
+   "righe": [
+    "SHV_20261127_1300_CAR"
+   ],
+   "base": "<b>13:00 · Carosello · Instagram / FB</b>\nID <code>SHV_20261127_1300_CAR</code>\n⚠️ Verifica ok · 4 fonti, tolti perché incerti:\n  • tolto «Ludovico Einaudi» ven 27/11: Ticketmaster: pagina non leggibile (HTTP 403)\n<pre>📍 Weekend a Milano: 25 spettacoli tra teatro, danza e opera.\n\n1. Fratelli di Crozza · Soul Movie Studios · ven 27/11 · 19:00\n2. Bravissime · Teatro della Cooperativa · ven 27/11 · 20:00\n3. Bobby · deSidera Teatro Oscar · ven 27/11 · 20:30\n4. L&#x27;amante · Teatro Fontana · ven 27/11 · 20:30\n\nSu ShowViewLens trovi orari e link alla biglietteria ufficiale.\n\n📲 Scarica ShowViewLens gratis: link in bio (App Store e Google Play).\n\n#ShowViewLens #Milano #TeatroItalia #SpettacoliDalVivo</pre>\n\n<i>✅ OK: esce all'orario · ⏭️ Salta: non esce, contenuto legato a quella data · ✏️ Correggi: mi scrivi cosa cambiare · ↩️ Annulla: torna come prima. Nessun click = esce. Leggo i pulsanti ogni 15 minuti: decidi almeno 30 minuti prima.</i>"
+  },
+  "913": {
+   "chat_id": "1614787945",
+   "righe": [
+    "SHV_20261127_1830_STORY"
+   ],
+   "base": "<b>18:30 · Storia · Instagram / FB Stories</b>\nID <code>SHV_20261127_1830_STORY</code>\n✅ Verifica ok · 3 fonti\n<pre>🗓️ Questo weekend a Napoli: 24 spettacoli dal vivo.\n\n1. Figli · Teatro Nuovo · ven 27/11 · 18:30\n2. Volatis - del Portar la Voce al Cor - Cosimo Morleo, Max Fuschetto e… · Domus Ars - Fondazione Canto di Virgilio · ven 27/11 · 19:00\n\nCerca «ShowViewLens» su App Store e Google Play.\n#ShowViewLens</pre>\n\n<i>✅ OK: esce all'orario · ⏭️ Salta: non esce, contenuto legato a quella data · ✏️ Correggi: mi scrivi cosa cambiare · ↩️ Annulla: torna come prima. Nessun click = esce. Leggo i pulsanti ogni 15 minuti: decidi almeno 30 minuti prima.</i>"
+  }
+ },
+ "ultimo_update_id": null,
+ "anteprima_inviata_il": "2026-11-26T20:02:20+01:00",
+ "provvisorio": false
+}
