@@ -5,8 +5,8 @@
   "ora_pubblicazione": "2026-11-26 18:00",
   "data_evento": "2026-11-28",
   "utm": "https://maxegon.github.io/meteo-stat-privacy/landing/?utm_source=tiktok&utm_medium=social&utm_campaign=s1m_2026w48&utm_content=S1M_20261126_1800_VIDEO",
-  "generato_il": "2026-11-25T20:02:33+01:00",
-  "provvisorio": true,
+  "generato_il": "2026-11-26T06:31:53+01:00",
+  "provvisorio": false,
   "stato": "SALTATO_VERIFICA",
   "motivo": "verifica dei dati non superata: fonti_pioggia: 2 fonti con il dato di pioggia (minimo 3)",
   "verifica": {
@@ -45,7 +45,7 @@
       {
         "nome": "scarto",
         "esito": "ok",
-        "dettaglio": "massime 7-13° (scarto 6°), pioggia 0-6% (scarto 6) | disaccordo sulle massime: il gancio mostra l'intervallo"
+        "dettaglio": "massime 7-14° (scarto 7°), pioggia 0-20% (scarto 20) | disaccordo sulle massime: il gancio mostra l'intervallo"
       },
       {
         "nome": "giorno",
@@ -67,9 +67,9 @@
       "https://backend-eta-seven-21.vercel.app/weather?lat=44.41&lon=8.93",
       "https://open-meteo.com",
       "https://openweathermap.org",
+      "https://www.weatherapi.com",
       "https://api.met.no",
       "https://brightsky.dev",
-      "https://www.visualcrossing.com",
       "http://www.7timer.info",
       "https://www.tomorrow.io"
     ]
@@ -102,22 +102,26 @@
     "fonti_n": 7,
     "fonti_elencate": 7,
     "fonti_escluse": [],
-    "tmax_media": 11,
+    "tmax_media": 9,
     "tmax_min": 7,
-    "tmax_max": 13,
-    "tmin_media": 7,
-    "pioggia_media": 2,
+    "tmax_max": 14,
+    "tmin_media": 6,
+    "pioggia_media": 8,
     "pioggia_min": 0,
-    "pioggia_max": 6,
+    "pioggia_max": 20,
     "fonti_pioggia": 2,
     "condizione": "sereno",
-    "fonti_condizione": 3,
-    "giorno_piu_incerto": "lunedì",
-    "scarto_tmax": 6,
-    "tmax_scarto_fonti": 6.4,
+    "fonti_condizione": 5,
+    "giorno_piu_incerto": "mercoledì",
+    "scarto_tmax": 9,
+    "tmax_scarto_fonti": 6.5,
     "tmax_disaccordo": true,
     "pioggia_disaccordo": false,
-    "gancio_pioggia": "pioggia 2%"
+    "gancio_pioggia": "pioggia 8%"
   },
-  "giorno": "2026-11-26"
+  "giorno": "2026-11-26",
+  "cambio_serale": {
+    "tipo": "invariata",
+    "motivo": ""
+  }
 }
