@@ -1,0 +1,74 @@
+{
+ "data_evento": "2026-11-27",
+ "data_lunga": "Venerdì 27 novembre",
+ "categoria": "stasera_tv",
+ "tema": 0,
+ "eventi": [
+  {
+   "data": "2026-11-27",
+   "ora": "18:00",
+   "titolo": "Qatar Grand Prix — Prove Libere 2",
+   "competizione": "Formula 1",
+   "sport": "f1",
+   "canali": [
+    "Sky Sport F1"
+   ]
+  },
+  {
+   "data": "2026-11-27",
+   "ora": "18:30",
+   "titolo": "FIS Sci Freestyle Coppa del Mondo: Innsbruck: Big Air",
+   "competizione": "Coppa del Mondo",
+   "sport": "ski",
+   "canali": [
+    "Eurosport",
+    "Eurosport 3"
+   ]
+  },
+  {
+   "data": "2026-11-27",
+   "ora": "20:30",
+   "titolo": "Werder Bremen – Borussia Mönchengladbach",
+   "competizione": "Bundesliga",
+   "sport": "soccer",
+   "canali": [
+    "Sky Sport 255",
+    "Sky Sport"
+   ]
+  },
+  {
+   "data": "2026-11-27",
+   "ora": "20:45",
+   "titolo": "Venezia – Bologna",
+   "competizione": "Serie A",
+   "sport": "soccer",
+   "canali": [
+    "Sky Sport Calcio",
+    "Sky Sport 4K",
+    "Sky Sport 251"
+   ]
+  },
+  {
+   "data": "2026-11-27",
+   "ora": "21:00",
+   "titolo": "Nottingham Forest – Chelsea",
+   "competizione": "Premier League",
+   "sport": "soccer",
+   "canali": [
+    "Sky Sport Max",
+    "Sky Sport"
+   ]
+  },
+  {
+   "data": "2026-11-27",
+   "ora": "23:00",
+   "titolo": "Mexico Major: Quarti Di Finale",
+   "competizione": "Premier Padel",
+   "sport": "padel",
+   "canali": [
+    "Sky Sport Tennis",
+    "Sky Sport Uno"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,337 @@
+{
+ "data_evento": "2026-11-28",
+ "data_lunga": "Sabato 28 novembre",
+ "categoria": "weekend_sportivo",
+ "tema": 1,
+ "eventi": [
+  {
+   "data": "2026-11-28",
+   "ora": "10:45",
+   "titolo": "GP Valencia — Qualifiche",
+   "competizione": "MotoGP",
+   "sport": "motogp",
+   "canali": [
+    "Sky Sport MotoGP",
+    "TV8"
+   ]
+  },
+  {
+   "data": "2026-11-28",
+   "ora": "12:00",
+   "titolo": "Coppa Davis Maschile",
+   "competizione": "Coppa Davis",
+   "sport": "tennis",
+   "canali": [
+    "SuperTennis"
+   ]
+  },
+  {
+   "data": "2026-11-28",
+   "ora": "13:20",
+   "titolo": "Hinzenbach - HS90 donne (1a giornata)",
+   "competizione": "Coppa del Mondo",
+   "sport": "ski",
+   "canali": [
+    "Eurosport 4"
+   ]
+  },
+  {
+   "data": "2026-11-28",
+   "ora": "13:40",
+   "titolo": "GP Valencia: Qualifiche (Moto2)",
+   "competizione": "MotoGP",
+   "sport": "motogp",
+   "canali": [
+    "TV8",
+    "Sky Sport MotoGP"
+   ]
+  },
+  {
+   "data": "2026-11-28",
+   "ora": "14:55",
+   "titolo": "GP Valencia — Sprint Race",
+   "competizione": "MotoGP",
+   "sport": "motogp",
+   "canali": [
+    "Sky Sport MotoGP",
+    "TV8"
+   ]
+  },
+  {
+   "data": "2026-11-28",
+   "ora": "15:15",
+   "titolo": "Snowboard: Coppa del Mondo - Snow Ruyi: Slalom Gigante Parallelo",
+   "competizione": "Coppa del Mondo",
+   "sport": "ski",
+   "canali": [
+    "Eurosport",
+    "Eurosport 6"
+   ]
+  },
+  {
+   "data": "2026-11-28",
+   "ora": "16:00",
+   "titolo": "Leeds – Coventry",
+   "competizione": "Premier League",
+   "sport": "soccer",
+   "canali": [
+    "Sky Sport Mix",
+    "Sky Sport"
+   ]
+  },
+  {
+   "data": "2026-11-28",
+   "ora": "16:00",
+   "titolo": "Manchester United – Brentford",
+   "competizione": "Premier League",
+   "sport": "soccer",
+   "canali": [
+    "Sky Sport Uno",
+    "Sky Sport 4K",
+    "Sky Sport"
+   ]
+  },
+  {
+   "data": "2026-11-28",
+   "ora": "18:30",
+   "titolo": "Ipswich – Aston Villa",
+   "competizione": "Premier League",
+   "sport": "soccer",
+   "canali": [
+    "Sky Sport Max",
+    "Sky Sport"
+   ]
+  },
+  {
+   "data": "2026-11-28",
+   "ora": "18:30",
+   "titolo": "VfB Stuttgart – Eintracht Frankfurt",
+   "competizione": "Bundesliga",
+   "sport": "soccer",
+   "canali": [
+    "Sky Sport Mix",
+    "Sky Sport"
+   ]
+  },
+  {
+   "data": "2026-11-28",
+   "ora": "19:00",
+   "titolo": "Qatar Grand Prix — Qualifiche",
+   "competizione": "Formula 1",
+   "sport": "f1",
+   "canali": [
+    "Sky Sport F1"
+   ]
+  },
+  {
+   "data": "2026-11-28",
+   "ora": "20:45",
+   "titolo": "Inter – Genoa",
+   "competizione": "Serie A",
+   "sport": "soccer",
+   "canali": [
+    "Sky Sport 251",
+    "Sky Sport Calcio",
+    "Sky Sport Uno",
+    "Sky Sport 4K"
+   ]
+  },
+  {
+   "data": "2026-11-28",
+   "ora": "11:00",
+   "titolo": "Abu Dhabi: Giorno 1",
+   "competizione": "Vela",
+   "sport": "sailing",
+   "canali": [
+    "Sky Sport Arena"
+   ]
+  },
+  {
+   "data": "2026-11-28",
+   "ora": "23:00",
+   "titolo": "Mexico Major: Semifinali",
+   "competizione": "Premier Padel",
+   "sport": "padel",
+   "canali": [
+    "Sky Sport Tennis",
+    "Sky Sport Uno"
+   ]
+  },
+  {
+   "data": "2026-11-29",
+   "ora": "10:00",
+   "titolo": "Sci di Fondo. Coppa del Mondo Ruka: 20 km Mass Start maschile - t. libera",
+   "competizione": "Coppa del Mondo",
+   "sport": "ski",
+   "canali": [
+    "Rai Sport"
+   ]
+  },
+  {
+   "data": "2026-11-29",
+   "ora": "12:15",
+   "titolo": "GP Valencia: Gara (Moto2)",
+   "competizione": "MotoGP",
+   "sport": "motogp",
+   "canali": [
+    "Sky Sport MotoGP"
+   ]
+  },
+  {
+   "data": "2026-11-29",
+   "ora": "13:00",
+   "titolo": "Everton – Liverpool",
+   "competizione": "Premier League",
+   "sport": "soccer",
+   "canali": [
+    "Sky Sport 4K",
+    "Sky Sport Arena",
+    "Sky Sport"
+   ]
+  },
+  {
+   "data": "2026-11-29",
+   "ora": "14:00",
+   "titolo": "GP Valencia — Gara",
+   "competizione": "MotoGP",
+   "sport": "motogp",
+   "canali": [
+    "Sky Sport MotoGP"
+   ]
+  },
+  {
+   "data": "2026-11-29",
+   "ora": "15:00",
+   "titolo": "Rana Verona – Itas Trentino",
+   "competizione": "Superlega Volley",
+   "sport": "volley",
+   "canali": [
+    "Rai 2"
+   ]
+  },
+  {
+   "data": "2026-11-29",
+   "ora": "15:05",
+   "titolo": "Sunderland – Tottenham",
+   "competizione": "Premier League",
+   "sport": "soccer",
+   "canali": [
+    "Sky Sport Arena",
+    "Sky Sport"
+   ]
+  },
+  {
+   "data": "2026-11-29",
+   "ora": "17:00",
+   "titolo": "Cucine Lube Civitanova – Gas Sales Bluenergy Piacenza",
+   "competizione": "Superlega Volley",
+   "sport": "volley",
+   "canali": [
+    "DAZN"
+   ]
+  },
+  {
+   "data": "2026-11-29",
+   "ora": "17:00",
+   "titolo": "Qatar Grand Prix — Gran Premio",
+   "competizione": "Formula 1",
+   "sport": "f1",
+   "canali": [
+    "Sky Sport F1"
+   ]
+  },
+  {
+   "data": "2026-11-29",
+   "ora": "17:30",
+   "titolo": "Arsenal – Manchester City",
+   "competizione": "Premier League",
+   "sport": "soccer",
+   "canali": [
+    "Sky Sport Arena",
+    "Sky Sport"
+   ]
+  },
+  {
+   "data": "2026-11-29",
+   "ora": "17:45",
+   "titolo": "Sci Alpino. Coppa del Mondo Copper: Slalom Gigante maschile - 1a manche",
+   "competizione": "Coppa del Mondo",
+   "sport": "ski",
+   "canali": [
+    "Rai Sport"
+   ]
+  },
+  {
+   "data": "2026-11-29",
+   "ora": "18:00",
+   "titolo": "AS Roma – Monza",
+   "competizione": "Serie A",
+   "sport": "soccer",
+   "canali": [
+    "Sky Sport 251",
+    "Sky Sport 4K"
+   ]
+  },
+  {
+   "data": "2026-11-29",
+   "ora": "18:30",
+   "titolo": "Galà del Motomondiale (MotoGP)",
+   "competizione": "MotoGP",
+   "sport": "motogp",
+   "canali": [
+    "Sky Sport MotoGP"
+   ]
+  },
+  {
+   "data": "2026-11-29",
+   "ora": "19:00",
+   "titolo": "Sir Susa Scai Perugia – Valsa Group Modena",
+   "competizione": "Superlega Volley",
+   "sport": "volley",
+   "canali": [
+    "DAZN"
+   ]
+  },
+  {
+   "data": "2026-11-29",
+   "ora": "19:30",
+   "titolo": "Borussia Dortmund – Bayer Leverkusen",
+   "competizione": "Bundesliga",
+   "sport": "soccer",
+   "canali": [
+    "Sky Sport Arena",
+    "Sky Sport"
+   ]
+  },
+  {
+   "data": "2026-11-29",
+   "ora": "20:45",
+   "titolo": "Como – Juventus",
+   "competizione": "Serie A",
+   "sport": "soccer",
+   "canali": [
+    "DAZN"
+   ]
+  },
+  {
+   "data": "2026-11-29",
+   "ora": "20:55",
+   "titolo": "Sci Alpino. Coppa del Mondo Copper: Slalom Gigante maschile - 2a manche",
+   "competizione": "Coppa del Mondo",
+   "sport": "ski",
+   "canali": [
+    "Rai Sport"
+   ]
+  },
+  {
+   "data": "2026-11-29",
+   "ora": "11:00",
+   "titolo": "Abu Dhabi: Giorno 2",
+   "competizione": "Vela",
+   "sport": "sailing",
+   "canali": [
+    "Sky Sport Arena"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,368 @@
+{
+ "generato": "2026-11-26T19:01:50+00:00",
+ "data_pubblicazione": "2026-11-27",
+ "base_url": "https://maxegon.github.io/sportviewlens/social/2026-11-27",
+ "righe": [
+  {
+   "Giorno_Slot": "SVL_20261127_1230_VID",
+   "Formato": "Video",
+   "Piattaforma": "Instagram / FB + TikTok",
+   "Ora": "12:30",
+   "Categoria": "stasera_tv",
+   "Data_Evento": "2026-11-27",
+   "UTM": "https://maxegon.github.io/sportviewlens/download/?utm_source=instagram&utm_medium=reel&utm_campaign=stasera_tv&utm_content=SVL_20261127_1230_VID",
+   "note": [],
+   "verifica": {
+    "esito": "dubbio",
+    "controlli": [
+     {
+      "nome": "eventi nel post",
+      "esito": "ok",
+      "dettaglio": "6 eventi verificati ok, 14 tolti, su 20 candidati dell'app"
+     },
+     {
+      "nome": "tolto «Estonia – France» 18:00",
+      "esito": "dubbio",
+      "dettaglio": "nessuna riga di tv_rights per basket / «Mondiali Basket»; nessun canale con due fonti: DAZN (nessuna fonte); orario 18:00 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Ciclocross: Coppa del Mondo - Ostrava » 18:05",
+      "esito": "dubbio",
+      "dettaglio": "nessuna riga di tv_rights per cycling / «Coppa del Mondo»; nessun canale con due fonti: RaiPlay Sport 1 (solo palinsesto); Eurosport 2 (solo palinsesto); DAZN (nessuna fonte); orario 18:05 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Latvia – Germany» 18:30",
+      "esito": "dubbio",
+      "dettaglio": "nessuna riga di tv_rights per basket / «Mondiali Basket»; nessun canale con due fonti: DAZN (nessuna fonte); orario 18:30 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Sweden – Hungary» 19:00",
+      "esito": "dubbio",
+      "dettaglio": "nessuna riga di tv_rights per basket / «Mondiali Basket»; nessun canale con due fonti: DAZN (nessuna fonte); orario 19:00 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Ciclocross: Coppa del Mondo - Ostrava » 19:35",
+      "esito": "dubbio",
+      "dettaglio": "nessuna riga di tv_rights per cycling / «Coppa del Mondo»; nessun canale con due fonti: RaiPlay Sport 1 (solo palinsesto); Eurosport 2 (solo palinsesto); DAZN (nessuna fonte); orario 19:35 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Netherlands – Israel» 20:00",
+      "esito": "dubbio",
+      "dettaglio": "nessuna riga di tv_rights per basket / «Mondiali Basket»; nessun canale con due fonti: DAZN (nessuna fonte); orario 20:00 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Slovenia – Finland» 20:00",
+      "esito": "dubbio",
+      "dettaglio": "nessuna riga di tv_rights per basket / «Mondiali Basket»; nessun canale con due fonti: Sky Sport Basket (solo palinsesto); DAZN (nessuna fonte); orario 20:00 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Groningen – Willem II» 20:00",
+      "esito": "dubbio",
+      "dettaglio": "nessun canale con due fonti: DAZN (solo tv_rights); orario 20:00 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Polonia - Croazia» 20:35",
+      "esito": "dubbio",
+      "dettaglio": "nessuna riga di tv_rights per basket / «FIBA Qualificazioni World Cup»; nessun canale con due fonti: Sky Sport Mix (solo palinsesto); DAZN (nessuna fonte); orario 20:35 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Stade Brestois 29 – Paris FC» 20:45",
+      "esito": "dubbio",
+      "dettaglio": "nessun canale con due fonti: Ligue1+ (solo tv_rights); orario 20:45 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Levante – Racing Santander» 21:00",
+      "esito": "dubbio",
+      "dettaglio": "nessun canale con due fonti: DAZN (solo tv_rights); orario 21:00 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Chile – Mexico» 23:40",
+      "esito": "dubbio",
+      "dettaglio": "nessuna riga di tv_rights per basket / «Mondiali Basket»; nessun canale con due fonti: DAZN (nessuna fonte); orario 23:40 non confrontabile col palinsesto"
+     }
+    ],
+    "fonti": [
+     "https://sport.sky.it/formula-1",
+     "supabase:tv_epg_cache?date=eq.2026-11-27",
+     "supabase:tv_rights?active=eq.true",
+     "https://www.eurosport.it/sci-alpino/",
+     "https://sport.sky.it/calcio",
+     "https://sport.sky.it"
+    ]
+   },
+   "tema": "ambra",
+   "Stato": "PRONTO",
+   "Testo_Post_Completo": "🎬 6 dirette in TV stasera\n\n• 18:00 Qatar Grand Prix — Prove Libere 2 · Sky Sport F1\n• 18:30 FIS Sci Freestyle Coppa del Mondo: Innsbruck: Big Air · Eurosport, Eurosport 3\n• 20:30 Werder Bremen – Borussia Mönchengladbach · Sky Sport 255, Sky Sport\n• 20:45 Venezia – Bologna · Sky Sport Calcio, Sky Sport 4K\n• 21:00 Nottingham Forest – Chelsea · Sky Sport Max, Sky Sport\n\n📲 Scarica gratis SportViewLens: link in bio.\n\nSportViewLens non è affiliata con DAZN, Sky, RAI o altri broadcaster.\n🤖 Contenuto generato in automatico con IA dai palinsesti TV ufficiali.\n\n#SportViewLens #SportInTV #StaseraInTV",
+   "eventi": [
+    "Qatar Grand Prix — Prove Libere 2",
+    "FIS Sci Freestyle Coppa del Mondo: Innsbruck: Big Air",
+    "Werder Bremen – Borussia Mönchengladbach",
+    "Venezia – Bologna",
+    "Nottingham Forest – Chelsea",
+    "Mexico Major: Quarti Di Finale"
+   ],
+   "conteggio": 6,
+   "file": [
+    "https://maxegon.github.io/sportviewlens/social/2026-11-27/SVL_20261127_1230_VID/video.mp4",
+    "https://maxegon.github.io/sportviewlens/social/2026-11-27/SVL_20261127_1230_VID/frames/v1_gancio.png"
+   ],
+   "anteprima": {
+    "testo": "🎬 6 dirette in TV stasera\n\n• 18:00 Qatar Grand Prix — Prove Libere 2 · Sky Sport F1\n• 18:30 FIS Sci Freestyle Coppa del Mondo: Innsbruck: Big Air · Eurosport, Eurosport 3\n• 20:30 Werder Bremen – Borussia Mönchengladbach · Sky Sport 255, Sky Sport\n• 20:45 Venezia – Bologna · Sky Sport Calcio, Sky Sport 4K\n• 21:00 Nottingham Forest – Chelsea · Sky Sport Max, Sky Sport\n\n📲 Scarica gratis SportViewLens: link in bio.\n\nSportViewLens non è affiliata con DAZN, Sky, RAI o altri broadcaster.\n🤖 Contenuto generato in automatico con IA dai palinsesti TV ufficiali.\n\n#SportViewLens #SportInTV #StaseraInTV",
+    "immagini": [
+     "https://maxegon.github.io/sportviewlens/social/2026-11-27/SVL_20261127_1230_VID/frames/v1_gancio.png"
+    ]
+   },
+   "id": "SVL_20261127_1230_VID",
+   "stato": "PRONTO",
+   "formato": "Video",
+   "piattaforma": "Instagram / FB + TikTok",
+   "utm": "https://maxegon.github.io/sportviewlens/download/?utm_source=instagram&utm_medium=reel&utm_campaign=stasera_tv&utm_content=SVL_20261127_1230_VID",
+   "pubblica_alle": "2026-11-27T12:30+01:00",
+   "testo_finale": "🎬 6 dirette in TV stasera\n\n• 18:00 Qatar Grand Prix — Prove Libere 2 · Sky Sport F1\n• 18:30 FIS Sci Freestyle Coppa del Mondo: Innsbruck: Big Air · Eurosport, Eurosport 3\n• 20:30 Werder Bremen – Borussia Mönchengladbach · Sky Sport 255, Sky Sport\n• 20:45 Venezia – Bologna · Sky Sport Calcio, Sky Sport 4K\n• 21:00 Nottingham Forest – Chelsea · Sky Sport Max, Sky Sport\n\n📲 Scarica gratis SportViewLens: link in bio.\n\nSportViewLens non è affiliata con DAZN, Sky, RAI o altri broadcaster.\n🤖 Contenuto generato in automatico con IA dai palinsesti TV ufficiali.\n\n#SportViewLens #SportInTV #StaseraInTV",
+   "ig_media": [
+    {
+     "media_type": "IMAGE",
+     "image_url": "https://maxegon.github.io/sportviewlens/social/2026-11-27/SVL_20261127_1230_VID/video.mp4"
+    },
+    {
+     "media_type": "IMAGE",
+     "image_url": "https://maxegon.github.io/sportviewlens/social/2026-11-27/SVL_20261127_1230_VID/frames/v1_gancio.png"
+    }
+   ],
+   "fb_photos": [
+    {
+     "type": "url",
+     "url": "https://maxegon.github.io/sportviewlens/social/2026-11-27/SVL_20261127_1230_VID/video.mp4"
+    },
+    {
+     "type": "url",
+     "url": "https://maxegon.github.io/sportviewlens/social/2026-11-27/SVL_20261127_1230_VID/frames/v1_gancio.png"
+    }
+   ],
+   "slot": "SVL_20261127_1230_VID",
+   "ora_pubblicazione": "2026-11-27 12:30",
+   "immagini": [
+    "https://maxegon.github.io/sportviewlens/social/2026-11-27/SVL_20261127_1230_VID/video.mp4",
+    "https://maxegon.github.io/sportviewlens/social/2026-11-27/SVL_20261127_1230_VID/frames/v1_gancio.png"
+   ]
+  },
+  {
+   "Giorno_Slot": "SVL_20261127_1300_CAR",
+   "Formato": "Carosello",
+   "Piattaforma": "Instagram / FB",
+   "Ora": "13:00",
+   "Categoria": "weekend_sportivo",
+   "Data_Evento": "2026-11-28",
+   "UTM": "https://maxegon.github.io/sportviewlens/download/?utm_source=instagram&utm_medium=carosello&utm_campaign=weekend&utm_content=SVL_20261127_1300_CAR",
+   "note": [],
+   "verifica": {
+    "esito": "dubbio",
+    "controlli": [
+     {
+      "nome": "eventi nel post",
+      "esito": "ok",
+      "dettaglio": "31 eventi verificati ok, 68 tolti, su 99 candidati dell'app"
+     },
+     {
+      "nome": "tolto «Coppa Davis Finals Maschile (cemento i» 11:00",
+      "esito": "dubbio",
+      "dettaglio": "orario 11:00 fuori dalla finestra [-5, +60] min dall'inizio trasmissione"
+     },
+     {
+      "nome": "tolto «Snowboard: Coppa del Mondo - Snow Ruyi» 11:15",
+      "esito": "dubbio",
+      "dettaglio": "orario 11:15 fuori dalla finestra [-5, +60] min dall'inizio trasmissione"
+     },
+     {
+      "nome": "tolto «Real Betis – Rayo Vallecano» 14:00",
+      "esito": "dubbio",
+      "dettaglio": "nessun canale con due fonti: DAZN (solo tv_rights); orario 14:00 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Frosinone – Parma» 15:00",
+      "esito": "dubbio",
+      "dettaglio": "nessun canale con due fonti: DAZN (solo tv_rights); orario 15:00 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Ascoli – Virtus Entella» 15:00",
+      "esito": "dubbio",
+      "dettaglio": "nessun canale con due fonti: DAZN (solo tv_rights); orario 15:00 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Carrarese – Juve Stabia» 15:00",
+      "esito": "dubbio",
+      "dettaglio": "nessun canale con due fonti: DAZN (solo tv_rights); orario 15:00 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Catanzaro – Avellino» 15:00",
+      "esito": "dubbio",
+      "dettaglio": "nessun canale con due fonti: DAZN (solo tv_rights); orario 15:00 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Empoli – Hellas Verona» 15:00",
+      "esito": "dubbio",
+      "dettaglio": "nessun canale con due fonti: DAZN (solo tv_rights); orario 15:00 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «FSV Mainz 05 – Union Berlin» 15:30",
+      "esito": "dubbio",
+      "dettaglio": "nessun canale con due fonti: Sky Sport Max (solo tv_rights); Sky Sport (solo tv_rights); NOW (solo tv_rights); orario 15:30 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Hamburger SV – Bayern München» 15:30",
+      "esito": "dubbio",
+      "dettaglio": "nessun canale con due fonti: Sky Sport Max (solo tv_rights); Sky Sport (solo tv_rights); NOW (solo tv_rights); orario 15:30 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Malaga – Athletic Club» 16:15",
+      "esito": "dubbio",
+      "dettaglio": "nessun canale con due fonti: DAZN (solo tv_rights); orario 16:15 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Snowboard: Coppa del Mondo - Snow Ruyi» 16:25",
+      "esito": "dubbio",
+      "dettaglio": "orario 16:25 fuori dalla finestra [-5, +60] min dall'inizio trasmissione"
+     }
+    ],
+    "fonti": [
+     "https://sport.sky.it/motogp",
+     "https://www.tv8.it",
+     "supabase:tv_epg_cache?date=eq.2026-11-28",
+     "supabase:tv_rights?active=eq.true",
+     "https://www.supertennis.tv",
+     "https://www.eurosport.it/sci-alpino/",
+     "https://sport.sky.it/calcio",
+     "https://sport.sky.it/formula-1",
+     "https://sport.sky.it",
+     "https://www.raiplay.it/dirette/raisport",
+     "supabase:tv_epg_cache?date=eq.2026-11-29",
+     "https://www.dazn.com/it-IT/home"
+    ]
+   },
+   "tema": "notte",
+   "Stato": "DA_RIVEDERE",
+   "motivo": "renderer",
+   "errori": [
+    "[storia] slide rifiutata:",
+    "  - 27 parole (max 25)"
+   ],
+   "id": "SVL_20261127_1300_CAR",
+   "stato": "DA_RIVEDERE",
+   "formato": "Carosello",
+   "piattaforma": "Instagram / FB",
+   "utm": "https://maxegon.github.io/sportviewlens/download/?utm_source=instagram&utm_medium=carosello&utm_campaign=weekend&utm_content=SVL_20261127_1300_CAR",
+   "pubblica_alle": "2026-11-27T13:00+01:00",
+   "slot": "SVL_20261127_1300_CAR",
+   "ora_pubblicazione": "2026-11-27 13:00"
+  },
+  {
+   "Giorno_Slot": "SVL_20261127_1830_STO",
+   "Formato": "Storia",
+   "Piattaforma": "Instagram / FB Stories",
+   "Ora": "18:30",
+   "Categoria": "weekend_sportivo",
+   "Data_Evento": "2026-11-28",
+   "UTM": "",
+   "note": [],
+   "verifica": {
+    "esito": "dubbio",
+    "controlli": [
+     {
+      "nome": "eventi nel post",
+      "esito": "ok",
+      "dettaglio": "31 eventi verificati ok, 68 tolti, su 99 candidati dell'app"
+     },
+     {
+      "nome": "tolto «Coppa Davis Finals Maschile (cemento i» 11:00",
+      "esito": "dubbio",
+      "dettaglio": "orario 11:00 fuori dalla finestra [-5, +60] min dall'inizio trasmissione"
+     },
+     {
+      "nome": "tolto «Snowboard: Coppa del Mondo - Snow Ruyi» 11:15",
+      "esito": "dubbio",
+      "dettaglio": "orario 11:15 fuori dalla finestra [-5, +60] min dall'inizio trasmissione"
+     },
+     {
+      "nome": "tolto «Real Betis – Rayo Vallecano» 14:00",
+      "esito": "dubbio",
+      "dettaglio": "nessun canale con due fonti: DAZN (solo tv_rights); orario 14:00 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Frosinone – Parma» 15:00",
+      "esito": "dubbio",
+      "dettaglio": "nessun canale con due fonti: DAZN (solo tv_rights); orario 15:00 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Ascoli – Virtus Entella» 15:00",
+      "esito": "dubbio",
+      "dettaglio": "nessun canale con due fonti: DAZN (solo tv_rights); orario 15:00 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Carrarese – Juve Stabia» 15:00",
+      "esito": "dubbio",
+      "dettaglio": "nessun canale con due fonti: DAZN (solo tv_rights); orario 15:00 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Catanzaro – Avellino» 15:00",
+      "esito": "dubbio",
+      "dettaglio": "nessun canale con due fonti: DAZN (solo tv_rights); orario 15:00 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Empoli – Hellas Verona» 15:00",
+      "esito": "dubbio",
+      "dettaglio": "nessun canale con due fonti: DAZN (solo tv_rights); orario 15:00 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «FSV Mainz 05 – Union Berlin» 15:30",
+      "esito": "dubbio",
+      "dettaglio": "nessun canale con due fonti: Sky Sport Max (solo tv_rights); Sky Sport (solo tv_rights); NOW (solo tv_rights); orario 15:30 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Hamburger SV – Bayern München» 15:30",
+      "esito": "dubbio",
+      "dettaglio": "nessun canale con due fonti: Sky Sport Max (solo tv_rights); Sky Sport (solo tv_rights); NOW (solo tv_rights); orario 15:30 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Malaga – Athletic Club» 16:15",
+      "esito": "dubbio",
+      "dettaglio": "nessun canale con due fonti: DAZN (solo tv_rights); orario 16:15 non confrontabile col palinsesto"
+     },
+     {
+      "nome": "tolto «Snowboard: Coppa del Mondo - Snow Ruyi» 16:25",
+      "esito": "dubbio",
+      "dettaglio": "orario 16:25 fuori dalla finestra [-5, +60] min dall'inizio trasmissione"
+     }
+    ],
+    "fonti": [
+     "https://sport.sky.it/motogp",
+     "https://www.tv8.it",
+     "supabase:tv_epg_cache?date=eq.2026-11-28",
+     "supabase:tv_rights?active=eq.true",
+     "https://www.supertennis.tv",
+     "https://www.eurosport.it/sci-alpino/",
+     "https://sport.sky.it/calcio",
+     "https://sport.sky.it/formula-1",
+     "https://sport.sky.it",
+     "https://www.raiplay.it/dirette/raisport",
+     "supabase:tv_epg_cache?date=eq.2026-11-29",
+     "https://www.dazn.com/it-IT/home"
+    ]
+   },
+   "tema": "ambra",
+   "Stato": "DA_RIVEDERE",
+   "motivo": "renderer",
+   "errori": [
+    "[story] slide rifiutata:",
+    "  - 27 parole (max 25)"
+   ],
+   "id": "SVL_20261127_1830_STO",
+   "stato": "DA_RIVEDERE",
+   "formato": "Storia",
+   "piattaforma": "Instagram / FB Stories",
+   "utm": "",
+   "pubblica_alle": "2026-11-27T18:30+01:00",
+   "slot": "SVL_20261127_1830_STO",
+   "ora_pubblicazione": "2026-11-27 18:30"
+  }
+ ]
+}
