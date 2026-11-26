@@ -1,0 +1,47 @@
+{
+ "app": "SportViewLens",
+ "data": "2026-11-27",
+ "righe": {
+  "SVL_20261127_1300_CAR": {
+   "pubblica_alle": "2026-11-27T13:00:00+01:00",
+   "formato": "Carosello",
+   "piattaforma": "Instagram / FB",
+   "sempreverde": false,
+   "chiave": "SVL_20261127_1300_CAR",
+   "decisione": null,
+   "alle": "",
+   "correzioni": [],
+   "messaggio_id": 623
+  },
+  "SVL_20261127_1830_STO": {
+   "pubblica_alle": "2026-11-27T18:30:00+01:00",
+   "formato": "Storia",
+   "piattaforma": "Instagram / FB Stories",
+   "sempreverde": false,
+   "chiave": "SVL_20261127_1830_STO",
+   "decisione": null,
+   "alle": "",
+   "correzioni": [],
+   "messaggio_id": 625
+  }
+ },
+ "messaggi": {
+  "623": {
+   "chat_id": "1614787945",
+   "righe": [
+    "SVL_20261127_1300_CAR"
+   ],
+   "base": "<b>13:00 · Carosello · Instagram / FB</b>\nID <code>SVL_20261127_1300_CAR</code>\n⚠️ Verifica ok · 12 fonti, tolti perché incerti:\n  • tolto «Coppa Davis Finals Maschile (cemento i» 11:00: orario 11:00 fuori dalla finestra [-5, +60] min dall&#x27;inizio trasmissione\n  • tolto «Snowboard: Coppa del Mondo - Snow Ruyi» 11:15: orario 11:15 fuori dalla finestra [-5, +60] min dall&#x27;inizio trasmissione\n  • tolto «Real Betis – Rayo Vallecano» 14:00: nessun canale con due fonti: DAZN (solo tv_rights); orario 14:00 non confrontabile col palinsesto\n  • tolto «Frosinone – Parma» 15:00: nessun canale con due fonti: DAZN (solo tv_rights); orario 15:00 non confrontabile col palinsesto\n  • tolto «Ascoli – Virtus Entella» 15:00: nessun canale con due fonti: DAZN (solo tv_rights); orario 15:00 non confrontabile col palinsesto\n  • tolto «Carrarese – Juve Stabia» 15:00: nessun canale con due fonti: DAZN (solo tv_rights); orario 15:00 non confrontabile col palinsesto\n  • … altri 6\n<pre>📅 Weekend di sport in TV\n\nSabato 28 novembre:\n• 10:45 GP Valencia — Qualifiche · Sky Sport MotoGP, TV8\n• 11:00 Abu Dhabi: Giorno 1 · Sky Sport Arena\n• 12:00 Coppa Davis Maschile · SuperTennis\nDomenica 29 novembre:\n• 10:00 Sci di Fondo. Coppa del Mondo Ruka: 20 km Mass Start maschile - t. libera · Rai Sport\n• 11:00 Abu Dhabi: Giorno 2 · Sky Sport Arena\n• 12:15 GP Valencia: Gara (Moto2) · Sky Sport MotoGP\n\nSalva il post e attiva le notifiche: SportViewLens ti avvisa 30 minuti prima degli eventi che segui.\n📲 Scarica gratis SportViewLens: link in bio.\n\nSportViewLens non è affiliata con DAZN, Sky, RAI o altri broadcaster.\n🤖 Contenuto generato in automatico con IA dai palinsesti TV ufficiali.\n\n#SportViewLens #SportInTV #WeekendSportivo</pre>\n\n<i>✅ OK: esce all'orario · ⏭️ Salta: non esce, contenuto legato a quella data · ✏️ Correggi: mi scrivi cosa cambiare · ↩️ Annulla: torna come prima. Nessun click = esce. Leggo i pulsanti ogni 15 minuti: decidi almeno 30 minuti prima.</i>"
+  },
+  "625": {
+   "chat_id": "1614787945",
+   "righe": [
+    "SVL_20261127_1830_STO"
+   ],
+   "base": "<b>18:30 · Storia · Instagram / FB Stories</b>\nID <code>SVL_20261127_1830_STO</code>\n⚠️ Verifica ok · 12 fonti, tolti perché incerti:\n  • tolto «Coppa Davis Finals Maschile (cemento i» 11:00: orario 11:00 fuori dalla finestra [-5, +60] min dall&#x27;inizio trasmissione\n  • tolto «Snowboard: Coppa del Mondo - Snow Ruyi» 11:15: orario 11:15 fuori dalla finestra [-5, +60] min dall&#x27;inizio trasmissione\n  • tolto «Real Betis – Rayo Vallecano» 14:00: nessun canale con due fonti: DAZN (solo tv_rights); orario 14:00 non confrontabile col palinsesto\n  • tolto «Frosinone – Parma» 15:00: nessun canale con due fonti: DAZN (solo tv_rights); orario 15:00 non confrontabile col palinsesto\n  • tolto «Ascoli – Virtus Entella» 15:00: nessun canale con due fonti: DAZN (solo tv_rights); orario 15:00 non confrontabile col palinsesto\n  • tolto «Carrarese – Juve Stabia» 15:00: nessun canale con due fonti: DAZN (solo tv_rights); orario 15:00 non confrontabile col palinsesto\n  • … altri 6\n<pre>Weekend di sport in TV: 31 dirette scelte. • 10:45 GP Valencia — Qualifiche · Sky Sport MotoGP, TV8\n• 11:00 Abu Dhabi: Giorno 1 · Sky Sport Arena\n• 12:00 Coppa Davis Maschile · SuperTennis\n• 10:00 Sci di Fondo. Coppa del Mondo Ruka: 20 km Mass Start maschile - t. libera · Rai Sport\n• 11:00 Abu Dhabi: Giorno 2 · Sky Sport Arena\nCerca «SportViewLens» su App Store e Google Play.\nSportViewLens non è affiliata con DAZN, Sky, RAI o altri broadcaster.\n🤖 Contenuto generato in automatico con IA dai palinsesti TV ufficiali.</pre>\n\n<i>✅ OK: esce all'orario · ⏭️ Salta: non esce, contenuto legato a quella data · ✏️ Correggi: mi scrivi cosa cambiare · ↩️ Annulla: torna come prima. Nessun click = esce. Leggo i pulsanti ogni 15 minuti: decidi almeno 30 minuti prima.</i>"
+  }
+ },
+ "ultimo_update_id": null,
+ "anteprima_inviata_il": "2026-11-26T20:59:28+01:00",
+ "provvisorio": false
+}
