@@ -1,0 +1,66 @@
+{
+  "date": "2026-11-27",
+  "generated_at": "2026-11-26T20:01+01:00",
+  "sources_skipped": [],
+  "rimandate": [],
+  "items": [
+    {
+      "id": "W5_VEN_1300",
+      "piattaforma": "Instagram Stories",
+      "formato": "Storia",
+      "ora": "13:00",
+      "utm": "-",
+      "stato": "PRONTO",
+      "motivo": "",
+      "caption": "",
+      "files": [
+        "https://maxegon.github.io/podcastviewlens/social/2026-11-27/W5_VEN_1300/storia.jpg"
+      ],
+      "verifica": {
+        "esito": "ok",
+        "controlli": [
+          {
+            "nome": "dati_variabili",
+            "esito": "ok",
+            "dettaglio": "nessun dato variabile: testo sulle funzioni dell'app (app_features.json, guardrails.json)"
+          },
+          {
+            "nome": "funzione_in_app",
+            "esito": "ok",
+            "dettaglio": "«privacy_no_account» verificata il 2026-10-23 su src/data/legalContent.js"
+          }
+        ],
+        "fonti": []
+      },
+      "anteprima": {
+        "testo": "Storia: S1: Nessun account. Nessuna pubblicità. | S2: Apri e scegli cosa ascoltare | S3: Cerca «PodcastViewLens» su App Store e Google Play",
+        "immagini": [
+          "https://maxegon.github.io/podcastviewlens/social/2026-11-27/W5_VEN_1300/storia.jpg"
+        ]
+      },
+      "pubblica_alle": "2026-11-27T13:00+01:00",
+      "sempreverde": true,
+      "eventi": [],
+      "titolo_slide": "Nessun account. Nessuna pubblicità.",
+      "tema": "notte",
+      "ig_media": [
+        {
+          "media_type": "IMAGE",
+          "image_url": "https://maxegon.github.io/podcastviewlens/social/2026-11-27/W5_VEN_1300/storia.jpg"
+        }
+      ],
+      "fb_photos": [
+        {
+          "type": "url",
+          "url": "https://maxegon.github.io/podcastviewlens/social/2026-11-27/W5_VEN_1300/storia.jpg"
+        }
+      ],
+      "slot": "W5_VEN_1300",
+      "ora_pubblicazione": "2026-11-27 13:00",
+      "testo_finale": "",
+      "immagini": [
+        "https://maxegon.github.io/podcastviewlens/social/2026-11-27/W5_VEN_1300/storia.jpg"
+      ]
+    }
+  ]
+}
