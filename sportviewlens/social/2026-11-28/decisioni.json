@@ -1,0 +1,29 @@
+{
+ "app": "SportViewLens",
+ "data": "2026-11-28",
+ "righe": {
+  "SVL_20261128_1000_CAR": {
+   "pubblica_alle": "2026-11-28T10:00:00+01:00",
+   "formato": "Carosello",
+   "piattaforma": "Instagram / FB",
+   "sempreverde": false,
+   "chiave": "SVL_20261128_1000_CAR",
+   "decisione": null,
+   "alle": "",
+   "correzioni": [],
+   "messaggio_id": 638
+  }
+ },
+ "messaggi": {
+  "638": {
+   "chat_id": "1614787945",
+   "righe": [
+    "SVL_20261128_1000_CAR"
+   ],
+   "base": "<b>10:00 · Carosello · Instagram / FB</b>\nID <code>SVL_20261128_1000_CAR</code>\n⚠️ Verifica ok · 10 fonti, tolti perché incerti:\n  • tolto «WTA Finals Indian Wells 2026 - Singola» 11:00: nessun canale con due fonti: SuperTennis (solo tv_rights); orario 11:00 non confrontabile col palinsesto\n  • tolto «Real Betis – Rayo Vallecano» 14:00: nessun canale con due fonti: DAZN (solo tv_rights); orario 14:00 non confrontabile col palinsesto\n  • tolto «Frosinone – Parma» 15:00: nessun canale con due fonti: DAZN (solo tv_rights); orario 15:00 non confrontabile col palinsesto\n  • tolto «Ascoli – Virtus Entella» 15:00: nessun canale con due fonti: DAZN (solo tv_rights); orario 15:00 non confrontabile col palinsesto\n  • tolto «Carrarese – Juve Stabia» 15:00: nessun canale con due fonti: DAZN (solo tv_rights); orario 15:00 non confrontabile col palinsesto\n  • tolto «Catanzaro – Avellino» 15:00: nessun canale con due fonti: DAZN (solo tv_rights); orario 15:00 non confrontabile col palinsesto\n  • … altri 6\n<pre>📺 Cosa c&#x27;è oggi in TV: 18 dirette sport\n\n• 10:45 GP Valencia — Qualifiche · TV8, Sky Sport MotoGP\n• 11:00 Abu Dhabi: Giorno 1 · Sky Sport Arena\n• 11:15 Sci di Fondo: Coppa del Mondo - Ruka: Sprint - t. classica · Eurosport\n• 12:00 Coppa Davis Maschile · SuperTennis\n• 16:00 Leeds – Coventry · Sky Sport Mix, Sky Sport\n\nCerca la tua squadra e scegli le tue piattaforme in SportViewLens.\n📲 Scarica gratis SportViewLens: link in bio.\n\nSportViewLens non è affiliata con DAZN, Sky, RAI o altri broadcaster.\n🤖 Contenuto generato in automatico con IA dai palinsesti TV ufficiali.\n\n#SportViewLens #SportInTV #OggiInTV</pre>\n\n<i>✅ OK: esce all'orario · ⏭️ Salta: non esce, contenuto legato a quella data · ✏️ Correggi: mi scrivi cosa cambiare · ↩️ Annulla: torna come prima. Nessun click = esce. Leggo i pulsanti ogni 15 minuti: decidi almeno 30 minuti prima.</i>"
+  }
+ },
+ "ultimo_update_id": null,
+ "anteprima_inviata_il": "2026-11-27T20:03:32+01:00",
+ "provvisorio": false
+}
