@@ -23,11 +23,13 @@
    "alle": "",
    "correzioni": [],
    "messaggio_id": 625,
-   "storia_in_corso": "2026-11-27T18:35:38+01:00",
+   "storia_in_corso": null,
    "storia_frame": 1,
    "storia_media_id": [
     "18378172756244872"
-   ]
+   ],
+   "storia_pubblicata": "2026-11-27T18:35:38+01:00",
+   "storia_errore": null
   },
   "SVL_20261127_1230_VID": {
    "consegnato": "2026-11-27T11:45:52+01:00"
