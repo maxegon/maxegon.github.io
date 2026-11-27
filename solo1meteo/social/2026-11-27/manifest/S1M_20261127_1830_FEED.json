@@ -5,14 +5,14 @@
   "ora_pubblicazione": "2026-11-27 18:30",
   "data_evento": "2026-11-28",
   "utm": "https://maxegon.github.io/meteo-stat-privacy/landing/?utm_source=instagram&utm_medium=social&utm_campaign=s1m_2026w48&utm_content=S1M_20261127_1830_FEED",
-  "generato_il": "2026-11-26T20:02:08+01:00",
-  "provvisorio": true,
+  "generato_il": "2026-11-27T06:32:03+01:00",
+  "provvisorio": false,
   "giorno": "2026-11-27",
   "tema": "cielo",
   "stato": "MEDIA_PRONTA",
   "motivo": null,
-  "testo_finale": "Il weekend a Napoli, fonte per fonte. Sabato massima media 14°, pioggia 4%. Quando le fonti divergono, ricontrolla sabato mattina. Scarica Solo1Meteo gratis: link in bio. #solo1meteo #meteo #previsionimeteo #meteoitalia",
-  "concept_finale": "S1 gancio: Sabato a Napoli: 14°, pioggia 4% | S2 confronto: massime da 13° a 15° tra 7 fonti | S3 pioggia: tra 0% e 15% secondo 4 fonti | S4 screenshot: schermata Previsioni | S5 cta: Scarica gratis Solo1Meteo",
+  "testo_finale": "Il weekend a Milano, fonte per fonte. Sabato massima media 9°, pioggia 6%. Quando le fonti divergono, ricontrolla sabato mattina. Scarica Solo1Meteo gratis: link in bio. #solo1meteo #meteo #previsionimeteo #meteoitalia",
+  "concept_finale": "S1 gancio: Sabato a Milano: 9°, pioggia 6% | S2 confronto: massime da 8° a 11° tra 8 fonti | S3 pioggia: tra 0% e 23% secondo 5 fonti | S4 screenshot: schermata Previsioni | S5 cta: Scarica gratis Solo1Meteo",
   "immagini": [
     "https://maxegon.github.io/solo1meteo/social/2026-11-27/S1M_20261127_1830_FEED/1_copertina.png",
     "https://maxegon.github.io/solo1meteo/social/2026-11-27/S1M_20261127_1830_FEED/2a_temperature.png",
@@ -75,68 +75,74 @@
     }
   ],
   "dati": {
-    "citta": "Napoli",
+    "citta": "Milano",
     "data_label": "sabato 28 novembre",
-    "fonti_n": 7,
-    "fonti_elencate": 7,
+    "fonti_n": 8,
+    "fonti_elencate": 8,
     "fonti_escluse": [],
-    "tmax_media": 14,
-    "tmax_min": 13,
-    "tmax_max": 15,
-    "tmin_media": 9,
-    "pioggia_media": 4,
+    "tmax_media": 9,
+    "tmax_min": 8,
+    "tmax_max": 11,
+    "tmin_media": 4,
+    "pioggia_media": 6,
     "pioggia_min": 0,
-    "pioggia_max": 15,
-    "fonti_pioggia": 4,
+    "pioggia_max": 23,
+    "fonti_pioggia": 5,
     "condizione": "sereno",
-    "fonti_condizione": 4,
-    "giorno_piu_incerto": "martedì",
-    "scarto_tmax": 5,
-    "tmax_scarto_fonti": 2.2,
+    "fonti_condizione": 5,
+    "giorno_piu_incerto": "mercoledì",
+    "scarto_tmax": 7,
+    "tmax_scarto_fonti": 3.0,
     "tmax_disaccordo": false,
     "pioggia_disaccordo": false,
-    "gancio_pioggia": "pioggia 4%"
+    "gancio_pioggia": "pioggia 6%"
   },
   "fonti": [
     {
       "fonte": "Open-Meteo",
-      "tmax": 15.2,
-      "pioggia": 3,
+      "tmax": 9.4,
+      "pioggia": 0,
       "pioggia_metodo": "orario"
     },
     {
       "fonte": "OpenWeatherMap",
-      "tmax": 14.75,
+      "tmax": 11.07,
       "pioggia": 0,
       "pioggia_metodo": "orario"
     },
     {
       "fonte": "WeatherAPI",
-      "tmax": 15.1,
-      "pioggia": 15,
+      "tmax": 8.8,
+      "pioggia": 23,
       "pioggia_metodo": "orario"
     },
     {
       "fonte": "MET Norway",
-      "tmax": 14.8,
+      "tmax": 8.1,
       "pioggia": null,
       "pioggia_metodo": null
     },
     {
       "fonte": "DWD",
-      "tmax": 14.5,
+      "tmax": 8.8,
       "pioggia": null,
       "pioggia_metodo": null
     },
     {
+      "fonte": "Visual Crossing",
+      "tmax": 8.9,
+      "pioggia": 7,
+      "pioggia_metodo": "orario"
+    },
+    {
       "fonte": "7Timer!",
-      "tmax": 13,
+      "tmax": 9,
       "pioggia": null,
       "pioggia_metodo": null
     },
     {
       "fonte": "Tomorrow.io",
-      "tmax": 14.73,
+      "tmax": 8.1,
       "pioggia": 0,
       "pioggia_metodo": "orario"
     }
@@ -152,12 +158,12 @@
       {
         "nome": "fonti",
         "esito": "ok",
-        "dettaglio": "7 fonti su 8 per 2026-11-28 (minimo 6)"
+        "dettaglio": "8 fonti su 8 per 2026-11-28 (minimo 6)"
       },
       {
         "nome": "fonti_pioggia",
         "esito": "ok",
-        "dettaglio": "4 fonti con il dato di pioggia (minimo 3)"
+        "dettaglio": "5 fonti con il dato di pioggia (minimo 3)"
       },
       {
         "nome": "freschezza",
@@ -177,7 +183,7 @@
       {
         "nome": "scarto",
         "esito": "ok",
-        "dettaglio": "massime 13-15° (scarto 2°), pioggia 0-15% (scarto 15)"
+        "dettaglio": "massime 8-11° (scarto 3°), pioggia 0-23% (scarto 23)"
       },
       {
         "nome": "giorno",
@@ -192,26 +198,63 @@
       {
         "nome": "posizione",
         "esito": "ok",
-        "dettaglio": "Napoli: citta fissa del piano, nessuna posizione dell'utente"
+        "dettaglio": "Milano: citta fissa del piano, nessuna posizione dell'utente"
+      },
+      {
+        "nome": "citta",
+        "esito": "ok",
+        "dettaglio": "Napoli sostituita con Milano: allerte: allerta meteo attiva (Giallo Pioggia Allerta) e nessun ente citato nel post"
       }
     ],
     "fonti": [
-      "https://backend-eta-seven-21.vercel.app/weather?lat=40.85&lon=14.27",
+      "https://backend-eta-seven-21.vercel.app/weather?lat=45.46&lon=9.19",
       "https://open-meteo.com",
       "https://openweathermap.org",
       "https://www.weatherapi.com",
       "https://api.met.no",
       "https://brightsky.dev",
+      "https://www.visualcrossing.com",
       "http://www.7timer.info",
       "https://www.tomorrow.io"
     ]
   },
-  "scaricato_il": "2026-11-26T20:02:10+01:00",
-  "citta_usata": "Napoli",
+  "scaricato_il": "2026-11-27T06:32:07+01:00",
+  "citta_usata": "Milano",
   "anteprima": {
-    "testo": "Il weekend a Napoli, fonte per fonte. Sabato massima media 14°, pioggia 4%. Quando le fonti divergono, ricontrolla sabato mattina. Scarica Solo1Meteo gratis: link in bio. #solo1meteo #meteo #previsionimeteo #meteoitalia",
+    "testo": "Il weekend a Milano, fonte per fonte. Sabato massima media 9°, pioggia 6%. Quando le fonti divergono, ricontrolla sabato mattina. Scarica Solo1Meteo gratis: link in bio. #solo1meteo #meteo #previsionimeteo #meteoitalia",
     "immagini": [
       "https://maxegon.github.io/solo1meteo/social/2026-11-27/S1M_20261127_1830_FEED/1_copertina.png"
     ]
+  },
+  "cambio_serale": {
+    "tipo": "cambiata",
+    "motivo": "tmax media: 14° -> 9°; citta: Napoli -> Milano",
+    "prima": {
+      "stato": "MEDIA_PRONTA",
+      "dati": {
+        "citta": "Napoli",
+        "data_label": "sabato 28 novembre",
+        "fonti_n": 7,
+        "fonti_elencate": 7,
+        "fonti_escluse": [],
+        "tmax_media": 14,
+        "tmax_min": 13,
+        "tmax_max": 15,
+        "tmin_media": 9,
+        "pioggia_media": 4,
+        "pioggia_min": 0,
+        "pioggia_max": 15,
+        "fonti_pioggia": 4,
+        "condizione": "sereno",
+        "fonti_condizione": 4,
+        "giorno_piu_incerto": "martedì",
+        "scarto_tmax": 5,
+        "tmax_scarto_fonti": 2.2,
+        "tmax_disaccordo": false,
+        "pioggia_disaccordo": false,
+        "gancio_pioggia": "pioggia 4%"
+      },
+      "generato_il": "2026-11-26T20:02:08+01:00"
+    }
   }
 }
