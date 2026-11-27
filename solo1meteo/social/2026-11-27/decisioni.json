@@ -11,7 +11,7 @@
    "decisione": null,
    "alle": "",
    "correzioni": [],
-   "messaggio_id": 875
+   "messaggio_id": 883
   }
  },
  "messaggi": {
@@ -21,9 +21,16 @@
     "S1M_20261127_1830_FEED"
    ],
    "base": "<b>18:30 · Carosello · Instagram / FB</b>\nID <code>S1M_20261127_1830_FEED</code>\n✅ Verifica ok · 8 fonti\n<pre>Il weekend a Napoli, fonte per fonte. Sabato massima media 14°, pioggia 4%. Quando le fonti divergono, ricontrolla sabato mattina. Scarica Solo1Meteo gratis: link in bio. #solo1meteo #meteo #previsionimeteo #meteoitalia</pre>\n\n<i>✅ OK: esce all'orario · ⏭️ Salta: non esce, contenuto legato a quella data · ✏️ Correggi: mi scrivi cosa cambiare · ↩️ Annulla: torna come prima. Nessun click = esce. Leggo i pulsanti ogni 15 minuti: decidi almeno 30 minuti prima.</i>"
+  },
+  "883": {
+   "chat_id": "1614787945",
+   "righe": [
+    "S1M_20261127_1830_FEED"
+   ],
+   "base": "🔄 Dati cambiati dalla sera (ora definitivi): tmax media: 14° -&gt; 9°; citta: Napoli -&gt; Milano. Il post esce con i dati freschi; conferma o salta.\n<b>18:30 · Carosello · Instagram / FB</b>\nID <code>S1M_20261127_1830_FEED</code>\n✅ Verifica ok · 9 fonti\n<pre>Il weekend a Milano, fonte per fonte. Sabato massima media 9°, pioggia 6%. Quando le fonti divergono, ricontrolla sabato mattina. Scarica Solo1Meteo gratis: link in bio. #solo1meteo #meteo #previsionimeteo #meteoitalia</pre>\n\n<i>✅ OK: esce all'orario · ⏭️ Salta: non esce, contenuto legato a quella data · ✏️ Correggi: mi scrivi cosa cambiare · ↩️ Annulla: torna come prima. Nessun click = esce. Leggo i pulsanti ogni 15 minuti: decidi almeno 30 minuti prima.</i>"
   }
  },
  "ultimo_update_id": null,
- "anteprima_inviata_il": "2026-11-26T20:02:39+01:00",
- "provvisorio": true
+ "anteprima_inviata_il": "2026-11-27T06:32:33+01:00",
+ "provvisorio": false
 }
